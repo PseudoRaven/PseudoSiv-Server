@@ -1,0 +1,17 @@
+id=1677
+name=Experiment
+description=One of Fenkenstrain's failed experiments.
+size=2
+xp=51.9
+lifepoints=1250
+level=35
+attack=25
+defence=25
+ranged=0
+magic=0
+animations={death:1618,attack:1616}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["Fenkenstrain's Dungeon"]
+aggressive=false

@@ -1,0 +1,17 @@
+id=3200
+name=Chaos Elemental
+description=pUre A cHaOs of crEatuRe!
+size=3
+xp=1197
+lifepoints=17250
+level=305
+attack=1
+defence=69
+ranged=1
+magic=69
+animations={death:5446,attack:5443}
+attackable=true
+poisonous=false
+weakness="Bolt"
+areas=["RuneScape Surface"]
+aggressive=true

@@ -1,0 +1,10 @@
+id=17568
+name=Saradomin follower
+description=Isn't sure why he's here. He only put the robes on because he fell in the mud.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

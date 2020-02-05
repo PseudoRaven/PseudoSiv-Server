@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="library/minifs_v1.jar"/>
+	<classpathentry exported="true" kind="lib" path="library/mysql-connector-5.1.22.jar"/>
+	<classpathentry exported="true" kind="lib" path="library/netty-3.7.0.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="library/javacord-2.0.11-shaded.jar"/>
+	<classpathentry exported="true" kind="lib" path="library/json-lib-2.4-jdk15.jar"/>
+	<classpathentry exported="true" kind="lib" path="library/lzma-4.63-jio-0.94.jar"/>
+	<classpathentry exported="true" kind="lib" path="library/guava-21.0-rc1.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

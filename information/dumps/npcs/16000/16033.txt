@@ -1,0 +1,16 @@
+id=16033
+name=Skeletal wizard (magic)
+description=Weak against ranged.
+size=1
+xp=2502.4
+lifepoints=10000
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

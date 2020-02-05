@@ -1,0 +1,10 @@
+id=5041
+name=Penance ranger
+description=Shooty-shooty.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Barbarian Assault"]
+aggressive=false
+members=true

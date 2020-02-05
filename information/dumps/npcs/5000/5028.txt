@@ -1,0 +1,10 @@
+id=5028
+name=Egg launcher
+description=An egg launcher.
+xp=11.3
+animations={}
+attackable=true
+poisonous=false
+areas=["Barbarian Assault"]
+aggressive=false
+members=true

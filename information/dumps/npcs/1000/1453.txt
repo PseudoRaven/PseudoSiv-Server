@@ -1,0 +1,10 @@
+id=1453
+name=The Monkey's Uncle
+description=He looks like the Monkey's Uncle.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

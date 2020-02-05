@@ -1,0 +1,10 @@
+id=4710
+name=Aeonisig Raispher
+description=Roald's advisor - he seems to be a follower of Saradomin.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Varrock","RuneScape Surface"]
+aggressive=false
+members=true

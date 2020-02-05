@@ -1,0 +1,17 @@
+id=11696
+name=Black Knight guardian
+description=A Black Knight with lots of combat experience.
+size=1
+xp=201.3
+lifepoints=2750
+level=77
+attack=55
+defence=55
+ranged=0
+magic=0
+animations={death:10856,attack:10854}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["Kinshra Workshop"]
+aggressive=false

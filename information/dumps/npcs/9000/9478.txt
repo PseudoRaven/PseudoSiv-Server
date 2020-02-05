@@ -1,0 +1,10 @@
+id=9478
+name=Spirit kyatt
+description=Those teeth are pretty big!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Spirit Plane"]
+aggressive=true
+members=true

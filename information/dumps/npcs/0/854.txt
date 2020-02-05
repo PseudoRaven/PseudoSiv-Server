@@ -1,0 +1,11 @@
+id=854
+name=Grew
+description=Very probably an ogre.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+slayercat=Ogres
+areas=["Yanille","RuneScape Surface"]
+aggressive=false
+members=false

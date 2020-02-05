@@ -1,0 +1,16 @@
+id=3605
+name=Chinchompa
+description=A particularly skittish creature
+size=1
+xp=1.5
+lifepoints=1
+level=75
+attack=1
+defence=100
+ranged=1
+magic=1
+animations={death:5183}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

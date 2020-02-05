@@ -1,0 +1,17 @@
+id=5390
+name=Skeleton
+description=How do you know if a skeleton's male or female?
+size=1
+xp=0.7
+lifepoints=420
+level=45
+attack=36
+defence=30
+ranged=1
+magic=1
+animations={death:17932,attack:17931}
+attackable=true
+poisonous=false
+slayercat=Skeletons
+areas=["Lair of Tarn Razorlor"]
+aggressive=true

@@ -1,0 +1,10 @@
+id=7586
+name=Office penguin
+description=A penguin pushing paper, periodically.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Miscellania Underground"]
+aggressive=false
+members=true

@@ -1,0 +1,17 @@
+id=3648
+name=Angry goblin
+description=He looks a little on the cross side!
+size=1
+xp=51.9
+lifepoints=1250
+level=45
+attack=25
+defence=25
+ranged=0
+magic=0
+animations={death:6182,attack:6185}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

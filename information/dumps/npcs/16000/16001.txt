@@ -1,0 +1,10 @@
+id=16001
+name=Corporal Keymans
+description=A Burthorpe soldier wielding claws.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=true
+members=false

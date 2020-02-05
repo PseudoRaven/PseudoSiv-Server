@@ -1,0 +1,17 @@
+id=283
+name=Head Thief
+description=The head of the treacherous blanket stealing gang.
+size=1
+xp=39.6
+lifepoints=900
+level=25
+attack=18
+defence=18
+ranged=0
+magic=0
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["Ardougne underground"]
+aggressive=false

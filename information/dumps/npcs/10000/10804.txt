@@ -1,0 +1,17 @@
+id=10804
+name=Brute
+description=A heavily armoured guard.
+size=2
+xp=217.8
+lifepoints=4800
+level=67
+attack=48
+defence=48
+ranged=1
+magic=1
+animations={death:13062,attack:13061}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=true

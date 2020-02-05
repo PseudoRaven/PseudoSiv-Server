@@ -1,0 +1,10 @@
+id=18505
+name=Armadyl
+description=The god of justice.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Armadyl's Citadel"]
+aggressive=false
+members=false

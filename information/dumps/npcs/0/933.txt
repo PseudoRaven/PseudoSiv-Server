@@ -1,0 +1,10 @@
+id=933
+name=Siegfried Erkle
+description=An eccentric shopkeeper, related to the Grand Vizier of the Legends Guild.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=460
+name=Wizard Frumscone
+description=A Wizard of the Magic Guild.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Yanille Dungeon"]
+aggressive=false
+members=false

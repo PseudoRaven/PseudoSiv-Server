@@ -1,0 +1,10 @@
+id=979
+name=Slave
+description=A wretched slave of Iban.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Underground path"]
+aggressive=false
+members=false

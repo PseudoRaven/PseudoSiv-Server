@@ -1,0 +1,17 @@
+id=6836
+name=Vampyre bat
+description=It vants to suck my blood!
+size=1
+xp=108
+lifepoints=4100
+level=36
+attack=28
+defence=25
+ranged=28
+magic=28
+animations={death:23640,attack:23639}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

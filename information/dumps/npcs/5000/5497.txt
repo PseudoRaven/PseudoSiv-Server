@@ -1,0 +1,10 @@
+id=5497
+name=Miner
+description=A miner at work.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Jatizso troll cave"]
+aggressive=false
+members=false

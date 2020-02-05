@@ -1,0 +1,10 @@
+id=15001
+name=Farmer
+description=He's a cider drinker.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

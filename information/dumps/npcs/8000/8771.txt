@@ -1,0 +1,17 @@
+id=8771
+name=Chaos dwogre
+description=A magical cross between an ogre and a dwarf.
+size=2
+xp=344.4
+lifepoints=3300
+level=92
+attack=66
+defence=66
+ranged=66
+magic=66
+animations={death:12150,attack:12146}
+attackable=true
+poisonous=false
+weakness="None"
+areas=["Battlefield"]
+aggressive=true

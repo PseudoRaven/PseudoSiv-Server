@@ -1,0 +1,10 @@
+id=2994
+name=Fior
+description=Happy not to be working.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Rat pit"]
+aggressive=false
+members=true

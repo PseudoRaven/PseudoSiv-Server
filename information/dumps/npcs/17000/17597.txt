@@ -1,0 +1,11 @@
+id=17597
+name=Saradominist sentry
+description=Defending their God from all attackers.
+xp=542.2
+animations={}
+attackable=true
+poisonous=false
+weakness="Slashing"
+areas=[]
+aggressive=false
+members=false

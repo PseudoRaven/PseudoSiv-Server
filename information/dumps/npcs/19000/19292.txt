@@ -1,0 +1,10 @@
+id=19292
+name=Unuki
+description=Definitely not a monkey. Not to be called a monkey. An ape.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

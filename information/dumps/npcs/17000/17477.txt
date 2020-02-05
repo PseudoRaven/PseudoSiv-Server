@@ -1,0 +1,10 @@
+id=17477
+name=Zamorakian herbalist's wife
+description=Offered shelter in this house thanks to Duke Horacio's treasury.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

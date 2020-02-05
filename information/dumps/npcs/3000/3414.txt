@@ -1,0 +1,10 @@
+id=3414
+name=Goblin Cook
+description=More like a goblin cooked.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Kitchen"]
+aggressive=false
+members=true

@@ -1,0 +1,17 @@
+id=15600
+name=Juvenile wolf
+description=A small wolf.
+size=1
+xp=96.7
+lifepoints=3000
+level=42
+attack=30
+defence=30
+ranged=0
+magic=0
+animations={death:17001,attack:16999}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=true

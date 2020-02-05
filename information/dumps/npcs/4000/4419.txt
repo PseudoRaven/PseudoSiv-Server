@@ -1,0 +1,10 @@
+id=4419
+name=Cosmic Being
+description=A highly enlightened being.
+xp=8.8
+animations={}
+attackable=true
+poisonous=false
+areas=["Cosmic Entity plane"]
+aggressive=false
+members=false

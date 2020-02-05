@@ -1,0 +1,10 @@
+id=3438
+name=Fish
+description=A Discus Fish.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Underwater cave","Dragontooth shipwreck"]
+aggressive=false
+members=true

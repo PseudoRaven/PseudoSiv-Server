@@ -1,0 +1,17 @@
+id=5596
+name=Jubster
+description=A jubbly bird with claws.
+size=3
+xp=151.8
+lifepoints=2450
+level=68
+attack=49
+defence=49
+ranged=0
+magic=0
+animations={death:6823,attack:6800}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=false

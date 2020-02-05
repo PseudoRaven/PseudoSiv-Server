@@ -1,0 +1,10 @@
+id=9701
+name=Tentacle
+description=Wouldn't want to meet her in a dark alley.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Mermaid Island"]
+aggressive=false
+members=true

@@ -1,0 +1,17 @@
+id=6830
+name=Spirit wolf
+description=Man's significantly less domesticated friend.
+size=2
+xp=286.3
+lifepoints=1100
+level=0
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:8295,attack:8292}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

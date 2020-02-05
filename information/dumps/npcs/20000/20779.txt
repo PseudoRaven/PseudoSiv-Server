@@ -1,0 +1,10 @@
+id=20779
+name=Urist Loric
+description=A former crafter at the pinnacle of his art.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["New Varrock"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=19881
+name=Glouron
+description=He looks disturbingly familiar.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Prifddinas"]
+aggressive=false
+members=false

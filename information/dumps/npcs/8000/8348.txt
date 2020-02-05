@@ -1,0 +1,17 @@
+id=8348
+name=Local mage
+description=A dedicated servant of a dark and powerful lord.
+size=1
+xp=33.9
+lifepoints=600
+level=16
+attack=9
+defence=12
+ranged=1
+magic=12
+animations={death:836,attack:2078}
+attackable=true
+poisonous=false
+weakness="Thrown"
+areas=[]
+aggressive=false

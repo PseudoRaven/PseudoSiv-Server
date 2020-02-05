@@ -1,0 +1,10 @@
+id=9696
+name=Easter Bird
+description=The bird looks awake and alert.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Easter 2010"]
+aggressive=false
+members=false

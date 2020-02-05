@@ -1,0 +1,10 @@
+id=1287
+name=Council workman
+description=Supposedly fixes things around RuneScape.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

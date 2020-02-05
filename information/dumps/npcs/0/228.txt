@@ -1,0 +1,10 @@
+id=228
+name=Big Dave
+description=I can see how he got his name.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

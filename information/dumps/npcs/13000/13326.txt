@@ -1,0 +1,10 @@
+id=13326
+name=Big Rock
+description=A big troll.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Pretty Flower's Cave"]
+aggressive=false
+members=false

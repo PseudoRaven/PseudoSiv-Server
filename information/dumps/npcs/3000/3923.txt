@@ -1,0 +1,10 @@
+id=3923
+name=Osvald
+description=If it's edible, he'll sell it.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Miscellania Underground"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=1265
+name=Rock Crab
+description=No one likes crabs...
+size=1
+xp=166.8
+lifepoints=2550
+level=71
+attack=51
+defence=51
+ranged=1
+magic=1
+animations={death:1314,attack:1312}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["Brine rat caverns"]
+aggressive=false

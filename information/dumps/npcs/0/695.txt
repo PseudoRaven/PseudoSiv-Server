@@ -1,0 +1,10 @@
+id=695
+name=Bailey
+description=He smells of fish...
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

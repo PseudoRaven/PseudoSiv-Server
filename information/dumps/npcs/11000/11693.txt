@@ -1,0 +1,10 @@
+id=11693
+name=Indentured worker
+description=The hours are long, but the pay is good: one family not killed per day.
+xp=49.8
+animations={}
+attackable=true
+poisonous=false
+areas=["Kinshra Workshop"]
+aggressive=false
+members=false

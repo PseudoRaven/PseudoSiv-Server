@@ -1,0 +1,17 @@
+id=3521
+name=Vampyre Juvinate
+description=An initiate juvenile vampyre.
+size=1
+xp=125.7
+lifepoints=2250
+level=63
+attack=1
+defence=45
+ranged=45
+magic=1
+animations={death:5798,attack:5783}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=[]
+aggressive=false

@@ -1,0 +1,10 @@
+id=7012
+name=Pawya
+description=What a strange little creature.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface","Gorajo Hoardstalker Dungeon"]
+aggressive=true
+members=false

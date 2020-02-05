@@ -1,0 +1,24 @@
+diff a/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js b/.metadata/.plugins/org.eclipse.wst.jsdt.core/libraries/system.js	(rejected hunks)
+@@ -8,15 +8,16 @@
+  * Contributors:
+  *     IBM Corporation - initial API and implementation
+  ******************************************************************************
+- * Please see http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html
+- */
++* Please see http://www.w3.org/TR/2000/REC-DOM-Level-2-Core-20001113/ecma-script-binding.html
++*/
+ 
+ /**
+- * Object Object()
+- * @constructor
+- * @since Standard ECMA-262 3rd. Edition
+- * @since Level 2 Document Object Model Core Definition.
++  * Object Object()
++  * @constructor
++  * @since Standard ECMA-262 3rd. Edition
++  * @since Level 2 Document Object Model Core Definition.
+  */
++<<<<<<< HEAD
+ function Object() {
+ }
+ /**

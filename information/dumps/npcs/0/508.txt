@@ -1,0 +1,17 @@
+id=508
+name=Nazastarool
+description=A giant skeleton of huge strength and devastating power.
+size=2
+xp=181.8
+lifepoints=7500
+level=53
+attack=38
+defence=38
+ranged=0
+magic=0
+animations={death:26050,attack:26048}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

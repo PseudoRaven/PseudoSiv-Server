@@ -1,0 +1,10 @@
+id=834
+name=Bedabin nomad guard
+description=A Bedabin nomad guard - it looks like he's protecting an area.
+xp=2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

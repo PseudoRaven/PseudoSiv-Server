@@ -1,0 +1,10 @@
+id=7426
+name=Impling worker
+description=This worker looks after the incubator.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Easter 2009"]
+aggressive=false
+members=false

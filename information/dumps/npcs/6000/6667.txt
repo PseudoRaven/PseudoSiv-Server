@@ -1,0 +1,10 @@
+id=6667
+name=Stanky Morgan
+description=Pirate and discerning music critic.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

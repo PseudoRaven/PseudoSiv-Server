@@ -1,0 +1,17 @@
+id=1228
+name=Blood Blamish Snail
+description=A blood coloured blamish snail, these types are said to spit acid.
+size=1
+xp=30.9
+lifepoints=500
+level=14
+attack=10
+defence=10
+ranged=1
+magic=1
+animations={death:8144,attack:8143}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface"]
+aggressive=false

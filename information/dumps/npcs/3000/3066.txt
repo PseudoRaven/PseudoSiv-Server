@@ -1,0 +1,17 @@
+id=3066
+name=Zombie Champion
+description=Champion of the zombies.
+size=2
+xp=54
+lifepoints=1300
+level=36
+attack=26
+defence=26
+ranged=1
+magic=1
+animations={death:5575,attack:5581}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

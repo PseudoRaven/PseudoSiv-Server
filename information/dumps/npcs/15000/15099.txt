@@ -1,0 +1,10 @@
+id=15099
+name=Freda
+description=The owner of a surprisingly cosy cabin.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

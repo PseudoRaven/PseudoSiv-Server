@@ -1,0 +1,10 @@
+id=16874
+name=Pillory guard
+description=A law enforcer.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Varrock","RuneScape Surface"]
+aggressive=false
+members=false

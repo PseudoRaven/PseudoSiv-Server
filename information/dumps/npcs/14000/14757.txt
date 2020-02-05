@@ -1,0 +1,10 @@
+id=14757
+name=Sanfew
+description=An old druid.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Xmas 2011"]
+aggressive=false
+members=false

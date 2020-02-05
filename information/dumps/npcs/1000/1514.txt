@@ -1,0 +1,10 @@
+id=1514
+name=Hiylik Myna
+description=A local holy man who supports the people trying to get through Mort Myre.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,16 @@
+id=4868
+name=Ramokee deathslinger
+description=Her knives tickle Thok.
+size=1
+xp=0
+lifepoints=1000
+level=103
+attack=1
+defence=60
+ranged=90
+magic=1
+animations={range:13615,death:13669,attack:13615}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=true

@@ -1,0 +1,17 @@
+id=15776
+name=Nex
+description=Even the gods fear it.
+size=1
+xp=17556.7
+lifepoints=200000
+level=1001
+attack=80
+defence=80
+ranged=80
+magic=80
+animations={death:17415,attack:17453}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

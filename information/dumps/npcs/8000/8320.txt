@@ -1,0 +1,17 @@
+id=8320
+name=Elite Dark Mage
+description=An elite dark mage with lots of combat experience.
+size=1
+xp=419.1
+lifepoints=3500
+level=98
+attack=52
+defence=70
+ranged=0
+magic=70
+animations={death:10850,attack:10851}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=["Black Knights' catacombs"]
+aggressive=true

@@ -1,0 +1,10 @@
+id=9713
+name=Thok of Daemonheim
+description=The self-proclaimed master of Dungeoneering.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

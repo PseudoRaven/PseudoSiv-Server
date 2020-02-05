@@ -1,0 +1,17 @@
+id=6037
+name=Milla
+description=She looks like she can handle herself.
+size=1
+xp=42.6
+lifepoints=1000
+level=28
+attack=20
+defence=20
+ranged=1
+magic=1
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface"]
+aggressive=false

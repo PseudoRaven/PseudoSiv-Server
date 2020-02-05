@@ -1,0 +1,10 @@
+id=2200
+name=Odmar
+description=A dwarf, wandering around Keldagrim.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

@@ -1,0 +1,10 @@
+id=884
+name=Captain Rovin
+description=The head of the palace guard.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Varrock","RuneScape Surface"]
+aggressive=false
+members=false

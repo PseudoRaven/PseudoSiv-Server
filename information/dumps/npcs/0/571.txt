@@ -1,0 +1,10 @@
+id=571
+name=Baker
+description=So where are the butcher and the candlestick-maker?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=14681
+name=Ramokee Skinweaver
+description=A rogue gorajo who can manipulate living matter.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Morytania underground"]
+aggressive=false
+members=true

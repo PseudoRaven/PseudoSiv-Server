@@ -1,0 +1,10 @@
+id=3127
+name=Aristarchus
+description=A travelling scholar from Menaphos.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

@@ -1,0 +1,17 @@
+id=914
+name=Battle mage
+description=He kills in the name of Guthix.
+size=1
+xp=201.3
+lifepoints=2750
+level=77
+attack=41
+defence=55
+ranged=0
+magic=55
+animations={death:196,attack:197}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=["RuneScape Surface"]
+aggressive=true

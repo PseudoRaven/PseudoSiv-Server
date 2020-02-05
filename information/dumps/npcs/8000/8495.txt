@@ -1,0 +1,10 @@
+id=8495
+name=Sakirth
+description=A Dragonkin, creators of dragonkind.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dragonkin castle"]
+aggressive=false
+members=true

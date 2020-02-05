@@ -1,0 +1,17 @@
+id=1200
+name=Tyras guard
+description=One of King Tyras's men.
+size=1
+xp=108.9
+lifepoints=2100
+level=58
+attack=42
+defence=42
+ranged=1
+magic=1
+animations={death:836,attack:414}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=[]
+aggressive=false

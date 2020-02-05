@@ -1,0 +1,10 @@
+id=3001
+name=Gambler
+description=Rich.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Ardougne underground","Rat Pit"]
+aggressive=false
+members=true

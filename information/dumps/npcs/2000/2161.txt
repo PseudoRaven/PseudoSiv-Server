@@ -1,0 +1,10 @@
+id=2161
+name=Agmundi
+description=She seems to be doing rather well for herself, selling clothes in a palace shop.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

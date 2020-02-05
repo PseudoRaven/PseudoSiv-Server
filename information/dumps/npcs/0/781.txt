@@ -1,0 +1,10 @@
+id=781
+name=Shilop
+description=One of Gertrude's sons.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Varrock","RuneScape Surface"]
+aggressive=false
+members=true

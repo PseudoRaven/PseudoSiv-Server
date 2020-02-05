@@ -1,0 +1,11 @@
+id=874
+name=Ogre merchant
+description=Funnily enough, he doesn't actually buy or sell ogres.
+xp=2.8
+animations={}
+attackable=true
+poisonous=false
+slayercat=Ogres
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=8988
+name=Mummy Champion
+description=Champion of the mummies.
+size=1
+xp=256.8
+lifepoints=3000
+level=84
+attack=60
+defence=60
+ranged=1
+magic=60
+animations={death:12518,attack:12515}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

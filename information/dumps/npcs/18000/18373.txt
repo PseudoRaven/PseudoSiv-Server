@@ -1,0 +1,17 @@
+id=18373
+name=Chaos Giant
+description=A last product of the Red Axe's experiments.
+size=3
+xp=3400.2
+lifepoints=22500
+level=126
+attack=1
+defence=90
+ranged=90
+magic=1
+animations={range:21444,death:21632,attack:21542}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=[]
+aggressive=true

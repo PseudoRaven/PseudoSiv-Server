@@ -1,0 +1,17 @@
+id=1319
+name=Fox
+description=A cunning animal.
+size=1
+xp=69.6
+lifepoints=1600
+level=44
+attack=32
+defence=32
+ranged=0
+magic=0
+animations={death:6570,attack:6562}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["RuneScape Surface"]
+aggressive=false

@@ -1,0 +1,17 @@
+id=14023
+name=Swamp snake
+description=A large snake that thrives in swamps.
+size=3
+xp=96.7
+lifepoints=3000
+level=42
+attack=22
+defence=30
+ranged=0
+magic=30
+animations={death:5300,attack:5007}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=[]
+aggressive=false

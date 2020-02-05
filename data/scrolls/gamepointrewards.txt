@@ -1,0 +1,50 @@
+<img=5><col=A50B00>Game Point Rewards<img=5>    
+
+<col=ffffff>Main commands:
+<col=0000ff>::showgpr / ::hidegpr (Show/hide the message)
+<col=0000ff>::gpr (Show the game point rewards)
+<col=0000ff>::checkgpr (Check how many game points a player has)
+
+<col=ffffff>5,000 Game points
+<col=0000ff>::skilldrops 
+(Automatic bone burying and automatic herb cleaning. Lasts 1 Hour.)
+ 
+<col=ffffff>10,000 Game points
+<col=0000ff>::coindrops 
+(All tradeable NPC drops worth less than 100k will be converted to coins. Lasts 1 Hour.)
+
+<col=ffffff>15,000 Game points
+<col=0000ff>::inventorydrops 
+(NPC drops listed in ::drops will be placed in the inventory. Lasts 1 Hour.)
+<col=0000ff>::moresuccess 
+(Cooking and thieving percentages increase. Lasts 1 Hour.)
+ 
+<col=ffffff>25,000 Game points
+<col=0000ff>::meleeweakness 
+(All NPCs will be weaker to melee. Lasts 1 Hour.)
+<col=0000ff>::rangeweakness 
+(All NPCs will be weaker to range. Lasts 1 Hour.)
+<col=0000ff>::magicweakness 
+(All NPCs will be weaker to magic. Lasts 1 Hour.)
+
+<col=ffffff>30,000 Game points
+<col=0000ff>::moreskills 
+(Items from skilling will be obtained more quickly. Lasts 1 Hour.)
+<col=0000ff>::doublegpr 
+(Game point rewards will be doubled. Lasts 1 Hour.)
+
+<col=ffffff>35,000 Game points
+<col=0000ff>::weakness 
+(NPCs will be very weak to combat. Lasts 1 Hour.)
+
+<col=ffffff>40,000 Game points
+<col=0000ff>::forceaggro 
+(NPCs will be aggressive to the player. Lasts 1 Hour.)
+
+<col=ffffff>50,000 Game points
+<col=0000ff>::betterdrops 
+(Drop amounts will be doubled. Lasts 1 Hour.)
+
+<col=ffffff>150,000 Game points
+<col=0000ff>::bankdrops (::setbank 1/2/3)
+(NPC drops listed in ::drops will be placed in the bank. Lasts 1 Hour.)

@@ -1,0 +1,6444 @@
+
+case 0:
+	varWorldType.dataType = INT;
+	break;
+
+case 1:
+	varWorldType.dataType = INT;
+	break;
+
+case 2:
+	varWorldType.dataType = INT;
+	break;
+
+case 3:
+	varWorldType.dataType = INT;
+	break;
+
+case 4:
+	varWorldType.dataType = STRING;
+	break;
+
+case 5:
+	varWorldType.dataType = INT;
+	break;
+
+case 6:
+	varWorldType.dataType = USERHASH;
+	break;
+
+case 7:
+	varWorldType.dataType = INT;
+	break;
+
+case 8:
+	varWorldType.dataType = INT;
+	break;
+
+case 9:
+	varWorldType.dataType = INT;
+	break;
+
+case 10:
+	varWorldType.dataType = INT;
+	break;
+
+case 11:
+	varWorldType.dataType = INT;
+	break;
+
+case 12:
+	varWorldType.dataType = INT;
+	break;
+
+case 13:
+	varWorldType.dataType = INT;
+	break;
+
+case 14:
+	varWorldType.dataType = INT;
+	break;
+
+case 15:
+	varWorldType.dataType = INT;
+	break;
+
+case 16:
+	varWorldType.dataType = INT;
+	break;
+
+case 17:
+	varWorldType.dataType = INT;
+	break;
+
+case 18:
+	varWorldType.dataType = INT;
+	break;
+
+case 19:
+	varWorldType.dataType = OBJ;
+	break;
+
+case 20:
+	varWorldType.dataType = OBJ;
+	break;
+
+case 21:
+	varWorldType.dataType = OBJ;
+	break;
+
+case 22:
+	varWorldType.dataType = OBJ;
+	break;
+
+case 23:
+	varWorldType.dataType = TILE;
+	break;
+
+case 24:
+	varWorldType.dataType = TILE;
+	break;
+
+case 25:
+	varWorldType.dataType = LOCATION;
+	break;
+
+case 26:
+	varWorldType.dataType = LOCATION;
+	break;
+
+case 27:
+	varWorldType.dataType = INT;
+	break;
+
+case 28:
+	varWorldType.dataType = INT;
+	break;
+
+case 29:
+	varWorldType.dataType = INT;
+	break;
+
+case 30:
+	varWorldType.dataType = INT;
+	break;
+
+case 31:
+	varWorldType.dataType = INT;
+	break;
+
+case 32:
+	varWorldType.dataType = INT;
+	break;
+
+case 33:
+	varWorldType.dataType = INT;
+	break;
+
+case 34:
+	varWorldType.dataType = INT;
+	break;
+
+case 35:
+	varWorldType.dataType = INT;
+	break;
+
+case 36:
+	varWorldType.dataType = INT;
+	break;
+
+case 37:
+	varWorldType.dataType = INT;
+	break;
+
+case 38:
+	varWorldType.dataType = INT;
+	break;
+
+case 39:
+	varWorldType.dataType = INT;
+	break;
+
+case 40:
+	varWorldType.dataType = INT;
+	break;
+
+case 41:
+	varWorldType.dataType = INT;
+	break;
+
+case 42:
+	varWorldType.dataType = INT;
+	break;
+
+case 43:
+	varWorldType.dataType = INT;
+	break;
+
+case 44:
+	varWorldType.dataType = INT;
+	break;
+
+case 45:
+	varWorldType.dataType = INT;
+	break;
+
+case 46:
+	varWorldType.dataType = INT;
+	break;
+
+case 47:
+	varWorldType.dataType = INT;
+	break;
+
+case 48:
+	varWorldType.dataType = INT;
+	break;
+
+case 49:
+	varWorldType.dataType = INT;
+	break;
+
+case 50:
+	varWorldType.dataType = INT;
+	break;
+
+case 51:
+	varWorldType.dataType = INT;
+	break;
+
+case 52:
+	varWorldType.dataType = INT;
+	break;
+
+case 53:
+	varWorldType.dataType = INT;
+	break;
+
+case 54:
+	varWorldType.dataType = INT;
+	break;
+
+case 55:
+	varWorldType.dataType = INT;
+	break;
+
+case 56:
+	varWorldType.dataType = INT;
+	break;
+
+case 57:
+	varWorldType.dataType = INT;
+	break;
+
+case 58:
+	varWorldType.dataType = INT;
+	break;
+
+case 59:
+	varWorldType.dataType = INT;
+	break;
+
+case 60:
+	varWorldType.dataType = INT;
+	break;
+
+case 61:
+	varWorldType.dataType = INT;
+	break;
+
+case 62:
+	varWorldType.dataType = INT;
+	break;
+
+case 63:
+	varWorldType.dataType = INT;
+	break;
+
+case 64:
+	varWorldType.dataType = INT;
+	break;
+
+case 65:
+	varWorldType.dataType = INT;
+	break;
+
+case 66:
+	varWorldType.dataType = INT;
+	break;
+
+case 67:
+	varWorldType.dataType = INT;
+	break;
+
+case 68:
+	varWorldType.dataType = INT;
+	break;
+
+case 69:
+	varWorldType.dataType = INT;
+	break;
+
+case 70:
+	varWorldType.dataType = INT;
+	break;
+
+case 71:
+	varWorldType.dataType = INT;
+	break;
+
+case 72:
+	varWorldType.dataType = INT;
+	break;
+
+case 73:
+	varWorldType.dataType = INT;
+	break;
+
+case 74:
+	varWorldType.dataType = INT;
+	break;
+
+case 75:
+	varWorldType.dataType = INT;
+	break;
+
+case 76:
+	varWorldType.dataType = INT;
+	break;
+
+case 77:
+	varWorldType.dataType = INT;
+	break;
+
+case 78:
+	varWorldType.dataType = INT;
+	break;
+
+case 79:
+	varWorldType.dataType = INT;
+	break;
+
+case 80:
+	varWorldType.dataType = INT;
+	break;
+
+case 81:
+	varWorldType.dataType = INT;
+	break;
+
+case 82:
+	varWorldType.dataType = INT;
+	break;
+
+case 83:
+	varWorldType.dataType = INT;
+	break;
+
+case 84:
+	varWorldType.dataType = INT;
+	break;
+
+case 85:
+	varWorldType.dataType = INT;
+	break;
+
+case 86:
+	varWorldType.dataType = INT;
+	break;
+
+case 87:
+	varWorldType.dataType = INT;
+	break;
+
+case 88:
+	varWorldType.dataType = INT;
+	break;
+
+case 89:
+	varWorldType.dataType = INT;
+	break;
+
+case 90:
+	varWorldType.dataType = INT;
+	break;
+
+case 91:
+	varWorldType.dataType = INT;
+	break;
+
+case 92:
+	varWorldType.dataType = INT;
+	break;
+
+case 93:
+	varWorldType.dataType = INT;
+	break;
+
+case 94:
+	varWorldType.dataType = INT;
+	break;
+
+case 95:
+	varWorldType.dataType = INT;
+	break;
+
+case 96:
+	varWorldType.dataType = INT;
+	break;
+
+case 97:
+	varWorldType.dataType = INT;
+	break;
+
+case 98:
+	varWorldType.dataType = INT;
+	break;
+
+case 99:
+	varWorldType.dataType = INT;
+	break;
+
+case 100:
+	varWorldType.dataType = INT;
+	break;
+
+case 101:
+	varWorldType.dataType = INT;
+	break;
+
+case 102:
+	varWorldType.dataType = INT;
+	break;
+
+case 103:
+	varWorldType.dataType = INT;
+	break;
+
+case 104:
+	varWorldType.dataType = INT;
+	break;
+
+case 105:
+	varWorldType.dataType = INT;
+	break;
+
+case 106:
+	varWorldType.dataType = INT;
+	break;
+
+case 107:
+	varWorldType.dataType = INT;
+	break;
+
+case 108:
+	varWorldType.dataType = INT;
+	break;
+
+case 109:
+	varWorldType.dataType = INT;
+	break;
+
+case 110:
+	varWorldType.dataType = INT;
+	break;
+
+case 111:
+	varWorldType.dataType = INT;
+	break;
+
+case 112:
+	varWorldType.dataType = INT;
+	break;
+
+case 113:
+	varWorldType.dataType = INT;
+	break;
+
+case 114:
+	varWorldType.dataType = INT;
+	break;
+
+case 115:
+	varWorldType.dataType = INT;
+	break;
+
+case 116:
+	varWorldType.dataType = INT;
+	break;
+
+case 117:
+	varWorldType.dataType = INT;
+	break;
+
+case 118:
+	varWorldType.dataType = INT;
+	break;
+
+case 119:
+	varWorldType.dataType = INT;
+	break;
+
+case 120:
+	varWorldType.dataType = INT;
+	break;
+
+case 121:
+	varWorldType.dataType = INT;
+	break;
+
+case 122:
+	varWorldType.dataType = INT;
+	break;
+
+case 123:
+	varWorldType.dataType = INT;
+	break;
+
+case 124:
+	varWorldType.dataType = INT;
+	break;
+
+case 125:
+	varWorldType.dataType = INT;
+	break;
+
+case 126:
+	varWorldType.dataType = INT;
+	break;
+
+case 127:
+	varWorldType.dataType = TILE;
+	break;
+
+case 128:
+	varWorldType.dataType = INT;
+	break;
+
+case 129:
+	varWorldType.dataType = INT;
+	break;
+
+case 130:
+	varWorldType.dataType = INT;
+	break;
+
+case 131:
+	varWorldType.dataType = INT;
+	break;
+
+case 132:
+	varWorldType.dataType = INT;
+	break;
+
+case 133:
+	varWorldType.dataType = INT;
+	break;
+
+case 134:
+	varWorldType.dataType = INT;
+	break;
+
+case 135:
+	varWorldType.dataType = INT;
+	break;
+
+case 136:
+	varWorldType.dataType = INT;
+	break;
+
+case 137:
+	varWorldType.dataType = INT;
+	break;
+
+case 138:
+	varWorldType.dataType = INT;
+	break;
+
+case 139:
+	varWorldType.dataType = INT;
+	break;
+
+case 140:
+	varWorldType.dataType = INT;
+	break;
+
+case 141:
+	varWorldType.dataType = INT;
+	break;
+
+case 142:
+	varWorldType.dataType = INT;
+	break;
+
+case 143:
+	varWorldType.dataType = INT;
+	break;
+
+case 144:
+	varWorldType.dataType = INT;
+	break;
+
+case 145:
+	varWorldType.dataType = INT;
+	break;
+
+case 146:
+	varWorldType.dataType = INT;
+	break;
+
+case 147:
+	varWorldType.dataType = INT;
+	break;
+
+case 148:
+	varWorldType.dataType = INT;
+	break;
+
+case 149:
+	varWorldType.dataType = INT;
+	break;
+
+case 150:
+	varWorldType.dataType = INT;
+	break;
+
+case 151:
+	varWorldType.dataType = INT;
+	break;
+
+case 152:
+	varWorldType.dataType = INT;
+	break;
+
+case 153:
+	varWorldType.dataType = INT;
+	break;
+
+case 154:
+	varWorldType.dataType = INT;
+	break;
+
+case 155:
+	varWorldType.dataType = INT;
+	break;
+
+case 156:
+	varWorldType.dataType = INT;
+	break;
+
+case 157:
+	varWorldType.dataType = INT;
+	break;
+
+case 158:
+	varWorldType.dataType = INT;
+	break;
+
+case 159:
+	varWorldType.dataType = INT;
+	break;
+
+case 160:
+	varWorldType.dataType = INT;
+	break;
+
+case 161:
+	varWorldType.dataType = INT;
+	break;
+
+case 162:
+	varWorldType.dataType = INT;
+	break;
+
+case 163:
+	varWorldType.dataType = INT;
+	break;
+
+case 164:
+	varWorldType.dataType = INT;
+	break;
+
+case 165:
+	varWorldType.dataType = INT;
+	break;
+
+case 166:
+	varWorldType.dataType = INT;
+	break;
+
+case 167:
+	varWorldType.dataType = INT;
+	break;
+
+case 168:
+	varWorldType.dataType = INT;
+	break;
+
+case 169:
+	varWorldType.dataType = STRING;
+	break;
+
+case 170:
+	varWorldType.dataType = STRING;
+	break;
+
+case 171:
+	varWorldType.dataType = STRING;
+	break;
+
+case 172:
+	varWorldType.dataType = STRING;
+	break;
+
+case 173:
+	varWorldType.dataType = STRING;
+	break;
+
+case 174:
+	varWorldType.dataType = STRING;
+	break;
+
+case 175:
+	varWorldType.dataType = STRING;
+	break;
+
+case 176:
+	varWorldType.dataType = STRING;
+	break;
+
+case 177:
+	varWorldType.dataType = STRING;
+	break;
+
+case 178:
+	varWorldType.dataType = STRING;
+	break;
+
+case 179:
+	varWorldType.dataType = STRING;
+	break;
+
+case 180:
+	varWorldType.dataType = STRING;
+	break;
+
+case 181:
+	varWorldType.dataType = STRING;
+	break;
+
+case 182:
+	varWorldType.dataType = STRING;
+	break;
+
+case 183:
+	varWorldType.dataType = STRING;
+	break;
+
+case 184:
+	varWorldType.dataType = STRING;
+	break;
+
+case 185:
+	varWorldType.dataType = STRING;
+	break;
+
+case 186:
+	varWorldType.dataType = STRING;
+	break;
+
+case 187:
+	varWorldType.dataType = STRING;
+	break;
+
+case 188:
+	varWorldType.dataType = STRING;
+	break;
+
+case 189:
+	varWorldType.dataType = STRING;
+	break;
+
+case 190:
+	varWorldType.dataType = STRING;
+	break;
+
+case 191:
+	varWorldType.dataType = STRING;
+	break;
+
+case 192:
+	varWorldType.dataType = STRING;
+	break;
+
+case 193:
+	varWorldType.dataType = STRING;
+	break;
+
+case 194:
+	varWorldType.dataType = STRING;
+	break;
+
+case 195:
+	varWorldType.dataType = STRING;
+	break;
+
+case 196:
+	varWorldType.dataType = STRING;
+	break;
+
+case 197:
+	varWorldType.dataType = STRING;
+	break;
+
+case 198:
+	varWorldType.dataType = STRING;
+	break;
+
+case 199:
+	varWorldType.dataType = STRING;
+	break;
+
+case 200:
+	varWorldType.dataType = STRING;
+	break;
+
+case 201:
+	varWorldType.dataType = STRING;
+	break;
+
+case 202:
+	varWorldType.dataType = STRING;
+	break;
+
+case 203:
+	varWorldType.dataType = STRING;
+	break;
+
+case 204:
+	varWorldType.dataType = STRING;
+	break;
+
+case 205:
+	varWorldType.dataType = STRING;
+	break;
+
+case 206:
+	varWorldType.dataType = STRING;
+	break;
+
+case 207:
+	varWorldType.dataType = STRING;
+	break;
+
+case 208:
+	varWorldType.dataType = STRING;
+	break;
+
+case 209:
+	varWorldType.dataType = PLAYER;
+	break;
+
+case 210:
+	varWorldType.dataType = PLAYER;
+	break;
+
+case 211:
+	varWorldType.dataType = PLAYER;
+	break;
+
+case 212:
+	varWorldType.dataType = PLAYER;
+	break;
+
+case 213:
+	varWorldType.dataType = PLAYER;
+	break;
+
+case 214:
+	varWorldType.dataType = PLAYER;
+	break;
+
+case 215:
+	varWorldType.dataType = PLAYER;
+	break;
+
+case 216:
+	varWorldType.dataType = PLAYER;
+	break;
+
+case 217:
+	varWorldType.dataType = PLAYER;
+	break;
+
+case 218:
+	varWorldType.dataType = PLAYER;
+	break;
+
+case 219:
+	varWorldType.dataType = INT;
+	break;
+
+case 220:
+	varWorldType.dataType = INT;
+	break;
+
+case 221:
+	varWorldType.dataType = INT;
+	break;
+
+case 222:
+	varWorldType.dataType = INT;
+	break;
+
+case 223:
+	varWorldType.dataType = INT;
+	break;
+
+case 224:
+	varWorldType.dataType = INT;
+	break;
+
+case 225:
+	varWorldType.dataType = INT;
+	break;
+
+case 226:
+	varWorldType.dataType = INT;
+	break;
+
+case 227:
+	varWorldType.dataType = INT;
+	break;
+
+case 228:
+	varWorldType.dataType = INT;
+	break;
+
+case 229:
+	varWorldType.dataType = INT;
+	break;
+
+case 230:
+	varWorldType.dataType = INT;
+	break;
+
+case 231:
+	varWorldType.dataType = INT;
+	break;
+
+case 232:
+	varWorldType.dataType = INT;
+	break;
+
+case 233:
+	varWorldType.dataType = INT;
+	break;
+
+case 234:
+	varWorldType.dataType = INT;
+	break;
+
+case 235:
+	varWorldType.dataType = INT;
+	break;
+
+case 236:
+	varWorldType.dataType = INT;
+	break;
+
+case 237:
+	varWorldType.dataType = INT;
+	break;
+
+case 238:
+	varWorldType.dataType = INT;
+	break;
+
+case 239:
+	varWorldType.dataType = TYPE_2;
+	break;
+
+case 240:
+	varWorldType.dataType = TYPE_2;
+	break;
+
+case 241:
+	varWorldType.dataType = TYPE_2;
+	break;
+
+case 242:
+	varWorldType.dataType = TYPE_2;
+	break;
+
+case 243:
+	varWorldType.dataType = TYPE_2;
+	break;
+
+case 244:
+	varWorldType.dataType = TYPE_2;
+	break;
+
+case 245:
+	varWorldType.dataType = TYPE_2;
+	break;
+
+case 246:
+	varWorldType.dataType = TYPE_2;
+	break;
+
+case 247:
+	varWorldType.dataType = TYPE_2;
+	break;
+
+case 248:
+	varWorldType.dataType = TYPE_2;
+	break;
+
+case 249:
+	varWorldType.dataType = INT;
+	break;
+
+case 250:
+	varWorldType.dataType = INT;
+	break;
+
+case 251:
+	varWorldType.dataType = INT;
+	break;
+
+case 252:
+	varWorldType.dataType = INT;
+	break;
+
+case 253:
+	varWorldType.dataType = STRING;
+	break;
+
+case 254:
+	varWorldType.dataType = STRING;
+	break;
+
+case 255:
+	varWorldType.dataType = STRING;
+	break;
+
+case 256:
+	varWorldType.dataType = STRING;
+	break;
+
+case 257:
+	varWorldType.dataType = STRING;
+	break;
+
+case 258:
+	varWorldType.dataType = INT;
+	break;
+
+case 259:
+	varWorldType.dataType = INT;
+	break;
+
+case 260:
+	varWorldType.dataType = INT;
+	break;
+
+case 261:
+	varWorldType.dataType = INT;
+	break;
+
+case 262:
+	varWorldType.dataType = INT;
+	break;
+
+case 263:
+	varWorldType.dataType = INT;
+	break;
+
+case 264:
+	varWorldType.dataType = INT;
+	break;
+
+case 265:
+	varWorldType.dataType = INT;
+	break;
+
+case 266:
+	varWorldType.dataType = INT;
+	break;
+
+case 267:
+	varWorldType.dataType = INT;
+	break;
+
+case 268:
+	varWorldType.dataType = INT;
+	break;
+
+case 269:
+	varWorldType.dataType = INT;
+	break;
+
+case 270:
+	varWorldType.dataType = INT;
+	break;
+
+case 271:
+	varWorldType.dataType = INT;
+	break;
+
+case 272:
+	varWorldType.dataType = INT;
+	break;
+
+case 273:
+	varWorldType.dataType = INT;
+	break;
+
+case 274:
+	varWorldType.dataType = INT;
+	break;
+
+case 275:
+	varWorldType.dataType = INT;
+	break;
+
+case 276:
+	varWorldType.dataType = INT;
+	break;
+
+case 277:
+	varWorldType.dataType = INT;
+	break;
+
+case 278:
+	varWorldType.dataType = INT;
+	break;
+
+case 279:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 280:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 281:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 282:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 283:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 284:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 285:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 286:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 287:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 288:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 289:
+	varWorldType.dataType = INT;
+	break;
+
+case 290:
+	varWorldType.dataType = INT;
+	break;
+
+case 291:
+	varWorldType.dataType = INT;
+	break;
+
+case 292:
+	varWorldType.dataType = INT;
+	break;
+
+case 293:
+	varWorldType.dataType = INT;
+	break;
+
+case 294:
+	varWorldType.dataType = INT;
+	break;
+
+case 295:
+	varWorldType.dataType = INT;
+	break;
+
+case 296:
+	varWorldType.dataType = INT;
+	break;
+
+case 297:
+	varWorldType.dataType = INT;
+	break;
+
+case 298:
+	varWorldType.dataType = INT;
+	break;
+
+case 299:
+	varWorldType.dataType = INT;
+	break;
+
+case 300:
+	varWorldType.dataType = INT;
+	break;
+
+case 301:
+	varWorldType.dataType = INT;
+	break;
+
+case 302:
+	varWorldType.dataType = INT;
+	break;
+
+case 303:
+	varWorldType.dataType = INT;
+	break;
+
+case 304:
+	varWorldType.dataType = INT;
+	break;
+
+case 305:
+	varWorldType.dataType = INT;
+	break;
+
+case 306:
+	varWorldType.dataType = INT;
+	break;
+
+case 307:
+	varWorldType.dataType = INT;
+	break;
+
+case 308:
+	varWorldType.dataType = INT;
+	break;
+
+case 309:
+	varWorldType.dataType = INT;
+	break;
+
+case 310:
+	varWorldType.dataType = INT;
+	break;
+
+case 311:
+	varWorldType.dataType = INT;
+	break;
+
+case 312:
+	varWorldType.dataType = INT;
+	break;
+
+case 313:
+	varWorldType.dataType = INT;
+	break;
+
+case 314:
+	varWorldType.dataType = INT;
+	break;
+
+case 315:
+	varWorldType.dataType = INT;
+	break;
+
+case 316:
+	varWorldType.dataType = INT;
+	break;
+
+case 317:
+	varWorldType.dataType = INT;
+	break;
+
+case 318:
+	varWorldType.dataType = INT;
+	break;
+
+case 319:
+	varWorldType.dataType = INT;
+	break;
+
+case 320:
+	varWorldType.dataType = INT;
+	break;
+
+case 321:
+	varWorldType.dataType = INT;
+	break;
+
+case 322:
+	varWorldType.dataType = INT;
+	break;
+
+case 323:
+	varWorldType.dataType = INT;
+	break;
+
+case 324:
+	varWorldType.dataType = INT;
+	break;
+
+case 325:
+	varWorldType.dataType = INT;
+	break;
+
+case 326:
+	varWorldType.dataType = INT;
+	break;
+
+case 327:
+	varWorldType.dataType = INT;
+	break;
+
+case 328:
+	varWorldType.dataType = INT;
+	break;
+
+case 329:
+	varWorldType.dataType = INT;
+	break;
+
+case 330:
+	varWorldType.dataType = INT;
+	break;
+
+case 331:
+	varWorldType.dataType = INT;
+	break;
+
+case 332:
+	varWorldType.dataType = INT;
+	break;
+
+case 333:
+	varWorldType.dataType = INT;
+	break;
+
+case 334:
+	varWorldType.dataType = INT;
+	break;
+
+case 335:
+	varWorldType.dataType = INT;
+	break;
+
+case 336:
+	varWorldType.dataType = INT;
+	break;
+
+case 337:
+	varWorldType.dataType = INT;
+	break;
+
+case 338:
+	varWorldType.dataType = INT;
+	break;
+
+case 339:
+	varWorldType.dataType = INT;
+	break;
+
+case 340:
+	varWorldType.dataType = INT;
+	break;
+
+case 341:
+	varWorldType.dataType = INT;
+	break;
+
+case 342:
+	varWorldType.dataType = INT;
+	break;
+
+case 343:
+	varWorldType.dataType = INT;
+	break;
+
+case 344:
+	varWorldType.dataType = INT;
+	break;
+
+case 345:
+	varWorldType.dataType = INT;
+	break;
+
+case 346:
+	varWorldType.dataType = INT;
+	break;
+
+case 347:
+	varWorldType.dataType = INT;
+	break;
+
+case 348:
+	varWorldType.dataType = INT;
+	break;
+
+case 349:
+	varWorldType.dataType = INT;
+	break;
+
+case 350:
+	varWorldType.dataType = INT;
+	break;
+
+case 351:
+	varWorldType.dataType = INT;
+	break;
+
+case 352:
+	varWorldType.dataType = INT;
+	break;
+
+case 353:
+	varWorldType.dataType = INT;
+	break;
+
+case 354:
+	varWorldType.dataType = INT;
+	break;
+
+case 355:
+	varWorldType.dataType = INT;
+	break;
+
+case 356:
+	varWorldType.dataType = INT;
+	break;
+
+case 357:
+	varWorldType.dataType = INT;
+	break;
+
+case 358:
+	varWorldType.dataType = INT;
+	break;
+
+case 359:
+	varWorldType.dataType = INT;
+	break;
+
+case 360:
+	varWorldType.dataType = INT;
+	break;
+
+case 361:
+	varWorldType.dataType = INT;
+	break;
+
+case 362:
+	varWorldType.dataType = INT;
+	break;
+
+case 363:
+	varWorldType.dataType = INT;
+	break;
+
+case 364:
+	varWorldType.dataType = INT;
+	break;
+
+case 365:
+	varWorldType.dataType = INT;
+	break;
+
+case 366:
+	varWorldType.dataType = INT;
+	break;
+
+case 367:
+	varWorldType.dataType = INT;
+	break;
+
+case 368:
+	varWorldType.dataType = INT;
+	break;
+
+case 369:
+	varWorldType.dataType = INT;
+	break;
+
+case 370:
+	varWorldType.dataType = INT;
+	break;
+
+case 371:
+	varWorldType.dataType = INT;
+	break;
+
+case 372:
+	varWorldType.dataType = INT;
+	break;
+
+case 373:
+	varWorldType.dataType = INT;
+	break;
+
+case 374:
+	varWorldType.dataType = INT;
+	break;
+
+case 375:
+	varWorldType.dataType = INT;
+	break;
+
+case 376:
+	varWorldType.dataType = INT;
+	break;
+
+case 377:
+	varWorldType.dataType = INT;
+	break;
+
+case 378:
+	varWorldType.dataType = INT;
+	break;
+
+case 379:
+	varWorldType.dataType = INT;
+	break;
+
+case 380:
+	varWorldType.dataType = INT;
+	break;
+
+case 381:
+	varWorldType.dataType = INT;
+	break;
+
+case 382:
+	varWorldType.dataType = INT;
+	break;
+
+case 383:
+	varWorldType.dataType = INT;
+	break;
+
+case 384:
+	varWorldType.dataType = INT;
+	break;
+
+case 385:
+	varWorldType.dataType = INT;
+	break;
+
+case 386:
+	varWorldType.dataType = INT;
+	break;
+
+case 387:
+	varWorldType.dataType = INT;
+	break;
+
+case 388:
+	varWorldType.dataType = INT;
+	break;
+
+case 389:
+	varWorldType.dataType = INT;
+	break;
+
+case 390:
+	varWorldType.dataType = INT;
+	break;
+
+case 391:
+	varWorldType.dataType = INT;
+	break;
+
+case 392:
+	varWorldType.dataType = INT;
+	break;
+
+case 393:
+	varWorldType.dataType = INT;
+	break;
+
+case 394:
+	varWorldType.dataType = INT;
+	break;
+
+case 395:
+	varWorldType.dataType = INT;
+	break;
+
+case 396:
+	varWorldType.dataType = INT;
+	break;
+
+case 397:
+	varWorldType.dataType = INT;
+	break;
+
+case 398:
+	varWorldType.dataType = INT;
+	break;
+
+case 399:
+	varWorldType.dataType = INT;
+	break;
+
+case 400:
+	varWorldType.dataType = INT;
+	break;
+
+case 401:
+	varWorldType.dataType = INT;
+	break;
+
+case 402:
+	varWorldType.dataType = INT;
+	break;
+
+case 403:
+	varWorldType.dataType = INT;
+	break;
+
+case 404:
+	varWorldType.dataType = INT;
+	break;
+
+case 405:
+	varWorldType.dataType = INT;
+	break;
+
+case 406:
+	varWorldType.dataType = INT;
+	break;
+
+case 407:
+	varWorldType.dataType = INT;
+	break;
+
+case 408:
+	varWorldType.dataType = INT;
+	break;
+
+case 409:
+	varWorldType.dataType = INT;
+	break;
+
+case 410:
+	varWorldType.dataType = INT;
+	break;
+
+case 411:
+	varWorldType.dataType = INT;
+	break;
+
+case 412:
+	varWorldType.dataType = INT;
+	break;
+
+case 413:
+	varWorldType.dataType = INT;
+	break;
+
+case 414:
+	varWorldType.dataType = INT;
+	break;
+
+case 415:
+	varWorldType.dataType = INT;
+	break;
+
+case 416:
+	varWorldType.dataType = INT;
+	break;
+
+case 417:
+	varWorldType.dataType = INT;
+	break;
+
+case 418:
+	varWorldType.dataType = INT;
+	break;
+
+case 419:
+	varWorldType.dataType = INT;
+	break;
+
+case 420:
+	varWorldType.dataType = INT;
+	break;
+
+case 421:
+	varWorldType.dataType = INT;
+	break;
+
+case 422:
+	varWorldType.dataType = INT;
+	break;
+
+case 423:
+	varWorldType.dataType = INT;
+	break;
+
+case 424:
+	varWorldType.dataType = INT;
+	break;
+
+case 425:
+	varWorldType.dataType = INT;
+	break;
+
+case 426:
+	varWorldType.dataType = INT;
+	break;
+
+case 427:
+	varWorldType.dataType = INT;
+	break;
+
+case 428:
+	varWorldType.dataType = INT;
+	break;
+
+case 429:
+	varWorldType.dataType = INT;
+	break;
+
+case 430:
+	varWorldType.dataType = INT;
+	break;
+
+case 431:
+	varWorldType.dataType = INT;
+	break;
+
+case 432:
+	varWorldType.dataType = INT;
+	break;
+
+case 433:
+	varWorldType.dataType = INT;
+	break;
+
+case 434:
+	varWorldType.dataType = INT;
+	break;
+
+case 435:
+	varWorldType.dataType = INT;
+	break;
+
+case 436:
+	varWorldType.dataType = INT;
+	break;
+
+case 437:
+	varWorldType.dataType = INT;
+	break;
+
+case 438:
+	varWorldType.dataType = INT;
+	break;
+
+case 439:
+	varWorldType.dataType = INT;
+	break;
+
+case 440:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 441:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 442:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 443:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 444:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 445:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 446:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 447:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 448:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 449:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 450:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 451:
+	varWorldType.dataType = INT;
+	break;
+
+case 452:
+	varWorldType.dataType = INT;
+	break;
+
+case 453:
+	varWorldType.dataType = INT;
+	break;
+
+case 454:
+	varWorldType.dataType = INT;
+	break;
+
+case 455:
+	varWorldType.dataType = INT;
+	break;
+
+case 456:
+	varWorldType.dataType = INT;
+	break;
+
+case 457:
+	varWorldType.dataType = INT;
+	break;
+
+case 458:
+	varWorldType.dataType = INT;
+	break;
+
+case 459:
+	varWorldType.dataType = INT;
+	break;
+
+case 460:
+	varWorldType.dataType = INT;
+	break;
+
+case 461:
+	varWorldType.dataType = INT;
+	break;
+
+case 462:
+	varWorldType.dataType = INT;
+	break;
+
+case 463:
+	varWorldType.dataType = INT;
+	break;
+
+case 464:
+	varWorldType.dataType = INT;
+	break;
+
+case 465:
+	varWorldType.dataType = INT;
+	break;
+
+case 466:
+	varWorldType.dataType = INT;
+	break;
+
+case 467:
+	varWorldType.dataType = INT;
+	break;
+
+case 468:
+	varWorldType.dataType = INT;
+	break;
+
+case 469:
+	varWorldType.dataType = INT;
+	break;
+
+case 470:
+	varWorldType.dataType = INT;
+	break;
+
+case 471:
+	varWorldType.dataType = INT;
+	break;
+
+case 472:
+	varWorldType.dataType = TILE;
+	break;
+
+case 473:
+	varWorldType.dataType = TILE;
+	break;
+
+case 474:
+	varWorldType.dataType = INT;
+	break;
+
+case 475:
+	varWorldType.dataType = INT;
+	break;
+
+case 476:
+	varWorldType.dataType = INT;
+	break;
+
+case 477:
+	varWorldType.dataType = INT;
+	break;
+
+case 478:
+	varWorldType.dataType = INT;
+	break;
+
+case 479:
+	varWorldType.dataType = INT;
+	break;
+
+case 480:
+	varWorldType.dataType = INT;
+	break;
+
+case 481:
+	varWorldType.dataType = INT;
+	break;
+
+case 482:
+	varWorldType.dataType = PLAYER;
+	break;
+
+case 483:
+	varWorldType.dataType = PLAYER;
+	break;
+
+case 484:
+	varWorldType.dataType = INT;
+	break;
+
+case 485:
+	varWorldType.dataType = INT;
+	break;
+
+case 486:
+	varWorldType.dataType = PLAYER;
+	break;
+
+case 487:
+	varWorldType.dataType = PLAYER;
+	break;
+
+case 488:
+	varWorldType.dataType = INT;
+	break;
+
+case 489:
+	varWorldType.dataType = INT;
+	break;
+
+case 490:
+	varWorldType.dataType = INT;
+	break;
+
+case 491:
+	varWorldType.dataType = INT;
+	break;
+
+case 492:
+	varWorldType.dataType = PLAYER;
+	break;
+
+case 493:
+	varWorldType.dataType = PLAYER;
+	break;
+
+case 494:
+	varWorldType.dataType = INT;
+	break;
+
+case 495:
+	varWorldType.dataType = INT;
+	break;
+
+case 496:
+	varWorldType.dataType = INT;
+	break;
+
+case 497:
+	varWorldType.dataType = INT;
+	break;
+
+case 498:
+	varWorldType.dataType = INT;
+	break;
+
+case 499:
+	varWorldType.dataType = INT;
+	break;
+
+case 500:
+	varWorldType.dataType = INT;
+	break;
+
+case 501:
+	varWorldType.dataType = INT;
+	break;
+
+case 502:
+	varWorldType.dataType = INT;
+	break;
+
+case 503:
+	varWorldType.dataType = INT;
+	break;
+
+case 504:
+	varWorldType.dataType = INT;
+	break;
+
+case 505:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 506:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 507:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 508:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 509:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 510:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 511:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 512:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 513:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 514:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 515:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 516:
+	varWorldType.dataType = INT;
+	break;
+
+case 517:
+	varWorldType.dataType = INT;
+	break;
+
+case 518:
+	varWorldType.dataType = INT;
+	break;
+
+case 519:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 520:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 521:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 522:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 523:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 524:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 525:
+	varWorldType.dataType = INT;
+	break;
+
+case 526:
+	varWorldType.dataType = INT;
+	break;
+
+case 527:
+	varWorldType.dataType = INT;
+	break;
+
+case 528:
+	varWorldType.dataType = INT;
+	break;
+
+case 529:
+	varWorldType.dataType = STRING;
+	break;
+
+case 530:
+	varWorldType.dataType = STRING;
+	break;
+
+case 531:
+	varWorldType.dataType = STRING;
+	break;
+
+case 532:
+	varWorldType.dataType = STRING;
+	break;
+
+case 533:
+	varWorldType.dataType = STRING;
+	break;
+
+case 534:
+	varWorldType.dataType = STRING;
+	break;
+
+case 535:
+	varWorldType.dataType = STRING;
+	break;
+
+case 536:
+	varWorldType.dataType = STRING;
+	break;
+
+case 537:
+	varWorldType.dataType = STRING;
+	break;
+
+case 538:
+	varWorldType.dataType = STRING;
+	break;
+
+case 539:
+	varWorldType.dataType = STRING;
+	break;
+
+case 540:
+	varWorldType.dataType = STRING;
+	break;
+
+case 541:
+	varWorldType.dataType = STRING;
+	break;
+
+case 542:
+	varWorldType.dataType = STRING;
+	break;
+
+case 543:
+	varWorldType.dataType = STRING;
+	break;
+
+case 544:
+	varWorldType.dataType = STRING;
+	break;
+
+case 545:
+	varWorldType.dataType = STRING;
+	break;
+
+case 546:
+	varWorldType.dataType = STRING;
+	break;
+
+case 547:
+	varWorldType.dataType = STRING;
+	break;
+
+case 548:
+	varWorldType.dataType = STRING;
+	break;
+
+case 549:
+	varWorldType.dataType = STRING;
+	break;
+
+case 550:
+	varWorldType.dataType = STRING;
+	break;
+
+case 551:
+	varWorldType.dataType = STRING;
+	break;
+
+case 552:
+	varWorldType.dataType = STRING;
+	break;
+
+case 553:
+	varWorldType.dataType = STRING;
+	break;
+
+case 554:
+	varWorldType.dataType = STRING;
+	break;
+
+case 555:
+	varWorldType.dataType = STRING;
+	break;
+
+case 556:
+	varWorldType.dataType = STRING;
+	break;
+
+case 557:
+	varWorldType.dataType = STRING;
+	break;
+
+case 558:
+	varWorldType.dataType = STRING;
+	break;
+
+case 559:
+	varWorldType.dataType = STRING;
+	break;
+
+case 560:
+	varWorldType.dataType = STRING;
+	break;
+
+case 561:
+	varWorldType.dataType = STRING;
+	break;
+
+case 562:
+	varWorldType.dataType = STRING;
+	break;
+
+case 563:
+	varWorldType.dataType = STRING;
+	break;
+
+case 564:
+	varWorldType.dataType = STRING;
+	break;
+
+case 565:
+	varWorldType.dataType = STRING;
+	break;
+
+case 566:
+	varWorldType.dataType = STRING;
+	break;
+
+case 567:
+	varWorldType.dataType = STRING;
+	break;
+
+case 568:
+	varWorldType.dataType = STRING;
+	break;
+
+case 569:
+	varWorldType.dataType = STRING;
+	break;
+
+case 570:
+	varWorldType.dataType = STRING;
+	break;
+
+case 571:
+	varWorldType.dataType = STRING;
+	break;
+
+case 572:
+	varWorldType.dataType = STRING;
+	break;
+
+case 573:
+	varWorldType.dataType = STRING;
+	break;
+
+case 574:
+	varWorldType.dataType = STRING;
+	break;
+
+case 575:
+	varWorldType.dataType = STRING;
+	break;
+
+case 576:
+	varWorldType.dataType = STRING;
+	break;
+
+case 577:
+	varWorldType.dataType = STRING;
+	break;
+
+case 578:
+	varWorldType.dataType = STRING;
+	break;
+
+case 579:
+	varWorldType.dataType = INT;
+	break;
+
+case 580:
+	varWorldType.dataType = INT;
+	break;
+
+case 581:
+	varWorldType.dataType = INT;
+	break;
+
+case 582:
+	varWorldType.dataType = INT;
+	break;
+
+case 583:
+	varWorldType.dataType = INT;
+	break;
+
+case 584:
+	varWorldType.dataType = INT;
+	break;
+
+case 585:
+	varWorldType.dataType = INT;
+	break;
+
+case 586:
+	varWorldType.dataType = INT;
+	break;
+
+case 587:
+	varWorldType.dataType = INT;
+	break;
+
+case 588:
+	varWorldType.dataType = INT;
+	break;
+
+case 589:
+	varWorldType.dataType = INT;
+	break;
+
+case 590:
+	varWorldType.dataType = INT;
+	break;
+
+case 591:
+	varWorldType.dataType = INT;
+	break;
+
+case 592:
+	varWorldType.dataType = INT;
+	break;
+
+case 593:
+	varWorldType.dataType = INT;
+	break;
+
+case 594:
+	varWorldType.dataType = INT;
+	break;
+
+case 595:
+	varWorldType.dataType = INT;
+	break;
+
+case 596:
+	varWorldType.dataType = INT;
+	break;
+
+case 597:
+	varWorldType.dataType = INT;
+	break;
+
+case 598:
+	varWorldType.dataType = INT;
+	break;
+
+case 599:
+	varWorldType.dataType = INT;
+	break;
+
+case 600:
+	varWorldType.dataType = INT;
+	break;
+
+case 601:
+	varWorldType.dataType = INT;
+	break;
+
+case 602:
+	varWorldType.dataType = INT;
+	break;
+
+case 603:
+	varWorldType.dataType = INT;
+	break;
+
+case 604:
+	varWorldType.dataType = INT;
+	break;
+
+case 605:
+	varWorldType.dataType = INT;
+	break;
+
+case 606:
+	varWorldType.dataType = INT;
+	break;
+
+case 607:
+	varWorldType.dataType = INT;
+	break;
+
+case 608:
+	varWorldType.dataType = INT;
+	break;
+
+case 609:
+	varWorldType.dataType = INT;
+	break;
+
+case 610:
+	varWorldType.dataType = INT;
+	break;
+
+case 611:
+	varWorldType.dataType = INT;
+	break;
+
+case 612:
+	varWorldType.dataType = INT;
+	break;
+
+case 613:
+	varWorldType.dataType = INT;
+	break;
+
+case 614:
+	varWorldType.dataType = INT;
+	break;
+
+case 615:
+	varWorldType.dataType = INT;
+	break;
+
+case 616:
+	varWorldType.dataType = INT;
+	break;
+
+case 617:
+	varWorldType.dataType = INT;
+	break;
+
+case 618:
+	varWorldType.dataType = INT;
+	break;
+
+case 619:
+	varWorldType.dataType = INT;
+	break;
+
+case 620:
+	varWorldType.dataType = INT;
+	break;
+
+case 621:
+	varWorldType.dataType = INT;
+	break;
+
+case 622:
+	varWorldType.dataType = INT;
+	break;
+
+case 623:
+	varWorldType.dataType = INT;
+	break;
+
+case 624:
+	varWorldType.dataType = INT;
+	break;
+
+case 625:
+	varWorldType.dataType = INT;
+	break;
+
+case 626:
+	varWorldType.dataType = INT;
+	break;
+
+case 627:
+	varWorldType.dataType = INT;
+	break;
+
+case 628:
+	varWorldType.dataType = INT;
+	break;
+
+case 629:
+	varWorldType.dataType = INT;
+	break;
+
+case 630:
+	varWorldType.dataType = INT;
+	break;
+
+case 631:
+	varWorldType.dataType = INT;
+	break;
+
+case 632:
+	varWorldType.dataType = INT;
+	break;
+
+case 633:
+	varWorldType.dataType = INT;
+	break;
+
+case 634:
+	varWorldType.dataType = INT;
+	break;
+
+case 635:
+	varWorldType.dataType = INT;
+	break;
+
+case 636:
+	varWorldType.dataType = INT;
+	break;
+
+case 637:
+	varWorldType.dataType = INT;
+	break;
+
+case 638:
+	varWorldType.dataType = INT;
+	break;
+
+case 639:
+	varWorldType.dataType = INT;
+	break;
+
+case 640:
+	varWorldType.dataType = INT;
+	break;
+
+case 641:
+	varWorldType.dataType = INT;
+	break;
+
+case 642:
+	varWorldType.dataType = INT;
+	break;
+
+case 643:
+	varWorldType.dataType = INT;
+	break;
+
+case 644:
+	varWorldType.dataType = INT;
+	break;
+
+case 645:
+	varWorldType.dataType = INT;
+	break;
+
+case 646:
+	varWorldType.dataType = INT;
+	break;
+
+case 647:
+	varWorldType.dataType = INT;
+	break;
+
+case 648:
+	varWorldType.dataType = INT;
+	break;
+
+case 649:
+	varWorldType.dataType = INT;
+	break;
+
+case 650:
+	varWorldType.dataType = INT;
+	break;
+
+case 651:
+	varWorldType.dataType = STRING;
+	break;
+
+case 652:
+	varWorldType.dataType = STRING;
+	break;
+
+case 653:
+	varWorldType.dataType = STRING;
+	break;
+
+case 654:
+	varWorldType.dataType = STRING;
+	break;
+
+case 655:
+	varWorldType.dataType = STRING;
+	break;
+
+case 656:
+	varWorldType.dataType = STRING;
+	break;
+
+case 657:
+	varWorldType.dataType = STRING;
+	break;
+
+case 658:
+	varWorldType.dataType = STRING;
+	break;
+
+case 659:
+	varWorldType.dataType = STRING;
+	break;
+
+case 660:
+	varWorldType.dataType = STRING;
+	break;
+
+case 661:
+	varWorldType.dataType = INT;
+	break;
+
+case 662:
+	varWorldType.dataType = INT;
+	break;
+
+case 663:
+	varWorldType.dataType = INT;
+	break;
+
+case 664:
+	varWorldType.dataType = INT;
+	break;
+
+case 665:
+	varWorldType.dataType = INT;
+	break;
+
+case 666:
+	varWorldType.dataType = INT;
+	break;
+
+case 667:
+	varWorldType.dataType = INT;
+	break;
+
+case 668:
+	varWorldType.dataType = INT;
+	break;
+
+case 669:
+	varWorldType.dataType = INT;
+	break;
+
+case 670:
+	varWorldType.dataType = INT;
+	break;
+
+case 671:
+	varWorldType.dataType = INT;
+	break;
+
+case 672:
+	varWorldType.dataType = INT;
+	break;
+
+case 673:
+	varWorldType.dataType = INT;
+	break;
+
+case 674:
+	varWorldType.dataType = INT;
+	break;
+
+case 675:
+	varWorldType.dataType = TYPE_2;
+	break;
+
+case 676:
+	varWorldType.dataType = TYPE_2;
+	break;
+
+case 677:
+	varWorldType.dataType = TYPE_2;
+	break;
+
+case 678:
+	varWorldType.dataType = TYPE_2;
+	break;
+
+case 679:
+	varWorldType.dataType = TYPE_2;
+	break;
+
+case 680:
+	varWorldType.dataType = TYPE_2;
+	break;
+
+case 681:
+	varWorldType.dataType = TYPE_2;
+	break;
+
+case 682:
+	varWorldType.dataType = TYPE_2;
+	break;
+
+case 683:
+	varWorldType.dataType = TYPE_2;
+	break;
+
+case 684:
+	varWorldType.dataType = TYPE_2;
+	break;
+
+case 685:
+	varWorldType.dataType = INT;
+	break;
+
+case 686:
+	varWorldType.dataType = INT;
+	break;
+
+case 687:
+	varWorldType.dataType = INT;
+	break;
+
+case 688:
+	varWorldType.dataType = INT;
+	break;
+
+case 689:
+	varWorldType.dataType = INT;
+	break;
+
+case 690:
+	varWorldType.dataType = INT;
+	break;
+
+case 691:
+	varWorldType.dataType = INT;
+	break;
+
+case 692:
+	varWorldType.dataType = INT;
+	break;
+
+case 693:
+	varWorldType.dataType = INT;
+	break;
+
+case 694:
+	varWorldType.dataType = INT;
+	break;
+
+case 695:
+	varWorldType.dataType = INT;
+	break;
+
+case 696:
+	varWorldType.dataType = INT;
+	break;
+
+case 697:
+	varWorldType.dataType = INT;
+	break;
+
+case 698:
+	varWorldType.dataType = INT;
+	break;
+
+case 699:
+	varWorldType.dataType = INT;
+	break;
+
+case 700:
+	varWorldType.dataType = INT;
+	break;
+
+case 701:
+	varWorldType.dataType = INT;
+	break;
+
+case 702:
+	varWorldType.dataType = INT;
+	break;
+
+case 703:
+	varWorldType.dataType = INT;
+	break;
+
+case 704:
+	varWorldType.dataType = INT;
+	break;
+
+case 705:
+	varWorldType.dataType = INT;
+	break;
+
+case 706:
+	varWorldType.dataType = INT;
+	break;
+
+case 707:
+	varWorldType.dataType = INT;
+	break;
+
+case 708:
+	varWorldType.dataType = INT;
+	break;
+
+case 709:
+	varWorldType.dataType = INT;
+	break;
+
+case 710:
+	varWorldType.dataType = INT;
+	break;
+
+case 711:
+	varWorldType.dataType = INT;
+	break;
+
+case 712:
+	varWorldType.dataType = INT;
+	break;
+
+case 713:
+	varWorldType.dataType = INT;
+	break;
+
+case 714:
+	varWorldType.dataType = INT;
+	break;
+
+case 715:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 716:
+	varWorldType.dataType = INT;
+	break;
+
+case 717:
+	varWorldType.dataType = INT;
+	break;
+
+case 718:
+	varWorldType.dataType = TILE;
+	break;
+
+case 719:
+	varWorldType.dataType = INT;
+	break;
+
+case 720:
+	varWorldType.dataType = INT;
+	break;
+
+case 721:
+	varWorldType.dataType = INT;
+	break;
+
+case 722:
+	varWorldType.dataType = INT;
+	break;
+
+case 723:
+	varWorldType.dataType = INT;
+	break;
+
+case 724:
+	varWorldType.dataType = INT;
+	break;
+
+case 725:
+	varWorldType.dataType = INT;
+	break;
+
+case 726:
+	varWorldType.dataType = INT;
+	break;
+
+case 727:
+	varWorldType.dataType = INT;
+	break;
+
+case 728:
+	varWorldType.dataType = INT;
+	break;
+
+case 729:
+	varWorldType.dataType = INT;
+	break;
+
+case 730:
+	varWorldType.dataType = INT;
+	break;
+
+case 731:
+	varWorldType.dataType = INT;
+	break;
+
+case 732:
+	varWorldType.dataType = INT;
+	break;
+
+case 733:
+	varWorldType.dataType = INT;
+	break;
+
+case 734:
+	varWorldType.dataType = STRING;
+	break;
+
+case 735:
+	varWorldType.dataType = STRING;
+	break;
+
+case 736:
+	varWorldType.dataType = STRING;
+	break;
+
+case 737:
+	varWorldType.dataType = STRING;
+	break;
+
+case 738:
+	varWorldType.dataType = STRING;
+	break;
+
+case 739:
+	varWorldType.dataType = STRING;
+	break;
+
+case 740:
+	varWorldType.dataType = STRING;
+	break;
+
+case 741:
+	varWorldType.dataType = STRING;
+	break;
+
+case 742:
+	varWorldType.dataType = STRING;
+	break;
+
+case 743:
+	varWorldType.dataType = STRING;
+	break;
+
+case 744:
+	varWorldType.dataType = STRING;
+	break;
+
+case 745:
+	varWorldType.dataType = STRING;
+	break;
+
+case 746:
+	varWorldType.dataType = STRING;
+	break;
+
+case 747:
+	varWorldType.dataType = STRING;
+	break;
+
+case 748:
+	varWorldType.dataType = STRING;
+	break;
+
+case 749:
+	varWorldType.dataType = STRING;
+	break;
+
+case 750:
+	varWorldType.dataType = STRING;
+	break;
+
+case 751:
+	varWorldType.dataType = STRING;
+	break;
+
+case 752:
+	varWorldType.dataType = STRING;
+	break;
+
+case 753:
+	varWorldType.dataType = STRING;
+	break;
+
+case 754:
+	varWorldType.dataType = STRING;
+	break;
+
+case 755:
+	varWorldType.dataType = STRING;
+	break;
+
+case 756:
+	varWorldType.dataType = STRING;
+	break;
+
+case 757:
+	varWorldType.dataType = STRING;
+	break;
+
+case 758:
+	varWorldType.dataType = STRING;
+	break;
+
+case 759:
+	varWorldType.dataType = STRING;
+	break;
+
+case 760:
+	varWorldType.dataType = STRING;
+	break;
+
+case 761:
+	varWorldType.dataType = STRING;
+	break;
+
+case 762:
+	varWorldType.dataType = STRING;
+	break;
+
+case 763:
+	varWorldType.dataType = STRING;
+	break;
+
+case 764:
+	varWorldType.dataType = STRING;
+	break;
+
+case 765:
+	varWorldType.dataType = STRING;
+	break;
+
+case 766:
+	varWorldType.dataType = STRING;
+	break;
+
+case 767:
+	varWorldType.dataType = STRING;
+	break;
+
+case 768:
+	varWorldType.dataType = STRING;
+	break;
+
+case 769:
+	varWorldType.dataType = STRING;
+	break;
+
+case 770:
+	varWorldType.dataType = STRING;
+	break;
+
+case 771:
+	varWorldType.dataType = STRING;
+	break;
+
+case 772:
+	varWorldType.dataType = STRING;
+	break;
+
+case 773:
+	varWorldType.dataType = STRING;
+	break;
+
+case 774:
+	varWorldType.dataType = STRING;
+	break;
+
+case 775:
+	varWorldType.dataType = STRING;
+	break;
+
+case 776:
+	varWorldType.dataType = STRING;
+	break;
+
+case 777:
+	varWorldType.dataType = STRING;
+	break;
+
+case 778:
+	varWorldType.dataType = STRING;
+	break;
+
+case 779:
+	varWorldType.dataType = STRING;
+	break;
+
+case 780:
+	varWorldType.dataType = STRING;
+	break;
+
+case 781:
+	varWorldType.dataType = STRING;
+	break;
+
+case 782:
+	varWorldType.dataType = STRING;
+	break;
+
+case 783:
+	varWorldType.dataType = STRING;
+	break;
+
+case 784:
+	varWorldType.dataType = INT;
+	break;
+
+case 785:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 786:
+	varWorldType.dataType = INT;
+	break;
+
+case 787:
+	varWorldType.dataType = INT;
+	break;
+
+case 788:
+	varWorldType.dataType = INT;
+	break;
+
+case 789:
+	varWorldType.dataType = INT;
+	break;
+
+case 790:
+	varWorldType.dataType = INT;
+	break;
+
+case 791:
+	varWorldType.dataType = INT;
+	break;
+
+case 792:
+	varWorldType.dataType = INT;
+	break;
+
+case 793:
+	varWorldType.dataType = INT;
+	break;
+
+case 794:
+	varWorldType.dataType = INT;
+	break;
+
+case 795:
+	varWorldType.dataType = INT;
+	break;
+
+case 796:
+	varWorldType.dataType = INT;
+	break;
+
+case 797:
+	varWorldType.dataType = INT;
+	break;
+
+case 798:
+	varWorldType.dataType = INT;
+	break;
+
+case 799:
+	varWorldType.dataType = TILE;
+	break;
+
+case 800:
+	varWorldType.dataType = INT;
+	break;
+
+case 801:
+	varWorldType.dataType = INT;
+	break;
+
+case 802:
+	varWorldType.dataType = INT;
+	break;
+
+case 803:
+	varWorldType.dataType = INT;
+	break;
+
+case 804:
+	varWorldType.dataType = INT;
+	break;
+
+case 805:
+	varWorldType.dataType = INT;
+	break;
+
+case 806:
+	varWorldType.dataType = INT;
+	break;
+
+case 807:
+	varWorldType.dataType = INT;
+	break;
+
+case 808:
+	varWorldType.dataType = INT;
+	break;
+
+case 809:
+	varWorldType.dataType = INT;
+	break;
+
+case 810:
+	varWorldType.dataType = INT;
+	break;
+
+case 811:
+	varWorldType.dataType = INT;
+	break;
+
+case 812:
+	varWorldType.dataType = INT;
+	break;
+
+case 813:
+	varWorldType.dataType = INT;
+	break;
+
+case 814:
+	varWorldType.dataType = INT;
+	break;
+
+case 815:
+	varWorldType.dataType = INT;
+	break;
+
+case 816:
+	varWorldType.dataType = INT;
+	break;
+
+case 817:
+	varWorldType.dataType = TILE;
+	break;
+
+case 818:
+	varWorldType.dataType = INT;
+	break;
+
+case 819:
+	varWorldType.dataType = INT;
+	break;
+
+case 820:
+	varWorldType.dataType = INT;
+	break;
+
+case 821:
+	varWorldType.dataType = INT;
+	break;
+
+case 822:
+	varWorldType.dataType = INT;
+	break;
+
+case 823:
+	varWorldType.dataType = INT;
+	break;
+
+case 824:
+	varWorldType.dataType = INT;
+	break;
+
+case 825:
+	varWorldType.dataType = INT;
+	break;
+
+case 826:
+	varWorldType.dataType = INT;
+	break;
+
+case 827:
+	varWorldType.dataType = INT;
+	break;
+
+case 828:
+	varWorldType.dataType = INT;
+	break;
+
+case 829:
+	varWorldType.dataType = INT;
+	break;
+
+case 830:
+	varWorldType.dataType = INT;
+	break;
+
+case 831:
+	varWorldType.dataType = INT;
+	break;
+
+case 832:
+	varWorldType.dataType = INT;
+	break;
+
+case 833:
+	varWorldType.dataType = INT;
+	break;
+
+case 834:
+	varWorldType.dataType = INT;
+	break;
+
+case 835:
+	varWorldType.dataType = TILE;
+	break;
+
+case 836:
+	varWorldType.dataType = INT;
+	break;
+
+case 837:
+	varWorldType.dataType = INT;
+	break;
+
+case 838:
+	varWorldType.dataType = INT;
+	break;
+
+case 839:
+	varWorldType.dataType = INT;
+	break;
+
+case 840:
+	varWorldType.dataType = INT;
+	break;
+
+case 841:
+	varWorldType.dataType = INT;
+	break;
+
+case 842:
+	varWorldType.dataType = INT;
+	break;
+
+case 843:
+	varWorldType.dataType = INT;
+	break;
+
+case 844:
+	varWorldType.dataType = INT;
+	break;
+
+case 845:
+	varWorldType.dataType = INT;
+	break;
+
+case 846:
+	varWorldType.dataType = INT;
+	break;
+
+case 847:
+	varWorldType.dataType = INT;
+	break;
+
+case 848:
+	varWorldType.dataType = INT;
+	break;
+
+case 849:
+	varWorldType.dataType = INT;
+	break;
+
+case 850:
+	varWorldType.dataType = INT;
+	break;
+
+case 851:
+	varWorldType.dataType = INT;
+	break;
+
+case 852:
+	varWorldType.dataType = INT;
+	break;
+
+case 853:
+	varWorldType.dataType = TILE;
+	break;
+
+case 854:
+	varWorldType.dataType = INT;
+	break;
+
+case 855:
+	varWorldType.dataType = INT;
+	break;
+
+case 856:
+	varWorldType.dataType = INT;
+	break;
+
+case 857:
+	varWorldType.dataType = INT;
+	break;
+
+case 858:
+	varWorldType.dataType = INT;
+	break;
+
+case 859:
+	varWorldType.dataType = INT;
+	break;
+
+case 860:
+	varWorldType.dataType = INT;
+	break;
+
+case 861:
+	varWorldType.dataType = INT;
+	break;
+
+case 862:
+	varWorldType.dataType = INT;
+	break;
+
+case 863:
+	varWorldType.dataType = INT;
+	break;
+
+case 864:
+	varWorldType.dataType = INT;
+	break;
+
+case 865:
+	varWorldType.dataType = INT;
+	break;
+
+case 866:
+	varWorldType.dataType = INT;
+	break;
+
+case 867:
+	varWorldType.dataType = INT;
+	break;
+
+case 868:
+	varWorldType.dataType = INT;
+	break;
+
+case 869:
+	varWorldType.dataType = INT;
+	break;
+
+case 870:
+	varWorldType.dataType = INT;
+	break;
+
+case 871:
+	varWorldType.dataType = TILE;
+	break;
+
+case 872:
+	varWorldType.dataType = INT;
+	break;
+
+case 873:
+	varWorldType.dataType = INT;
+	break;
+
+case 874:
+	varWorldType.dataType = INT;
+	break;
+
+case 875:
+	varWorldType.dataType = INT;
+	break;
+
+case 876:
+	varWorldType.dataType = INT;
+	break;
+
+case 877:
+	varWorldType.dataType = INT;
+	break;
+
+case 878:
+	varWorldType.dataType = INT;
+	break;
+
+case 879:
+	varWorldType.dataType = INT;
+	break;
+
+case 880:
+	varWorldType.dataType = INT;
+	break;
+
+case 881:
+	varWorldType.dataType = INT;
+	break;
+
+case 882:
+	varWorldType.dataType = INT;
+	break;
+
+case 883:
+	varWorldType.dataType = INT;
+	break;
+
+case 884:
+	varWorldType.dataType = INT;
+	break;
+
+case 885:
+	varWorldType.dataType = INT;
+	break;
+
+case 886:
+	varWorldType.dataType = INT;
+	break;
+
+case 887:
+	varWorldType.dataType = INT;
+	break;
+
+case 888:
+	varWorldType.dataType = INT;
+	break;
+
+case 889:
+	varWorldType.dataType = TILE;
+	break;
+
+case 890:
+	varWorldType.dataType = INT;
+	break;
+
+case 891:
+	varWorldType.dataType = INT;
+	break;
+
+case 892:
+	varWorldType.dataType = INT;
+	break;
+
+case 893:
+	varWorldType.dataType = INT;
+	break;
+
+case 894:
+	varWorldType.dataType = INT;
+	break;
+
+case 895:
+	varWorldType.dataType = INT;
+	break;
+
+case 896:
+	varWorldType.dataType = INT;
+	break;
+
+case 897:
+	varWorldType.dataType = INT;
+	break;
+
+case 898:
+	varWorldType.dataType = INT;
+	break;
+
+case 899:
+	varWorldType.dataType = INT;
+	break;
+
+case 900:
+	varWorldType.dataType = INT;
+	break;
+
+case 901:
+	varWorldType.dataType = INT;
+	break;
+
+case 902:
+	varWorldType.dataType = INT;
+	break;
+
+case 903:
+	varWorldType.dataType = INT;
+	break;
+
+case 904:
+	varWorldType.dataType = INT;
+	break;
+
+case 905:
+	varWorldType.dataType = INT;
+	break;
+
+case 906:
+	varWorldType.dataType = INT;
+	break;
+
+case 907:
+	varWorldType.dataType = TILE;
+	break;
+
+case 908:
+	varWorldType.dataType = INT;
+	break;
+
+case 909:
+	varWorldType.dataType = INT;
+	break;
+
+case 910:
+	varWorldType.dataType = INT;
+	break;
+
+case 911:
+	varWorldType.dataType = INT;
+	break;
+
+case 912:
+	varWorldType.dataType = INT;
+	break;
+
+case 913:
+	varWorldType.dataType = INT;
+	break;
+
+case 914:
+	varWorldType.dataType = INT;
+	break;
+
+case 915:
+	varWorldType.dataType = INT;
+	break;
+
+case 916:
+	varWorldType.dataType = INT;
+	break;
+
+case 917:
+	varWorldType.dataType = INT;
+	break;
+
+case 918:
+	varWorldType.dataType = INT;
+	break;
+
+case 919:
+	varWorldType.dataType = INT;
+	break;
+
+case 920:
+	varWorldType.dataType = INT;
+	break;
+
+case 921:
+	varWorldType.dataType = INT;
+	break;
+
+case 922:
+	varWorldType.dataType = INT;
+	break;
+
+case 923:
+	varWorldType.dataType = INT;
+	break;
+
+case 924:
+	varWorldType.dataType = INT;
+	break;
+
+case 925:
+	varWorldType.dataType = TILE;
+	break;
+
+case 926:
+	varWorldType.dataType = INT;
+	break;
+
+case 927:
+	varWorldType.dataType = INT;
+	break;
+
+case 928:
+	varWorldType.dataType = INT;
+	break;
+
+case 929:
+	varWorldType.dataType = INT;
+	break;
+
+case 930:
+	varWorldType.dataType = INT;
+	break;
+
+case 931:
+	varWorldType.dataType = INT;
+	break;
+
+case 932:
+	varWorldType.dataType = INT;
+	break;
+
+case 933:
+	varWorldType.dataType = INT;
+	break;
+
+case 934:
+	varWorldType.dataType = INT;
+	break;
+
+case 935:
+	varWorldType.dataType = INT;
+	break;
+
+case 936:
+	varWorldType.dataType = INT;
+	break;
+
+case 937:
+	varWorldType.dataType = INT;
+	break;
+
+case 938:
+	varWorldType.dataType = INT;
+	break;
+
+case 939:
+	varWorldType.dataType = INT;
+	break;
+
+case 940:
+	varWorldType.dataType = INT;
+	break;
+
+case 941:
+	varWorldType.dataType = INT;
+	break;
+
+case 942:
+	varWorldType.dataType = INT;
+	break;
+
+case 943:
+	varWorldType.dataType = TILE;
+	break;
+
+case 944:
+	varWorldType.dataType = INT;
+	break;
+
+case 945:
+	varWorldType.dataType = INT;
+	break;
+
+case 946:
+	varWorldType.dataType = INT;
+	break;
+
+case 947:
+	varWorldType.dataType = INT;
+	break;
+
+case 948:
+	varWorldType.dataType = INT;
+	break;
+
+case 949:
+	varWorldType.dataType = INT;
+	break;
+
+case 950:
+	varWorldType.dataType = INT;
+	break;
+
+case 951:
+	varWorldType.dataType = INT;
+	break;
+
+case 952:
+	varWorldType.dataType = INT;
+	break;
+
+case 953:
+	varWorldType.dataType = INT;
+	break;
+
+case 954:
+	varWorldType.dataType = INT;
+	break;
+
+case 955:
+	varWorldType.dataType = INT;
+	break;
+
+case 956:
+	varWorldType.dataType = INT;
+	break;
+
+case 957:
+	varWorldType.dataType = INT;
+	break;
+
+case 958:
+	varWorldType.dataType = INT;
+	break;
+
+case 959:
+	varWorldType.dataType = INT;
+	break;
+
+case 960:
+	varWorldType.dataType = INT;
+	break;
+
+case 961:
+	varWorldType.dataType = TILE;
+	break;
+
+case 962:
+	varWorldType.dataType = INT;
+	break;
+
+case 963:
+	varWorldType.dataType = INT;
+	break;
+
+case 964:
+	varWorldType.dataType = INT;
+	break;
+
+case 965:
+	varWorldType.dataType = INT;
+	break;
+
+case 966:
+	varWorldType.dataType = INT;
+	break;
+
+case 967:
+	varWorldType.dataType = INT;
+	break;
+
+case 968:
+	varWorldType.dataType = INT;
+	break;
+
+case 969:
+	varWorldType.dataType = INT;
+	break;
+
+case 970:
+	varWorldType.dataType = INT;
+	break;
+
+case 971:
+	varWorldType.dataType = INT;
+	break;
+
+case 972:
+	varWorldType.dataType = INT;
+	break;
+
+case 973:
+	varWorldType.dataType = INT;
+	break;
+
+case 974:
+	varWorldType.dataType = INT;
+	break;
+
+case 975:
+	varWorldType.dataType = INT;
+	break;
+
+case 976:
+	varWorldType.dataType = INT;
+	break;
+
+case 977:
+	varWorldType.dataType = INT;
+	break;
+
+case 978:
+	varWorldType.dataType = INT;
+	break;
+
+case 979:
+	varWorldType.dataType = TILE;
+	break;
+
+case 980:
+	varWorldType.dataType = INT;
+	break;
+
+case 981:
+	varWorldType.dataType = INT;
+	break;
+
+case 982:
+	varWorldType.dataType = INT;
+	break;
+
+case 983:
+	varWorldType.dataType = INT;
+	break;
+
+case 984:
+	varWorldType.dataType = INT;
+	break;
+
+case 985:
+	varWorldType.dataType = INT;
+	break;
+
+case 986:
+	varWorldType.dataType = INT;
+	break;
+
+case 987:
+	varWorldType.dataType = INT;
+	break;
+
+case 988:
+	varWorldType.dataType = INT;
+	break;
+
+case 989:
+	varWorldType.dataType = INT;
+	break;
+
+case 990:
+	varWorldType.dataType = INT;
+	break;
+
+case 991:
+	varWorldType.dataType = INT;
+	break;
+
+case 992:
+	varWorldType.dataType = INT;
+	break;
+
+case 993:
+	varWorldType.dataType = INT;
+	break;
+
+case 994:
+	varWorldType.dataType = INT;
+	break;
+
+case 995:
+	varWorldType.dataType = INT;
+	break;
+
+case 996:
+	varWorldType.dataType = INT;
+	break;
+
+case 997:
+	varWorldType.dataType = TILE;
+	break;
+
+case 998:
+	varWorldType.dataType = INT;
+	break;
+
+case 999:
+	varWorldType.dataType = INT;
+	break;
+
+case 1000:
+	varWorldType.dataType = INT;
+	break;
+
+case 1001:
+	varWorldType.dataType = INT;
+	break;
+
+case 1002:
+	varWorldType.dataType = INT;
+	break;
+
+case 1003:
+	varWorldType.dataType = INT;
+	break;
+
+case 1004:
+	varWorldType.dataType = INT;
+	break;
+
+case 1005:
+	varWorldType.dataType = INT;
+	break;
+
+case 1006:
+	varWorldType.dataType = INT;
+	break;
+
+case 1007:
+	varWorldType.dataType = INT;
+	break;
+
+case 1008:
+	varWorldType.dataType = INT;
+	break;
+
+case 1009:
+	varWorldType.dataType = INT;
+	break;
+
+case 1010:
+	varWorldType.dataType = INT;
+	break;
+
+case 1011:
+	varWorldType.dataType = INT;
+	break;
+
+case 1012:
+	varWorldType.dataType = INT;
+	break;
+
+case 1013:
+	varWorldType.dataType = INT;
+	break;
+
+case 1014:
+	varWorldType.dataType = INT;
+	break;
+
+case 1015:
+	varWorldType.dataType = TILE;
+	break;
+
+case 1016:
+	varWorldType.dataType = INT;
+	break;
+
+case 1017:
+	varWorldType.dataType = INT;
+	break;
+
+case 1018:
+	varWorldType.dataType = INT;
+	break;
+
+case 1019:
+	varWorldType.dataType = INT;
+	break;
+
+case 1020:
+	varWorldType.dataType = INT;
+	break;
+
+case 1021:
+	varWorldType.dataType = INT;
+	break;
+
+case 1022:
+	varWorldType.dataType = INT;
+	break;
+
+case 1023:
+	varWorldType.dataType = INT;
+	break;
+
+case 1024:
+	varWorldType.dataType = INT;
+	break;
+
+case 1025:
+	varWorldType.dataType = INT;
+	break;
+
+case 1026:
+	varWorldType.dataType = INT;
+	break;
+
+case 1027:
+	varWorldType.dataType = INT;
+	break;
+
+case 1028:
+	varWorldType.dataType = INT;
+	break;
+
+case 1029:
+	varWorldType.dataType = INT;
+	break;
+
+case 1030:
+	varWorldType.dataType = INT;
+	break;
+
+case 1031:
+	varWorldType.dataType = INT;
+	break;
+
+case 1032:
+	varWorldType.dataType = INT;
+	break;
+
+case 1033:
+	varWorldType.dataType = TILE;
+	break;
+
+case 1034:
+	varWorldType.dataType = INT;
+	break;
+
+case 1035:
+	varWorldType.dataType = INT;
+	break;
+
+case 1036:
+	varWorldType.dataType = INT;
+	break;
+
+case 1037:
+	varWorldType.dataType = INT;
+	break;
+
+case 1038:
+	varWorldType.dataType = INT;
+	break;
+
+case 1039:
+	varWorldType.dataType = INT;
+	break;
+
+case 1040:
+	varWorldType.dataType = INT;
+	break;
+
+case 1041:
+	varWorldType.dataType = INT;
+	break;
+
+case 1042:
+	varWorldType.dataType = INT;
+	break;
+
+case 1043:
+	varWorldType.dataType = INT;
+	break;
+
+case 1044:
+	varWorldType.dataType = INT;
+	break;
+
+case 1045:
+	varWorldType.dataType = INT;
+	break;
+
+case 1046:
+	varWorldType.dataType = INT;
+	break;
+
+case 1047:
+	varWorldType.dataType = INT;
+	break;
+
+case 1048:
+	varWorldType.dataType = INT;
+	break;
+
+case 1049:
+	varWorldType.dataType = INT;
+	break;
+
+case 1050:
+	varWorldType.dataType = INT;
+	break;
+
+case 1051:
+	varWorldType.dataType = TILE;
+	break;
+
+case 1052:
+	varWorldType.dataType = INT;
+	break;
+
+case 1053:
+	varWorldType.dataType = INT;
+	break;
+
+case 1054:
+	varWorldType.dataType = INT;
+	break;
+
+case 1055:
+	varWorldType.dataType = INT;
+	break;
+
+case 1056:
+	varWorldType.dataType = INT;
+	break;
+
+case 1057:
+	varWorldType.dataType = INT;
+	break;
+
+case 1058:
+	varWorldType.dataType = INT;
+	break;
+
+case 1059:
+	varWorldType.dataType = INT;
+	break;
+
+case 1060:
+	varWorldType.dataType = INT;
+	break;
+
+case 1061:
+	varWorldType.dataType = INT;
+	break;
+
+case 1062:
+	varWorldType.dataType = INT;
+	break;
+
+case 1063:
+	varWorldType.dataType = INT;
+	break;
+
+case 1064:
+	varWorldType.dataType = INT;
+	break;
+
+case 1065:
+	varWorldType.dataType = INT;
+	break;
+
+case 1066:
+	varWorldType.dataType = INT;
+	break;
+
+case 1067:
+	varWorldType.dataType = INT;
+	break;
+
+case 1068:
+	varWorldType.dataType = INT;
+	break;
+
+case 1069:
+	varWorldType.dataType = TILE;
+	break;
+
+case 1070:
+	varWorldType.dataType = INT;
+	break;
+
+case 1071:
+	varWorldType.dataType = INT;
+	break;
+
+case 1072:
+	varWorldType.dataType = INT;
+	break;
+
+case 1073:
+	varWorldType.dataType = INT;
+	break;
+
+case 1074:
+	varWorldType.dataType = INT;
+	break;
+
+case 1075:
+	varWorldType.dataType = INT;
+	break;
+
+case 1076:
+	varWorldType.dataType = INT;
+	break;
+
+case 1077:
+	varWorldType.dataType = INT;
+	break;
+
+case 1078:
+	varWorldType.dataType = INT;
+	break;
+
+case 1079:
+	varWorldType.dataType = INT;
+	break;
+
+case 1080:
+	varWorldType.dataType = INT;
+	break;
+
+case 1081:
+	varWorldType.dataType = INT;
+	break;
+
+case 1082:
+	varWorldType.dataType = INT;
+	break;
+
+case 1083:
+	varWorldType.dataType = INT;
+	break;
+
+case 1084:
+	varWorldType.dataType = INT;
+	break;
+
+case 1085:
+	varWorldType.dataType = INT;
+	break;
+
+case 1086:
+	varWorldType.dataType = INT;
+	break;
+
+case 1087:
+	varWorldType.dataType = TILE;
+	break;
+
+case 1088:
+	varWorldType.dataType = INT;
+	break;
+
+case 1089:
+	varWorldType.dataType = INT;
+	break;
+
+case 1090:
+	varWorldType.dataType = INT;
+	break;
+
+case 1091:
+	varWorldType.dataType = INT;
+	break;
+
+case 1092:
+	varWorldType.dataType = INT;
+	break;
+
+case 1093:
+	varWorldType.dataType = INT;
+	break;
+
+case 1094:
+	varWorldType.dataType = INT;
+	break;
+
+case 1095:
+	varWorldType.dataType = INT;
+	break;
+
+case 1096:
+	varWorldType.dataType = INT;
+	break;
+
+case 1097:
+	varWorldType.dataType = INT;
+	break;
+
+case 1098:
+	varWorldType.dataType = INT;
+	break;
+
+case 1099:
+	varWorldType.dataType = INT;
+	break;
+
+case 1100:
+	varWorldType.dataType = INT;
+	break;
+
+case 1101:
+	varWorldType.dataType = INT;
+	break;
+
+case 1102:
+	varWorldType.dataType = INT;
+	break;
+
+case 1103:
+	varWorldType.dataType = INT;
+	break;
+
+case 1104:
+	varWorldType.dataType = INT;
+	break;
+
+case 1105:
+	varWorldType.dataType = TILE;
+	break;
+
+case 1106:
+	varWorldType.dataType = INT;
+	break;
+
+case 1107:
+	varWorldType.dataType = INT;
+	break;
+
+case 1108:
+	varWorldType.dataType = INT;
+	break;
+
+case 1109:
+	varWorldType.dataType = INT;
+	break;
+
+case 1110:
+	varWorldType.dataType = INT;
+	break;
+
+case 1111:
+	varWorldType.dataType = INT;
+	break;
+
+case 1112:
+	varWorldType.dataType = INT;
+	break;
+
+case 1113:
+	varWorldType.dataType = INT;
+	break;
+
+case 1114:
+	varWorldType.dataType = INT;
+	break;
+
+case 1115:
+	varWorldType.dataType = INT;
+	break;
+
+case 1116:
+	varWorldType.dataType = INT;
+	break;
+
+case 1117:
+	varWorldType.dataType = INT;
+	break;
+
+case 1118:
+	varWorldType.dataType = INT;
+	break;
+
+case 1119:
+	varWorldType.dataType = INT;
+	break;
+
+case 1120:
+	varWorldType.dataType = INT;
+	break;
+
+case 1121:
+	varWorldType.dataType = INT;
+	break;
+
+case 1122:
+	varWorldType.dataType = INT;
+	break;
+
+case 1123:
+	varWorldType.dataType = TILE;
+	break;
+
+case 1124:
+	varWorldType.dataType = INT;
+	break;
+
+case 1125:
+	varWorldType.dataType = INT;
+	break;
+
+case 1126:
+	varWorldType.dataType = INT;
+	break;
+
+case 1127:
+	varWorldType.dataType = INT;
+	break;
+
+case 1128:
+	varWorldType.dataType = INT;
+	break;
+
+case 1129:
+	varWorldType.dataType = INT;
+	break;
+
+case 1130:
+	varWorldType.dataType = INT;
+	break;
+
+case 1131:
+	varWorldType.dataType = INT;
+	break;
+
+case 1132:
+	varWorldType.dataType = INT;
+	break;
+
+case 1133:
+	varWorldType.dataType = INT;
+	break;
+
+case 1134:
+	varWorldType.dataType = INT;
+	break;
+
+case 1135:
+	varWorldType.dataType = INT;
+	break;
+
+case 1136:
+	varWorldType.dataType = INT;
+	break;
+
+case 1137:
+	varWorldType.dataType = INT;
+	break;
+
+case 1138:
+	varWorldType.dataType = INT;
+	break;
+
+case 1139:
+	varWorldType.dataType = INT;
+	break;
+
+case 1140:
+	varWorldType.dataType = INT;
+	break;
+
+case 1141:
+	varWorldType.dataType = TILE;
+	break;
+
+case 1142:
+	varWorldType.dataType = INT;
+	break;
+
+case 1143:
+	varWorldType.dataType = INT;
+	break;
+
+case 1144:
+	varWorldType.dataType = INT;
+	break;
+
+case 1145:
+	varWorldType.dataType = INT;
+	break;
+
+case 1146:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 1147:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 1148:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 1149:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 1150:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 1151:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 1152:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 1153:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 1154:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 1155:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 1156:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 1157:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 1158:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 1159:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 1160:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 1161:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 1162:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 1163:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 1164:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 1165:
+	varWorldType.dataType = INT;
+	break;
+
+case 1166:
+	varWorldType.dataType = INT;
+	break;
+
+case 1167:
+	varWorldType.dataType = INT;
+	break;
+
+case 1168:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1169:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1170:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1171:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1172:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1173:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1174:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1175:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1176:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1177:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1178:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1179:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1180:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1181:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1182:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1183:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1184:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1185:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1186:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1187:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1188:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1189:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1190:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1191:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1192:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1193:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1194:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1195:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1196:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1197:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1198:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1199:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1200:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1201:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1202:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1203:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1204:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1205:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1206:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1207:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1208:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1209:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1210:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1211:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1212:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1213:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1214:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1215:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1216:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1217:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1218:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1219:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1220:
+	varWorldType.dataType = INT;
+	break;
+
+case 1221:
+	varWorldType.dataType = INT;
+	break;
+
+case 1222:
+	varWorldType.dataType = INT;
+	break;
+
+case 1223:
+	varWorldType.dataType = INT;
+	break;
+
+case 1224:
+	varWorldType.dataType = INT;
+	break;
+
+case 1225:
+	varWorldType.dataType = INT;
+	break;
+
+case 1226:
+	varWorldType.dataType = INT;
+	break;
+
+case 1227:
+	varWorldType.dataType = INT;
+	break;
+
+case 1228:
+	varWorldType.dataType = INT;
+	break;
+
+case 1229:
+	varWorldType.dataType = INT;
+	break;
+
+case 1230:
+	varWorldType.dataType = INT;
+	break;
+
+case 1231:
+	varWorldType.dataType = INT;
+	break;
+
+case 1232:
+	varWorldType.dataType = INT;
+	break;
+
+case 1233:
+	varWorldType.dataType = INT;
+	break;
+
+case 1234:
+	varWorldType.dataType = INT;
+	break;
+
+case 1235:
+	varWorldType.dataType = INT;
+	break;
+
+case 1236:
+	varWorldType.dataType = INT;
+	break;
+
+case 1237:
+	varWorldType.dataType = INT;
+	break;
+
+case 1238:
+	varWorldType.dataType = INT;
+	break;
+
+case 1239:
+	varWorldType.dataType = INT;
+	break;
+
+case 1240:
+	varWorldType.dataType = INT;
+	break;
+
+case 1241:
+	varWorldType.dataType = INT;
+	break;
+
+case 1242:
+	varWorldType.dataType = INT;
+	break;
+
+case 1243:
+	varWorldType.dataType = INT;
+	break;
+
+case 1244:
+	varWorldType.dataType = INT;
+	break;
+
+case 1245:
+	varWorldType.dataType = INT;
+	break;
+
+case 1246:
+	varWorldType.dataType = INT;
+	break;
+
+case 1247:
+	varWorldType.dataType = INT;
+	break;
+
+case 1248:
+	varWorldType.dataType = INT;
+	break;
+
+case 1249:
+	varWorldType.dataType = INT;
+	break;
+
+case 1250:
+	varWorldType.dataType = INT;
+	break;
+
+case 1251:
+	varWorldType.dataType = INT;
+	break;
+
+case 1252:
+	varWorldType.dataType = INT;
+	break;
+
+case 1253:
+	varWorldType.dataType = INT;
+	break;
+
+case 1254:
+	varWorldType.dataType = INT;
+	break;
+
+case 1255:
+	varWorldType.dataType = INT;
+	break;
+
+case 1256:
+	varWorldType.dataType = INT;
+	break;
+
+case 1257:
+	varWorldType.dataType = INT;
+	break;
+
+case 1258:
+	varWorldType.dataType = INT;
+	break;
+
+case 1259:
+	varWorldType.dataType = INT;
+	break;
+
+case 1260:
+	varWorldType.dataType = INT;
+	break;
+
+case 1261:
+	varWorldType.dataType = INT;
+	break;
+
+case 1262:
+	varWorldType.dataType = INT;
+	break;
+
+case 1263:
+	varWorldType.dataType = INT;
+	break;
+
+case 1264:
+	varWorldType.dataType = INT;
+	break;
+
+case 1265:
+	varWorldType.dataType = INT;
+	break;
+
+case 1266:
+	varWorldType.dataType = INT;
+	break;
+
+case 1267:
+	varWorldType.dataType = INT;
+	break;
+
+case 1268:
+	varWorldType.dataType = INT;
+	break;
+
+case 1269:
+	varWorldType.dataType = INT;
+	break;
+
+case 1270:
+	varWorldType.dataType = INT;
+	break;
+
+case 1271:
+	varWorldType.dataType = INT;
+	break;
+
+case 1272:
+	varWorldType.dataType = INT;
+	break;
+
+case 1273:
+	varWorldType.dataType = INT;
+	break;
+
+case 1274:
+	varWorldType.dataType = INT;
+	break;
+
+case 1275:
+	varWorldType.dataType = INT;
+	break;
+
+case 1276:
+	varWorldType.dataType = INT;
+	break;
+
+case 1277:
+	varWorldType.dataType = INT;
+	break;
+
+case 1278:
+	varWorldType.dataType = INT;
+	break;
+
+case 1279:
+	varWorldType.dataType = INT;
+	break;
+
+case 1280:
+	varWorldType.dataType = INT;
+	break;
+
+case 1281:
+	varWorldType.dataType = INT;
+	break;
+
+case 1282:
+	varWorldType.dataType = INT;
+	break;
+
+case 1283:
+	varWorldType.dataType = INT;
+	break;
+
+case 1284:
+	varWorldType.dataType = INT;
+	break;
+
+case 1285:
+	varWorldType.dataType = INT;
+	break;
+
+case 1286:
+	varWorldType.dataType = INT;
+	break;
+
+case 1287:
+	varWorldType.dataType = INT;
+	break;
+
+case 1288:
+	varWorldType.dataType = INT;
+	break;
+
+case 1289:
+	varWorldType.dataType = INT;
+	break;
+
+case 1290:
+	varWorldType.dataType = INT;
+	break;
+
+case 1291:
+	varWorldType.dataType = INT;
+	break;
+
+case 1292:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1293:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1294:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1295:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1296:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1297:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1298:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1299:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1300:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1301:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1302:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1303:
+	varWorldType.dataType = INT;
+	break;
+
+case 1304:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1305:
+	varWorldType.dataType = INT;
+	break;
+
+case 1306:
+	varWorldType.dataType = INT;
+	break;
+
+case 1307:
+	varWorldType.dataType = INT;
+	break;
+
+case 1308:
+	varWorldType.dataType = INT;
+	break;
+
+case 1309:
+	varWorldType.dataType = INT;
+	break;
+
+case 1310:
+	varWorldType.dataType = TILE;
+	break;
+
+case 1311:
+	varWorldType.dataType = INT;
+	break;
+
+case 1312:
+	varWorldType.dataType = INT;
+	break;
+
+case 1313:
+	varWorldType.dataType = INT;
+	break;
+
+case 1314:
+	varWorldType.dataType = INT;
+	break;
+
+case 1315:
+	varWorldType.dataType = INT;
+	break;
+
+case 1316:
+	varWorldType.dataType = INT;
+	break;
+
+case 1317:
+	varWorldType.dataType = INT;
+	break;
+
+case 1318:
+	varWorldType.dataType = INT;
+	break;
+
+case 1319:
+	varWorldType.dataType = INT;
+	break;
+
+case 1320:
+	varWorldType.dataType = BOOLEAN;
+	break;
+
+case 1321:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1322:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 1323:
+	varWorldType.dataType = INT;
+	break;
+
+case 1324:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1325:
+	varWorldType.dataType = TILE;
+	break;
+
+case 1326:
+	varWorldType.dataType = INT;
+	break;
+
+case 1327:
+	varWorldType.dataType = INT;
+	break;
+
+case 1328:
+	varWorldType.dataType = INT;
+	break;
+
+case 1329:
+	varWorldType.dataType = INT;
+	break;
+
+case 1330:
+	varWorldType.dataType = INT;
+	break;
+
+case 1331:
+	varWorldType.dataType = INT;
+	break;
+
+case 1332:
+	varWorldType.dataType = INT;
+	break;
+
+case 1333:
+	varWorldType.dataType = INT;
+	break;
+
+case 1334:
+	varWorldType.dataType = INT;
+	break;
+
+case 1335:
+	varWorldType.dataType = INT;
+	break;
+
+case 1336:
+	varWorldType.dataType = INT;
+	break;
+
+case 1337:
+	varWorldType.dataType = INT;
+	break;
+
+case 1338:
+	varWorldType.dataType = INT;
+	break;
+
+case 1339:
+	varWorldType.dataType = INT;
+	break;
+
+case 1340:
+	varWorldType.dataType = INT;
+	break;
+
+case 1341:
+	varWorldType.dataType = TILE;
+	break;
+
+case 1342:
+	varWorldType.dataType = INT;
+	break;
+
+case 1343:
+	varWorldType.dataType = INT;
+	break;
+
+case 1344:
+	varWorldType.dataType = INT;
+	break;
+
+case 1345:
+	varWorldType.dataType = INT;
+	break;
+
+case 1346:
+	varWorldType.dataType = INT;
+	break;
+
+case 1347:
+	varWorldType.dataType = INT;
+	break;
+
+case 1348:
+	varWorldType.dataType = INT;
+	break;
+
+case 1349:
+	varWorldType.dataType = INT;
+	break;
+
+case 1350:
+	varWorldType.dataType = INT;
+	break;
+
+case 1351:
+	varWorldType.dataType = INT;
+	break;
+
+case 1352:
+	varWorldType.dataType = INT;
+	break;
+
+case 1353:
+	varWorldType.dataType = INT;
+	break;
+
+case 1354:
+	varWorldType.dataType = INT;
+	break;
+
+case 1355:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1356:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1357:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1358:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1359:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1360:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1361:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1362:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1363:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1364:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1365:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1366:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1367:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1368:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1369:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1370:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1371:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1372:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1373:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1374:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1375:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1376:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1377:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1378:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1379:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1380:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1381:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1382:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1383:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1384:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1385:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1386:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1387:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1388:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1389:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1390:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1391:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1392:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1393:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1394:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1395:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1396:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1397:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1398:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1399:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1400:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1401:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1402:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1403:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1404:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1405:
+	varWorldType.dataType = INT;
+	break;
+
+case 1406:
+	varWorldType.dataType = BOOLEAN;
+	break;
+
+case 1407:
+	varWorldType.dataType = INT;
+	break;
+
+case 1408:
+	varWorldType.dataType = INT;
+	break;
+
+case 1409:
+	varWorldType.dataType = INT;
+	break;
+
+case 1410:
+	varWorldType.dataType = INT;
+	break;
+
+case 1411:
+	varWorldType.dataType = INT;
+	break;
+
+case 1412:
+	varWorldType.dataType = INT;
+	break;
+
+case 1413:
+	varWorldType.dataType = INT;
+	break;
+
+case 1414:
+	varWorldType.dataType = INT;
+	break;
+
+case 1415:
+	varWorldType.dataType = INT;
+	break;
+
+case 1416:
+	varWorldType.dataType = INT;
+	break;
+
+case 1417:
+	varWorldType.dataType = INT;
+	break;
+
+case 1418:
+	varWorldType.dataType = INT;
+	break;
+
+case 1419:
+	varWorldType.dataType = INT;
+	break;
+
+case 1420:
+	varWorldType.dataType = INT;
+	break;
+
+case 1421:
+	varWorldType.dataType = INT;
+	break;
+
+case 1422:
+	varWorldType.dataType = INT;
+	break;
+
+case 1423:
+	varWorldType.dataType = INT;
+	break;
+
+case 1424:
+	varWorldType.dataType = INT;
+	break;
+
+case 1425:
+	varWorldType.dataType = INT;
+	break;
+
+case 1426:
+	varWorldType.dataType = INT;
+	break;
+
+case 1427:
+	varWorldType.dataType = INT;
+	break;
+
+case 1428:
+	varWorldType.dataType = INT;
+	break;
+
+case 1429:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1430:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1431:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1432:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1433:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1434:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1435:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1436:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1437:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1438:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1439:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1440:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1441:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1442:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1443:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1444:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1445:
+	varWorldType.dataType = INT;
+	break;
+
+case 1446:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1447:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1448:
+	varWorldType.dataType = INT;
+	break;
+
+case 1449:
+	varWorldType.dataType = INT;
+	break;
+
+case 1450:
+	varWorldType.dataType = INT;
+	break;
+
+case 1451:
+	varWorldType.dataType = INT;
+	break;
+
+case 1452:
+	varWorldType.dataType = INT;
+	break;
+
+case 1453:
+	varWorldType.dataType = INT;
+	break;
+
+case 1454:
+	varWorldType.dataType = INT;
+	break;
+
+case 1455:
+	varWorldType.dataType = INT;
+	break;
+
+case 1456:
+	varWorldType.dataType = INT;
+	break;
+
+case 1457:
+	varWorldType.dataType = INT;
+	break;
+
+case 1458:
+	varWorldType.dataType = INT;
+	break;
+
+case 1459:
+	varWorldType.dataType = INT;
+	break;
+
+case 1460:
+	varWorldType.dataType = INT;
+	break;
+
+case 1461:
+	varWorldType.dataType = INT;
+	break;
+
+case 1462:
+	varWorldType.dataType = INT;
+	break;
+
+case 1463:
+	varWorldType.dataType = INT;
+	break;
+
+case 1464:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1465:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1466:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1467:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1468:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1469:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1470:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1471:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1472:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1473:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1474:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1475:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1476:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1477:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1478:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1479:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1480:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1481:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1482:
+	varWorldType.dataType = OBJ;
+	break;
+
+case 1483:
+	varWorldType.dataType = INT;
+	break;
+
+case 1484:
+	varWorldType.dataType = BOOLEAN;
+	break;
+
+case 1485:
+	varWorldType.dataType = INT;
+	break;
+
+case 1486:
+	varWorldType.dataType = INT;
+	break;
+
+case 1487:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1488:
+	varWorldType.dataType = TILE;
+	break;
+
+case 1489:
+	varWorldType.dataType = INT;
+	break;
+
+case 1490:
+	varWorldType.dataType = STRING;
+	break;
+
+case 1491:
+	varWorldType.dataType = INT;
+	break;
+
+case 1492:
+	varWorldType.dataType = INT;
+	break;
+
+case 1493:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1494:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1495:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1496:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1497:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1498:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1499:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1500:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1501:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1502:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1503:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1504:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1505:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1506:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1507:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1508:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1509:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1510:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1511:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1512:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1513:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1514:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1515:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1516:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1517:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1518:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1519:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1520:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1521:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1522:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1523:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1524:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1525:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1526:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1527:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1528:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1529:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1530:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1531:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1532:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1533:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1534:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1535:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1536:
+	varWorldType.dataType = INT;
+	break;
+
+case 1537:
+	varWorldType.dataType = INT;
+	break;
+
+case 1538:
+	varWorldType.dataType = INT;
+	break;
+
+case 1539:
+	varWorldType.dataType = INT;
+	break;
+
+case 1540:
+	varWorldType.dataType = INT;
+	break;
+
+case 1541:
+	varWorldType.dataType = INT;
+	break;
+
+case 1542:
+	varWorldType.dataType = INT;
+	break;
+
+case 1543:
+	varWorldType.dataType = INT;
+	break;
+
+case 1544:
+	varWorldType.dataType = INT;
+	break;
+
+case 1545:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 1546:
+	varWorldType.dataType = INT;
+	break;
+
+case 1547:
+	varWorldType.dataType = INT;
+	break;
+
+case 1548:
+	varWorldType.dataType = INT;
+	break;
+
+case 1549:
+	varWorldType.dataType = INT;
+	break;
+
+case 1550:
+	varWorldType.dataType = INT;
+	break;
+
+case 1551:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1552:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1553:
+	varWorldType.dataType = INT;
+	break;
+
+case 1554:
+	varWorldType.dataType = INT;
+	break;
+
+case 1555:
+	varWorldType.dataType = INT;
+	break;
+
+case 1556:
+	varWorldType.dataType = INT;
+	break;
+
+case 1557:
+	varWorldType.dataType = INT;
+	break;
+
+case 1558:
+	varWorldType.dataType = INT;
+	break;
+
+case 1559:
+	varWorldType.dataType = INT;
+	break;
+
+case 1560:
+	varWorldType.dataType = INT;
+	break;
+
+case 1561:
+	varWorldType.dataType = INT;
+	break;
+
+case 1562:
+	varWorldType.dataType = INT;
+	break;
+
+case 1563:
+	varWorldType.dataType = INT;
+	break;
+
+case 1564:
+	varWorldType.dataType = INT;
+	break;
+
+case 1565:
+	varWorldType.dataType = INT;
+	break;
+
+case 1566:
+	varWorldType.dataType = INT;
+	break;
+
+case 1567:
+	varWorldType.dataType = INT;
+	break;
+
+case 1568:
+	varWorldType.dataType = INT;
+	break;
+
+case 1569:
+	varWorldType.dataType = INT;
+	break;
+
+case 1570:
+	varWorldType.dataType = INT;
+	break;
+
+case 1571:
+	varWorldType.dataType = INT;
+	break;
+
+case 1572:
+	varWorldType.dataType = INT;
+	break;
+
+case 1573:
+	varWorldType.dataType = INT;
+	break;
+
+case 1574:
+	varWorldType.dataType = INT;
+	break;
+
+case 1575:
+	varWorldType.dataType = INT;
+	break;
+
+case 1576:
+	varWorldType.dataType = INT;
+	break;
+
+case 1577:
+	varWorldType.dataType = INT;
+	break;
+
+case 1578:
+	varWorldType.dataType = INT;
+	break;
+
+case 1579:
+	varWorldType.dataType = TILE;
+	break;
+
+case 1580:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1581:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1582:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1583:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1584:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1585:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1586:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1587:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1588:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1589:
+	varWorldType.dataType = TYPE_38;
+	break;
+
+case 1590:
+	varWorldType.dataType = INT;
+	break;
+
+case 1591:
+	varWorldType.dataType = INT;
+	break;
+
+case 1592:
+	varWorldType.dataType = INT;
+	break;
+
+case 1593:
+	varWorldType.dataType = INT;
+	break;
+
+case 1594:
+	varWorldType.dataType = INT;
+	break;
+
+case 1595:
+	varWorldType.dataType = INT;
+	break;
+
+case 1596:
+	varWorldType.dataType = INT;
+	break;
+
+case 1597:
+	varWorldType.dataType = INT;
+	break;
+
+case 1598:
+	varWorldType.dataType = INT;
+	break;
+
+case 1599:
+	varWorldType.dataType = INT;
+	break;
+
+case 1600:
+	varWorldType.dataType = INT;
+	break;
+
+case 1601:
+	varWorldType.dataType = INT;
+	break;
+
+case 1602:
+	varWorldType.dataType = INT;
+	break;
+
+case 1603:
+	varWorldType.dataType = INT;
+	break;
+
+case 1604:
+	varWorldType.dataType = INT;
+	break;
+
+case 1605:
+	varWorldType.dataType = INT;
+	break;
+
+case 1606:
+	varWorldType.dataType = INT;
+	break;
+
+case 1607:
+	varWorldType.dataType = INT;
+	break;
+
+case 1608:
+	varWorldType.dataType = INT;
+	break;
+
+case 1609:
+	varWorldType.dataType = DESCRIPTION;
+	break;
+
+case 1610:
+	varWorldType.dataType = INT;
+	break;

@@ -1,0 +1,10 @@
+id=13280
+name=Thok, Master of Dungeoneering
+description=The self-proclaimed master of festivities.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Xmas 2010"]
+aggressive=false
+members=false

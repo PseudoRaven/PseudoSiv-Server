@@ -1,0 +1,10 @@
+id=8864
+name=Hank
+description=A product of a consumerist society.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

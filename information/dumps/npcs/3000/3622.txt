@@ -1,0 +1,17 @@
+id=3622
+name=Zombie
+description=I wonder if he'd let me borrow his hatchet?
+size=1
+xp=42.6
+lifepoints=1000
+level=28
+attack=20
+defence=20
+ranged=1
+magic=1
+animations={death:5575,attack:5571}
+attackable=true
+poisonous=false
+slayercat=Zombies
+areas=["Swamp"]
+aggressive=false

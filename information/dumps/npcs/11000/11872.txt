@@ -1,0 +1,17 @@
+id=11872
+name=Yk'Lagor the Thunderous
+description=A demon used to barking orders to its warriors.
+size=5
+xp=838.2
+lifepoints=10500
+level=98
+attack=70
+defence=70
+ranged=70
+magic=70
+animations={death:16988,attack:19589}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

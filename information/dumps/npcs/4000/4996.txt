@@ -1,0 +1,17 @@
+id=4996
+name=Guard
+description=He looks a bit aggressive.
+size=1
+xp=51.9
+lifepoints=1250
+level=35
+attack=25
+defence=25
+ranged=0
+magic=0
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface","Mine"]
+aggressive=false

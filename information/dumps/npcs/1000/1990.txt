@@ -1,0 +1,11 @@
+id=1990
+name=Sphinx
+description=An awe inspiring combination of a lady, a lion and an eagle.
+xp=33.9
+animations={}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

@@ -1,0 +1,17 @@
+id=20961
+name=Timid jadinko
+description=A jadinko created by the Easter Bunny to carry eggs.
+size=1
+xp=46.3
+lifepoints=1000
+level=14
+attack=0
+defence=10
+ranged=10
+magic=0
+animations={range:3031,death:3011,attack:3009}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

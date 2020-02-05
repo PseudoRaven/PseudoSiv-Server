@@ -1,0 +1,16 @@
+id=11087
+name=Submastyx
+description=A big, slow creature with a tough leathery hide. (Tier 2)
+size=3
+xp=24.9
+lifepoints=90
+level=2
+attack=1
+defence=2
+ranged=1
+magic=1
+animations={death:13262,attack:13255}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

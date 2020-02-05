@@ -1,0 +1,10 @@
+id=14754
+name=Zimberfizz
+description=Dressed up for the occasion.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Xmas 2011"]
+aggressive=false
+members=false

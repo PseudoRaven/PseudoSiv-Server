@@ -1,0 +1,10 @@
+id=16974
+name=Druidess
+description=A druid tending to Guthix's shrine.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Guthixian ruins"]
+aggressive=false
+members=false

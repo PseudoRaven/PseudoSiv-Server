@@ -1,0 +1,10 @@
+id=20790
+name=Jeremy Clerksin
+description=Rather more tired than most.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["New Varrock"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=190
+name=Monk of Zamorak
+description=A Zamorakian human cleric.
+size=1
+xp=95.4
+lifepoints=1950
+level=54
+attack=1
+defence=39
+ranged=1
+magic=39
+animations={range:18261,death:836}
+attackable=true
+poisonous=false
+weakness="Thrown"
+areas=["Taverley Dungeon","Chaos tunnels"]
+aggressive=false

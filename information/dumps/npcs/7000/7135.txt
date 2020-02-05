@@ -1,0 +1,16 @@
+id=7135
+name=Ork legion
+description=Aww, aren't they the cutest li- Argh!
+size=1
+xp=283.2
+lifepoints=3500
+level=86
+attack=68
+defence=57
+ranged=68
+magic=1
+animations={death:8761,attack:8760}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=true

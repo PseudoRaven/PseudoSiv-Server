@@ -1,0 +1,10 @@
+id=3101
+name=Graveyard Guardian
+description=A guardian of the arena.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Mage Training Arena"]
+aggressive=false
+members=true

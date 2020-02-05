@@ -1,0 +1,17 @@
+id=7373
+name=Ravenous locust
+description=It's like a little stomach on wings.
+size=1
+xp=367.2
+lifepoints=8000
+level=82
+attack=63
+defence=56
+ranged=63
+magic=63
+animations={death:7996,attack:7994}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

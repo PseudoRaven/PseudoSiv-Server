@@ -1,0 +1,10 @@
+id=16864
+name=Frog Princess
+description=What a nice dress!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Enchanted valley"]
+aggressive=false
+members=false

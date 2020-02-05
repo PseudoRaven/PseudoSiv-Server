@@ -1,0 +1,10 @@
+id=20205
+name=Maria
+description=A dishevelled-looking servant.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

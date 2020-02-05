@@ -1,0 +1,11 @@
+id=9123
+name=Fremennik warrior
+description=A hardy defender of Rellekka.
+xp=86.7
+animations={}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["Rellekka"]
+aggressive=true
+members=false

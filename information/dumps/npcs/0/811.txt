@@ -1,0 +1,10 @@
+id=811
+name=Stanford
+description=He looks like he spends a lot of time outdoors.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

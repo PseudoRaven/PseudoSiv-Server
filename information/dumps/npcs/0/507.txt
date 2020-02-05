@@ -1,0 +1,17 @@
+id=507
+name=Nazastarool
+description=A giant zombie of huge strength and devastating power.
+size=2
+xp=136.3
+lifepoints=5000
+level=53
+attack=38
+defence=38
+ranged=0
+magic=0
+animations={death:5575,attack:5581}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

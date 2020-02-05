@@ -1,0 +1,17 @@
+id=19355
+name=General Graardor
+description=A huge war chief.
+size=3
+xp=8096.4
+lifepoints=100000
+level=210
+attack=85
+defence=72
+ranged=1
+magic=1
+animations={death:23699,attack:23697}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

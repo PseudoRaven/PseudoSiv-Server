@@ -1,0 +1,17 @@
+id=13866
+name=Red ranger
+description=A ranger aligned to the red team.
+size=1
+xp=0
+lifepoints=750
+level=30
+attack=1
+defence=10
+ranged=20
+magic=1
+animations={range:4633,death:4637}
+attackable=true
+poisonous=false
+weakness="Slashing"
+areas=[]
+aggressive=true

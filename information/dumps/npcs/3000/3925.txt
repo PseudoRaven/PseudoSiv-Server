@@ -1,0 +1,10 @@
+id=3925
+name=Tjorvi
+description=A subject of Miscellania.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Miscellania Underground"]
+aggressive=false
+members=false

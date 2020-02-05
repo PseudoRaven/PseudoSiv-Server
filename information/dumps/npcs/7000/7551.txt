@@ -1,0 +1,10 @@
+id=7551
+name=General Khazard
+description=He looks really nasty. Smells bad, too.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dominion Tower"]
+aggressive=false
+members=false

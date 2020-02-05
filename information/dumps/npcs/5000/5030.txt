@@ -1,0 +1,10 @@
+id=5030
+name=Captain Cain
+description=He looks pretty mean.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

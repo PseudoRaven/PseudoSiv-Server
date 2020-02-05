@@ -1,0 +1,10 @@
+id=787
+name=Civilian
+description=A citizen of Ardougne.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

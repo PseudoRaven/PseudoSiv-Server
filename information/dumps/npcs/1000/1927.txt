@@ -1,0 +1,10 @@
+id=1927
+name=Bandit
+description=A tough-looking criminal.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

@@ -1,0 +1,17 @@
+id=830
+name=Mercenary Captain
+description=He looks a bit aggressive.
+size=1
+xp=30.9
+lifepoints=1000
+level=15
+attack=1
+defence=20
+ranged=0
+magic=0
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface"]
+aggressive=false

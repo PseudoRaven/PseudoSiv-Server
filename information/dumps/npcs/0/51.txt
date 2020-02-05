@@ -1,0 +1,17 @@
+id=51
+name=Frost dragon
+description=A dragon covered in frost and ice.
+size=4
+xp=1032.7
+lifepoints=8500
+level=112
+attack=80
+defence=80
+ranged=80
+magic=80
+animations={range:13155,death:13153,attack:13151}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=["Asgarnian Ice Dungeon"]
+aggressive=true

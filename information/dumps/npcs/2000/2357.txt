@@ -1,0 +1,10 @@
+id=2357
+name=Gethin
+description=Looks like he knows his way around a kitchen.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

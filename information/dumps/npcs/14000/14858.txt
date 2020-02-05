@@ -1,0 +1,10 @@
+id=14858
+name=Alison Elmshaper
+description=A bowyer of extraordinary skill.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

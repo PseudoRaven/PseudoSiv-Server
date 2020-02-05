@@ -1,0 +1,10 @@
+id=16842
+name=Cap'n Arnav
+description=Distinctly piratical.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

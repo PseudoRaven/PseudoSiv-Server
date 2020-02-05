@@ -1,0 +1,17 @@
+id=14029
+name=Giant snail
+description=Eww.
+size=3
+xp=96.7
+lifepoints=3000
+level=84
+attack=22
+defence=30
+ranged=30
+magic=0
+animations={death:8144,attack:8143}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=false

@@ -1,0 +1,17 @@
+id=4470
+name=Tree spirit
+description=A very angry nymph.
+size=1
+xp=29.7
+lifepoints=450
+level=12
+attack=9
+defence=9
+ranged=0
+magic=0
+animations={death:97,attack:94}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=false

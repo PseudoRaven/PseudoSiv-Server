@@ -1,0 +1,17 @@
+id=11266
+name=Ravenous snail
+description=It looks hungry!
+size=1
+xp=79.8
+lifepoints=1750
+level=49
+attack=1
+defence=35
+ranged=35
+magic=1
+animations={range:8911,death:8144,attack:8143}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=false

@@ -1,0 +1,10 @@
+id=13760
+name=<col=ffffff>1337sp34kr<\/col>
+description=A player.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Daemonheim"]
+aggressive=false
+members=true

@@ -1,0 +1,16 @@
+id=1533
+name=Barricade
+description=Perfect for stopping the enemy.
+size=1
+xp=1257.4
+lifepoints=5000
+level=0
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

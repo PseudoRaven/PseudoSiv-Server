@@ -1,0 +1,10 @@
+id=5784
+name=Crate goblin
+description=Taking a terribly important box from one place to another.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dorgesh-Kaan"]
+aggressive=false
+members=true

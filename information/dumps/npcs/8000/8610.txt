@@ -1,0 +1,16 @@
+id=8610
+name=Zimberfizz
+description=Nomad's unfortunate minion.
+size=1
+xp=37.3
+lifepoints=100
+level=0
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:172,attack:6628}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

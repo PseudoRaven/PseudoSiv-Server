@@ -1,0 +1,10 @@
+id=9492
+name=Pikkenmix
+description=Pikkupstix's apprentice.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Clan Wars"]
+aggressive=false
+members=true

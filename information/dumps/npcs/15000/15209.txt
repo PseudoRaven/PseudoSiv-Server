@@ -1,0 +1,17 @@
+id=15209
+name=Har-Aken (Ranged Tentacle)
+description=This huge tentacle spits spines.
+size=2
+xp=564.3
+lifepoints=3800
+level=800
+attack=57
+defence=76
+ranged=76
+magic=0
+animations={death:16240,attack:16239}
+attackable=true
+poisonous=false
+weakness="Slashing"
+areas=[]
+aggressive=true

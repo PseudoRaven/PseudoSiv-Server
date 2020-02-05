@@ -1,0 +1,17 @@
+id=5529
+name=Yak
+description=A hairy, smelly, grazing animal.
+size=2
+xp=64.5
+lifepoints=1500
+level=42
+attack=30
+defence=30
+ranged=0
+magic=0
+animations={death:549,attack:580}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["RuneScape Surface"]
+aggressive=false

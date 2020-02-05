@@ -1,0 +1,10 @@
+id=13649
+name=Cloud spirit
+description=It looks like it should disperse at any moment.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Easter 2011"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=15956
+name=Goblin Raider
+description=He's committing smash and grab!
+size=1
+xp=24.9
+lifepoints=50
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:6182,attack:6184}
+attackable=true
+poisonous=false
+slayercat=Goblins
+areas=[]
+aggressive=false

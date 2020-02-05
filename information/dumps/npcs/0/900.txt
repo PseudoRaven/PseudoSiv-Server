@@ -1,0 +1,17 @@
+id=900
+name=Witch's experiment (fourth form)
+description=Looks unnatural.
+size=2
+xp=199.5
+lifepoints=7000
+level=49
+attack=35
+defence=35
+ranged=0
+magic=0
+animations={death:6558,attack:6559}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=false

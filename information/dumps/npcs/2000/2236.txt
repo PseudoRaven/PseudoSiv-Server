@@ -1,0 +1,17 @@
+id=2236
+name=Market Guard
+description=He guards the Draynor Market stalls from thieves.
+size=1
+xp=64.5
+lifepoints=1500
+level=42
+attack=30
+defence=30
+ranged=1
+magic=1
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=["RuneScape Surface","Draynor"]
+aggressive=false

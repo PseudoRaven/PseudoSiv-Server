@@ -1,0 +1,17 @@
+id=10460
+name=Ice elemental
+description=It's made out of blocks of ice.
+size=1
+xp=44.5
+lifepoints=900
+level=12
+attack=1
+defence=9
+ranged=9
+magic=1
+animations={death:11642,attack:11639}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=true

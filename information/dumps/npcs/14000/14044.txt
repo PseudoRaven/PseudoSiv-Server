@@ -1,0 +1,17 @@
+id=14044
+name=Held vampyre juvinate
+description=A juvinate vampyre, held in a powerful spell.
+size=1
+xp=63.9
+lifepoints=2000
+level=28
+attack=20
+defence=20
+ranged=0
+magic=0
+animations={death:836}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

@@ -1,0 +1,17 @@
+id=13229
+name=Lesser demon
+description=This demon is under Eruni's influence.
+size=2
+xp=201.3
+lifepoints=2750
+level=77
+attack=55
+defence=55
+ranged=0
+magic=0
+animations={death:67,attack:64}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=false

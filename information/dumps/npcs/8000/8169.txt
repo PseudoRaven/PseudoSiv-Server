@@ -1,0 +1,10 @@
+id=8169
+name=Arrav
+description=He has seen better, happier days.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Varrock"]
+aggressive=false
+members=false

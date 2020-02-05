@@ -1,0 +1,16 @@
+id=6514
+name=Living rock brawler
+description=A being of ore and minerals.
+size=1
+xp=24.9
+lifepoints=60
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:17860,attack:17862}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

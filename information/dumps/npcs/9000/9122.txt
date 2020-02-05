@@ -1,0 +1,11 @@
+id=9122
+name=Market guard
+description=Fighting to the death for his home and his family.
+xp=86.7
+animations={}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["Rellekka"]
+aggressive=true
+members=false

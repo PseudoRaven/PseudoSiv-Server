@@ -1,0 +1,17 @@
+id=9857
+name=Tome of Ranging
+description=An ancient tome filled with ranged combat secrets.
+size=1
+xp=25.8
+lifepoints=250
+level=7
+attack=5
+defence=5
+ranged=5
+magic=5
+animations={range:13480,death:13481,attack:13479}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

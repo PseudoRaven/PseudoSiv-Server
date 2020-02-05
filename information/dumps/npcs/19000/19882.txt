@@ -1,0 +1,10 @@
+id=19882
+name=Lord Crwys
+description=His skin has the texture of tree bark.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Prifddinas"]
+aggressive=false
+members=false

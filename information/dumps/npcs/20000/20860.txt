@@ -1,0 +1,10 @@
+id=20860
+name=Tiny Zemouregal
+description=Zemouregal's tiny minion.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["New Varrock"]
+aggressive=false
+members=false

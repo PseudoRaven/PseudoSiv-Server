@@ -1,0 +1,17 @@
+id=5595
+name=Swordchick
+description=Definitely not a chicken or a swordfish.
+size=1
+xp=125.7
+lifepoints=2250
+level=63
+attack=45
+defence=45
+ranged=0
+magic=0
+animations={death:5389,attack:5387}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=false

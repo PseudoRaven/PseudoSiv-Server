@@ -1,0 +1,17 @@
+id=11183
+name=Adept skinweaver
+description=Trained from birth to bind wounds and heal. (Tier 9)
+size=1
+xp=693.9
+lifepoints=9000
+level=100
+attack=72
+defence=72
+ranged=72
+magic=72
+animations={range:13620,death:13675,attack:13620}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

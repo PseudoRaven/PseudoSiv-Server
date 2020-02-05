@@ -1,0 +1,17 @@
+id=5144
+name=Double agent
+description=He's playing both sides!
+size=1
+xp=301.9
+lifepoints=8000
+level=77
+attack=55
+defence=55
+ranged=1
+magic=55
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=false

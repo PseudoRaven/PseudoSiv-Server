@@ -1,0 +1,17 @@
+id=643
+name=Weaponsmaster
+description=Looks kind of obsessive...
+size=1
+xp=54.9
+lifepoints=1500
+level=21
+attack=15
+defence=15
+ranged=0
+magic=0
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface"]
+aggressive=false

@@ -1,0 +1,10 @@
+id=2098
+name=Brown Engine Secretary
+description=The head secretary of the Brown Engine mining company.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

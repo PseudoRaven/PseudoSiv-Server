@@ -1,0 +1,10 @@
+id=4977
+name=Female slave
+description=She looks like she's been down here a long time.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Mine"]
+aggressive=true
+members=false

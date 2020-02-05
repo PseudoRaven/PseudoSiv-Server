@@ -1,0 +1,10 @@
+id=14628
+name=Musician
+description=She's playing a violin.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

@@ -1,0 +1,17 @@
+id=5920
+name=Guard
+description=He tries to keep order around here. His bizarre uniform isn't helping.
+size=1
+xp=39.6
+lifepoints=900
+level=25
+attack=18
+defence=18
+ranged=1
+magic=1
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=["Varrock","RuneScape Surface"]
+aggressive=false

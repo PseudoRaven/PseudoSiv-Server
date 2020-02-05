@@ -1,0 +1,17 @@
+id=2489
+name=Bush snake
+description=A slithering serpent that likes to hide in the bush.
+size=1
+xp=269.4
+lifepoints=3050
+level=85
+attack=1
+defence=61
+ranged=61
+magic=1
+animations={death:278,attack:275}
+attackable=true
+poisonous=true
+weakness="Slashing"
+areas=[]
+aggressive=false

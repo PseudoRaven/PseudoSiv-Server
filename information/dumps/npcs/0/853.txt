@@ -1,0 +1,11 @@
+id=853
+name=Og
+description=A senior member of the ogre community.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+slayercat=Ogres
+areas=["Yanille","RuneScape Surface"]
+aggressive=false
+members=false

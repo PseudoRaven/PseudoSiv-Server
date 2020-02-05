@@ -1,0 +1,10 @@
+id=13104
+name=Astlayrix
+description=He'll never give up and he'll never let you down.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

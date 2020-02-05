@@ -1,0 +1,16 @@
+id=16032
+name=Skeletal archer (ranged)
+description=Weak against melee.
+size=1
+xp=2502.4
+lifepoints=10000
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

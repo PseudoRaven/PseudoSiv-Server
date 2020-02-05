@@ -1,0 +1,11 @@
+id=8231
+name=Mystic
+description=He worships the spirits of the Wilderness.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+slayercat=Goblins
+areas=["Asgarnian Ice Dungeon"]
+aggressive=false
+members=false

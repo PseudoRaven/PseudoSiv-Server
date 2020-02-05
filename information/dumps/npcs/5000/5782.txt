@@ -1,0 +1,10 @@
+id=5782
+name=Mernik
+description=She looks after the kiddies.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dorgesh-Kaan"]
+aggressive=false
+members=true

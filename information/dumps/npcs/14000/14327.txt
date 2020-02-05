@@ -1,0 +1,10 @@
+id=14327
+name=Lady Table
+description=A Temple Knight archivist.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Temple Knight archives"]
+aggressive=false
+members=false

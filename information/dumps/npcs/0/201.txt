@@ -1,0 +1,17 @@
+id=201
+name=Jailer
+description=Guards prisoners for the black knights.
+size=1
+xp=58.5
+lifepoints=1400
+level=39
+attack=28
+defence=28
+ranged=1
+magic=1
+animations={death:21194,attack:21193}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=["Taverley Dungeon"]
+aggressive=false

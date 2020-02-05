@@ -1,0 +1,10 @@
+id=4962
+name=Captain Barnaby
+description=An old sailor.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Captain Barnaby's Ship"]
+aggressive=false
+members=false

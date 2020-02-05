@@ -1,0 +1,17 @@
+id=5593
+name=Frogeel
+description=Is it a frog, or is it an eel?
+size=2
+xp=151.8
+lifepoints=2450
+level=68
+attack=36
+defence=49
+ranged=49
+magic=0
+animations={death:5841,attack:5842}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=true

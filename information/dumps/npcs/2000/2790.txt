@@ -1,0 +1,10 @@
+id=2790
+name=Sergeant Damien
+description=Drill Sergeant from heck!
+xp=647.4
+animations={}
+attackable=true
+poisonous=false
+areas=["Assault course"]
+aggressive=false
+members=false

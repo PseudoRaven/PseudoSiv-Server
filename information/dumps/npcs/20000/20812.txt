@@ -1,0 +1,10 @@
+id=20812
+name=Moira
+description=Now forges documents for the Black Arm Gang.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["New Varrock"]
+aggressive=false
+members=false

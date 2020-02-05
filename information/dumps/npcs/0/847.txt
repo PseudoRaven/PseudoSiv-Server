@@ -1,0 +1,10 @@
+id=847
+name=Head chef
+description=Despite his name, rarely actually cooks heads.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=3590
+name=Steel dragon
+description=Its scales seem to be made of steel.
+size=2
+xp=0
+lifepoints=4750
+level=112
+attack=80
+defence=80
+ranged=1
+magic=80
+animations={range:14252,death:14248,attack:14247}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=[]
+aggressive=true

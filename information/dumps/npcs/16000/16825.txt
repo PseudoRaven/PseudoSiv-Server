@@ -1,0 +1,10 @@
+id=16825
+name=Gorajo hoardstalker
+description=A guardian of the sinkhole.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=true

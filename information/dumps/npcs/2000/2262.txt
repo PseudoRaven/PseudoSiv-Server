@@ -1,0 +1,10 @@
+id=2262
+name=Dark mage
+description=An initiate of Zamorak.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["The Abyss"]
+aggressive=false
+members=true

@@ -1,0 +1,17 @@
+id=7553
+name=General Khazard
+description=He looks really nasty. Smells bad, too.
+size=3
+xp=385.2
+lifepoints=6000
+level=84
+attack=60
+defence=60
+ranged=60
+magic=60
+animations={death:12215,attack:12023}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

@@ -1,0 +1,17 @@
+id=2029
+name=Torag the Corrupted
+description=A vengeful spirit corrupted by dark magic.
+size=1
+xp=838.2
+lifepoints=12000
+level=150
+attack=70
+defence=70
+ranged=1
+magic=1
+animations={death:836,attack:2068}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=true

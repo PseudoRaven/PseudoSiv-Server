@@ -1,0 +1,10 @@
+id=5084
+name=Sapphire glacialis
+description=A sapphire glacialis. It doesn't look as pretentious as its name sounds.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

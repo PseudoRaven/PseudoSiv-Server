@@ -1,0 +1,17 @@
+id=3063
+name=Jogre Champion
+description=Champion of the jogres.
+size=2
+xp=192
+lifepoints=2700
+level=75
+attack=54
+defence=54
+ranged=1
+magic=1
+animations={death:17506,attack:17505}
+attackable=true
+poisonous=true
+weakness="Fire"
+areas=[]
+aggressive=false

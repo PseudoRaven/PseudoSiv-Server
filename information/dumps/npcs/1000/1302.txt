@@ -1,0 +1,10 @@
+id=1302
+name=Fisherman
+description=There's something fishy about this guy.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

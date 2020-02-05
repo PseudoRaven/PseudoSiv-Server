@@ -1,0 +1,12 @@
+id=1555
+name=Arrg
+description=A massive, scary-looking troll.
+size=2
+xp=301.9
+animations={}
+attackable=true
+poisonous=false
+weakness="None"
+slayercat=Trolls
+areas=["Troll Stronghold"]
+aggressive=false

@@ -1,0 +1,16 @@
+diff a/src/net/nocturne/game/npc/combat/impl/KalphiteKingCombat.java b/src/net/nocturne/game/npc/combat/impl/KalphiteKingCombat.java	(rejected hunks)
+@@ -14,11 +14,14 @@
+ import net.nocturne.game.tasks.WorldTasksManager;
+ import net.nocturne.utils.Utils;
+ 
++<<<<<<< HEAD
+ import java.util.ArrayList;
+ import java.util.Collections;
+ import java.util.List;
+ 
+ @SuppressWarnings("RedundantCast")
++=======
++>>>>>>> parent of 4c3089f... massive code cleanup
+ public class KalphiteKingCombat extends CombatScript {
+ 
+ 	@Override

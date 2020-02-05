@@ -1,0 +1,10 @@
+id=1055
+name=Pirate Jackie the Fruit
+description=Ticket trader for the Brimhaven Agility Arena.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

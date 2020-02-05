@@ -1,0 +1,10 @@
+id=4505
+name=Ethereal Perceptive
+description=He knows what is possible.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dream world"]
+aggressive=false
+members=true

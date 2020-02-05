@@ -1,0 +1,10 @@
+id=605
+name=Sir Vyvin
+description=An elderly White Knight.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

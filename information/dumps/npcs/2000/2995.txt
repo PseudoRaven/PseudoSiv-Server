@@ -1,0 +1,10 @@
+id=2995
+name=Sagira
+description=Well tanned for someone who lives under a mountain.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Rat pit"]
+aggressive=false
+members=true

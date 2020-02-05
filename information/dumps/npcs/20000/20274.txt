@@ -1,0 +1,10 @@
+id=20274
+name=Light creature
+description=A shimmering creature of blue light.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Prifddinas"]
+aggressive=false
+members=false

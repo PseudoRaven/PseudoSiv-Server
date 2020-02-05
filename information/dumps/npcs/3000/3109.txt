@@ -1,0 +1,10 @@
+id=3109
+name=Guard Captain
+description=This guard looks rather drunk and has beer stains down his armour.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Yanille","RuneScape Surface"]
+aggressive=false
+members=true

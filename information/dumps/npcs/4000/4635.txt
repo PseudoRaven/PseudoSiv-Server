@@ -1,0 +1,10 @@
+id=4635
+name=Goblin
+description=An ugly green creature.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Battlefield"]
+aggressive=false
+members=false

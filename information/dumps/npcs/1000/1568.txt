@@ -1,0 +1,10 @@
+id=1568
+name=Curpile Fyod
+description=A typical, if overly heavy handed, jobs worth guard.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

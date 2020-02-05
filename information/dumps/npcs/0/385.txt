@@ -1,0 +1,10 @@
+id=385
+name=Kharid Scorpion
+description=Looks vicious!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Taverley Dungeon"]
+aggressive=false
+members=false

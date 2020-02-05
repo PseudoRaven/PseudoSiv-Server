@@ -1,0 +1,10 @@
+id=2093
+name=Yellow Fortune Secretary
+description=The head secretary of the Yellow Fortune mining company.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

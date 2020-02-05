@@ -1,0 +1,10 @@
+id=7150
+name=Gublinch jailmate
+description=An imprisoned gublinch.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Stronghold of Safety"]
+aggressive=false
+members=false

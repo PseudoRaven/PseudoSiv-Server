@@ -1,0 +1,17 @@
+id=15298
+name=A face only his mum loves
+description=He smell like Marm's socks. But worse!
+size=1
+xp=0
+lifepoints=8000
+level=98
+attack=70
+defence=70
+ranged=70
+magic=70
+animations={death:14500,attack:14503}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

@@ -1,0 +1,81 @@
+//RuneMysteries quest
+1634, 6175, 0 //RuneMysteries
+1636, 6112, 0 //RuneMysteries Stairs
+1696, 6112, 0 //RuneMysteries
+1692, 6176, 0 //RuneMysteries room with stairs
+
+//Side note, all of these coords are close there are also some corridors from the World Awakens quest in the same area
+//I found these ones the most interesting
+1703, 6051, 0 //Guthix's chamber empty
+1942, 5987, 0 //Guthix's chamber half-dead guthix
+2015, 5957, 1 //Guthix's dreamworld
+2184, 6075, 0 //Guthix's sword blinking red
+
+2212, 6220, 0 //Lumbridge crater Saradomin v Zamorak style
+2015, 6444, 0 //Lumbridge crater with Saradomin and Zamorak fighting. (4 times in a row towards east.)
+2346, 6191, 0 //Lumbridge crater empty
+2050, 6188, 0 //Lumbridge broken
+2475, 6419, 0 //part of Lumbridge before Crater
+
+2799, 6420, 0 //this one is from the battle between Armadyl and Bandos
+
+//Heart of Stone quest
+2016, 6633, 0 //WenKra
+2080, 6633, 0 //FulKra
+2145, 6633, 0 //JasKra
+2209, 6633, 0 //BikKra
+2273, 6633, 0 //a stone (same chamber style as Wenkra, FulKra, etc)
+
+//Dishonour among Thieves quest
+//side note, close to these coords are all the corridors in the quest.
+3550, 6303, 0 //Stone of Jas
+3424, 6318, 0 //Stone of Jas again, this time on a hill.
+3488, 6169, 0 //Main chamber
+
+//Fate of the Gods quest
+3943, 6276, 0 //Mah world
+4059, 6233, 0 //Memorial device for talking with Seren
+4060, 6308, 0 //Zaros chamber thing from the quest.
+4193, 6240, 0 //talking spot on the end of the quest
+4193, 6302, 0 // ^ same thing, only brighter
+4250, 6238, 0 //Mah taking a nap.
+4316, 6238, 0 // ^ same thing, no Mah
+4270, 6321, 0 //the elder halls
+
+1823, 6403, 0 // Carnillean Rising quest, Ardounge sewers
+2955, 6257, 0 //I don't know the name of this, some spooky new thing they made with corridors and a haunted house.
+1126, 5899, 0 //parts of Burthorpe (I think they use this for the intro video and in the cinematic trailer)
+
+2326, 5910, 0 //Barrows: Rise of the Six, The portal into the Shadow Realm
+2328, 6036, 1 //Shadow Realm
+
+3106, 6113, 0 //Vorago battle cave.
+3040, 6125, 0 //Vorago cave
+3096, 5984, 0 //Vorage end of battle
+3095, 6184, 0 //Vorage Rope Cave.
+
+4591, 6266, 1 //arraxor, arraxi whatever, fighting spot
+
+2914, 6092, 0 //some kind of dark corridor.
+2848, 6160, 0 //Grim Reepers house from recent holiday event
+3804, 6434, 0 //QUIZ thing they did, cant remember the name. (4 times in a row going east.)
+3712, 5568, 0 //spirit plane
+2444, 5426, 0 //New goblin village
+
+//old stuff
+2527, 5277, 0 //Easter '06
+2477, 5143, 0 //old tz-haar caves.
+2322, 5744, 0 //OLD OLD version of the Lumbridge (and a small part of the old al-kharid)
+2592, 5590, 0 //Santa claus house from an event
+3804, 5724, 0 //Construction home in the dark.
+
+1365, 5989, 0 //big chinchomba cave
+
+3588, 6734, 1 //Ashdale in the dark
+3872, 6819, 0 //Ashdale fighting cave octupus
+4156, 6775, 0 //Ashdale sewers
+
+3553, 5981, 1//penguin quest (cant remember name)
+3561, 5800, 0 //inside of a submarine
+3553, 5728, 0 //chuck the polarbear swimming in the water
+3627, 5730, 0 //submarine on desert island

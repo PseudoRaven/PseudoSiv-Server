@@ -1,0 +1,16 @@
+id=3614
+name=Vanescula Drakan
+description=Don't move. Maybe she won't be able to see you.
+size=1
+xp=0.2
+lifepoints=1
+level=424
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

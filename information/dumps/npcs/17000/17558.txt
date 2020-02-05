@@ -1,0 +1,10 @@
+id=17558
+name=Zamorak follower
+description=A firm believer in survival of the fittest, as long as it's skewed in his favour.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

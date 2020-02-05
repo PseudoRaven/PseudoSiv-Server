@@ -1,0 +1,10 @@
+id=514
+name=Seravel
+description=This is Seravel, he sells tickets for the 'Lady of the Waves'.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

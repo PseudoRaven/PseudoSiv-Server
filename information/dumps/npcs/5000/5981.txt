@@ -1,0 +1,10 @@
+id=5981
+name=Battle tortoise display
+description=A huge beast.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Varrock Museum"]
+aggressive=false
+members=false

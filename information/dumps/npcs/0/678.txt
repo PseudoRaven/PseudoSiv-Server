@@ -1,0 +1,10 @@
+id=678
+name=Guard
+description=Keeps order in the ranging guild.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

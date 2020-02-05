@@ -1,0 +1,16 @@
+id=14210
+name=Snow Fremennik
+description=A Heimland Games snowman.
+size=1
+xp=0.4
+lifepoints=30
+level=27
+attack=30
+defence=10
+ranged=1
+magic=30
+animations={death:7560,attack:7558}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

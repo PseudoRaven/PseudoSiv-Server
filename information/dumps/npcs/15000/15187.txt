@@ -1,0 +1,17 @@
+id=15187
+name=TokHaar-Ket Champion
+description=Larger and more ferocious than any of the other TokHaar-Ket.
+size=2
+xp=536.7
+lifepoints=3750
+level=105
+attack=75
+defence=75
+ranged=75
+magic=75
+animations={death:16181,attack:16180}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

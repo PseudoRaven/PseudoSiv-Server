@@ -1,0 +1,10 @@
+id=17131
+name=Murknose, Emissary of Bandos
+description=The emissary of Bandos.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

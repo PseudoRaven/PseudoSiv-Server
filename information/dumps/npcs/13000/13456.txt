@@ -1,0 +1,17 @@
+id=13456
+name=Ancient warrior
+description=He looks angry and dangerous!
+size=1
+xp=510.9
+lifepoints=3700
+level=103
+attack=74
+defence=74
+ranged=1
+magic=1
+animations={death:15238,attack:7048}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["God Wars Dungeon"]
+aggressive=true

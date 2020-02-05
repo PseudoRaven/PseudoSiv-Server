@@ -1,0 +1,17 @@
+id=6353
+name=Pirate
+description=This one's had too much to drink!
+size=1
+xp=48.9
+lifepoints=1150
+level=32
+attack=23
+defence=23
+ranged=1
+magic=1
+animations={death:7185,attack:7181}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=["Asgarnian Ice Dungeon","RuneScape Surface"]
+aggressive=false

@@ -1,0 +1,10 @@
+id=20285
+name=Harmony pillar farmer
+description=Shares the Meilyr clan's knowledge of potions...for a price.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Prifddinas"]
+aggressive=false
+members=false

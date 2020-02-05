@@ -1,0 +1,17 @@
+id=4548
+name=Wilson
+description=A pirate.
+size=1
+xp=36.6
+lifepoints=750
+level=21
+attack=15
+defence=15
+ranged=0
+magic=0
+animations={death:7185,attack:7181}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface"]
+aggressive=false

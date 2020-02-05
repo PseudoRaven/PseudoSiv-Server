@@ -1,0 +1,381 @@
+
+case 0:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 1:
+	varClansettingsType.dataType = STRING;
+	break;
+
+case 2:
+	varClansettingsType.dataType = CLAN_THREAD;
+	break;
+
+case 3:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 4:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 5:
+	varClansettingsType.lifeTime = PERMANENT;
+	varClansettingsType.dataType = INT;
+	break;
+
+case 6:
+	varClansettingsType.lifeTime = PERMANENT;
+	varClansettingsType.dataType = INT;
+	break;
+
+case 7:
+	varClansettingsType.lifeTime = PERMANENT;
+	varClansettingsType.dataType = INT;
+	break;
+
+case 8:
+	varClansettingsType.lifeTime = PERMANENT;
+	varClansettingsType.dataType = INT;
+	break;
+
+case 9:
+	varClansettingsType.lifeTime = PERMANENT;
+	varClansettingsType.dataType = INT;
+	break;
+
+case 10:
+	varClansettingsType.lifeTime = PERMANENT;
+	varClansettingsType.dataType = INT;
+	break;
+
+case 11:
+	varClansettingsType.lifeTime = PERMANENT;
+	varClansettingsType.dataType = INT;
+	break;
+
+case 12:
+	varClansettingsType.lifeTime = PERMANENT;
+	varClansettingsType.dataType = INT;
+	break;
+
+case 13:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 14:
+	varClansettingsType.lifeTime = PERMANENT;
+	varClansettingsType.dataType = INT;
+	break;
+
+case 15:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 16:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 17:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 18:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 19:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 20:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 21:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 22:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 23:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 24:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 25:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 26:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 27:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 28:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 29:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 30:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 31:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 32:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 33:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 34:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 35:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 36:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 37:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 38:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 39:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 40:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 41:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 42:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 43:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 44:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 45:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 46:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 47:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 48:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 49:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 50:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 51:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 52:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 53:
+	varClansettingsType.dataType = CLAN_THREAD;
+	break;
+
+case 54:
+	varClansettingsType.dataType = CLAN_THREAD;
+	break;
+
+case 55:
+	varClansettingsType.dataType = CLAN_THREAD;
+	break;
+
+case 56:
+	varClansettingsType.dataType = CLAN_THREAD;
+	break;
+
+case 57:
+	varClansettingsType.dataType = CLAN_THREAD;
+	break;
+
+case 58:
+	varClansettingsType.dataType = CLAN_THREAD;
+	break;
+
+case 59:
+	varClansettingsType.dataType = CLAN_THREAD;
+	break;
+
+case 60:
+	varClansettingsType.dataType = CLAN_THREAD;
+	break;
+
+case 61:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 62:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 63:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 64:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 65:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 66:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 67:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 68:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 69:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 70:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 71:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 72:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 73:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 74:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 75:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 76:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 77:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 78:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 79:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 80:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 81:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 82:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 83:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 84:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 85:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 86:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 87:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 88:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 89:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 90:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 91:
+	varClansettingsType.dataType = INT;
+	break;
+
+case 92:
+	varClansettingsType.dataType = INT;
+	break;

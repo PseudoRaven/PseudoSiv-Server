@@ -1,0 +1,10 @@
+id=20109
+name=Afenen
+description=Looks after your Farming tools.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Prifddinas"]
+aggressive=false
+members=true

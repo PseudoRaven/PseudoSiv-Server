@@ -1,0 +1,10 @@
+id=522
+name=Shopkeeper
+description=Likes people spending money.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Varrock","RuneScape Surface"]
+aggressive=false
+members=false

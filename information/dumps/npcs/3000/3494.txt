@@ -1,0 +1,17 @@
+id=3494
+name=Flambeed
+description=Will give you a beating as well as indigestion.
+size=5
+xp=312.3
+lifepoints=4800
+level=89
+attack=64
+defence=64
+ranged=0
+magic=0
+animations={death:1752,attack:1750}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=true

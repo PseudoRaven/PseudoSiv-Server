@@ -1,0 +1,17 @@
+id=16907
+name=Automaton Guardian
+description=A tough melee fighter.
+size=2
+xp=385.2
+lifepoints=7500
+level=84
+attack=60
+defence=60
+ranged=1
+magic=1
+animations={death:19811,attack:19808}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

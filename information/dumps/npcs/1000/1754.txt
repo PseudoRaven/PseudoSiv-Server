@@ -1,0 +1,11 @@
+id=1754
+name=Crow
+description=A farmer's enemy.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+slayercat=Birds
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

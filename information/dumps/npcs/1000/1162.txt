@@ -1,0 +1,10 @@
+id=1162
+name=Timfraku
+description=The imposing Chief of Tai Bwo Wannai.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

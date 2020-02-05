@@ -1,0 +1,10 @@
+id=2140
+name=Dromund's cat
+description=Very protective of his master...and his property.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

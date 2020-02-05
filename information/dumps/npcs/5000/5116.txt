@@ -1,0 +1,10 @@
+id=5116
+name=Black salamander
+description=Slightly slimy and somewhat menacing.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=3065
+name=Skeleton Champion
+description=Champion of the skeletons.
+size=1
+xp=42.6
+lifepoints=1000
+level=28
+attack=10
+defence=20
+ranged=20
+magic=1
+animations={death:17984,attack:18224}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=false

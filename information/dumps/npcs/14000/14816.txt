@@ -1,0 +1,17 @@
+id=14816
+name=Char
+description=Her entire form burns with rage!
+size=1
+xp=1141.9
+lifepoints=45000
+level=160
+attack=80
+defence=1
+ranged=80
+magic=80
+animations={attack:15703}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

@@ -1,0 +1,17 @@
+id=13454
+name=Glacies
+description=A mage who has mastered the art of ice magic.
+size=1
+xp=1032.7
+lifepoints=10000
+level=111
+attack=1
+defence=75
+ranged=1
+magic=85
+animations={death:17402,attack:17401}
+attackable=true
+poisonous=false
+weakness="Bolt"
+areas=[]
+aggressive=true

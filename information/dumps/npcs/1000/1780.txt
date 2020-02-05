@@ -1,0 +1,10 @@
+id=1780
+name=Larry
+description=A not-so-brave merchant.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Asgarnian Ice Dungeon"]
+aggressive=false
+members=false

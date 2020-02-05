@@ -1,0 +1,10 @@
+id=7285
+name=Baby gecko
+description=It's so adorably tiny!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

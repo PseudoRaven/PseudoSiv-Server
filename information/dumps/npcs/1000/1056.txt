@@ -1,0 +1,10 @@
+id=1056
+name=Mime
+description=A mute performer.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Theatre"]
+aggressive=false
+members=false

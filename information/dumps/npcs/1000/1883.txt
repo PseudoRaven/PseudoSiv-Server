@@ -1,0 +1,17 @@
+id=1883
+name=Sir Palomedes
+description=One of the Knights of the Round Table.
+size=1
+xp=642
+lifepoints=12500
+level=84
+attack=60
+defence=60
+ranged=0
+magic=0
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

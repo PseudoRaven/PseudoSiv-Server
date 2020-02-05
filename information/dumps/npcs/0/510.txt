@@ -1,0 +1,10 @@
+id=510
+name=Hajedy
+description=A cart driver; it looks like he's quite experienced.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

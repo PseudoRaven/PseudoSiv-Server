@@ -1,0 +1,10 @@
+id=5120
+name=Eagle
+description=A very large, very dangerous-looking birdy.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

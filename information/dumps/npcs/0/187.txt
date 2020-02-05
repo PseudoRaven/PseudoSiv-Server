@@ -1,0 +1,17 @@
+id=187
+name=Rogue
+description=Rogueish.
+size=1
+xp=27.6
+lifepoints=350
+level=9
+attack=7
+defence=7
+ranged=1
+magic=1
+animations={death:836,attack:386}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface","Spirit Realm"]
+aggressive=false

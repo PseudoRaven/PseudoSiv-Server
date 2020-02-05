@@ -1,0 +1,17 @@
+id=6252
+name=Bree
+description=Champion of truth.
+size=2
+xp=729
+lifepoints=7500
+level=102
+attack=1
+defence=73
+ranged=73
+magic=1
+animations={death:17488,attack:17486}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=[]
+aggressive=true

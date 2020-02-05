@@ -1,0 +1,10 @@
+id=5519
+name=Trogen Konungarde
+description=Guards the Burgher's room.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

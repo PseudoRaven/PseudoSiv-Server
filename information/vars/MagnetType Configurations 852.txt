@@ -1,0 +1,706 @@
+
+case 0:
+	magnetType.anInt4235 = 42;
+	magnetType.anInt4238 = 2;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4247 = 98;
+	magnetType.anInt4249 = 106;
+	magnetType.anInt4251 = 16384;
+	magnetType.aLong4256 = 2147483647;
+	break;
+
+case 1:
+	magnetType.anInt4235 = 1312;
+	magnetType.anInt4245 = 409;
+	magnetType.anInt4247 = -2296;
+	magnetType.anInt4249 = 2644;
+	magnetType.anInt4250 = 1;
+	magnetType.anInt4251 = 16384;
+	magnetType.aLong4256 = 2601;
+	break;
+
+case 2:
+	magnetType.anInt4235 = 328;
+	magnetType.anInt4245 = 409;
+	magnetType.anInt4247 = 2624;
+	magnetType.anInt4249 = 2644;
+	magnetType.anInt4250 = 1;
+	magnetType.anInt4251 = 16384;
+	magnetType.aLong4256 = 2601;
+	break;
+
+case 3:
+	magnetType.anInt4235 = 2624;
+	magnetType.anInt4245 = 409;
+	magnetType.anInt4247 = 1312;
+	magnetType.anInt4249 = 2933;
+	magnetType.anInt4250 = 1;
+	magnetType.anInt4251 = 16384;
+	magnetType.aLong4256 = 3249;
+	break;
+
+case 4:
+	magnetType.anInt4235 = -1968;
+	magnetType.anInt4245 = 409;
+	magnetType.anInt4246 = 75;
+	magnetType.anInt4247 = -3936;
+	magnetType.anInt4248 = 1968;
+	magnetType.anInt4249 = 4820;
+	magnetType.anInt4250 = 1;
+	magnetType.anInt4251 = 15952;
+	magnetType.aLong4256 = 8836;
+	break;
+
+case 5:
+	magnetType.anInt4235 = 3936;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4248 = -3936;
+	magnetType.anInt4249 = 5566;
+	magnetType.anInt4250 = 2;
+	magnetType.anInt4251 = 16384;
+	magnetType.aLong4256 = 44528;
+	magnetType.anInt4253 = 1;
+	break;
+
+case 6:
+	magnetType.anInt4238 = 2;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4248 = 984;
+	magnetType.anInt4249 = 984;
+	magnetType.anInt4251 = 16384;
+	magnetType.aLong4256 = 2147483647;
+	break;
+
+case 7:
+	magnetType.anInt4238 = 2;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4247 = 98;
+	magnetType.anInt4248 = 229;
+	magnetType.anInt4249 = 249;
+	magnetType.anInt4251 = 16384;
+	magnetType.aLong4256 = 2147483647;
+	break;
+
+case 8:
+	magnetType.anInt4238 = 2;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4248 = 1312;
+	magnetType.anInt4249 = 1312;
+	magnetType.anInt4251 = 16384;
+	magnetType.aLong4256 = 2147483647;
+	break;
+
+case 9:
+	magnetType.anInt4238 = 2;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4247 = 65;
+	magnetType.anInt4249 = 65;
+	magnetType.anInt4251 = 16384;
+	magnetType.aLong4256 = 2147483647;
+	break;
+
+case 10:
+	magnetType.anInt4235 = 984;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 312;
+	magnetType.anInt4248 = 1312;
+	magnetType.anInt4249 = 1640;
+	magnetType.anInt4250 = 2;
+	magnetType.anInt4251 = 9434;
+	magnetType.aLong4256 = 13120;
+	break;
+
+case 11:
+	magnetType.anInt4235 = -5248;
+	magnetType.anInt4238 = 2;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 312;
+	magnetType.anInt4249 = 5248;
+	magnetType.anInt4250 = 2;
+	magnetType.anInt4251 = 9434;
+	magnetType.aLong4256 = 41984;
+	break;
+
+case 12:
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 312;
+	magnetType.anInt4247 = -984;
+	magnetType.anInt4248 = 1312;
+	magnetType.anInt4249 = 1640;
+	magnetType.anInt4250 = 2;
+	magnetType.anInt4251 = 9434;
+	magnetType.aLong4256 = 13120;
+	break;
+
+case 13:
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 312;
+	magnetType.anInt4247 = 5248;
+	magnetType.anInt4249 = 5248;
+	magnetType.anInt4250 = 2;
+	magnetType.anInt4251 = 9434;
+	magnetType.aLong4256 = 41984;
+	break;
+
+case 14:
+	magnetType.anInt4238 = 2;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4248 = -164;
+	magnetType.anInt4249 = 164;
+	magnetType.anInt4251 = 16384;
+	magnetType.aLong4256 = 2147483647;
+	break;
+
+case 15:
+	magnetType.anInt4238 = 2;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4248 = -32800;
+	magnetType.anInt4249 = 32800;
+	magnetType.anInt4251 = 16384;
+	magnetType.aLong4256 = 2147483647;
+	break;
+
+case 16:
+	magnetType.anInt4235 = -6560;
+	magnetType.anInt4238 = 2;
+	magnetType.anInt4245 = 618;
+	magnetType.anInt4246 = 2047;
+	magnetType.anInt4247 = -6560;
+	magnetType.anInt4248 = -6560;
+	magnetType.anInt4249 = 11362;
+	magnetType.anInt4250 = 1;
+	magnetType.anInt4251 = 16383;
+	magnetType.aLong4256 = 21609;
+	magnetType.anInt4253 = 1;
+	break;
+
+case 17:
+	magnetType.anInt4235 = 81920;
+	magnetType.anInt4245 = 618;
+	magnetType.anInt4246 = 1023;
+	magnetType.anInt4247 = 81920;
+	magnetType.anInt4248 = 81920;
+	magnetType.anInt4249 = -141889;
+	magnetType.anInt4250 = 1;
+	magnetType.anInt4251 = -16383;
+	magnetType.aLong4256 = 3370896;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 18:
+	magnetType.anInt4238 = 2;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4248 = 2952;
+	magnetType.anInt4249 = 2952;
+	magnetType.anInt4251 = 16384;
+	magnetType.aLong4256 = 2147483647;
+	break;
+
+case 19:
+	magnetType.anInt4238 = 2;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4248 = -1640;
+	magnetType.anInt4249 = 1640;
+	magnetType.anInt4251 = 16384;
+	magnetType.aLong4256 = 2147483647;
+	break;
+
+case 20:
+	magnetType.anInt4238 = 2;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4248 = -984;
+	magnetType.anInt4249 = 984;
+	magnetType.anInt4251 = 16384;
+	magnetType.aLong4256 = 2147483647;
+	break;
+
+case 21:
+	magnetType.anInt4235 = 8192;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 1609;
+	magnetType.anInt4247 = 8192;
+	magnetType.anInt4248 = 8192;
+	magnetType.anInt4249 = -14188;
+	magnetType.anInt4250 = 2;
+	magnetType.anInt4251 = 3638;
+	magnetType.aLong4256 = 113504;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 22:
+	magnetType.anInt4235 = 4096;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 1014;
+	magnetType.anInt4247 = 4096;
+	magnetType.anInt4248 = 4096;
+	magnetType.anInt4249 = -7094;
+	magnetType.anInt4251 = -16376;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 23:
+	magnetType.anInt4235 = -4096;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 1014;
+	magnetType.anInt4247 = -4096;
+	magnetType.anInt4248 = -4096;
+	magnetType.anInt4249 = -7094;
+	magnetType.anInt4251 = -16376;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 24:
+	magnetType.anInt4235 = 8192;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 1014;
+	magnetType.anInt4247 = 8192;
+	magnetType.anInt4248 = 8192;
+	magnetType.anInt4249 = -14188;
+	magnetType.anInt4251 = -16376;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 25:
+	magnetType.anInt4235 = -8192;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 1014;
+	magnetType.anInt4247 = -8192;
+	magnetType.anInt4248 = -8192;
+	magnetType.anInt4249 = -14188;
+	magnetType.anInt4251 = -16376;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 26:
+	magnetType.anInt4235 = 24576;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 1014;
+	magnetType.anInt4247 = 4096;
+	magnetType.anInt4248 = 4096;
+	magnetType.anInt4249 = -25249;
+	magnetType.anInt4251 = -16376;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 27:
+	magnetType.anInt4235 = -24576;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 1014;
+	magnetType.anInt4247 = -4096;
+	magnetType.anInt4248 = -4096;
+	magnetType.anInt4249 = -25249;
+	magnetType.anInt4251 = -16376;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 28:
+	magnetType.anInt4235 = 8192;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 1024;
+	magnetType.anInt4247 = 8192;
+	magnetType.anInt4248 = 8192;
+	magnetType.anInt4249 = -14188;
+	magnetType.anInt4251 = -16384;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 29:
+	magnetType.anInt4235 = 12288;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 1023;
+	magnetType.anInt4247 = 12288;
+	magnetType.anInt4248 = 12288;
+	magnetType.anInt4249 = -21283;
+	magnetType.anInt4251 = -16383;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 30:
+	magnetType.anInt4235 = 229;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 1015;
+	magnetType.anInt4247 = 229;
+	magnetType.anInt4248 = 229;
+	magnetType.anInt4249 = -396;
+	magnetType.anInt4251 = -16377;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 31:
+	magnetType.anInt4235 = 8192;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 1024;
+	magnetType.anInt4247 = 8192;
+	magnetType.anInt4248 = 8192;
+	magnetType.anInt4249 = -14188;
+	magnetType.anInt4251 = -16384;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 32:
+	magnetType.anInt4235 = 3608;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 1024;
+	magnetType.anInt4247 = 3608;
+	magnetType.anInt4248 = 3608;
+	magnetType.anInt4249 = -6249;
+	magnetType.anInt4251 = -16384;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.aBool4254 = true;
+	break;
+
+case 33:
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 2047;
+	magnetType.anInt4247 = 65;
+	magnetType.anInt4249 = -65;
+	magnetType.anInt4251 = 16383;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 34:
+	magnetType.anInt4235 = 24576;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 1014;
+	magnetType.anInt4247 = 4096;
+	magnetType.anInt4248 = 4096;
+	magnetType.anInt4249 = -25249;
+	magnetType.anInt4251 = -16376;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 35:
+	magnetType.anInt4235 = -4096;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 1014;
+	magnetType.anInt4247 = -4096;
+	magnetType.anInt4248 = -4096;
+	magnetType.anInt4249 = -7094;
+	magnetType.anInt4251 = -16376;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 36:
+	magnetType.anInt4235 = 81920;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 1014;
+	magnetType.anInt4247 = 81920;
+	magnetType.anInt4248 = 81920;
+	magnetType.anInt4249 = -141889;
+	magnetType.anInt4251 = -16376;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 37:
+	magnetType.anInt4235 = -81920;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4247 = -81920;
+	magnetType.anInt4248 = -81920;
+	magnetType.anInt4249 = -141889;
+	magnetType.anInt4251 = 16384;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 38:
+	magnetType.anInt4235 = 184320;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4247 = 184320;
+	magnetType.anInt4248 = 184320;
+	magnetType.anInt4249 = -319251;
+	magnetType.anInt4251 = 16384;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 39:
+	magnetType.anInt4235 = -184320;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 1014;
+	magnetType.anInt4247 = -184320;
+	magnetType.anInt4248 = -184320;
+	magnetType.anInt4249 = -319251;
+	magnetType.anInt4251 = -16376;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 40:
+	magnetType.anInt4235 = 40960;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 1014;
+	magnetType.anInt4247 = 40960;
+	magnetType.anInt4248 = 40960;
+	magnetType.anInt4249 = -70944;
+	magnetType.anInt4251 = -16376;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 41:
+	magnetType.anInt4235 = -40960;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4247 = -40960;
+	magnetType.anInt4248 = -40960;
+	magnetType.anInt4249 = -70944;
+	magnetType.anInt4251 = 16384;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 42:
+	magnetType.anInt4235 = 163840;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4247 = 163840;
+	magnetType.anInt4248 = 163840;
+	magnetType.anInt4249 = -283779;
+	magnetType.anInt4251 = 16384;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 43:
+	magnetType.anInt4235 = -163840;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 1014;
+	magnetType.anInt4247 = -163840;
+	magnetType.anInt4248 = -163840;
+	magnetType.anInt4249 = -283779;
+	magnetType.anInt4251 = -16376;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 44:
+	magnetType.anInt4235 = 143360;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 1014;
+	magnetType.anInt4247 = 143360;
+	magnetType.anInt4248 = 143360;
+	magnetType.anInt4249 = -248306;
+	magnetType.anInt4251 = -16376;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 45:
+	magnetType.anInt4235 = -143360;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 1014;
+	magnetType.anInt4247 = -143360;
+	magnetType.anInt4248 = -143360;
+	magnetType.anInt4249 = -248306;
+	magnetType.anInt4251 = -16376;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 46:
+	magnetType.anInt4235 = -4096;
+	magnetType.anInt4238 = 2;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 2047;
+	magnetType.anInt4247 = 12288;
+	magnetType.anInt4249 = 12952;
+	magnetType.anInt4250 = 2;
+	magnetType.anInt4251 = 16383;
+	magnetType.aLong4256 = 103616;
+	magnetType.anInt4252 = 1;
+	break;
+
+case 47:
+	magnetType.anInt4235 = -8192;
+	magnetType.anInt4238 = 2;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 2047;
+	magnetType.anInt4247 = 20480;
+	magnetType.anInt4249 = 22057;
+	magnetType.anInt4250 = 2;
+	magnetType.anInt4251 = 16383;
+	magnetType.aLong4256 = 176456;
+	magnetType.anInt4252 = 1;
+	break;
+
+case 48:
+	magnetType.anInt4235 = 102400;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 1014;
+	magnetType.anInt4247 = 102400;
+	magnetType.anInt4248 = 102400;
+	magnetType.anInt4249 = -177362;
+	magnetType.anInt4251 = -16376;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 49:
+	magnetType.anInt4235 = -102400;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4247 = -102400;
+	magnetType.anInt4248 = -102400;
+	magnetType.anInt4249 = -177362;
+	magnetType.anInt4251 = 16384;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 50:
+	magnetType.anInt4235 = 286720;
+	magnetType.anInt4238 = 2;
+	magnetType.anInt4245 = 2048;
+	magnetType.anInt4246 = 2003;
+	magnetType.anInt4248 = 40960;
+	magnetType.anInt4249 = 289630;
+	magnetType.anInt4250 = 1;
+	magnetType.anInt4251 = 16228;
+	magnetType.aLong4256 = 1279161;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	break;
+
+case 51:
+	magnetType.anInt4235 = 368640;
+	magnetType.anInt4238 = 1;
+	magnetType.anInt4245 = 2048;
+	magnetType.anInt4248 = 245760;
+	magnetType.anInt4249 = 443050;
+	magnetType.anInt4250 = 1;
+	magnetType.anInt4251 = 16384;
+	magnetType.aLong4256 = 2992900;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	break;
+
+case 52:
+	magnetType.anInt4235 = 163840;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4246 = 1014;
+	magnetType.anInt4247 = 163840;
+	magnetType.anInt4248 = 163840;
+	magnetType.anInt4249 = -283779;
+	magnetType.anInt4251 = -16376;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 53:
+	magnetType.anInt4235 = -163840;
+	magnetType.anInt4245 = 1;
+	magnetType.anInt4247 = -163840;
+	magnetType.anInt4248 = -163840;
+	magnetType.anInt4249 = -283779;
+	magnetType.anInt4251 = 16384;
+	magnetType.aLong4256 = 2147483647;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	magnetType.aBool4254 = true;
+	break;
+
+case 54:
+	magnetType.anInt4235 = 286720;
+	magnetType.anInt4245 = 2048;
+	magnetType.anInt4246 = 2003;
+	magnetType.anInt4248 = 40960;
+	magnetType.anInt4249 = 289630;
+	magnetType.anInt4250 = 1;
+	magnetType.anInt4251 = 16228;
+	magnetType.aLong4256 = 1279161;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	break;
+
+case 55:
+	magnetType.anInt4235 = 286720;
+	magnetType.anInt4245 = 2048;
+	magnetType.anInt4246 = 2003;
+	magnetType.anInt4248 = 40960;
+	magnetType.anInt4249 = 289630;
+	magnetType.anInt4250 = 1;
+	magnetType.anInt4251 = 16228;
+	magnetType.aLong4256 = 1279161;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	break;
+
+case 56:
+	magnetType.anInt4235 = 204800;
+	magnetType.anInt4238 = 1;
+	magnetType.anInt4245 = 40;
+	magnetType.anInt4246 = 2047;
+	magnetType.anInt4247 = 204800;
+	magnetType.anInt4248 = 204800;
+	magnetType.anInt4249 = 354724;
+	magnetType.anInt4250 = 2;
+	magnetType.anInt4251 = 16383;
+	magnetType.aLong4256 = 70944;
+	magnetType.anInt4252 = 1;
+	magnetType.anInt4253 = 1;
+	break;

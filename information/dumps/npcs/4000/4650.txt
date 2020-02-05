@@ -1,0 +1,10 @@
+id=4650
+name=Trader Stan
+description=With the prices he charges, no wonder he can afford to look so sharp.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

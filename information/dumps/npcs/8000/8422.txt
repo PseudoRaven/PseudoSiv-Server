@@ -1,0 +1,17 @@
+id=8422
+name=Assassin
+description=An assassin, failing to be disguised as a druid.
+size=1
+xp=64.5
+lifepoints=1500
+level=42
+attack=1
+defence=30
+ranged=30
+magic=1
+animations={range:23943,death:836,attack:23943}
+attackable=true
+poisonous=false
+weakness="Slashing"
+areas=[]
+aggressive=true

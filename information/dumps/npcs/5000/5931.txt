@@ -1,0 +1,10 @@
+id=5931
+name=Historian Minas
+description=Seth Minas - an aged expert in RuneScape history.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

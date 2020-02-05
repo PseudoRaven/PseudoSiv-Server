@@ -1,0 +1,10 @@
+id=2705
+name=Guard
+description=Keeping an eye out for suspicious activity.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

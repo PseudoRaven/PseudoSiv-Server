@@ -1,0 +1,10 @@
+id=1886
+name=Cowardly Bandit
+description=Probably the weakest bandit in the world ....ever.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

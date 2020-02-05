@@ -1,0 +1,10 @@
+id=11298
+name=Dodgy Derek
+description=A shady dealer.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Thieves' Guild"]
+aggressive=false
+members=false

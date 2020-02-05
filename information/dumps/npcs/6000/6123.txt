@@ -1,0 +1,10 @@
+id=6123
+name=Naghead
+description=An old goblin hag.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Observatory"]
+aggressive=false
+members=false

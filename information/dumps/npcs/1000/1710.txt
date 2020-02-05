@@ -1,0 +1,17 @@
+id=1710
+name=H.A.M. Guard
+description=A guard for the humans against monster group.
+size=1
+xp=46.5
+lifepoints=1100
+level=30
+attack=22
+defence=22
+ranged=1
+magic=1
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=["Misthalin Underground"]
+aggressive=false

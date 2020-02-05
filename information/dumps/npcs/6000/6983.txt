@@ -1,0 +1,17 @@
+id=6983
+name=Druidess
+description=A nature lover.
+size=1
+xp=40.8
+lifepoints=950
+level=26
+attack=14
+defence=19
+ranged=0
+magic=19
+animations={death:7185,attack:7182}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=[]
+aggressive=false

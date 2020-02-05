@@ -1,0 +1,10 @@
+id=20787
+name=Pauline Polaris
+description=Unlocking her would be as difficult as unlocking Borrowed Power.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["New Varrock"]
+aggressive=false
+members=false

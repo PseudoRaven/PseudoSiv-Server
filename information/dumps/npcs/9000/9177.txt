@@ -1,0 +1,17 @@
+id=9177
+name=Skeletal horror
+description=I can't believe the Odd Old Man was carrying that on his back.
+size=3
+xp=1147.6
+lifepoints=20000
+level=91
+attack=65
+defence=65
+ranged=65
+magic=65
+animations={range:12060,death:12066,attack:12062}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

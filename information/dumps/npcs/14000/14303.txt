@@ -1,0 +1,17 @@
+id=14303
+name=Sapping glacyte
+description=An ice creature, ready to drain you of all hope.
+size=1
+xp=333.3
+lifepoints=5000
+level=114
+attack=90
+defence=75
+ranged=1
+magic=0
+animations={death:9961,attack:9955}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

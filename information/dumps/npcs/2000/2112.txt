@@ -1,0 +1,10 @@
+id=2112
+name=Trader
+description=A trader for the Blue Opal mining company.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

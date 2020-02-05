@@ -1,0 +1,17 @@
+id=1919
+name=Stranger
+description=Very mysterious looking...
+size=1
+xp=233.1
+lifepoints=2900
+level=81
+attack=58
+defence=58
+ranged=0
+magic=0
+animations={death:836,attack:377}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=true

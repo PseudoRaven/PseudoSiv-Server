@@ -1,0 +1,10 @@
+id=15413
+name=Law esshound
+description=An esshound imbued with law energy.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["The Runespan"]
+aggressive=false
+members=false

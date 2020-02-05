@@ -1,0 +1,16 @@
+id=2443
+name=Door-support
+description=This support is propping the door closed.
+size=1
+xp=0.2
+lifepoints=10
+level=0
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={}
+attackable=true
+poisonous=false
+areas=["Waterbirth Island Dungeon"]
+aggressive=false

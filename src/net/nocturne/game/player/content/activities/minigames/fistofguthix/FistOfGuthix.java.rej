@@ -1,0 +1,25 @@
+diff a/src/net/nocturne/game/player/content/activities/minigames/fistofguthix/FistOfGuthix.java b/src/net/nocturne/game/player/content/activities/minigames/fistofguthix/FistOfGuthix.java	(rejected hunks)
+@@ -11,17 +11,20 @@
+ import net.nocturne.game.tasks.WorldTasksManager;
+ import net.nocturne.utils.Utils;
+ 
++<<<<<<< HEAD:src/net/nocturne/game/player/content/activities/minigames/fistofguthix/FistOfGuthix.java
+ import java.util.Collections;
+ import java.util.LinkedList;
+ 
+ @SuppressWarnings("RedundantCast")
++=======
++>>>>>>> parent of 4c3089f... massive code cleanup:src/net/nocturne/game/minigames/fistofguthix/FistOfGuthix.java
+ public class FistOfGuthix {
+ 
+ 	public static final int MINIMUM_NUMBER_OF_PLAYERS_NEEDED = 2;
+ 	public static final WorldTile CENTRE = new WorldTile(1664, 5695, 0);
+-	private LinkedList<Player> caveMembers = new LinkedList<>( );
+-	private LinkedList<Player> lobbyMembers = new LinkedList<>( );
+-	private LinkedList<Participant> gameMembers = new LinkedList<>( );
++	private LinkedList<Player> caveMembers = new LinkedList<Player>();
++	private LinkedList<Player> lobbyMembers = new LinkedList<Player>();
++	private LinkedList<Participant> gameMembers = new LinkedList<Participant>();
+ 	private long lobbyTicks;
+ 	private boolean halfTime = false;
+ 	public static final WorldTile[] huntedLocations = {

@@ -1,0 +1,17 @@
+id=3067
+name=Leon d'Cour
+description=Champion of Champions!
+size=1
+xp=462.6
+lifepoints=3600
+level=100
+attack=72
+defence=72
+ranged=1
+magic=1
+animations={death:836,attack:406}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=[]
+aggressive=false

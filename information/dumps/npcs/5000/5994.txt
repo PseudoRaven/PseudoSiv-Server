@@ -1,0 +1,17 @@
+id=5994
+name=Mouse
+description=A huge mouse. It looks hungry...
+size=4
+xp=119.7
+lifepoints=2200
+level=61
+attack=44
+defence=44
+ranged=0
+magic=0
+animations={death:6521,attack:6519}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["Mouse hole"]
+aggressive=true

@@ -1,0 +1,10 @@
+id=3123
+name=Simon Templeton
+description=He looks like he's seen the inside of a few tombs.
+xp=24.9
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface","Agility Pyramid"]
+aggressive=false
+members=false

@@ -1,0 +1,11 @@
+id=6114
+name=Drake
+description=It quacks like a duck.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+slayercat=Birds
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

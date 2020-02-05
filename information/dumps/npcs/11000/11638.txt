@@ -1,0 +1,17 @@
+id=11638
+name=Guthix wizard
+description=A follower of Guthix.
+size=1
+xp=1133.4
+lifepoints=8000
+level=126
+attack=90
+defence=90
+ranged=90
+magic=90
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=[]
+aggressive=false

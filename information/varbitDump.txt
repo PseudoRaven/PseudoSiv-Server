@@ -1,0 +1,4918 @@
+Start of varp 3
+	> Found component: 1465, 57
+Start of varp 4
+	> Found component: 1366, 13
+Start of varp 37
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 38
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 39
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 40
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 41
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 42
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 43
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 44
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 45
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 46
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 47
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 48
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 49
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 50
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 51
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 52
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 53
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 54
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 55
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 56
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 57
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 58
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 59
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 60
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 61
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 62
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 63
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 64
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 65
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 66
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 67
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 68
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 69
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 70
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 71
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 76
+	> Found component: 187, 4
+	> Found component: 187, 11
+	> Found component: 187, 13
+	> Found component: 187, 16
+	> Found component: 1416, 3
+	> Found component: 1416, 10
+	> Found component: 1416, 12
+	> Found component: 1416, 15
+Start of varp 77
+	> Found component: 187, 4
+	> Found component: 187, 11
+	> Found component: 1416, 3
+	> Found component: 1416, 10
+Start of varp 78
+	> Found component: 187, 4
+	> Found component: 187, 11
+	> Found component: 1416, 3
+	> Found component: 1416, 10
+Start of varp 79
+	> Found component: 187, 4
+	> Found component: 187, 11
+	> Found component: 1416, 3
+	> Found component: 1416, 10
+Start of varp 80
+	> Found component: 187, 4
+	> Found component: 187, 11
+	> Found component: 1416, 3
+	> Found component: 1416, 10
+Start of varp 81
+	> Found component: 187, 4
+	> Found component: 187, 11
+	> Found component: 1416, 3
+	> Found component: 1416, 10
+Start of varp 82
+	> Found component: 187, 4
+	> Found component: 187, 11
+	> Found component: 1416, 3
+	> Found component: 1416, 10
+Start of varp 91
+	> Found component: 1215, 0
+Start of varp 92
+	> Found component: 1215, 0
+Start of varp 93
+	> Found component: 1215, 0
+Start of varp 94
+	> Found component: 1214, 0
+	> Found component: 1214, 0
+	> Found component: 1214, 0
+	> Found component: 1214, 2
+	> Found component: 1214, 35
+	> Found component: 1214, 35
+	> Found component: 1214, 35
+	> Found component: 1214, 41
+	> Found component: 1214, 41
+	> Found component: 1214, 41
+	> Found component: 1215, 0
+	> Found component: 1215, 0
+	> Found component: 1215, 0
+	> Found component: 1442, 106
+	> Found component: 1443, 0
+	> Found component: 1465, 33
+	> Found component: 1663, 3
+	> Found component: 1664, 14
+Start of varp 96
+	> Found component: 1214, 6
+	> Found component: 1214, 8
+Start of varp 110
+	> Found component: 762, 0
+	> Found component: 762, 243
+Start of varp 116
+	> Found component: 190, 1
+	> Found component: 1783, 1
+Start of varp 135
+	> Found component: 105, 77
+Start of varp 136
+	> Found component: 105, 77
+	> Found component: 449, 25
+Start of varp 137
+	> Found component: 105, 77
+	> Found component: 449, 25
+Start of varp 138
+	> Found component: 105, 77
+Start of varp 139
+	> Found component: 105, 77
+Start of varp 145
+	> Found component: 1638, 0
+Start of varp 160
+	> Found component: 762, 64
+Start of varp 163
+	> Found component: 13, 5
+Start of varp 168
+	> Found component: 766, 2
+Start of varp 169
+	> Found component: 766, 2
+	> Found component: 903, 20
+	> Found component: 903, 30
+	> Found component: 903, 40
+	> Found component: 903, 50
+	> Found component: 903, 60
+	> Found component: 903, 70
+Start of varp 170
+	> Found component: 766, 2
+	> Found component: 903, 20
+	> Found component: 903, 30
+	> Found component: 903, 40
+	> Found component: 903, 50
+	> Found component: 903, 60
+	> Found component: 903, 70
+Start of varp 172
+	> Found component: 900, 26
+	> Found component: 900, 30
+Start of varp 183
+	> Found component: 1308, 58
+	> Found component: 1308, 60
+	> Found component: 1308, 64
+	> Found component: 1639, 6
+Start of varp 189
+	> Found component: 1308, 8
+	> Found component: 1308, 45
+	> Found component: 1308, 47
+	> Found component: 1308, 557
+Start of varp 190
+	> Found component: 1639, 6
+	> Found component: 1639, 6
+	> Found component: 1639, 6
+Start of varp 191
+	> Found component: 1639, 6
+Start of varp 207
+	> Found component: 1243, 56
+	> Found component: 1500, 402
+Start of varp 248
+	> Found component: 1311, 510
+Start of varp 256
+	> Found component: 1311, 641
+Start of varp 259
+	> Found component: 1311, 642
+Start of varp 265
+	> Found component: 1311, 645
+	> Found component: 1311, 646
+Start of varp 299
+	> Found component: 1265, 94
+Start of varp 300
+	> Found component: 1265, 94
+Start of varp 301
+	> Found component: 1265, 94
+Start of varp 302
+	> Found component: 1265, 93
+Start of varp 303
+	> Found component: 1265, 92
+Start of varp 307
+	> Found component: 1265, 49
+	> Found component: 1265, 50
+	> Found component: 1265, 92
+Start of varp 312
+	> Found component: 1370, 24
+	> Found component: 1370, 24
+	> Found component: 1370, 74
+Start of varp 421
+	> Found component: 1122, 9
+	> Found component: 1122, 9
+	> Found component: 1122, 74
+	> Found component: 1122, 74
+Start of varp 422
+	> Found component: 1122, 9
+	> Found component: 1122, 54
+	> Found component: 1122, 74
+	> Found component: 1122, 74
+	> Found component: 1122, 74
+	> Found component: 1122, 87
+	> Found component: 1122, 242
+	> Found component: 1122, 254
+	> Found component: 1122, 266
+	> Found component: 1122, 278
+Start of varp 423
+	> Found component: 190, 12
+	> Found component: 1446, 23
+	> Found component: 1783, 15
+Start of varp 424
+	> Found component: 20, 20
+	> Found component: 20, 26
+	> Found component: 20, 33
+	> Found component: 20, 35
+	> Found component: 20, 37
+	> Found component: 20, 53
+	> Found component: 20, 55
+	> Found component: 20, 57
+	> Found component: 20, 67
+	> Found component: 20, 69
+	> Found component: 20, 71
+	> Found component: 20, 81
+	> Found component: 20, 83
+	> Found component: 20, 85
+Start of varp 425
+	> Found component: 20, 23
+	> Found component: 20, 29
+	> Found component: 20, 33
+	> Found component: 20, 35
+	> Found component: 20, 37
+	> Found component: 20, 53
+	> Found component: 20, 55
+	> Found component: 20, 57
+	> Found component: 20, 67
+	> Found component: 20, 69
+	> Found component: 20, 71
+	> Found component: 20, 81
+	> Found component: 20, 83
+	> Found component: 20, 85
+Start of varp 426
+	> Found component: 19, 61
+Start of varp 446
+	> Found component: 382, 1
+	> Found component: 565, 10
+	> Found component: 565, 16
+	> Found component: 1262, 12
+Start of varp 447
+	> Found component: 565, 16
+	> Found component: 1262, 12
+Start of varp 448
+	> Found component: 565, 16
+	> Found component: 1262, 12
+Start of varp 449
+	> Found component: 565, 16
+	> Found component: 1262, 12
+Start of varp 455
+	> Found component: 261, 14
+	> Found component: 896, 0
+	> Found component: 1443, 0
+	> Found component: 1663, 3
+	> Found component: 1664, 14
+Start of varp 456
+	> Found component: 1702, 48
+Start of varp 457
+	> Found component: 982, 18
+	> Found component: 1702, 5
+Start of varp 458
+	> Found component: 261, 11
+	> Found component: 320, 2
+	> Found component: 320, 2
+	> Found component: 936, 3
+	> Found component: 936, 3
+	> Found component: 982, 18
+	> Found component: 1443, 0
+	> Found component: 1465, 22
+	> Found component: 1466, 0
+	> Found component: 1466, 0
+	> Found component: 1557, 0
+	> Found component: 1557, 0
+	> Found component: 1663, 3
+	> Found component: 1664, 14
+	> Found component: 1674, 1
+	> Found component: 1674, 1
+	> Found component: 1702, 4
+	> Found component: 1702, 6
+	> Found component: 1702, 7
+	> Found component: 1702, 8
+	> Found component: 1702, 10
+Start of varp 459
+	> Found component: 261, 15
+	> Found component: 1443, 0
+	> Found component: 1663, 3
+	> Found component: 1664, 14
+	> Found component: 1690, 42
+Start of varp 462
+	> Found component: 1430, 47
+	> Found component: 1503, 50
+Start of varp 481
+	> Found component: 398, 22
+	> Found component: 1443, 0
+	> Found component: 1443, 0
+	> Found component: 1663, 3
+	> Found component: 1663, 3
+	> Found component: 1664, 14
+	> Found component: 1664, 14
+Start of varp 483
+	> Found component: 398, 15
+	> Found component: 1443, 0
+	> Found component: 1663, 3
+	> Found component: 1664, 14
+	> Found component: 1665, 10
+Start of varp 593
+	> Found component: 114, 24
+	> Found component: 267, 101
+Start of varp 594
+	> Found component: 114, 25
+Start of varp 595
+	> Found component: 114, 26
+Start of varp 596
+	> Found component: 114, 27
+Start of varp 597
+	> Found component: 114, 28
+Start of varp 598
+	> Found component: 114, 29
+Start of varp 610
+	> Found component: 591, 21
+Start of varp 611
+	> Found component: 591, 6
+Start of varp 627
+	> Found component: 327, 10
+	> Found component: 1485, 19
+	> Found component: 1503, 38
+	> Found component: 1503, 42
+	> Found component: 1503, 46
+Start of varp 659
+	> Found component: 1430, 4
+	> Found component: 1504, 3
+	> Found component: 1680, 0
+Start of varp 662
+	> Found component: 266, 5
+	> Found component: 652, 1
+Start of varp 672
+	> Found component: 433, 11
+	> Found component: 433, 11
+Start of varp 673
+	> Found component: 433, 11
+	> Found component: 433, 11
+Start of varp 679
+	> Found component: 640, 8
+	> Found component: 640, 11
+	> Found component: 1430, 48
+	> Found component: 1503, 17
+	> Found component: 1616, 2
+	> Found component: 1616, 5
+	> Found component: 1616, 8
+	> Found component: 1767, 30
+Start of varp 680
+	> Found component: 1503, 22
+Start of varp 682
+	> Found component: 574, 12
+	> Found component: 574, 21
+	> Found component: 576, 247
+	> Found component: 640, 24
+	> Found component: 1430, 52
+	> Found component: 1430, 224
+	> Found component: 1430, 245
+	> Found component: 1430, 249
+	> Found component: 1436, 7
+	> Found component: 1436, 9
+	> Found component: 1436, 12
+	> Found component: 1436, 195
+	> Found component: 1670, 4
+	> Found component: 1671, 2
+	> Found component: 1672, 1
+	> Found component: 1673, 1
+Start of varp 686
+	> Found component: 1503, 23
+Start of varp 689
+	> Found component: 1503, 28
+	> Found component: 1503, 31
+	> Found component: 1503, 34
+	> Found component: 1503, 53
+	> Found component: 1503, 55
+	> Found component: 1503, 57
+Start of varp 722
+	> Found component: 1430, 8
+	> Found component: 1504, 6
+Start of varp 895
+	> Found component: 662, 28
+	> Found component: 1485, 18
+Start of varp 1029
+	> Found component: 1457, 6
+	> Found component: 1458, 28
+Start of varp 1030
+	> Found component: 1457, 6
+	> Found component: 1458, 28
+Start of varp 1031
+	> Found component: 1457, 6
+	> Found component: 1458, 28
+Start of varp 1032
+	> Found component: 1457, 6
+	> Found component: 1458, 28
+Start of varp 1033
+	> Found component: 1457, 6
+	> Found component: 1458, 28
+Start of varp 1034
+	> Found component: 1457, 6
+	> Found component: 1458, 28
+Start of varp 1035
+	> Found component: 1457, 6
+	> Found component: 1458, 28
+Start of varp 1044
+	> Found object: 7395
+	> Found object: 44949
+	> Found object: 44950
+Start of varp 1045
+	> Found component: 299, 50
+Start of varp 1084
+	> Found component: 940, 81
+	> Found component: 940, 151
+	> Found component: 940, 161
+	> Found component: 940, 171
+	> Found component: 940, 181
+	> Found component: 940, 191
+	> Found component: 940, 201
+	> Found component: 940, 211
+	> Found component: 940, 221
+	> Found component: 940, 231
+	> Found component: 940, 241
+	> Found component: 940, 251
+	> Found component: 940, 261
+	> Found component: 940, 271
+	> Found component: 940, 281
+	> Found component: 940, 291
+	> Found component: 940, 301
+	> Found component: 940, 311
+	> Found component: 940, 321
+	> Found component: 940, 331
+	> Found component: 940, 341
+	> Found component: 940, 351
+Start of varp 1090
+	> Found component: 77, 0
+	> Found component: 945, 0
+Start of varp 1091
+	> Found component: 77, 0
+	> Found component: 945, 0
+Start of varp 1096
+	> Found component: 940, 9
+Start of varp 1100
+	> Found component: 116, 17
+	> Found component: 116, 18
+	> Found component: 116, 19
+Start of varp 1111
+	> Found component: 1106, 61
+Start of varp 1113
+	> Found component: 1477, 19
+Start of varp 1114
+	> Found component: 775, 0
+	> Found component: 795, 0
+	> Found component: 1477, 20
+Start of varp 1168
+	> Found component: 1371, 12
+Start of varp 1169
+	> Found component: 1251, 13
+	> Found component: 1370, 23
+	> Found component: 1370, 28
+	> Found component: 1371, 12
+	> Found component: 1371, 44
+Start of varp 1170
+	> Found component: 1370, 23
+Start of varp 1173
+	> Found component: 1251, 12
+	> Found component: 1442, 87
+	> Found component: 1443, 0
+	> Found component: 1663, 3
+	> Found component: 1664, 14
+Start of varp 1175
+	> Found component: 1251, 9
+Start of varp 1176
+	> Found component: 1251, 11
+Start of varp 1177
+	> Found component: 1251, 11
+Start of varp 1180
+	> Found component: 301, 45
+	> Found component: 301, 47
+	> Found component: 301, 49
+	> Found component: 301, 51
+	> Found component: 301, 53
+	> Found component: 301, 55
+	> Found component: 301, 57
+	> Found component: 301, 59
+	> Found component: 301, 61
+	> Found component: 301, 63
+Start of varp 1181
+	> Found component: 301, 45
+	> Found component: 301, 47
+	> Found component: 301, 49
+	> Found component: 301, 51
+	> Found component: 301, 53
+	> Found component: 301, 55
+	> Found component: 301, 57
+	> Found component: 301, 59
+	> Found component: 301, 61
+	> Found component: 301, 83
+	> Found component: 301, 84
+Start of varp 1196
+	> Found component: 1138, 0
+Start of varp 1226
+	> Found component: 499, 6
+Start of varp 1227
+	> Found component: 740, 7
+Start of varp 1228
+	> Found component: 741, 10
+Start of varp 1235
+	> Found component: 1143, 14
+Start of varp 1249
+	> Found component: 1143, 14
+Start of varp 1253
+	> Found component: 1143, 14
+Start of varp 1254
+	> Found component: 1143, 14
+Start of varp 1255
+	> Found component: 1143, 14
+Start of varp 1258
+	> Found component: 1108, 20
+	> Found component: 1109, 37
+	> Found component: 1427, 34
+Start of varp 1260
+	> Found component: 270, 2
+Start of varp 1269
+	> Found component: 917, 20
+	> Found component: 917, 20
+	> Found component: 1056, 3
+	> Found component: 1056, 11
+	> Found component: 1056, 16
+	> Found component: 1056, 19
+	> Found component: 1220, 0
+	> Found component: 1220, 5
+	> Found component: 1220, 13
+	> Found component: 1220, 18
+	> Found component: 1344, 16
+	> Found component: 1442, 76
+	> Found component: 1443, 0
+	> Found component: 1446, 55
+	> Found component: 1663, 3
+	> Found component: 1664, 14
+Start of varp 1271
+	> Found component: 1056, 3
+	> Found component: 1220, 0
+Start of varp 1272
+	> Found component: 1446, 55
+	> Found component: 1446, 68
+Start of varp 1274
+	> Found component: 623, 2
+	> Found component: 623, 4
+	> Found component: 623, 6
+	> Found component: 623, 8
+	> Found component: 623, 10
+	> Found component: 623, 12
+	> Found component: 623, 14
+	> Found component: 623, 16
+	> Found component: 623, 18
+	> Found component: 623, 20
+	> Found component: 623, 22
+	> Found component: 623, 24
+	> Found component: 623, 25
+	> Found component: 623, 26
+	> Found component: 623, 27
+	> Found component: 623, 28
+	> Found component: 623, 29
+	> Found component: 623, 30
+	> Found component: 623, 31
+	> Found component: 623, 32
+	> Found component: 623, 33
+	> Found component: 623, 34
+	> Found component: 623, 35
+	> Found component: 623, 36
+	> Found component: 623, 37
+	> Found component: 623, 38
+	> Found component: 623, 39
+	> Found component: 1443, 0
+	> Found component: 1663, 3
+	> Found component: 1664, 14
+Start of varp 1284
+	> Found component: 896, 0
+Start of varp 1293
+	> Found component: 1056, 3
+	> Found component: 1220, 0
+Start of varp 1295
+	> Found component: 896, 0
+	> Found object: 45604
+Start of varp 1296
+	> Found component: 371, 0
+Start of varp 1297
+	> Found component: 190, 12
+	> Found component: 1783, 15
+Start of varp 1305
+	> Found component: 394, 8
+Start of varp 1308
+	> Found component: 28, 3
+Start of varp 1310
+	> Found component: 28, 19
+Start of varp 1311
+	> Found component: 28, 19
+Start of varp 1312
+	> Found component: 28, 19
+Start of varp 1313
+	> Found component: 28, 19
+Start of varp 1314
+	> Found component: 28, 19
+Start of varp 1316
+	> Found component: 1163, 50
+Start of varp 1317
+	> Found component: 1163, 34
+Start of varp 1326
+	> Found component: 1477, 13
+Start of varp 1336
+	> Found component: 1297, 128
+	> Found component: 1297, 128
+	> Found component: 1297, 128
+Start of varp 1337
+	> Found component: 1297, 126
+Start of varp 1338
+	> Found component: 1297, 127
+Start of varp 1347
+	> Found component: 197, 16
+Start of varp 1357
+	> Found component: 447, 1
+	> Found component: 447, 15
+	> Found component: 447, 28
+Start of varp 1358
+	> Found component: 551, 8
+	> Found component: 551, 22
+Start of varp 1361
+	> Found component: 366, 22
+Start of varp 1362
+	> Found component: 15, 14
+Start of varp 1364
+	> Found component: 768, 0
+Start of varp 1365
+	> Found component: 768, 0
+Start of varp 1366
+	> Found component: 756, 14
+	> Found component: 756, 22
+	> Found component: 756, 51
+Start of varp 1367
+	> Found component: 756, 49
+Start of varp 1370
+	> Found component: 768, 0
+Start of varp 1376
+	> Found component: 43, 309
+Start of varp 1377
+	> Found component: 43, 309
+Start of varp 1378
+	> Found component: 43, 309
+Start of varp 1379
+	> Found component: 43, 309
+Start of varp 1380
+	> Found component: 768, 0
+Start of varp 1381
+	> Found component: 793, 2
+Start of varp 1382
+	> Found component: 265, 17
+Start of varp 1411
+	> Found component: 139, 1
+Start of varp 1412
+	> Found component: 54, 23
+	> Found component: 58, 22
+	> Found component: 59, 0
+Start of varp 1413
+	> Found component: 54, 23
+	> Found component: 58, 22
+	> Found component: 59, 0
+Start of varp 1414
+	> Found component: 54, 6
+	> Found component: 54, 6
+Start of varp 1417
+	> Found component: 57, 0
+	> Found component: 58, 22
+	> Found component: 59, 0
+Start of varp 1421
+	> Found component: 169, 39
+	> Found component: 592, 3
+	> Found component: 592, 5
+	> Found component: 592, 12
+Start of varp 1425
+	> Found component: 1584, 37
+	> Found component: 1584, 45
+	> Found component: 1584, 49
+	> Found component: 1584, 57
+Start of varp 1442
+	> Found component: 1283, 0
+	> Found component: 1315, 0
+Start of varp 1443
+	> Found component: 1283, 0
+	> Found component: 1315, 0
+Start of varp 1451
+	> Found component: 1253, 424
+Start of varp 1459
+	> Found component: 1056, 19
+	> Found component: 1220, 5
+Start of varp 1491
+	> Found component: 496, 24
+Start of varp 1493
+	> Found component: 1624, 2
+Start of varp 1513
+	> Found component: 24, 0
+	> Found component: 24, 3
+	> Found component: 24, 4
+	> Found component: 24, 6
+Start of varp 1523
+	> Found component: 925, 263
+Start of varp 1542
+	> Found component: 1128, 0
+	> Found component: 1128, 32
+	> Found component: 1128, 33
+	> Found component: 1128, 34
+	> Found component: 1128, 35
+	> Found component: 1128, 36
+	> Found component: 1128, 37
+	> Found component: 1128, 38
+	> Found component: 1128, 39
+Start of varp 1554
+	> Found component: 173, 1
+Start of varp 1561
+	> Found component: 22, 6
+	> Found component: 22, 40
+Start of varp 1562
+	> Found component: 22, 64
+	> Found component: 22, 74
+Start of varp 1563
+	> Found component: 22, 96
+	> Found component: 22, 105
+Start of varp 1569
+	> Found component: 1011, 61
+	> Found component: 1011, 63
+	> Found component: 1011, 95
+	> Found component: 1011, 111
+	> Found component: 1011, 127
+	> Found component: 1011, 143
+	> Found component: 1011, 161
+	> Found component: 1011, 176
+	> Found component: 1011, 192
+	> Found component: 1011, 206
+	> Found component: 1011, 217
+	> Found component: 1011, 228
+	> Found component: 1011, 239
+	> Found component: 1011, 250
+	> Found component: 1011, 261
+	> Found component: 1011, 276
+	> Found component: 1011, 291
+	> Found component: 1011, 306
+	> Found component: 1011, 335
+	> Found component: 1011, 359
+	> Found component: 1011, 371
+	> Found component: 1011, 383
+	> Found component: 1011, 395
+	> Found component: 1011, 407
+	> Found component: 1011, 419
+	> Found component: 1011, 430
+	> Found component: 1011, 441
+Start of varp 1572
+	> Found component: 1340, 11
+Start of varp 1573
+	> Found component: 4, 8
+Start of varp 1582
+	> Found component: 1000, 140
+	> Found component: 1000, 140
+	> Found component: 1000, 140
+	> Found component: 1000, 141
+	> Found component: 1000, 141
+	> Found component: 1000, 141
+	> Found component: 1000, 142
+	> Found component: 1000, 142
+	> Found component: 1000, 143
+	> Found component: 1000, 143
+	> Found component: 1000, 143
+	> Found component: 1000, 144
+	> Found component: 1000, 144
+	> Found component: 1000, 144
+	> Found component: 1000, 145
+	> Found component: 1000, 145
+	> Found component: 1000, 145
+	> Found component: 1000, 146
+	> Found component: 1000, 146
+	> Found component: 1000, 147
+	> Found component: 1000, 147
+	> Found component: 1000, 147
+	> Found component: 1000, 148
+	> Found component: 1000, 148
+	> Found component: 1000, 148
+	> Found component: 1000, 149
+	> Found component: 1000, 149
+	> Found component: 1000, 149
+	> Found component: 1000, 150
+	> Found component: 1000, 150
+	> Found component: 1000, 150
+	> Found component: 1000, 181
+	> Found component: 1000, 181
+	> Found component: 1000, 181
+	> Found component: 1000, 182
+	> Found component: 1000, 182
+	> Found component: 1000, 182
+	> Found component: 1000, 183
+	> Found component: 1000, 183
+	> Found component: 1000, 183
+	> Found component: 1000, 184
+	> Found component: 1000, 184
+	> Found component: 1000, 184
+	> Found component: 1000, 185
+	> Found component: 1000, 185
+	> Found component: 1000, 185
+	> Found component: 1000, 186
+	> Found component: 1000, 186
+	> Found component: 1000, 186
+	> Found component: 1000, 187
+	> Found component: 1000, 187
+	> Found component: 1000, 187
+	> Found component: 1000, 188
+	> Found component: 1000, 188
+	> Found component: 1000, 188
+	> Found component: 1000, 189
+	> Found component: 1000, 189
+	> Found component: 1000, 189
+	> Found component: 1000, 190
+	> Found component: 1000, 190
+	> Found component: 1000, 190
+	> Found component: 1001, 138
+	> Found component: 1001, 138
+	> Found component: 1001, 138
+	> Found component: 1001, 139
+	> Found component: 1001, 139
+	> Found component: 1001, 139
+	> Found component: 1001, 140
+	> Found component: 1001, 140
+	> Found component: 1001, 140
+	> Found component: 1001, 141
+	> Found component: 1001, 141
+	> Found component: 1001, 141
+	> Found component: 1001, 142
+	> Found component: 1001, 142
+	> Found component: 1001, 142
+	> Found component: 1001, 143
+	> Found component: 1001, 143
+	> Found component: 1001, 143
+	> Found component: 1001, 144
+	> Found component: 1001, 144
+	> Found component: 1001, 144
+	> Found component: 1001, 145
+	> Found component: 1001, 145
+	> Found component: 1001, 145
+	> Found component: 1001, 146
+	> Found component: 1001, 146
+	> Found component: 1001, 146
+	> Found component: 1001, 171
+	> Found component: 1001, 171
+	> Found component: 1001, 171
+	> Found component: 1001, 172
+	> Found component: 1001, 172
+	> Found component: 1001, 172
+	> Found component: 1001, 173
+	> Found component: 1001, 173
+	> Found component: 1001, 173
+	> Found component: 1001, 174
+	> Found component: 1001, 174
+	> Found component: 1001, 174
+	> Found component: 1001, 175
+	> Found component: 1001, 175
+	> Found component: 1001, 175
+	> Found component: 1001, 176
+	> Found component: 1001, 176
+	> Found component: 1001, 176
+	> Found component: 1001, 177
+	> Found component: 1001, 177
+	> Found component: 1001, 177
+	> Found component: 1001, 178
+	> Found component: 1001, 178
+	> Found component: 1001, 178
+	> Found component: 1002, 136
+	> Found component: 1002, 136
+	> Found component: 1002, 137
+	> Found component: 1002, 137
+	> Found component: 1002, 138
+	> Found component: 1002, 138
+	> Found component: 1002, 139
+	> Found component: 1002, 139
+	> Found component: 1002, 140
+	> Found component: 1002, 140
+	> Found component: 1002, 141
+	> Found component: 1002, 141
+	> Found component: 1002, 142
+	> Found component: 1002, 142
+	> Found component: 1002, 142
+	> Found component: 1002, 161
+	> Found component: 1002, 161
+	> Found component: 1002, 162
+	> Found component: 1002, 162
+	> Found component: 1002, 163
+	> Found component: 1002, 163
+	> Found component: 1002, 164
+	> Found component: 1002, 164
+	> Found component: 1002, 165
+	> Found component: 1002, 165
+	> Found component: 1002, 166
+	> Found component: 1002, 166
+	> Found component: 1003, 142
+	> Found component: 1003, 142
+	> Found component: 1003, 142
+	> Found component: 1003, 143
+	> Found component: 1003, 143
+	> Found component: 1003, 143
+	> Found component: 1003, 144
+	> Found component: 1003, 144
+	> Found component: 1003, 144
+	> Found component: 1003, 145
+	> Found component: 1003, 145
+	> Found component: 1003, 145
+	> Found component: 1003, 146
+	> Found component: 1003, 146
+	> Found component: 1003, 147
+	> Found component: 1003, 147
+	> Found component: 1003, 147
+	> Found component: 1003, 148
+	> Found component: 1003, 148
+	> Found component: 1003, 148
+	> Found component: 1003, 149
+	> Found component: 1003, 149
+	> Found component: 1003, 149
+	> Found component: 1003, 150
+	> Found component: 1003, 150
+	> Found component: 1003, 150
+	> Found component: 1003, 151
+	> Found component: 1003, 151
+	> Found component: 1003, 151
+	> Found component: 1003, 152
+	> Found component: 1003, 152
+	> Found component: 1003, 152
+	> Found component: 1003, 153
+	> Found component: 1003, 153
+	> Found component: 1003, 153
+	> Found component: 1003, 154
+	> Found component: 1003, 154
+	> Found component: 1003, 154
+	> Found component: 1003, 191
+	> Found component: 1003, 191
+	> Found component: 1003, 191
+	> Found component: 1003, 192
+	> Found component: 1003, 192
+	> Found component: 1003, 192
+	> Found component: 1003, 193
+	> Found component: 1003, 193
+	> Found component: 1003, 193
+	> Found component: 1003, 194
+	> Found component: 1003, 194
+	> Found component: 1003, 194
+	> Found component: 1003, 195
+	> Found component: 1003, 195
+	> Found component: 1003, 195
+	> Found component: 1003, 196
+	> Found component: 1003, 196
+	> Found component: 1003, 196
+	> Found component: 1003, 197
+	> Found component: 1003, 197
+	> Found component: 1003, 197
+	> Found component: 1003, 198
+	> Found component: 1003, 198
+	> Found component: 1003, 198
+	> Found component: 1003, 199
+	> Found component: 1003, 199
+	> Found component: 1003, 199
+	> Found component: 1003, 200
+	> Found component: 1003, 200
+	> Found component: 1003, 200
+	> Found component: 1003, 201
+	> Found component: 1003, 201
+	> Found component: 1003, 201
+	> Found component: 1003, 202
+	> Found component: 1003, 202
+	> Found component: 1003, 202
+Start of varp 1587
+	> Found component: 1366, 13
+Start of varp 1595
+	> Found component: 1477, 13
+Start of varp 1603
+	> Found npc: 8255
+	> Found npc: 8257
+	> Found npc: 8258
+	> Found npc: 8260
+	> Found npc: 8261
+	> Found npc: 8262
+	> Found npc: 8263
+	> Found npc: 8264
+Start of varp 1606
+	> Found component: 1128, 49
+Start of varp 1613
+	> Found component: 5, 2
+Start of varp 1616
+	> Found component: 428, 6
+Start of varp 1617
+	> Found component: 428, 0
+Start of varp 1619
+	> Found component: 276, 0
+Start of varp 1622
+	> Found component: 834, 74
+	> Found component: 836, 56
+Start of varp 1624
+	> Found component: 45, 25
+	> Found component: 655, 20
+Start of varp 1625
+	> Found component: 37, 5
+	> Found component: 292, 125
+	> Found component: 654, 74
+	> Found component: 657, 41
+	> Found component: 657, 42
+	> Found component: 852, 62
+	> Found component: 852, 63
+Start of varp 1630
+	> Found component: 37, 8
+Start of varp 1631
+	> Found component: 37, 5
+	> Found component: 654, 74
+	> Found component: 654, 74
+	> Found component: 654, 74
+	> Found component: 654, 74
+	> Found component: 654, 74
+	> Found component: 848, 26
+	> Found component: 848, 27
+	> Found component: 848, 28
+	> Found component: 848, 29
+	> Found component: 848, 30
+Start of varp 1632
+	> Found component: 292, 96
+	> Found component: 292, 125
+	> Found component: 653, 43
+	> Found component: 653, 45
+	> Found component: 862, 6
+	> Found component: 862, 8
+	> Found component: 862, 43
+	> Found component: 862, 45
+	> Found component: 863, 30
+Start of varp 1633
+	> Found component: 37, 19
+	> Found component: 292, 96
+	> Found component: 292, 125
+Start of varp 1634
+	> Found component: 292, 96
+	> Found component: 292, 125
+Start of varp 1635
+	> Found component: 292, 96
+	> Found component: 292, 125
+	> Found component: 657, 41
+	> Found component: 657, 42
+	> Found component: 852, 62
+	> Found component: 852, 63
+Start of varp 1655
+	> Found component: 1015, 12
+	> Found component: 1015, 34
+	> Found component: 1015, 143
+	> Found component: 1024, 3
+	> Found component: 1024, 25
+	> Found component: 1024, 32
+	> Found component: 1024, 39
+	> Found component: 1024, 46
+	> Found component: 1026, 20
+Start of varp 1656
+	> Found component: 1015, 144
+	> Found component: 1015, 144
+	> Found component: 1017, 31
+	> Found component: 1017, 31
+	> Found component: 1017, 31
+	> Found component: 1017, 31
+	> Found component: 1017, 166
+	> Found component: 1017, 166
+	> Found component: 1017, 166
+	> Found component: 1017, 166
+	> Found component: 1017, 167
+	> Found component: 1017, 167
+	> Found component: 1017, 167
+	> Found component: 1017, 167
+	> Found component: 1017, 168
+	> Found component: 1017, 168
+	> Found component: 1017, 168
+	> Found component: 1017, 168
+	> Found component: 1017, 169
+	> Found component: 1017, 169
+	> Found component: 1017, 169
+	> Found component: 1017, 169
+	> Found component: 1017, 170
+	> Found component: 1017, 170
+	> Found component: 1017, 170
+	> Found component: 1017, 170
+	> Found component: 1017, 171
+	> Found component: 1017, 171
+	> Found component: 1017, 171
+	> Found component: 1017, 171
+	> Found component: 1017, 172
+	> Found component: 1017, 172
+	> Found component: 1017, 172
+	> Found component: 1017, 172
+	> Found component: 1017, 173
+	> Found component: 1017, 173
+	> Found component: 1017, 173
+	> Found component: 1017, 173
+	> Found component: 1017, 174
+	> Found component: 1017, 174
+	> Found component: 1017, 174
+	> Found component: 1017, 174
+	> Found component: 1017, 175
+	> Found component: 1017, 175
+	> Found component: 1017, 175
+	> Found component: 1017, 175
+	> Found component: 1017, 176
+	> Found component: 1017, 176
+	> Found component: 1017, 176
+	> Found component: 1017, 176
+	> Found component: 1017, 177
+	> Found component: 1017, 177
+	> Found component: 1017, 177
+	> Found component: 1017, 177
+	> Found component: 1017, 178
+	> Found component: 1017, 178
+	> Found component: 1017, 178
+	> Found component: 1017, 178
+	> Found component: 1017, 179
+	> Found component: 1017, 179
+	> Found component: 1017, 179
+	> Found component: 1017, 179
+	> Found component: 1017, 180
+	> Found component: 1017, 180
+	> Found component: 1017, 180
+	> Found component: 1017, 180
+	> Found component: 1017, 181
+	> Found component: 1017, 181
+	> Found component: 1017, 181
+	> Found component: 1017, 181
+	> Found component: 1017, 182
+	> Found component: 1017, 182
+	> Found component: 1017, 182
+	> Found component: 1017, 182
+	> Found component: 1017, 183
+	> Found component: 1017, 183
+	> Found component: 1017, 183
+	> Found component: 1017, 183
+	> Found component: 1017, 184
+	> Found component: 1017, 184
+	> Found component: 1017, 184
+	> Found component: 1017, 184
+	> Found component: 1017, 185
+	> Found component: 1017, 185
+	> Found component: 1017, 185
+	> Found component: 1017, 185
+	> Found component: 1017, 186
+	> Found component: 1017, 186
+	> Found component: 1017, 186
+	> Found component: 1017, 186
+	> Found component: 1017, 187
+	> Found component: 1017, 187
+	> Found component: 1017, 187
+	> Found component: 1017, 187
+	> Found component: 1017, 188
+	> Found component: 1017, 188
+	> Found component: 1017, 188
+	> Found component: 1017, 188
+	> Found component: 1017, 189
+	> Found component: 1017, 189
+	> Found component: 1017, 189
+	> Found component: 1017, 189
+	> Found component: 1017, 190
+	> Found component: 1017, 190
+	> Found component: 1017, 190
+	> Found component: 1017, 190
+	> Found component: 1017, 191
+	> Found component: 1017, 191
+	> Found component: 1017, 191
+	> Found component: 1017, 191
+	> Found component: 1017, 192
+	> Found component: 1017, 192
+	> Found component: 1017, 192
+	> Found component: 1017, 192
+	> Found component: 1017, 193
+	> Found component: 1017, 193
+	> Found component: 1017, 193
+	> Found component: 1017, 193
+	> Found component: 1017, 194
+	> Found component: 1017, 194
+	> Found component: 1017, 194
+	> Found component: 1017, 194
+	> Found component: 1017, 195
+	> Found component: 1017, 195
+	> Found component: 1017, 195
+	> Found component: 1017, 195
+	> Found component: 1017, 196
+	> Found component: 1017, 196
+	> Found component: 1017, 196
+	> Found component: 1017, 196
+	> Found component: 1017, 197
+	> Found component: 1017, 197
+	> Found component: 1017, 197
+	> Found component: 1017, 197
+	> Found component: 1017, 198
+	> Found component: 1017, 198
+	> Found component: 1017, 198
+	> Found component: 1017, 198
+	> Found component: 1017, 199
+	> Found component: 1017, 199
+	> Found component: 1017, 199
+	> Found component: 1017, 199
+	> Found component: 1017, 200
+	> Found component: 1017, 200
+	> Found component: 1017, 200
+	> Found component: 1017, 200
+	> Found component: 1017, 201
+	> Found component: 1017, 201
+	> Found component: 1017, 201
+	> Found component: 1017, 201
+	> Found component: 1017, 202
+	> Found component: 1017, 202
+	> Found component: 1017, 202
+	> Found component: 1017, 202
+	> Found component: 1017, 203
+	> Found component: 1017, 203
+	> Found component: 1017, 203
+	> Found component: 1017, 203
+	> Found component: 1017, 204
+	> Found component: 1017, 204
+	> Found component: 1017, 204
+	> Found component: 1017, 204
+	> Found component: 1017, 205
+	> Found component: 1017, 205
+	> Found component: 1017, 205
+	> Found component: 1017, 205
+	> Found component: 1017, 206
+	> Found component: 1017, 206
+	> Found component: 1017, 206
+	> Found component: 1017, 206
+	> Found component: 1017, 207
+	> Found component: 1017, 207
+	> Found component: 1017, 207
+	> Found component: 1017, 207
+	> Found component: 1017, 208
+	> Found component: 1017, 208
+	> Found component: 1017, 208
+	> Found component: 1017, 208
+	> Found component: 1017, 209
+	> Found component: 1017, 209
+	> Found component: 1017, 209
+	> Found component: 1017, 209
+	> Found component: 1017, 210
+	> Found component: 1017, 210
+	> Found component: 1017, 210
+	> Found component: 1017, 210
+	> Found component: 1017, 211
+	> Found component: 1017, 211
+	> Found component: 1017, 211
+	> Found component: 1017, 211
+	> Found component: 1017, 212
+	> Found component: 1017, 212
+	> Found component: 1017, 212
+	> Found component: 1017, 212
+	> Found component: 1017, 213
+	> Found component: 1017, 213
+	> Found component: 1017, 213
+	> Found component: 1017, 213
+	> Found component: 1017, 214
+	> Found component: 1017, 214
+	> Found component: 1017, 214
+	> Found component: 1017, 214
+	> Found component: 1017, 215
+	> Found component: 1017, 215
+	> Found component: 1017, 215
+	> Found component: 1017, 215
+	> Found component: 1017, 216
+	> Found component: 1017, 216
+	> Found component: 1017, 216
+	> Found component: 1017, 216
+	> Found component: 1017, 217
+	> Found component: 1017, 217
+	> Found component: 1017, 217
+	> Found component: 1017, 217
+	> Found component: 1017, 218
+	> Found component: 1017, 218
+	> Found component: 1017, 218
+	> Found component: 1017, 218
+	> Found component: 1017, 219
+	> Found component: 1017, 219
+	> Found component: 1017, 219
+	> Found component: 1017, 219
+	> Found component: 1017, 220
+	> Found component: 1017, 220
+	> Found component: 1017, 220
+	> Found component: 1017, 220
+	> Found component: 1017, 221
+	> Found component: 1017, 221
+	> Found component: 1017, 221
+	> Found component: 1017, 221
+	> Found component: 1017, 222
+	> Found component: 1017, 222
+	> Found component: 1017, 222
+	> Found component: 1017, 222
+	> Found component: 1017, 223
+	> Found component: 1017, 223
+	> Found component: 1017, 223
+	> Found component: 1017, 223
+	> Found component: 1017, 224
+	> Found component: 1017, 224
+	> Found component: 1017, 224
+	> Found component: 1017, 224
+	> Found component: 1017, 225
+	> Found component: 1017, 225
+	> Found component: 1017, 225
+	> Found component: 1017, 225
+Start of varp 1657
+	> Found component: 1015, 144
+	> Found component: 1015, 144
+	> Found component: 1017, 31
+	> Found component: 1017, 31
+	> Found component: 1017, 31
+	> Found component: 1017, 31
+	> Found component: 1017, 166
+	> Found component: 1017, 166
+	> Found component: 1017, 166
+	> Found component: 1017, 166
+	> Found component: 1017, 167
+	> Found component: 1017, 167
+	> Found component: 1017, 167
+	> Found component: 1017, 167
+	> Found component: 1017, 168
+	> Found component: 1017, 168
+	> Found component: 1017, 168
+	> Found component: 1017, 168
+	> Found component: 1017, 169
+	> Found component: 1017, 169
+	> Found component: 1017, 169
+	> Found component: 1017, 169
+	> Found component: 1017, 170
+	> Found component: 1017, 170
+	> Found component: 1017, 170
+	> Found component: 1017, 170
+	> Found component: 1017, 171
+	> Found component: 1017, 171
+	> Found component: 1017, 171
+	> Found component: 1017, 171
+	> Found component: 1017, 172
+	> Found component: 1017, 172
+	> Found component: 1017, 172
+	> Found component: 1017, 172
+	> Found component: 1017, 173
+	> Found component: 1017, 173
+	> Found component: 1017, 173
+	> Found component: 1017, 173
+	> Found component: 1017, 174
+	> Found component: 1017, 174
+	> Found component: 1017, 174
+	> Found component: 1017, 174
+	> Found component: 1017, 175
+	> Found component: 1017, 175
+	> Found component: 1017, 175
+	> Found component: 1017, 175
+	> Found component: 1017, 176
+	> Found component: 1017, 176
+	> Found component: 1017, 176
+	> Found component: 1017, 176
+	> Found component: 1017, 177
+	> Found component: 1017, 177
+	> Found component: 1017, 177
+	> Found component: 1017, 177
+	> Found component: 1017, 178
+	> Found component: 1017, 178
+	> Found component: 1017, 178
+	> Found component: 1017, 178
+	> Found component: 1017, 179
+	> Found component: 1017, 179
+	> Found component: 1017, 179
+	> Found component: 1017, 179
+	> Found component: 1017, 180
+	> Found component: 1017, 180
+	> Found component: 1017, 180
+	> Found component: 1017, 180
+	> Found component: 1017, 181
+	> Found component: 1017, 181
+	> Found component: 1017, 181
+	> Found component: 1017, 181
+	> Found component: 1017, 182
+	> Found component: 1017, 182
+	> Found component: 1017, 182
+	> Found component: 1017, 182
+	> Found component: 1017, 183
+	> Found component: 1017, 183
+	> Found component: 1017, 183
+	> Found component: 1017, 183
+	> Found component: 1017, 184
+	> Found component: 1017, 184
+	> Found component: 1017, 184
+	> Found component: 1017, 184
+	> Found component: 1017, 185
+	> Found component: 1017, 185
+	> Found component: 1017, 185
+	> Found component: 1017, 185
+	> Found component: 1017, 186
+	> Found component: 1017, 186
+	> Found component: 1017, 186
+	> Found component: 1017, 186
+	> Found component: 1017, 187
+	> Found component: 1017, 187
+	> Found component: 1017, 187
+	> Found component: 1017, 187
+	> Found component: 1017, 188
+	> Found component: 1017, 188
+	> Found component: 1017, 188
+	> Found component: 1017, 188
+	> Found component: 1017, 189
+	> Found component: 1017, 189
+	> Found component: 1017, 189
+	> Found component: 1017, 189
+	> Found component: 1017, 190
+	> Found component: 1017, 190
+	> Found component: 1017, 190
+	> Found component: 1017, 190
+	> Found component: 1017, 191
+	> Found component: 1017, 191
+	> Found component: 1017, 191
+	> Found component: 1017, 191
+	> Found component: 1017, 192
+	> Found component: 1017, 192
+	> Found component: 1017, 192
+	> Found component: 1017, 192
+	> Found component: 1017, 193
+	> Found component: 1017, 193
+	> Found component: 1017, 193
+	> Found component: 1017, 193
+	> Found component: 1017, 194
+	> Found component: 1017, 194
+	> Found component: 1017, 194
+	> Found component: 1017, 194
+	> Found component: 1017, 195
+	> Found component: 1017, 195
+	> Found component: 1017, 195
+	> Found component: 1017, 195
+	> Found component: 1017, 196
+	> Found component: 1017, 196
+	> Found component: 1017, 196
+	> Found component: 1017, 196
+	> Found component: 1017, 197
+	> Found component: 1017, 197
+	> Found component: 1017, 197
+	> Found component: 1017, 197
+	> Found component: 1017, 198
+	> Found component: 1017, 198
+	> Found component: 1017, 198
+	> Found component: 1017, 198
+	> Found component: 1017, 199
+	> Found component: 1017, 199
+	> Found component: 1017, 199
+	> Found component: 1017, 199
+	> Found component: 1017, 200
+	> Found component: 1017, 200
+	> Found component: 1017, 200
+	> Found component: 1017, 200
+	> Found component: 1017, 201
+	> Found component: 1017, 201
+	> Found component: 1017, 201
+	> Found component: 1017, 201
+	> Found component: 1017, 202
+	> Found component: 1017, 202
+	> Found component: 1017, 202
+	> Found component: 1017, 202
+	> Found component: 1017, 203
+	> Found component: 1017, 203
+	> Found component: 1017, 203
+	> Found component: 1017, 203
+	> Found component: 1017, 204
+	> Found component: 1017, 204
+	> Found component: 1017, 204
+	> Found component: 1017, 204
+	> Found component: 1017, 205
+	> Found component: 1017, 205
+	> Found component: 1017, 205
+	> Found component: 1017, 205
+	> Found component: 1017, 206
+	> Found component: 1017, 206
+	> Found component: 1017, 206
+	> Found component: 1017, 206
+	> Found component: 1017, 207
+	> Found component: 1017, 207
+	> Found component: 1017, 207
+	> Found component: 1017, 207
+	> Found component: 1017, 208
+	> Found component: 1017, 208
+	> Found component: 1017, 208
+	> Found component: 1017, 208
+	> Found component: 1017, 209
+	> Found component: 1017, 209
+	> Found component: 1017, 209
+	> Found component: 1017, 209
+	> Found component: 1017, 210
+	> Found component: 1017, 210
+	> Found component: 1017, 210
+	> Found component: 1017, 210
+	> Found component: 1017, 211
+	> Found component: 1017, 211
+	> Found component: 1017, 211
+	> Found component: 1017, 211
+	> Found component: 1017, 212
+	> Found component: 1017, 212
+	> Found component: 1017, 212
+	> Found component: 1017, 212
+	> Found component: 1017, 213
+	> Found component: 1017, 213
+	> Found component: 1017, 213
+	> Found component: 1017, 213
+	> Found component: 1017, 214
+	> Found component: 1017, 214
+	> Found component: 1017, 214
+	> Found component: 1017, 214
+	> Found component: 1017, 215
+	> Found component: 1017, 215
+	> Found component: 1017, 215
+	> Found component: 1017, 215
+	> Found component: 1017, 216
+	> Found component: 1017, 216
+	> Found component: 1017, 216
+	> Found component: 1017, 216
+	> Found component: 1017, 217
+	> Found component: 1017, 217
+	> Found component: 1017, 217
+	> Found component: 1017, 217
+	> Found component: 1017, 218
+	> Found component: 1017, 218
+	> Found component: 1017, 218
+	> Found component: 1017, 218
+	> Found component: 1017, 219
+	> Found component: 1017, 219
+	> Found component: 1017, 219
+	> Found component: 1017, 219
+	> Found component: 1017, 220
+	> Found component: 1017, 220
+	> Found component: 1017, 220
+	> Found component: 1017, 220
+	> Found component: 1017, 221
+	> Found component: 1017, 221
+	> Found component: 1017, 221
+	> Found component: 1017, 221
+	> Found component: 1017, 222
+	> Found component: 1017, 222
+	> Found component: 1017, 222
+	> Found component: 1017, 222
+	> Found component: 1017, 223
+	> Found component: 1017, 223
+	> Found component: 1017, 223
+	> Found component: 1017, 223
+	> Found component: 1017, 224
+	> Found component: 1017, 224
+	> Found component: 1017, 224
+	> Found component: 1017, 224
+	> Found component: 1017, 225
+	> Found component: 1017, 225
+	> Found component: 1017, 225
+	> Found component: 1017, 225
+Start of varp 1658
+	> Found component: 1015, 144
+	> Found component: 1015, 144
+	> Found component: 1015, 144
+	> Found component: 1015, 144
+	> Found component: 1015, 144
+	> Found component: 1017, 31
+	> Found component: 1017, 31
+	> Found component: 1017, 166
+	> Found component: 1017, 166
+	> Found component: 1017, 167
+	> Found component: 1017, 167
+	> Found component: 1017, 168
+	> Found component: 1017, 168
+	> Found component: 1017, 169
+	> Found component: 1017, 169
+	> Found component: 1017, 170
+	> Found component: 1017, 170
+	> Found component: 1017, 171
+	> Found component: 1017, 171
+	> Found component: 1017, 172
+	> Found component: 1017, 172
+	> Found component: 1017, 173
+	> Found component: 1017, 173
+	> Found component: 1017, 174
+	> Found component: 1017, 174
+	> Found component: 1017, 175
+	> Found component: 1017, 175
+	> Found component: 1017, 176
+	> Found component: 1017, 176
+	> Found component: 1017, 177
+	> Found component: 1017, 177
+	> Found component: 1017, 178
+	> Found component: 1017, 178
+	> Found component: 1017, 179
+	> Found component: 1017, 179
+	> Found component: 1017, 180
+	> Found component: 1017, 180
+	> Found component: 1017, 181
+	> Found component: 1017, 181
+	> Found component: 1017, 182
+	> Found component: 1017, 182
+	> Found component: 1017, 183
+	> Found component: 1017, 183
+	> Found component: 1017, 184
+	> Found component: 1017, 184
+	> Found component: 1017, 185
+	> Found component: 1017, 185
+	> Found component: 1017, 186
+	> Found component: 1017, 186
+	> Found component: 1017, 187
+	> Found component: 1017, 187
+	> Found component: 1017, 188
+	> Found component: 1017, 188
+	> Found component: 1017, 189
+	> Found component: 1017, 189
+	> Found component: 1017, 190
+	> Found component: 1017, 190
+	> Found component: 1017, 191
+	> Found component: 1017, 191
+	> Found component: 1017, 192
+	> Found component: 1017, 192
+	> Found component: 1017, 193
+	> Found component: 1017, 193
+	> Found component: 1017, 194
+	> Found component: 1017, 194
+	> Found component: 1017, 195
+	> Found component: 1017, 195
+	> Found component: 1017, 196
+	> Found component: 1017, 196
+	> Found component: 1017, 197
+	> Found component: 1017, 197
+	> Found component: 1017, 198
+	> Found component: 1017, 198
+	> Found component: 1017, 199
+	> Found component: 1017, 199
+	> Found component: 1017, 200
+	> Found component: 1017, 200
+	> Found component: 1017, 201
+	> Found component: 1017, 201
+	> Found component: 1017, 202
+	> Found component: 1017, 202
+	> Found component: 1017, 203
+	> Found component: 1017, 203
+	> Found component: 1017, 204
+	> Found component: 1017, 204
+	> Found component: 1017, 205
+	> Found component: 1017, 205
+	> Found component: 1017, 206
+	> Found component: 1017, 206
+	> Found component: 1017, 207
+	> Found component: 1017, 207
+	> Found component: 1017, 208
+	> Found component: 1017, 208
+	> Found component: 1017, 209
+	> Found component: 1017, 209
+	> Found component: 1017, 210
+	> Found component: 1017, 210
+	> Found component: 1017, 211
+	> Found component: 1017, 211
+	> Found component: 1017, 212
+	> Found component: 1017, 212
+	> Found component: 1017, 213
+	> Found component: 1017, 213
+	> Found component: 1017, 214
+	> Found component: 1017, 214
+	> Found component: 1017, 215
+	> Found component: 1017, 215
+	> Found component: 1017, 216
+	> Found component: 1017, 216
+	> Found component: 1017, 217
+	> Found component: 1017, 217
+	> Found component: 1017, 218
+	> Found component: 1017, 218
+	> Found component: 1017, 219
+	> Found component: 1017, 219
+	> Found component: 1017, 220
+	> Found component: 1017, 220
+	> Found component: 1017, 221
+	> Found component: 1017, 221
+	> Found component: 1017, 222
+	> Found component: 1017, 222
+	> Found component: 1017, 223
+	> Found component: 1017, 223
+	> Found component: 1017, 224
+	> Found component: 1017, 224
+	> Found component: 1017, 225
+	> Found component: 1017, 225
+Start of varp 1659
+	> Found component: 1008, 30
+	> Found component: 1015, 35
+	> Found component: 1015, 35
+	> Found component: 1015, 35
+	> Found component: 1015, 35
+	> Found component: 1015, 144
+	> Found component: 1019, 23
+Start of varp 1660
+	> Found component: 1009, 0
+Start of varp 1662
+	> Found component: 1016, 22
+	> Found component: 1022, 40
+Start of varp 1665
+	> Found component: 570, 72
+Start of varp 1668
+	> Found component: 570, 72
+Start of varp 1669
+	> Found component: 570, 72
+Start of varp 1670
+	> Found component: 570, 72
+Start of varp 1671
+	> Found component: 570, 72
+Start of varp 1672
+	> Found component: 570, 72
+Start of varp 1673
+	> Found component: 570, 72
+Start of varp 1674
+	> Found component: 570, 82
+Start of varp 1676
+	> Found component: 570, 54
+	> Found component: 570, 55
+	> Found component: 570, 56
+	> Found component: 570, 57
+	> Found component: 570, 58
+	> Found component: 570, 59
+	> Found component: 570, 60
+	> Found component: 570, 61
+	> Found component: 570, 62
+	> Found component: 570, 63
+	> Found component: 570, 276
+	> Found component: 570, 291
+	> Found component: 570, 306
+	> Found component: 570, 321
+	> Found component: 570, 336
+Start of varp 1677
+	> Found component: 570, 198
+	> Found component: 570, 213
+	> Found component: 570, 228
+	> Found component: 570, 243
+	> Found component: 570, 254
+	> Found component: 570, 265
+Start of varp 1688
+	> Found component: 1180, 10
+Start of varp 1689
+	> Found component: 1180, 10
+	> Found component: 1180, 196
+	> Found component: 1182, 51
+Start of varp 1690
+	> Found component: 1180, 10
+	> Found component: 1180, 196
+	> Found component: 1182, 51
+Start of varp 1694
+	> Found component: 1181, 5
+	> Found component: 1182, 51
+Start of varp 1696
+	> Found component: 688, 19
+	> Found component: 689, 8
+Start of varp 1704
+	> Found component: 781, 37
+	> Found component: 781, 46
+Start of varp 1705
+	> Found component: 476, 56
+Start of varp 1706
+	> Found component: 476, 0
+Start of varp 1709
+	> Found component: 476, 10
+Start of varp 1710
+	> Found component: 476, 6
+Start of varp 1713
+	> Found component: 1477, 13
+Start of varp 1719
+	> Found component: 730, 13
+Start of varp 1734
+	> Found component: 987, 13
+Start of varp 1746
+	> Found component: 906, 695
+	> Found component: 906, 696
+Start of varp 1747
+	> Found component: 906, 697
+Start of varp 1756
+	> Found component: 1477, 594
+	> Found component: 1477, 616
+Start of varp 1757
+	> Found component: 1477, 638
+	> Found component: 1477, 660
+Start of varp 1758
+	> Found component: 1477, 682
+	> Found component: 1477, 704
+Start of varp 1759
+	> Found component: 1477, 726
+	> Found component: 1477, 748
+Start of varp 1769
+	> Found component: 1430, 13
+	> Found component: 1505, 2
+Start of varp 1775
+	> Found component: 261, 6
+	> Found component: 1443, 0
+	> Found component: 1663, 3
+	> Found component: 1664, 14
+Start of varp 1776
+	> Found component: 157, 4
+Start of varp 1777
+	> Found component: 940, 9
+Start of varp 1778
+	> Found component: 1308, 534
+	> Found component: 1308, 559
+	> Found component: 1308, 567
+Start of varp 1779
+	> Found component: 662, 22
+Start of varp 1784
+	> Found component: 662, 9
+	> Found component: 662, 10
+	> Found component: 662, 22
+	> Found component: 663, 3
+	> Found component: 671, 11
+	> Found component: 1430, 18
+	> Found component: 1506, 5
+Start of varp 1785
+	> Found component: 662, 24
+	> Found component: 662, 47
+	> Found component: 663, 17
+Start of varp 1786
+	> Found component: 662, 7
+	> Found component: 662, 57
+Start of varp 1787
+	> Found component: 662, 14
+	> Found component: 662, 61
+	> Found component: 1430, 17
+Start of varp 1789
+	> Found component: 1430, 20
+	> Found component: 1430, 223
+	> Found component: 1506, 6
+Start of varp 1790
+	> Found component: 880, 4
+	> Found component: 880, 5
+	> Found component: 880, 6
+Start of varp 1826
+	> Found component: 805, 15
+Start of varp 1827
+	> Found component: 805, 15
+Start of varp 1831
+	> Found component: 662, 12
+	> Found component: 662, 28
+	> Found component: 662, 55
+	> Found component: 1430, 18
+	> Found component: 1430, 30
+	> Found component: 1506, 1
+	> Found component: 1506, 5
+	> Found component: 1506, 16
+Start of varp 1832
+	> Found object: 2114
+Start of varp 1845
+	> Found component: 1096, 54
+Start of varp 1867
+	> Found component: 797, 2
+	> Found component: 824, 20
+	> Found component: 824, 20
+	> Found component: 824, 20
+	> Found component: 824, 20
+	> Found component: 824, 50
+	> Found component: 824, 93
+	> Found component: 824, 93
+	> Found component: 824, 93
+	> Found component: 824, 93
+	> Found component: 824, 120
+	> Found component: 824, 146
+	> Found component: 824, 146
+	> Found component: 824, 146
+	> Found component: 824, 146
+	> Found component: 824, 173
+	> Found component: 824, 183
+	> Found component: 824, 183
+	> Found component: 824, 183
+	> Found component: 824, 183
+	> Found component: 824, 210
+Start of varp 1874
+	> Found object: 17328
+	> Found object: 17334
+	> Found object: 17340
+	> Found object: 17364
+	> Found object: 17373
+	> Found object: 17920
+	> Found object: 18331
+	> Found object: 18859
+	> Found object: 18921
+	> Found object: 19627
+Start of varp 1981
+	> Found component: 1258, 206
+	> Found component: 1258, 212
+	> Found component: 1258, 221
+	> Found component: 1258, 230
+Start of varp 1982
+	> Found component: 1258, 190
+	> Found component: 1258, 465
+	> Found component: 1258, 474
+	> Found component: 1258, 483
+Start of varp 1983
+	> Found component: 1258, 206
+	> Found component: 1258, 212
+	> Found component: 1258, 221
+	> Found component: 1258, 249
+	> Found component: 1258, 249
+	> Found component: 1258, 249
+	> Found component: 1258, 254
+	> Found component: 1258, 254
+	> Found component: 1258, 254
+	> Found component: 1258, 265
+	> Found component: 1258, 265
+	> Found component: 1258, 265
+	> Found component: 1258, 270
+	> Found component: 1258, 270
+	> Found component: 1258, 270
+	> Found component: 1258, 281
+	> Found component: 1258, 281
+	> Found component: 1258, 281
+	> Found component: 1258, 286
+	> Found component: 1258, 286
+	> Found component: 1258, 286
+	> Found component: 1258, 327
+	> Found component: 1258, 327
+	> Found component: 1258, 327
+	> Found component: 1258, 332
+	> Found component: 1258, 332
+	> Found component: 1258, 332
+	> Found component: 1258, 341
+	> Found component: 1258, 341
+	> Found component: 1258, 341
+	> Found component: 1258, 346
+	> Found component: 1258, 346
+	> Found component: 1258, 346
+	> Found component: 1258, 355
+	> Found component: 1258, 355
+	> Found component: 1258, 355
+	> Found component: 1258, 360
+	> Found component: 1258, 360
+	> Found component: 1258, 360
+	> Found component: 1258, 399
+	> Found component: 1258, 399
+	> Found component: 1258, 399
+	> Found component: 1258, 404
+	> Found component: 1258, 404
+	> Found component: 1258, 404
+	> Found component: 1258, 411
+	> Found component: 1258, 411
+	> Found component: 1258, 411
+	> Found component: 1258, 416
+	> Found component: 1258, 416
+	> Found component: 1258, 416
+	> Found component: 1258, 423
+	> Found component: 1258, 423
+	> Found component: 1258, 423
+	> Found component: 1258, 428
+	> Found component: 1258, 428
+	> Found component: 1258, 428
+Start of varp 1984
+	> Found component: 1258, 190
+	> Found component: 1258, 465
+	> Found component: 1258, 474
+	> Found component: 1258, 483
+Start of varp 1985
+	> Found component: 1258, 206
+	> Found component: 1258, 212
+	> Found component: 1258, 221
+	> Found component: 1258, 249
+	> Found component: 1258, 249
+	> Found component: 1258, 249
+	> Found component: 1258, 254
+	> Found component: 1258, 254
+	> Found component: 1258, 254
+	> Found component: 1258, 265
+	> Found component: 1258, 265
+	> Found component: 1258, 265
+	> Found component: 1258, 270
+	> Found component: 1258, 270
+	> Found component: 1258, 270
+	> Found component: 1258, 281
+	> Found component: 1258, 281
+	> Found component: 1258, 281
+	> Found component: 1258, 286
+	> Found component: 1258, 286
+	> Found component: 1258, 286
+	> Found component: 1258, 327
+	> Found component: 1258, 327
+	> Found component: 1258, 327
+	> Found component: 1258, 332
+	> Found component: 1258, 332
+	> Found component: 1258, 332
+	> Found component: 1258, 341
+	> Found component: 1258, 341
+	> Found component: 1258, 341
+	> Found component: 1258, 346
+	> Found component: 1258, 346
+	> Found component: 1258, 346
+	> Found component: 1258, 355
+	> Found component: 1258, 355
+	> Found component: 1258, 355
+	> Found component: 1258, 360
+	> Found component: 1258, 360
+	> Found component: 1258, 360
+	> Found component: 1258, 399
+	> Found component: 1258, 399
+	> Found component: 1258, 399
+	> Found component: 1258, 404
+	> Found component: 1258, 404
+	> Found component: 1258, 404
+	> Found component: 1258, 411
+	> Found component: 1258, 411
+	> Found component: 1258, 411
+	> Found component: 1258, 416
+	> Found component: 1258, 416
+	> Found component: 1258, 416
+	> Found component: 1258, 423
+	> Found component: 1258, 423
+	> Found component: 1258, 423
+	> Found component: 1258, 428
+	> Found component: 1258, 428
+	> Found component: 1258, 428
+Start of varp 1986
+	> Found component: 1258, 190
+	> Found component: 1258, 465
+	> Found component: 1258, 474
+	> Found component: 1258, 483
+Start of varp 1987
+	> Found component: 1258, 206
+	> Found component: 1258, 212
+	> Found component: 1258, 221
+	> Found component: 1258, 249
+	> Found component: 1258, 249
+	> Found component: 1258, 249
+	> Found component: 1258, 254
+	> Found component: 1258, 254
+	> Found component: 1258, 254
+	> Found component: 1258, 265
+	> Found component: 1258, 265
+	> Found component: 1258, 265
+	> Found component: 1258, 270
+	> Found component: 1258, 270
+	> Found component: 1258, 270
+	> Found component: 1258, 281
+	> Found component: 1258, 281
+	> Found component: 1258, 281
+	> Found component: 1258, 286
+	> Found component: 1258, 286
+	> Found component: 1258, 286
+	> Found component: 1258, 327
+	> Found component: 1258, 327
+	> Found component: 1258, 327
+	> Found component: 1258, 332
+	> Found component: 1258, 332
+	> Found component: 1258, 332
+	> Found component: 1258, 341
+	> Found component: 1258, 341
+	> Found component: 1258, 341
+	> Found component: 1258, 346
+	> Found component: 1258, 346
+	> Found component: 1258, 346
+	> Found component: 1258, 355
+	> Found component: 1258, 355
+	> Found component: 1258, 355
+	> Found component: 1258, 360
+	> Found component: 1258, 360
+	> Found component: 1258, 360
+	> Found component: 1258, 399
+	> Found component: 1258, 399
+	> Found component: 1258, 399
+	> Found component: 1258, 404
+	> Found component: 1258, 404
+	> Found component: 1258, 404
+	> Found component: 1258, 411
+	> Found component: 1258, 411
+	> Found component: 1258, 411
+	> Found component: 1258, 416
+	> Found component: 1258, 416
+	> Found component: 1258, 416
+	> Found component: 1258, 423
+	> Found component: 1258, 423
+	> Found component: 1258, 423
+	> Found component: 1258, 428
+	> Found component: 1258, 428
+	> Found component: 1258, 428
+Start of varp 1995
+	> Found component: 1108, 2
+Start of varp 2009
+	> Found component: 1333, 3
+	> Found component: 1333, 3
+	> Found component: 1333, 3
+	> Found component: 1333, 3
+	> Found component: 1334, 11
+	> Found component: 1334, 39
+Start of varp 2010
+	> Found component: 1333, 3
+	> Found component: 1333, 3
+	> Found component: 1333, 3
+	> Found component: 1334, 11
+	> Found component: 1334, 39
+Start of varp 2011
+	> Found component: 1321, 19
+Start of varp 2012
+	> Found component: 1321, 19
+Start of varp 2013
+	> Found component: 1333, 3
+Start of varp 2018
+	> Found component: 1098, 83
+	> Found component: 1098, 83
+	> Found component: 1098, 83
+	> Found component: 1098, 83
+Start of varp 2019
+	> Found component: 1098, 83
+	> Found component: 1098, 83
+	> Found component: 1098, 83
+	> Found component: 1098, 83
+Start of varp 2030
+	> Found component: 1098, 30
+	> Found component: 1098, 32
+	> Found component: 1098, 32
+	> Found component: 1098, 32
+	> Found component: 1098, 32
+	> Found component: 1098, 32
+	> Found component: 1098, 32
+	> Found component: 1098, 32
+	> Found component: 1098, 32
+Start of varp 2047
+	> Found component: 701, 34
+	> Found component: 1098, 83
+	> Found component: 1098, 282
+	> Found component: 1099, 22
+Start of varp 2051
+	> Found component: 1099, 22
+	> Found component: 1099, 22
+	> Found component: 1099, 22
+	> Found component: 1099, 22
+	> Found component: 1099, 22
+	> Found component: 1099, 22
+	> Found component: 1099, 22
+	> Found component: 1099, 22
+Start of varp 2067
+	> Found component: 1105, 2
+	> Found component: 1105, 196
+	> Found component: 1105, 210
+	> Found component: 1105, 224
+Start of varp 2068
+	> Found component: 1105, 8
+	> Found component: 1105, 15
+	> Found component: 1105, 212
+	> Found component: 1105, 226
+Start of varp 2069
+	> Found component: 1105, 11
+	> Found component: 1105, 17
+	> Found component: 1105, 198
+	> Found component: 1105, 228
+Start of varp 2070
+	> Found component: 1105, 5
+	> Found component: 1105, 19
+	> Found component: 1105, 200
+	> Found component: 1105, 214
+Start of varp 2072
+	> Found component: 1097, 180
+Start of varp 2074
+	> Found component: 1097, 1
+	> Found component: 1097, 1
+	> Found component: 1097, 1
+	> Found component: 1097, 1
+Start of varp 2075
+	> Found component: 1097, 1
+	> Found component: 1097, 1
+	> Found component: 1097, 1
+	> Found component: 1097, 1
+Start of varp 2076
+	> Found component: 1097, 1
+	> Found component: 1097, 1
+	> Found component: 1097, 1
+	> Found component: 1097, 1
+Start of varp 2077
+	> Found component: 1097, 1
+	> Found component: 1097, 1
+	> Found component: 1097, 1
+	> Found component: 1097, 1
+Start of varp 2078
+	> Found component: 1097, 1
+	> Found component: 1097, 1
+	> Found component: 1097, 1
+	> Found component: 1097, 1
+Start of varp 2080
+	> Found component: 1101, 5
+Start of varp 2082
+	> Found npc: 5606
+	> Found npc: 5667
+	> Found npc: 5668
+Start of varp 2091
+	> Found component: 1308, 44
+	> Found component: 1308, 96
+	> Found component: 1308, 100
+	> Found component: 1308, 249
+Start of varp 2092
+	> Found component: 754, 28
+	> Found component: 754, 29
+	> Found component: 754, 35
+	> Found component: 1308, 10
+	> Found component: 1308, 12
+	> Found component: 1308, 14
+	> Found component: 1308, 16
+	> Found component: 1308, 18
+	> Found component: 1308, 22
+	> Found component: 1308, 53
+	> Found component: 1308, 68
+	> Found component: 1308, 128
+	> Found component: 1308, 405
+Start of varp 2093
+	> Found component: 1308, 56
+	> Found component: 1308, 66
+	> Found component: 1308, 70
+	> Found component: 1308, 98
+	> Found component: 1308, 418
+Start of varp 2094
+	> Found component: 1308, 32
+	> Found component: 1308, 72
+	> Found component: 1308, 74
+	> Found component: 1308, 76
+	> Found component: 1308, 431
+	> Found component: 1308, 444
+	> Found component: 1308, 457
+Start of varp 2099
+	> Found component: 1238, 5
+Start of varp 2104
+	> Found component: 286, 31
+	> Found component: 286, 32
+	> Found component: 286, 33
+	> Found component: 286, 34
+	> Found component: 286, 35
+	> Found component: 286, 36
+	> Found component: 286, 37
+	> Found component: 286, 38
+	> Found component: 286, 39
+	> Found component: 286, 40
+	> Found component: 286, 41
+	> Found component: 286, 42
+	> Found component: 286, 43
+	> Found component: 286, 44
+	> Found component: 286, 45
+	> Found component: 286, 46
+	> Found component: 286, 47
+	> Found component: 286, 48
+	> Found component: 286, 49
+	> Found component: 286, 50
+	> Found component: 286, 51
+	> Found component: 286, 52
+	> Found component: 286, 53
+	> Found component: 286, 54
+	> Found component: 286, 55
+Start of varp 2105
+	> Found component: 286, 20
+	> Found component: 286, 21
+	> Found component: 286, 24
+	> Found component: 286, 25
+Start of varp 2110
+	> Found component: 308, 0
+Start of varp 2121
+	> Found component: 642, 42
+Start of varp 2122
+	> Found component: 642, 100
+Start of varp 2123
+	> Found component: 642, 131
+Start of varp 2125
+	> Found component: 302, 22
+Start of varp 2142
+	> Found component: 1325, 11
+	> Found component: 1327, 14
+Start of varp 2167
+	> Found component: 481, 5
+Start of varp 2168
+	> Found component: 481, 15
+	> Found component: 1078, 7
+	> Found component: 1078, 24
+Start of varp 2170
+	> Found component: 754, 29
+	> Found component: 754, 29
+	> Found component: 754, 29
+	> Found component: 754, 29
+	> Found component: 1662, 2
+	> Found component: 1674, 1
+Start of varp 2171
+	> Found npc: 15255
+Start of varp 2175
+	> Found npc: 759
+	> Found npc: 7744
+Start of varp 2178
+	> Found npc: 213
+	> Found npc: 250
+	> Found npc: 405
+	> Found object: 62
+Start of varp 2183
+	> Found npc: 3289
+	> Found npc: 3290
+	> Found npc: 5199
+	> Found npc: 5201
+	> Found npc: 18564
+Start of varp 2193
+	> Found component: 1442, 107
+Start of varp 2199
+	> Found component: 799, 1
+Start of varp 2201
+	> Found object: 20979
+Start of varp 2217
+	> Found component: 972, 6
+Start of varp 2235
+	> Found component: 629, 8
+Start of varp 2236
+	> Found npc: 1375
+Start of varp 2238
+	> Found component: 1569, 1
+Start of varp 2239
+	> Found component: 391, 164
+Start of varp 2240
+	> Found component: 391, 164
+Start of varp 2241
+	> Found component: 391, 164
+Start of varp 2242
+	> Found component: 391, 164
+Start of varp 2264
+	> Found component: 376, 15
+	> Found component: 376, 16
+Start of varp 2265
+	> Found npc: 8271
+	> Found npc: 8479
+	> Found object: 2144
+Start of varp 2268
+	> Found npc: 748
+	> Found npc: 6082
+	> Found npc: 6083
+Start of varp 2279
+	> Found component: 613, 9
+Start of varp 2280
+	> Found component: 613, 10
+Start of varp 2281
+	> Found component: 613, 11
+Start of varp 2282
+	> Found component: 613, 15
+Start of varp 2283
+	> Found component: 613, 16
+Start of varp 2284
+	> Found component: 613, 17
+Start of varp 2300
+	> Found component: 887, 0
+Start of varp 2326
+	> Found npc: 3157
+Start of varp 2339
+	> Found npc: 1071
+Start of varp 2347
+	> Found npc: 1114
+Start of varp 2355
+	> Found npc: 18561
+	> Found npc: 18562
+	> Found object: 88153
+Start of varp 2360
+	> Found component: 1133, 0
+Start of varp 2361
+	> Found component: 1133, 0
+Start of varp 2377
+	> Found component: 876, 0
+Start of varp 2378
+	> Found component: 866, 61
+	> Found component: 866, 81
+Start of varp 2388
+	> Found object: 35549
+	> Found object: 35551
+Start of varp 2391
+	> Found component: 1465, 44
+Start of varp 2394
+	> Found component: 588, 7
+Start of varp 2439
+	> Found component: 1198, 10
+	> Found component: 1209, 13
+Start of varp 2442
+	> Found component: 1639, 6
+Start of varp 2457
+	> Found component: 128, 37
+	> Found component: 129, 52
+	> Found component: 130, 81
+Start of varp 2458
+	> Found component: 128, 37
+	> Found component: 129, 52
+	> Found component: 130, 81
+Start of varp 2460
+	> Found component: 282, 21
+Start of varp 2473
+	> Found object: 2024
+Start of varp 2478
+	> Found component: 734, 102
+	> Found component: 734, 107
+	> Found component: 734, 107
+	> Found component: 734, 107
+	> Found component: 734, 107
+	> Found component: 734, 111
+	> Found component: 734, 125
+	> Found component: 734, 125
+	> Found component: 734, 125
+	> Found component: 734, 125
+Start of varp 2482
+	> Found component: 734, 125
+Start of varp 2483
+	> Found component: 734, 125
+Start of varp 2484
+	> Found npc: 871
+Start of varp 2485
+	> Found component: 794, 4
+	> Found component: 794, 5
+Start of varp 2488
+	> Found component: 772, 27
+	> Found component: 772, 31
+	> Found component: 772, 35
+	> Found component: 772, 39
+	> Found component: 772, 43
+	> Found component: 772, 47
+	> Found component: 772, 51
+	> Found component: 772, 55
+Start of varp 2500
+	> Found component: 1175, 8
+Start of varp 2516
+	> Found component: 391, 164
+Start of varp 2523
+	> Found npc: 2483
+	> Found npc: 2484
+	> Found npc: 2485
+	> Found npc: 2486
+	> Found npc: 2487
+	> Found npc: 2488
+Start of varp 2538
+	> Found component: 1689, 1
+Start of varp 2539
+	> Found component: 1689, 0
+	> Found component: 1689, 0
+Start of varp 2540
+	> Found component: 1689, 17
+	> Found component: 1689, 17
+	> Found component: 1689, 17
+Start of varp 2542
+	> Found component: 471, 14
+Start of varp 2592
+	> Found npc: 887
+Start of varp 2598
+	> Found component: 114, 24
+	> Found component: 114, 25
+	> Found component: 114, 26
+	> Found component: 114, 27
+	> Found component: 114, 28
+	> Found component: 114, 29
+Start of varp 2599
+	> Found component: 630, 14
+Start of varp 2600
+	> Found component: 172, 18
+	> Found component: 172, 19
+	> Found component: 172, 20
+Start of varp 2603
+	> Found component: 172, 18
+	> Found component: 172, 19
+	> Found component: 172, 20
+	> Found component: 630, 14
+Start of varp 2604
+	> Found component: 630, 14
+Start of varp 2605
+	> Found component: 172, 18
+	> Found component: 313, 76
+Start of varp 2606
+	> Found component: 172, 19
+	> Found component: 313, 153
+Start of varp 2607
+	> Found component: 172, 19
+	> Found component: 313, 153
+Start of varp 2608
+	> Found component: 172, 20
+	> Found component: 313, 229
+Start of varp 2609
+	> Found component: 172, 20
+	> Found component: 313, 229
+Start of varp 2610
+	> Found component: 172, 20
+	> Found component: 313, 76
+Start of varp 2611
+	> Found component: 172, 38
+	> Found component: 313, 241
+	> Found component: 442, 9
+	> Found component: 613, 12
+	> Found component: 630, 11
+Start of varp 2615
+	> Found npc: 1668
+	> Found npc: 1669
+	> Found npc: 1671
+	> Found npc: 1672
+	> Found object: 5182
+Start of varp 2624
+	> Found component: 328, 1
+Start of varp 2625
+	> Found component: 328, 1
+Start of varp 2626
+	> Found component: 328, 1
+Start of varp 2661
+	> Found npc: 473
+	> Found npc: 474
+Start of varp 2662
+	> Found component: 1145, 11
+Start of varp 2669
+	> Found object: 61976
+Start of varp 2682
+	> Found component: 624, 21
+Start of varp 2683
+	> Found component: 625, 39
+Start of varp 2689
+	> Found object: 47362
+	> Found object: 47363
+Start of varp 2696
+	> Found npc: 1568
+Start of varp 2700
+	> Found npc: 697
+	> Found npc: 4865
+	> Found npc: 4869
+	> Found object: 18251
+	> Found object: 18323
+Start of varp 2711
+	> Found component: 269, 0
+Start of varp 2712
+	> Found component: 269, 1
+Start of varp 2720
+	> Found component: 575, 0
+Start of varp 2732
+	> Found object: 0
+	> Found object: 15597
+Start of varp 2740
+	> Found npc: 1621
+	> Found npc: 3811
+Start of varp 2743
+	> Found component: 138, 0
+Start of varp 2746
+	> Found component: 262, 20
+	> Found component: 262, 27
+Start of varp 2762
+	> Found npc: 824
+	> Found npc: 1407
+	> Found npc: 1408
+Start of varp 2778
+	> Found component: 264, 8
+Start of varp 2796
+	> Found npc: 6119
+	> Found npc: 6120
+Start of varp 2807
+	> Found component: 1465, 44
+Start of varp 2808
+	> Found component: 184, 8
+Start of varp 2809
+	> Found component: 263, 1
+Start of varp 2811
+	> Found component: 559, 10
+	> Found component: 559, 72
+Start of varp 2818
+	> Found component: 420, 12
+	> Found component: 420, 13
+	> Found component: 420, 14
+	> Found component: 420, 15
+	> Found component: 420, 16
+	> Found component: 420, 17
+	> Found component: 420, 18
+	> Found component: 420, 19
+	> Found component: 420, 29
+Start of varp 2823
+	> Found component: 185, 25
+	> Found component: 185, 26
+	> Found component: 185, 27
+Start of varp 2832
+	> Found component: 209, 4
+	> Found npc: 2279
+	> Found npc: 2280
+	> Found npc: 2281
+	> Found npc: 2458
+	> Found npc: 2472
+	> Found npc: 2474
+	> Found npc: 2475
+	> Found npc: 2678
+	> Found npc: 2679
+	> Found npc: 2680
+	> Found npc: 2681
+	> Found npc: 3118
+	> Found npc: 3852
+	> Found npc: 3853
+	> Found npc: 3854
+	> Found npc: 3855
+Start of varp 2847
+	> Found component: 717, 7
+	> Found component: 717, 8
+Start of varp 2849
+	> Found component: 1360, 5
+Start of varp 2853
+	> Found component: 1064, 2
+Start of varp 2884
+	> Found component: 632, 6
+	> Found component: 632, 7
+	> Found component: 632, 8
+	> Found component: 632, 9
+	> Found component: 632, 10
+	> Found component: 632, 11
+	> Found component: 632, 12
+	> Found component: 632, 13
+Start of varp 2924
+	> Found component: 1307, 95
+	> Found component: 1317, 93
+Start of varp 2925
+	> Found component: 396, 7
+Start of varp 2932
+	> Found component: 1317, 25
+	> Found component: 1317, 34
+	> Found component: 1317, 35
+	> Found component: 1317, 128
+	> Found component: 1317, 133
+	> Found component: 1317, 138
+	> Found component: 1317, 143
+	> Found component: 1317, 148
+	> Found component: 1317, 153
+	> Found component: 1317, 158
+	> Found component: 1317, 163
+	> Found component: 1317, 168
+	> Found component: 1317, 173
+	> Found component: 1317, 178
+	> Found component: 1317, 183
+	> Found component: 1317, 188
+	> Found component: 1317, 193
+	> Found component: 1317, 198
+	> Found component: 1317, 203
+	> Found component: 1317, 208
+	> Found component: 1317, 212
+	> Found component: 1317, 217
+	> Found component: 1317, 222
+	> Found component: 1317, 227
+	> Found component: 1317, 232
+	> Found component: 1317, 237
+	> Found component: 1317, 242
+	> Found component: 1317, 247
+	> Found component: 1495, 32
+	> Found component: 1495, 45
+	> Found component: 1495, 65
+	> Found component: 1495, 70
+	> Found component: 1495, 80
+	> Found component: 1495, 85
+	> Found component: 1495, 90
+	> Found component: 1495, 100
+	> Found component: 1495, 172
+	> Found component: 1495, 178
+	> Found component: 1495, 187
+	> Found component: 1495, 193
+	> Found component: 1495, 199
+	> Found component: 1495, 205
+	> Found component: 1495, 214
+	> Found component: 1495, 220
+	> Found component: 1495, 226
+	> Found component: 1495, 232
+	> Found component: 1495, 241
+	> Found component: 1495, 247
+	> Found component: 1495, 257
+	> Found component: 1495, 263
+	> Found component: 1495, 272
+	> Found component: 1495, 278
+	> Found component: 1495, 284
+	> Found component: 1495, 290
+	> Found component: 1495, 299
+	> Found component: 1495, 311
+Start of varp 2937
+	> Found component: 1430, 7
+	> Found component: 1504, 4
+Start of varp 2943
+	> Found component: 929, 0
+	> Found component: 929, 0
+	> Found component: 929, 0
+	> Found component: 929, 0
+	> Found component: 931, 0
+	> Found component: 931, 0
+	> Found component: 931, 0
+	> Found component: 931, 0
+Start of varp 2944
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2947
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2948
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2949
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2950
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2951
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2952
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2953
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2954
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2955
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2956
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2957
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2958
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2959
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2960
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2961
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2962
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2963
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2964
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2965
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2966
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2967
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2968
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2969
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2970
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2971
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2972
+	> Found component: 929, 0
+	> Found component: 931, 0
+Start of varp 2982
+	> Found component: 94, 2
+	> Found component: 94, 30
+	> Found component: 1358, 29
+Start of varp 2983
+	> Found component: 94, 26
+Start of varp 3006
+	> Found component: 373, 0
+Start of varp 3022
+	> Found component: 1444, 171
+Start of varp 3066
+	> Found component: 1057, 22
+	> Found component: 1057, 25
+	> Found component: 1058, 12
+	> Found component: 1058, 14
+	> Found component: 1058, 55
+	> Found component: 1058, 56
+Start of varp 3067
+	> Found component: 1057, 13
+	> Found component: 1057, 19
+	> Found component: 1058, 16
+	> Found component: 1058, 20
+	> Found component: 1058, 52
+	> Found component: 1058, 54
+Start of varp 3068
+	> Found component: 411, 4
+	> Found component: 1057, 16
+	> Found component: 1057, 27
+	> Found component: 1058, 18
+	> Found component: 1058, 53
+Start of varp 3071
+	> Found component: 1058, 45
+	> Found component: 1058, 45
+	> Found component: 1058, 68
+Start of varp 3073
+	> Found component: 1057, 33
+	> Found component: 1057, 33
+	> Found component: 1057, 33
+	> Found component: 1057, 33
+	> Found component: 1057, 33
+	> Found component: 1057, 33
+	> Found component: 1057, 34
+	> Found component: 1057, 34
+	> Found component: 1057, 34
+	> Found component: 1057, 34
+	> Found component: 1057, 34
+Start of varp 3129
+	> Found npc: 13809
+	> Found npc: 13815
+Start of varp 3140
+	> Found component: 377, 4
+Start of varp 3145
+	> Found component: 120, 0
+	> Found component: 170, 0
+	> Found component: 814, 0
+	> Found component: 818, 13
+	> Found component: 822, 0
+	> Found component: 826, 0
+	> Found component: 871, 3
+Start of varp 3149
+	> Found npc: 2257
+	> Found npc: 2260
+Start of varp 3150
+	> Found component: 325, 1
+	> Found npc: 693
+Start of varp 3151
+	> Found component: 325, 15
+Start of varp 3152
+	> Found component: 325, 1
+Start of varp 3153
+	> Found object: 10087
+	> Found object: 10088
+	> Found object: 10089
+Start of varp 3158
+	> Found component: 532, 1
+	> Found component: 715, 0
+Start of varp 3167
+	> Found component: 752, 3
+Start of varp 3173
+	> Found component: 715, 1
+Start of varp 3181
+	> Found component: 554, 1
+Start of varp 3184
+	> Found component: 906, 465
+Start of varp 3193
+	> Found object: 954
+	> Found object: 1781
+	> Found object: 36880
+	> Found object: 52548
+Start of varp 3222
+	> Found component: 1273, 68
+Start of varp 3232
+	> Found component: 1343, 48
+	> Found component: 1343, 57
+Start of varp 3233
+	> Found component: 1343, 48
+	> Found component: 1343, 52
+	> Found component: 1344, 16
+Start of varp 3234
+	> Found component: 1343, 56
+	> Found component: 1345, 48
+	> Found component: 1345, 52
+Start of varp 3235
+	> Found component: 1345, 47
+	> Found component: 1345, 48
+	> Found component: 1345, 59
+Start of varp 3238
+	> Found component: 631, 7
+	> Found component: 631, 8
+	> Found component: 631, 9
+	> Found component: 631, 10
+	> Found component: 631, 11
+	> Found component: 631, 12
+	> Found component: 631, 13
+	> Found component: 631, 14
+	> Found component: 631, 15
+	> Found component: 631, 16
+	> Found component: 631, 17
+	> Found component: 631, 18
+	> Found component: 631, 19
+	> Found component: 631, 20
+	> Found component: 631, 21
+	> Found component: 631, 22
+	> Found component: 631, 23
+	> Found component: 631, 24
+	> Found component: 631, 25
+	> Found component: 631, 26
+	> Found component: 631, 27
+	> Found component: 1632, 5
+	> Found component: 1632, 26
+	> Found component: 1632, 27
+	> Found component: 1632, 28
+	> Found component: 1632, 29
+	> Found component: 1632, 30
+	> Found component: 1632, 31
+	> Found component: 1632, 32
+	> Found component: 1632, 33
+	> Found component: 1632, 34
+	> Found component: 1632, 35
+	> Found component: 1632, 36
+	> Found component: 1632, 37
+	> Found component: 1632, 38
+	> Found component: 1632, 39
+	> Found component: 1632, 40
+	> Found component: 1632, 41
+	> Found component: 1632, 42
+	> Found component: 1632, 43
+	> Found component: 1632, 44
+	> Found component: 1632, 45
+	> Found component: 1632, 46
+	> Found component: 1632, 47
+	> Found component: 1632, 48
+	> Found component: 1632, 49
+	> Found component: 1632, 50
+	> Found component: 1632, 51
+Start of varp 3240
+	> Found component: 1056, 19
+	> Found component: 1220, 5
+	> Found component: 1343, 11
+Start of varp 3241
+	> Found component: 1056, 19
+	> Found component: 1220, 5
+	> Found component: 1343, 11
+Start of varp 3242
+	> Found component: 1056, 19
+	> Found component: 1220, 5
+	> Found component: 1343, 11
+Start of varp 3243
+	> Found component: 1056, 19
+	> Found component: 1220, 5
+	> Found component: 1343, 11
+Start of varp 3244
+	> Found component: 1056, 19
+	> Found component: 1220, 5
+	> Found component: 1343, 11
+Start of varp 3245
+	> Found component: 1056, 19
+	> Found component: 1220, 5
+	> Found component: 1343, 11
+Start of varp 3253
+	> Found component: 1237, 6
+Start of varp 3254
+	> Found component: 1237, 6
+Start of varp 3256
+	> Found component: 1239, 6
+Start of varp 3260
+	> Found component: 1322, 31
+Start of varp 3268
+	> Found component: 1237, 6
+Start of varp 3270
+	> Found component: 169, 35
+Start of varp 3274
+	> Found component: 1430, 11
+	> Found component: 1430, 13
+	> Found component: 1457, 18
+	> Found component: 1458, 15
+	> Found component: 1505, 2
+	> Found component: 1505, 3
+Start of varp 3277
+	> Found component: 1430, 13
+	> Found component: 1457, 34
+	> Found component: 1458, 10
+	> Found component: 1505, 2
+Start of varp 3285
+	> Found component: 865, 7
+	> Found component: 1311, 642
+Start of varp 3365
+	> Found component: 905, 14
+	> Found component: 944, 8
+Start of varp 3366
+	> Found component: 905, 14
+	> Found component: 944, 8
+Start of varp 3367
+	> Found component: 905, 14
+	> Found component: 944, 8
+Start of varp 3368
+	> Found component: 905, 14
+	> Found component: 944, 8
+Start of varp 3369
+	> Found component: 905, 14
+	> Found component: 944, 8
+Start of varp 3370
+	> Found component: 905, 14
+	> Found component: 944, 8
+Start of varp 3374
+	> Found component: 1072, 65
+Start of varp 3375
+	> Found component: 1072, 84
+Start of varp 3376
+	> Found component: 1072, 84
+Start of varp 3377
+	> Found component: 1072, 65
+Start of varp 3378
+	> Found component: 916, 196
+	> Found component: 916, 301
+Start of varp 3379
+	> Found component: 916, 196
+	> Found component: 916, 301
+Start of varp 3380
+	> Found component: 916, 196
+	> Found component: 916, 196
+	> Found component: 916, 301
+	> Found component: 916, 301
+Start of varp 3381
+	> Found component: 916, 196
+Start of varp 3382
+	> Found component: 944, 6
+	> Found component: 1072, 65
+	> Found component: 1275, 15
+Start of varp 3383
+	> Found component: 916, 196
+Start of varp 3384
+	> Found component: 944, 6
+	> Found component: 1072, 65
+	> Found component: 1275, 15
+Start of varp 3385
+	> Found component: 916, 196
+Start of varp 3386
+	> Found component: 944, 6
+	> Found component: 1072, 65
+	> Found component: 1275, 15
+Start of varp 3387
+	> Found component: 916, 196
+Start of varp 3388
+	> Found component: 944, 6
+	> Found component: 1072, 65
+	> Found component: 1275, 15
+Start of varp 3391
+	> Found component: 916, 33
+	> Found component: 916, 301
+Start of varp 3392
+	> Found component: 916, 21
+	> Found component: 916, 196
+Start of varp 3393
+	> Found component: 916, 26
+	> Found component: 916, 129
+Start of varp 3394
+	> Found component: 944, 7
+	> Found component: 950, 142
+	> Found component: 1275, 14
+	> Found component: 1275, 25
+Start of varp 3395
+	> Found component: 950, 125
+	> Found component: 950, 125
+	> Found component: 950, 125
+	> Found component: 950, 125
+Start of varp 3396
+	> Found component: 950, 125
+	> Found component: 950, 125
+	> Found component: 950, 125
+	> Found component: 950, 125
+Start of varp 3397
+	> Found component: 944, 7
+	> Found component: 950, 142
+	> Found component: 1275, 14
+	> Found component: 1275, 25
+Start of varp 3398
+	> Found component: 950, 125
+	> Found component: 950, 125
+	> Found component: 950, 125
+	> Found component: 950, 125
+Start of varp 3399
+	> Found component: 950, 125
+	> Found component: 950, 125
+	> Found component: 950, 125
+	> Found component: 950, 125
+Start of varp 3400
+	> Found component: 950, 66
+	> Found component: 950, 85
+Start of varp 3401
+	> Found component: 950, 66
+	> Found component: 950, 104
+Start of varp 3402
+	> Found component: 950, 85
+	> Found component: 950, 104
+Start of varp 3403
+	> Found component: 950, 41
+	> Found component: 950, 55
+Start of varp 3405
+	> Found component: 944, 7
+	> Found component: 950, 142
+	> Found component: 1275, 14
+	> Found component: 1275, 25
+Start of varp 3406
+	> Found component: 950, 18
+	> Found component: 950, 19
+	> Found component: 950, 125
+	> Found component: 950, 125
+	> Found component: 950, 125
+	> Found component: 950, 142
+	> Found component: 950, 214
+	> Found component: 950, 288
+Start of varp 3407
+	> Found component: 950, 214
+Start of varp 3410
+	> Found component: 950, 214
+Start of varp 3413
+	> Found component: 950, 214
+Start of varp 3415
+	> Found component: 950, 26
+Start of varp 3417
+	> Found component: 941, 4
+Start of varp 3419
+	> Found component: 1276, 23
+	> Found component: 1276, 154
+Start of varp 3420
+	> Found component: 1276, 46
+	> Found component: 1276, 182
+Start of varp 3432
+	> Found component: 905, 14
+	> Found component: 944, 8
+Start of varp 3439
+	> Found component: 905, 12
+	> Found component: 944, 5
+Start of varp 3440
+	> Found component: 905, 12
+Start of varp 3441
+	> Found component: 905, 12
+	> Found component: 916, 29
+	> Found component: 944, 5
+Start of varp 3442
+	> Found component: 905, 12
+	> Found component: 916, 29
+	> Found component: 944, 5
+	> Found component: 1028, 4
+Start of varp 3443
+	> Found component: 905, 12
+	> Found component: 916, 29
+	> Found component: 944, 5
+	> Found component: 1028, 4
+Start of varp 3444
+	> Found component: 905, 12
+	> Found component: 916, 29
+	> Found component: 944, 5
+	> Found component: 1028, 4
+Start of varp 3445
+	> Found component: 905, 12
+	> Found component: 916, 29
+	> Found component: 944, 5
+	> Found component: 1028, 4
+Start of varp 3446
+	> Found component: 905, 12
+	> Found component: 916, 29
+	> Found component: 944, 5
+	> Found component: 1028, 4
+Start of varp 3447
+	> Found component: 905, 12
+	> Found component: 916, 29
+	> Found component: 944, 5
+	> Found component: 1028, 4
+Start of varp 3448
+	> Found component: 905, 14
+	> Found component: 950, 41
+	> Found component: 950, 55
+	> Found component: 950, 288
+	> Found component: 1276, 144
+Start of varp 3449
+	> Found component: 884, 12
+Start of varp 3452
+	> Found component: 944, 9
+Start of varp 3453
+	> Found component: 675, 4
+	> Found component: 675, 4
+	> Found component: 675, 4
+	> Found component: 905, 14
+	> Found component: 941, 4
+	> Found component: 941, 4
+	> Found component: 944, 8
+	> Found component: 944, 9
+	> Found component: 1276, 144
+Start of varp 3454
+	> Found component: 944, 9
+	> Found component: 1379, 4
+	> Found component: 1379, 4
+Start of varp 3455
+	> Found component: 1377, 127
+Start of varp 3456
+	> Found component: 905, 110
+	> Found component: 1275, 14
+	> Found component: 1275, 15
+	> Found component: 1379, 81
+Start of varp 3457
+	> Found component: 1379, 77
+Start of varp 3485
+	> Found component: 1384, 3
+	> Found component: 1385, 13
+Start of varp 3493
+	> Found component: 1311, 378
+Start of varp 3514
+	> Found component: 1171, 32
+Start of varp 3525
+	> Found component: 1584, 41
+	> Found component: 1584, 53
+Start of varp 3536
+	> Found component: 1398, 44
+	> Found component: 1398, 45
+	> Found component: 1398, 47
+	> Found component: 1398, 49
+Start of varp 3537
+	> Found component: 378, 1
+Start of varp 3551
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 3580
+	> Found component: 326, 7
+	> Found component: 326, 8
+	> Found component: 326, 9
+	> Found component: 326, 10
+	> Found component: 326, 11
+Start of varp 3591
+	> Found component: 58, 21
+	> Found component: 59, 13
+Start of varp 3593
+	> Found component: 1405, 20
+Start of varp 3595
+	> Found component: 1675, 26
+	> Found component: 1675, 32
+	> Found component: 1675, 38
+Start of varp 3634
+	> Found component: 1415, 16
+	> Found component: 1415, 115
+	> Found component: 1415, 118
+Start of varp 3653
+	> Found component: 1498, 182
+Start of varp 3661
+	> Found component: 1497, 20
+	> Found component: 1497, 78
+Start of varp 3667
+	> Found component: 1499, 30
+	> Found component: 1499, 31
+Start of varp 3668
+	> Found component: 1499, 22
+	> Found component: 1499, 34
+Start of varp 3669
+	> Found component: 1495, 107
+Start of varp 3672
+	> Found component: 1494, 20
+Start of varp 3673
+	> Found component: 1499, 19
+	> Found component: 1499, 27
+Start of varp 3674
+	> Found component: 1499, 19
+	> Found component: 1499, 27
+Start of varp 3675
+	> Found component: 1499, 19
+	> Found component: 1499, 27
+Start of varp 3676
+	> Found component: 1499, 19
+	> Found component: 1499, 27
+Start of varp 3677
+	> Found component: 1499, 19
+	> Found component: 1499, 27
+Start of varp 3678
+	> Found component: 1499, 19
+	> Found component: 1499, 27
+Start of varp 3680
+	> Found component: 137, 134
+	> Found component: 327, 10
+	> Found component: 464, 43
+	> Found component: 627, 71
+	> Found component: 635, 3
+	> Found component: 1430, 5
+	> Found component: 1431, 1
+	> Found component: 1433, 26
+	> Found component: 1442, 58
+	> Found component: 1442, 64
+	> Found component: 1465, 42
+	> Found component: 1465, 44
+	> Found component: 1467, 62
+	> Found component: 1470, 62
+	> Found component: 1471, 64
+	> Found component: 1472, 62
+	> Found component: 1473, 3
+	> Found component: 1473, 45
+	> Found component: 1474, 5
+	> Found component: 1477, 6
+	> Found component: 1485, 19
+	> Found component: 1490, 16
+	> Found component: 1504, 2
+	> Found component: 1529, 62
+	> Found component: 1588, 1
+	> Found component: 1663, 27
+	> Found component: 1663, 33
+	> Found component: 1663, 47
+	> Found component: 1681, 4
+	> Found component: 1702, 40
+	> Found component: 1702, 44
+Start of varp 3691
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 3692
+	> Found component: 1477, 770
+	> Found component: 1477, 792
+Start of varp 3693
+	> Found component: 1477, 814
+	> Found component: 1477, 836
+Start of varp 3694
+	> Found component: 1477, 858
+Start of varp 3704
+	> Found component: 1473, 3
+	> Found component: 1474, 5
+Start of varp 3707
+	> Found component: 1468, 29
+Start of varp 3813
+	> Found component: 26, 0
+Start of varp 3814
+	> Found component: 137, 134
+	> Found component: 464, 43
+	> Found component: 1467, 62
+	> Found component: 1470, 62
+	> Found component: 1471, 64
+	> Found component: 1472, 62
+	> Found component: 1477, 4
+	> Found component: 1524, 59
+	> Found component: 1529, 62
+	> Found component: 1588, 1
+	> Found component: 1681, 4
+	> Found component: 1702, 32
+	> Found component: 1756, 2
+Start of varp 3822
+	> Found component: 68, 8
+	> Found component: 68, 9
+	> Found component: 68, 10
+	> Found component: 68, 11
+	> Found component: 68, 12
+Start of varp 3823
+	> Found component: 69, 22
+	> Found component: 69, 22
+	> Found component: 69, 22
+Start of varp 3855
+	> Found component: 116, 23
+Start of varp 3857
+	> Found component: 116, 23
+Start of varp 3863
+	> Found component: 217, 6
+	> Found component: 217, 6
+Start of varp 3869
+	> Found component: 230, 39
+Start of varp 3870
+	> Found component: 230, 39
+Start of varp 3871
+	> Found component: 1477, 243
+Start of varp 3887
+	> Found component: 237, 0
+Start of varp 3888
+	> Found component: 238, 2
+Start of varp 3892
+	> Found component: 246, 8
+	> Found component: 246, 12
+	> Found component: 246, 12
+	> Found component: 246, 12
+	> Found component: 247, 5
+Start of varp 3893
+	> Found component: 246, 12
+	> Found component: 247, 4
+Start of varp 3894
+	> Found component: 247, 9
+	> Found component: 247, 10
+	> Found component: 247, 11
+	> Found component: 247, 24
+Start of varp 3895
+	> Found component: 246, 12
+	> Found component: 247, 5
+	> Found component: 247, 12
+	> Found component: 247, 13
+	> Found component: 247, 21
+	> Found component: 247, 25
+Start of varp 3908
+	> Found component: 248, 87
+	> Found component: 1623, 121
+Start of varp 3913
+	> Found component: 1344, 19
+Start of varp 3916
+	> Found component: 1344, 16
+	> Found component: 1344, 47
+Start of varp 3917
+	> Found component: 1344, 16
+	> Found component: 1344, 47
+Start of varp 3919
+	> Found component: 1344, 20
+	> Found component: 1344, 99
+	> Found component: 1344, 119
+Start of varp 3922
+	> Found component: 762, 6
+Start of varp 3923
+	> Found component: 671, 11
+Start of varp 3925
+	> Found component: 1443, 0
+	> Found component: 1663, 3
+	> Found component: 1664, 14
+Start of varp 3926
+	> Found component: 669, 4
+Start of varp 3927
+	> Found component: 695, 0
+Start of varp 3930
+	> Found component: 1433, 26
+Start of varp 3933
+	> Found component: 557, 7
+	> Found component: 557, 7
+	> Found component: 557, 7
+	> Found component: 557, 7
+	> Found component: 639, 6
+	> Found component: 639, 6
+	> Found component: 639, 6
+Start of varp 3934
+	> Found component: 639, 6
+Start of varp 3935
+	> Found component: 557, 7
+	> Found component: 639, 6
+Start of varp 3936
+	> Found component: 1245, 331
+	> Found component: 1500, 0
+	> Found component: 1500, 324
+Start of varp 3952
+	> Found component: 718, 25
+	> Found component: 718, 26
+Start of varp 3953
+	> Found component: 747, 2
+Start of varp 3954
+	> Found component: 747, 2
+	> Found component: 747, 30
+	> Found component: 747, 72
+	> Found component: 747, 114
+	> Found component: 747, 156
+Start of varp 3955
+	> Found component: 746, 2
+Start of varp 3970
+	> Found component: 748, 13
+Start of varp 3973
+	> Found component: 718, 31
+Start of varp 3975
+	> Found component: 706, 7
+	> Found component: 706, 49
+	> Found component: 706, 69
+	> Found component: 706, 77
+	> Found component: 706, 78
+	> Found component: 706, 81
+Start of varp 3976
+	> Found component: 749, 39
+Start of varp 3980
+	> Found component: 711, 52
+Start of varp 3983
+	> Found component: 749, 7
+Start of varp 3984
+	> Found component: 706, 66
+	> Found component: 706, 74
+	> Found component: 749, 51
+Start of varp 3985
+	> Found component: 706, 66
+	> Found component: 706, 74
+	> Found component: 749, 50
+Start of varp 3987
+	> Found component: 750, 16
+	> Found component: 750, 17
+	> Found component: 750, 18
+	> Found component: 750, 19
+	> Found component: 750, 20
+	> Found component: 750, 21
+Start of varp 3988
+	> Found component: 750, 22
+	> Found component: 750, 23
+	> Found component: 750, 24
+	> Found component: 750, 25
+	> Found component: 750, 26
+	> Found component: 750, 27
+Start of varp 3989
+	> Found component: 750, 28
+	> Found component: 750, 29
+	> Found component: 750, 30
+	> Found component: 750, 31
+	> Found component: 750, 32
+	> Found component: 750, 33
+Start of varp 4024
+	> Found component: 74, 5
+Start of varp 4025
+	> Found component: 74, 5
+Start of varp 4027
+	> Found component: 74, 6
+Start of varp 4029
+	> Found component: 1473, 21
+Start of varp 4034
+	> Found component: 916, 203
+	> Found component: 1028, 4
+	> Found component: 1028, 4
+	> Found component: 1028, 4
+Start of varp 4038
+	> Found component: 905, 12
+	> Found component: 1028, 4
+Start of varp 4039
+	> Found component: 905, 12
+	> Found component: 1028, 4
+Start of varp 4053
+	> Found component: 1430, 18
+	> Found component: 1506, 5
+Start of varp 4057
+	> Found component: 1056, 19
+	> Found component: 1220, 5
+Start of varp 4061
+	> Found component: 1308, 38
+	> Found component: 1308, 40
+	> Found component: 1308, 49
+	> Found component: 1308, 51
+	> Found component: 1308, 78
+	> Found component: 1308, 102
+	> Found component: 1308, 470
+	> Found component: 1308, 536
+	> Found component: 1308, 561
+	> Found component: 1308, 563
+	> Found component: 1308, 565
+Start of varp 4065
+	> Found component: 1253, 6
+Start of varp 4067
+	> Found component: 1253, 6
+Start of varp 4069
+	> Found component: 1253, 6
+Start of varp 4071
+	> Found component: 1253, 6
+Start of varp 4073
+	> Found component: 1253, 6
+Start of varp 4075
+	> Found component: 1253, 6
+Start of varp 4077
+	> Found component: 1253, 6
+Start of varp 4079
+	> Found component: 1253, 6
+Start of varp 4081
+	> Found component: 1253, 6
+Start of varp 4083
+	> Found component: 1253, 6
+Start of varp 4085
+	> Found component: 1253, 6
+Start of varp 4087
+	> Found component: 1253, 6
+Start of varp 4089
+	> Found component: 1253, 6
+Start of varp 4091
+	> Found component: 1253, 6
+Start of varp 4093
+	> Found component: 1253, 6
+Start of varp 4095
+	> Found component: 1253, 6
+Start of varp 4097
+	> Found component: 1253, 6
+Start of varp 4099
+	> Found component: 1253, 6
+Start of varp 4101
+	> Found component: 1253, 6
+Start of varp 4103
+	> Found component: 1253, 6
+Start of varp 4105
+	> Found component: 1253, 6
+Start of varp 4107
+	> Found component: 1253, 6
+Start of varp 4109
+	> Found component: 1253, 6
+Start of varp 4111
+	> Found component: 1253, 6
+Start of varp 4113
+	> Found component: 1253, 6
+Start of varp 4115
+	> Found component: 1253, 6
+Start of varp 4117
+	> Found component: 1253, 6
+Start of varp 4119
+	> Found component: 1253, 6
+Start of varp 4121
+	> Found component: 1253, 6
+Start of varp 4123
+	> Found component: 1253, 6
+Start of varp 4125
+	> Found component: 1253, 6
+Start of varp 4127
+	> Found component: 1253, 6
+Start of varp 4129
+	> Found component: 1253, 6
+Start of varp 4131
+	> Found component: 1253, 6
+Start of varp 4133
+	> Found component: 1253, 6
+Start of varp 4135
+	> Found component: 1253, 6
+Start of varp 4137
+	> Found component: 1253, 6
+Start of varp 4141
+	> Found component: 1766, 5
+Start of varp 4144
+	> Found component: 1253, 325
+	> Found component: 1253, 897
+Start of varp 4146
+	> Found component: 1253, 466
+	> Found component: 1253, 470
+	> Found component: 1253, 474
+	> Found component: 1253, 478
+	> Found component: 1253, 482
+	> Found component: 1253, 486
+	> Found component: 1253, 490
+	> Found component: 1253, 494
+	> Found component: 1253, 498
+	> Found component: 1253, 502
+	> Found component: 1253, 506
+	> Found component: 1253, 510
+	> Found component: 1253, 514
+	> Found component: 1253, 518
+	> Found component: 1253, 522
+	> Found component: 1253, 526
+	> Found component: 1253, 530
+	> Found component: 1253, 534
+	> Found component: 1253, 538
+	> Found component: 1253, 542
+	> Found component: 1253, 546
+	> Found component: 1253, 550
+	> Found component: 1253, 554
+	> Found component: 1253, 558
+	> Found component: 1253, 562
+	> Found component: 1253, 566
+	> Found component: 1253, 570
+	> Found component: 1253, 597
+	> Found component: 1253, 601
+	> Found component: 1253, 605
+	> Found component: 1253, 609
+	> Found component: 1253, 613
+	> Found component: 1253, 617
+Start of varp 4148
+	> Found component: 1584, 35
+	> Found component: 1584, 39
+	> Found component: 1584, 43
+	> Found component: 1584, 47
+	> Found component: 1584, 51
+	> Found component: 1584, 55
+Start of varp 4157
+	> Found component: 1036, 13
+	> Found component: 1039, 18
+	> Found component: 1039, 29
+	> Found component: 1039, 40
+Start of varp 4158
+	> Found component: 1037, 1
+	> Found component: 1037, 3
+Start of varp 4161
+	> Found component: 1035, 5
+	> Found component: 1035, 12
+	> Found component: 1035, 14
+	> Found component: 1035, 16
+	> Found component: 1035, 18
+	> Found component: 1035, 20
+	> Found component: 1035, 36
+	> Found component: 1035, 51
+	> Found component: 1035, 60
+	> Found component: 1035, 67
+	> Found component: 1035, 74
+	> Found component: 1035, 81
+	> Found component: 1035, 88
+	> Found component: 1035, 96
+	> Found component: 1035, 124
+	> Found component: 1035, 131
+	> Found component: 1035, 138
+	> Found component: 1035, 145
+	> Found component: 1035, 152
+	> Found component: 1035, 159
+	> Found component: 1035, 166
+	> Found component: 1035, 173
+	> Found component: 1035, 180
+	> Found component: 1035, 187
+	> Found component: 1035, 194
+	> Found component: 1035, 201
+	> Found component: 1035, 208
+	> Found component: 1035, 215
+	> Found component: 1035, 216
+	> Found component: 1039, 4
+	> Found component: 1040, 3
+	> Found component: 1040, 4
+	> Found component: 1040, 5
+	> Found component: 1040, 6
+	> Found component: 1040, 7
+Start of varp 4164
+	> Found component: 1430, 63
+	> Found component: 1430, 76
+	> Found component: 1430, 89
+	> Found component: 1430, 102
+	> Found component: 1430, 115
+	> Found component: 1430, 128
+	> Found component: 1430, 141
+	> Found component: 1430, 154
+	> Found component: 1430, 167
+	> Found component: 1430, 180
+	> Found component: 1430, 193
+	> Found component: 1430, 206
+	> Found component: 1430, 219
+	> Found component: 1430, 234
+	> Found component: 1436, 23
+	> Found component: 1436, 36
+	> Found component: 1436, 49
+	> Found component: 1436, 62
+	> Found component: 1436, 75
+	> Found component: 1436, 88
+	> Found component: 1436, 101
+	> Found component: 1436, 114
+	> Found component: 1436, 127
+	> Found component: 1436, 140
+	> Found component: 1436, 153
+	> Found component: 1436, 166
+	> Found component: 1436, 179
+	> Found component: 1436, 192
+	> Found component: 1670, 17
+	> Found component: 1670, 30
+	> Found component: 1670, 43
+	> Found component: 1670, 56
+	> Found component: 1670, 69
+	> Found component: 1670, 82
+	> Found component: 1670, 95
+	> Found component: 1670, 108
+	> Found component: 1670, 121
+	> Found component: 1670, 134
+	> Found component: 1670, 147
+	> Found component: 1670, 160
+	> Found component: 1670, 173
+	> Found component: 1670, 186
+	> Found component: 1671, 14
+	> Found component: 1671, 27
+	> Found component: 1671, 40
+	> Found component: 1671, 53
+	> Found component: 1671, 66
+	> Found component: 1671, 79
+	> Found component: 1671, 92
+	> Found component: 1671, 105
+	> Found component: 1671, 118
+	> Found component: 1671, 131
+	> Found component: 1671, 144
+	> Found component: 1671, 157
+	> Found component: 1671, 170
+	> Found component: 1671, 183
+	> Found component: 1672, 13
+	> Found component: 1672, 26
+	> Found component: 1672, 39
+	> Found component: 1672, 52
+	> Found component: 1672, 65
+	> Found component: 1672, 78
+	> Found component: 1672, 91
+	> Found component: 1672, 104
+	> Found component: 1672, 117
+	> Found component: 1672, 130
+	> Found component: 1672, 143
+	> Found component: 1672, 156
+	> Found component: 1672, 169
+	> Found component: 1672, 182
+	> Found component: 1673, 13
+	> Found component: 1673, 26
+	> Found component: 1673, 39
+	> Found component: 1673, 52
+	> Found component: 1673, 65
+	> Found component: 1673, 78
+	> Found component: 1673, 91
+	> Found component: 1673, 104
+	> Found component: 1673, 117
+	> Found component: 1673, 130
+	> Found component: 1673, 143
+	> Found component: 1673, 156
+	> Found component: 1673, 169
+	> Found component: 1673, 182
+Start of varp 4172
+	> Found component: 563, 2
+Start of varp 4175
+	> Found component: 1473, 21
+Start of varp 4177
+	> Found component: 566, 113
+Start of varp 4263
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 4332
+	> Found component: 579, 40
+	> Found component: 1436, 200
+Start of varp 4338
+	> Found component: 579, 45
+	> Found component: 579, 46
+Start of varp 4361
+	> Found component: 676, 4
+	> Found component: 676, 15
+	> Found component: 676, 27
+	> Found component: 676, 39
+	> Found component: 1043, 16
+	> Found component: 1043, 197
+	> Found component: 1043, 201
+	> Found component: 1043, 205
+	> Found component: 1043, 220
+Start of varp 4362
+	> Found component: 1043, 197
+	> Found component: 1043, 201
+	> Found component: 1043, 205
+	> Found component: 1043, 220
+	> Found component: 1640, 1
+	> Found component: 1692, 47
+Start of varp 4363
+	> Found component: 677, 27
+Start of varp 4364
+	> Found component: 677, 27
+Start of varp 4365
+	> Found component: 677, 27
+Start of varp 4366
+	> Found component: 677, 27
+Start of varp 4372
+	> Found component: 676, 29
+	> Found component: 676, 41
+Start of varp 4376
+	> Found component: 364, 18
+	> Found component: 1043, 4
+	> Found component: 1043, 22
+Start of varp 4377
+	> Found component: 364, 18
+	> Found component: 1043, 4
+	> Found component: 1043, 22
+	> Found component: 1043, 153
+Start of varp 4378
+	> Found component: 364, 18
+	> Found component: 1043, 22
+Start of varp 4379
+	> Found component: 364, 18
+	> Found component: 1043, 22
+Start of varp 4380
+	> Found component: 364, 18
+	> Found component: 1043, 22
+Start of varp 4381
+	> Found component: 1043, 220
+Start of varp 4393
+	> Found component: 1046, 5
+Start of varp 4410
+	> Found component: 1614, 98
+	> Found component: 1614, 110
+	> Found component: 1614, 122
+	> Found component: 1614, 134
+	> Found component: 1614, 148
+	> Found component: 1614, 164
+	> Found component: 1614, 174
+	> Found component: 1614, 184
+Start of varp 4411
+	> Found component: 1047, 39
+	> Found component: 1047, 45
+	> Found component: 1047, 46
+Start of varp 4412
+	> Found component: 1047, 39
+Start of varp 4468
+	> Found component: 1533, 6
+Start of varp 4469
+	> Found component: 1308, 34
+	> Found component: 1308, 36
+Start of varp 4470
+	> Found component: 734, 107
+	> Found component: 734, 125
+Start of varp 4471
+	> Found component: 734, 107
+	> Found component: 734, 125
+Start of varp 4479
+	> Found component: 940, 9
+Start of varp 4480
+	> Found component: 940, 9
+Start of varp 4482
+	> Found component: 940, 361
+	> Found component: 940, 371
+	> Found component: 940, 381
+	> Found component: 940, 391
+	> Found component: 940, 401
+	> Found component: 940, 411
+	> Found component: 940, 421
+	> Found component: 940, 431
+	> Found component: 940, 441
+	> Found component: 940, 451
+	> Found component: 940, 461
+	> Found component: 940, 471
+	> Found component: 940, 481
+	> Found component: 940, 491
+	> Found component: 940, 501
+	> Found component: 940, 511
+	> Found component: 940, 521
+	> Found component: 940, 531
+	> Found component: 940, 541
+	> Found component: 940, 551
+	> Found component: 940, 561
+	> Found component: 940, 571
+	> Found component: 940, 581
+	> Found component: 940, 591
+	> Found component: 940, 601
+	> Found component: 940, 611
+	> Found component: 940, 621
+	> Found component: 940, 631
+	> Found component: 940, 641
+	> Found component: 940, 651
+	> Found component: 940, 661
+	> Found component: 940, 671
+Start of varp 4483
+	> Found component: 940, 14
+	> Found component: 940, 681
+	> Found component: 940, 691
+	> Found component: 940, 701
+	> Found component: 940, 711
+	> Found component: 940, 721
+	> Found component: 940, 731
+Start of varp 4489
+	> Found component: 1147, 7
+	> Found component: 1147, 8
+	> Found component: 1147, 11
+	> Found component: 1147, 31
+	> Found component: 1615, 125
+Start of varp 4490
+	> Found component: 1147, 7
+	> Found component: 1615, 125
+Start of varp 4495
+	> Found component: 1501, 2
+Start of varp 4519
+	> Found component: 754, 28
+	> Found component: 754, 29
+	> Found component: 754, 35
+	> Found component: 1662, 1
+Start of varp 4559
+	> Found component: 1473, 73
+	> Found component: 1473, 76
+	> Found component: 1473, 77
+	> Found component: 1474, 71
+	> Found component: 1474, 74
+	> Found component: 1474, 75
+Start of varp 4561
+	> Found component: 1361, 7
+	> Found component: 1710, 9
+Start of varp 4563
+	> Found component: 229, 2
+	> Found component: 229, 2
+	> Found component: 229, 2
+	> Found component: 229, 2
+	> Found component: 229, 2
+Start of varp 4573
+	> Found component: 1086, 26
+Start of varp 4691
+	> Found component: 1519, 63
+	> Found component: 1520, 29
+	> Found component: 1521, 1
+	> Found component: 1524, 53
+	> Found component: 1524, 59
+	> Found component: 1528, 54
+Start of varp 4695
+	> Found component: 1524, 56
+Start of varp 4696
+	> Found component: 1524, 59
+Start of varp 4699
+	> Found component: 1524, 36
+Start of varp 4719
+	> Found component: 1524, 10
+Start of varp 4721
+	> Found component: 1524, 45
+Start of varp 4722
+	> Found component: 1524, 10
+Start of varp 4723
+	> Found component: 1524, 10
+Start of varp 4724
+	> Found component: 1524, 10
+Start of varp 4725
+	> Found component: 1524, 10
+Start of varp 4726
+	> Found component: 1524, 10
+Start of varp 4727
+	> Found component: 1524, 10
+Start of varp 4728
+	> Found component: 1524, 10
+Start of varp 4729
+	> Found component: 1524, 10
+Start of varp 4730
+	> Found component: 1524, 10
+Start of varp 4731
+	> Found component: 1524, 10
+Start of varp 4732
+	> Found component: 1524, 10
+Start of varp 4733
+	> Found component: 1524, 10
+Start of varp 4737
+	> Found component: 320, 2
+	> Found component: 320, 2
+	> Found component: 936, 3
+	> Found component: 936, 3
+	> Found component: 1430, 17
+	> Found component: 1443, 0
+	> Found component: 1466, 0
+	> Found component: 1466, 0
+	> Found component: 1557, 0
+	> Found component: 1557, 0
+	> Found component: 1663, 3
+	> Found component: 1664, 14
+	> Found component: 1674, 1
+	> Found component: 1674, 1
+	> Found component: 1702, 3
+	> Found component: 1702, 9
+	> Found component: 1702, 36
+	> Found component: 1702, 106
+	> Found component: 1702, 111
+	> Found component: 1702, 116
+	> Found component: 1702, 121
+	> Found component: 1702, 131
+Start of varp 4738
+	> Found component: 235, 32
+	> Found component: 550, 49
+	> Found component: 550, 90
+	> Found component: 982, 18
+	> Found component: 1441, 46
+	> Found component: 1441, 84
+Start of varp 4745
+	> Found component: 1628, 16
+Start of varp 4756
+	> Found component: 1532, 15
+Start of varp 4757
+	> Found component: 1532, 6
+	> Found component: 1532, 12
+	> Found component: 1532, 12
+	> Found component: 1532, 12
+	> Found component: 1532, 17
+	> Found component: 1532, 19
+	> Found component: 1532, 21
+Start of varp 4758
+	> Found component: 1531, 12
+	> Found component: 1531, 13
+	> Found component: 1531, 31
+Start of varp 4759
+	> Found component: 762, 243
+Start of varp 4760
+	> Found component: 762, 243
+Start of varp 4761
+	> Found component: 762, 243
+Start of varp 4762
+	> Found component: 762, 243
+Start of varp 4763
+	> Found component: 1533, 6
+Start of varp 4770
+	> Found component: 1343, 52
+Start of varp 4772
+	> Found component: 1308, 20
+	> Found component: 1308, 62
+Start of varp 4783
+	> Found component: 1536, 0
+Start of varp 4792
+	> Found component: 1308, 80
+	> Found component: 1308, 82
+	> Found component: 1308, 84
+	> Found component: 1308, 86
+	> Found component: 1308, 926
+	> Found component: 1308, 939
+	> Found component: 1308, 952
+	> Found component: 1308, 965
+Start of varp 4793
+	> Found component: 1308, 88
+	> Found component: 1308, 90
+	> Found component: 1308, 92
+	> Found component: 1308, 978
+	> Found component: 1308, 991
+	> Found component: 1308, 1004
+Start of varp 4797
+	> Found component: 1538, 11
+Start of varp 4798
+	> Found component: 1537, 8
+	> Found component: 1538, 11
+	> Found component: 1538, 11
+Start of varp 4818
+	> Found component: 1420, 599
+Start of varp 4823
+	> Found component: 662, 39
+Start of varp 4831
+	> Found component: 1542, 25
+	> Found component: 1542, 26
+	> Found component: 1542, 30
+	> Found component: 1542, 35
+Start of varp 4846
+	> Found component: 1545, 20
+Start of varp 4848
+	> Found component: 1545, 1
+	> Found component: 1545, 2
+	> Found component: 1545, 3
+	> Found component: 1545, 5
+	> Found component: 1545, 15
+	> Found component: 1545, 16
+	> Found component: 1545, 17
+	> Found component: 1545, 18
+Start of varp 4849
+	> Found component: 1545, 4
+	> Found component: 1545, 6
+	> Found component: 1545, 7
+	> Found component: 1545, 14
+Start of varp 4853
+	> Found component: 1546, 24
+	> Found component: 1546, 28
+	> Found component: 1546, 32
+	> Found component: 1546, 35
+	> Found component: 1546, 38
+	> Found component: 1546, 42
+Start of varp 4870
+	> Found component: 1548, 1
+	> Found component: 1548, 3
+	> Found component: 1548, 5
+	> Found component: 1548, 7
+	> Found component: 1548, 9
+	> Found component: 1548, 11
+	> Found component: 1548, 13
+	> Found component: 1548, 17
+	> Found component: 1548, 18
+	> Found component: 1548, 20
+	> Found component: 1548, 22
+	> Found component: 1548, 24
+	> Found component: 1548, 26
+	> Found component: 1548, 28
+	> Found component: 1548, 30
+Start of varp 4878
+	> Found component: 1674, 1
+Start of varp 4879
+	> Found component: 1674, 1
+Start of varp 4880
+	> Found component: 20, 128
+Start of varp 4881
+	> Found component: 20, 128
+Start of varp 4882
+	> Found component: 20, 138
+Start of varp 4883
+	> Found component: 20, 138
+Start of varp 4884
+	> Found component: 20, 144
+Start of varp 4885
+	> Found component: 20, 144
+Start of varp 4887
+	> Found component: 1524, 147
+Start of varp 4889
+	> Found component: 110, 0
+	> Found component: 796, 0
+	> Found component: 1550, 2
+	> Found component: 1551, 4
+	> Found component: 1552, 0
+	> Found component: 1669, 0
+Start of varp 4890
+	> Found component: 1550, 2
+	> Found component: 1550, 5
+Start of varp 4893
+	> Found component: 1550, 14
+	> Found component: 1555, 13
+Start of varp 4902
+	> Found component: 1555, 13
+Start of varp 4903
+	> Found component: 1554, 2
+Start of varp 4915
+	> Found component: 579, 47
+Start of varp 4921
+	> Found component: 1557, 0
+Start of varp 4922
+	> Found component: 1557, 0
+Start of varp 4923
+	> Found component: 1557, 0
+Start of varp 4924
+	> Found component: 1557, 0
+Start of varp 4925
+	> Found component: 1557, 0
+Start of varp 4926
+	> Found component: 1557, 0
+Start of varp 4927
+	> Found component: 1557, 0
+Start of varp 4928
+	> Found component: 1557, 0
+Start of varp 4929
+	> Found component: 1557, 0
+Start of varp 4930
+	> Found component: 1557, 0
+Start of varp 4931
+	> Found component: 1557, 0
+Start of varp 4932
+	> Found component: 1557, 0
+Start of varp 4933
+	> Found component: 1557, 0
+Start of varp 4984
+	> Found component: 1560, 19
+Start of varp 4985
+	> Found component: 1560, 16
+	> Found component: 1560, 19
+Start of varp 5005
+	> Found component: 1367, 107
+	> Found component: 1367, 125
+	> Found component: 1558, 3
+Start of varp 5006
+	> Found component: 1562, 24
+Start of varp 5007
+	> Found component: 1562, 24
+Start of varp 5018
+	> Found component: 1566, 33
+	> Found component: 1566, 34
+	> Found component: 1566, 35
+	> Found component: 1566, 44
+	> Found component: 1566, 58
+Start of varp 5019
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 5020
+	> Found component: 662, 28
+	> Found component: 662, 28
+	> Found component: 662, 28
+	> Found component: 1311, 565
+	> Found component: 1311, 565
+	> Found component: 1311, 565
+Start of varp 5029
+	> Found component: 1567, 42
+	> Found component: 1574, 3
+	> Found component: 1575, 20
+	> Found component: 1575, 23
+	> Found component: 1575, 26
+	> Found component: 1575, 29
+Start of varp 5045
+	> Found component: 1572, 8
+Start of varp 5055
+	> Found component: 549, 3
+Start of varp 5061
+	> Found component: 1579, 3
+	> Found component: 1579, 4
+Start of varp 5062
+	> Found component: 1579, 7
+Start of varp 5063
+	> Found component: 1579, 7
+Start of varp 5084
+	> Found component: 1583, 21
+	> Found component: 1583, 22
+	> Found component: 1583, 26
+	> Found component: 1631, 15
+	> Found component: 1631, 30
+	> Found component: 1631, 81
+	> Found component: 1631, 90
+Start of varp 5085
+	> Found component: 1253, 119
+Start of varp 5086
+	> Found component: 1586, 4
+	> Found component: 1586, 4
+Start of varp 5090
+	> Found component: 1587, 25
+Start of varp 5091
+	> Found component: 1465, 42
+	> Found component: 1588, 32
+	> Found component: 1589, 2
+	> Found component: 1589, 13
+	> Found component: 1678, 0
+	> Found component: 1678, 3
+	> Found component: 1679, 3
+	> Found component: 1679, 5
+	> Found component: 1681, 35
+	> Found component: 1732, 8
+	> Found component: 1733, 17
+Start of varp 5130
+	> Found component: 1253, 649
+	> Found component: 1253, 651
+	> Found component: 1253, 653
+	> Found component: 1253, 655
+	> Found component: 1253, 657
+	> Found component: 1253, 661
+	> Found component: 1253, 667
+	> Found component: 1253, 672
+	> Found component: 1253, 677
+	> Found component: 1253, 683
+Start of varp 5142
+	> Found component: 1591, 14
+	> Found component: 1591, 77
+	> Found component: 1591, 97
+	> Found component: 1591, 119
+Start of varp 5143
+	> Found component: 1591, 139
+Start of varp 5144
+	> Found component: 1591, 2
+	> Found component: 1591, 34
+Start of varp 5147
+	> Found component: 1594, 4
+	> Found component: 1594, 4
+Start of varp 5148
+	> Found component: 1594, 0
+Start of varp 5149
+	> Found component: 1594, 4
+Start of varp 5194
+	> Found component: 662, 49
+	> Found component: 662, 49
+	> Found component: 662, 127
+	> Found component: 662, 127
+Start of varp 5196
+	> Found component: 1609, 1
+Start of varp 5204
+	> Found component: 1610, 153
+Start of varp 5210
+	> Found component: 1610, 17
+Start of varp 5211
+	> Found component: 1611, 8
+Start of varp 5212
+	> Found component: 762, 142
+Start of varp 5228
+	> Found component: 1613, 59
+	> Found component: 1613, 60
+Start of varp 5246
+	> Found component: 1614, 8
+Start of varp 5254
+	> Found component: 1615, 125
+	> Found component: 1615, 177
+Start of varp 5257
+	> Found component: 662, 28
+	> Found component: 1384, 47
+Start of varp 5258
+	> Found component: 662, 28
+	> Found component: 1385, 13
+Start of varp 5263
+	> Found component: 1620, 2
+	> Found component: 1620, 6
+Start of varp 5413
+	> Found component: 1623, 7
+	> Found component: 1623, 13
+	> Found component: 1623, 20
+	> Found component: 1623, 29
+	> Found component: 1623, 40
+	> Found component: 1623, 47
+	> Found component: 1623, 54
+	> Found component: 1623, 61
+	> Found component: 1623, 68
+	> Found component: 1623, 75
+	> Found component: 1623, 82
+	> Found component: 1623, 89
+	> Found component: 1623, 96
+	> Found component: 1623, 103
+Start of varp 5424
+	> Found npc: 21057
+	> Found npc: 21058
+	> Found npc: 21059
+	> Found npc: 21060
+	> Found npc: 21061
+	> Found npc: 21062
+	> Found npc: 21063
+	> Found npc: 21064
+	> Found npc: 21065
+	> Found npc: 21066
+	> Found npc: 21067
+	> Found npc: 21068
+	> Found npc: 21069
+	> Found npc: 21070
+	> Found object: 96748
+	> Found object: 96749
+	> Found object: 96750
+	> Found object: 96751
+	> Found object: 96752
+	> Found object: 96753
+	> Found object: 96754
+	> Found object: 96755
+	> Found object: 96756
+	> Found object: 96757
+	> Found object: 96758
+	> Found object: 96759
+	> Found object: 96760
+	> Found object: 96761
+Start of varp 5427
+	> Found component: 1624, 14
+Start of varp 5433
+	> Found component: 1483, 0
+Start of varp 5466
+	> Found component: 1283, 0
+	> Found component: 1315, 0
+Start of varp 5673
+	> Found component: 17, 14
+	> Found component: 1630, 221
+Start of varp 5679
+	> Found component: 1631, 22
+	> Found component: 1631, 38
+	> Found component: 1631, 42
+Start of varp 5680
+	> Found component: 1631, 3
+	> Found component: 1631, 75
+Start of varp 5682
+	> Found component: 1631, 47
+Start of varp 5691
+	> Found component: 1635, 50
+	> Found component: 1635, 52
+	> Found component: 1635, 83
+	> Found component: 1635, 89
+	> Found component: 1637, 34
+	> Found component: 1637, 37
+Start of varp 5692
+	> Found component: 1635, 83
+	> Found component: 1635, 89
+	> Found component: 1635, 95
+	> Found component: 1637, 34
+	> Found component: 1637, 37
+Start of varp 5693
+	> Found component: 1635, 101
+	> Found component: 1635, 107
+	> Found component: 1637, 26
+	> Found component: 1637, 29
+Start of varp 5699
+	> Found component: 1308, 251
+	> Found component: 1308, 253
+	> Found component: 1308, 255
+	> Found component: 1308, 1113
+Start of varp 5704
+	> Found component: 1750, 6
+	> Found component: 1750, 6
+	> Found component: 1750, 8
+	> Found component: 1750, 10
+	> Found component: 1750, 14
+	> Found component: 1750, 19
+	> Found component: 1750, 19
+	> Found component: 1750, 21
+Start of varp 5730
+	> Found component: 1640, 2
+	> Found component: 1640, 5
+Start of varp 5732
+	> Found component: 1641, 57
+Start of varp 5733
+	> Found component: 1642, 1
+Start of varp 5734
+	> Found component: 1642, 3
+Start of varp 5737
+	> Found component: 1644, 0
+Start of varp 5739
+	> Found component: 1562, 24
+Start of varp 5773
+	> Found component: 1092, 3
+	> Found component: 1092, 54
+Start of varp 5777
+	> Found component: 1653, 5
+Start of varp 5779
+	> Found component: 1649, 0
+	> Found component: 1649, 0
+	> Found component: 1649, 0
+	> Found component: 1649, 0
+	> Found component: 1649, 1
+	> Found component: 1649, 2
+	> Found component: 1649, 3
+	> Found component: 1649, 4
+	> Found component: 1649, 5
+	> Found component: 1651, 1
+	> Found component: 1651, 1
+	> Found component: 1651, 1
+	> Found component: 1651, 1
+	> Found component: 1748, 0
+	> Found component: 1748, 0
+	> Found component: 1748, 0
+	> Found component: 1748, 0
+Start of varp 5780
+	> Found component: 1650, 5
+Start of varp 5835
+	> Found component: 732, 9
+Start of varp 5837
+	> Found component: 1253, 574
+	> Found component: 1253, 578
+	> Found component: 1253, 582
+	> Found component: 1253, 586
+	> Found component: 1253, 590
+	> Found component: 1253, 591
+Start of varp 5860
+	> Found component: 1430, 245
+	> Found component: 1430, 245
+	> Found component: 1430, 245
+	> Found component: 1430, 245
+	> Found component: 1436, 7
+	> Found component: 1436, 7
+	> Found component: 1436, 7
+	> Found component: 1436, 7
+	> Found component: 1670, 1
+	> Found component: 1670, 4
+	> Found component: 1670, 4
+	> Found component: 1670, 4
+	> Found component: 1670, 4
+	> Found component: 1670, 6
+	> Found component: 1671, 2
+	> Found component: 1671, 2
+	> Found component: 1671, 2
+	> Found component: 1671, 2
+	> Found component: 1671, 3
+	> Found component: 1671, 189
+	> Found component: 1672, 1
+	> Found component: 1672, 1
+	> Found component: 1672, 1
+	> Found component: 1672, 1
+	> Found component: 1672, 2
+	> Found component: 1672, 189
+	> Found component: 1673, 1
+	> Found component: 1673, 1
+	> Found component: 1673, 1
+	> Found component: 1673, 1
+	> Found component: 1673, 2
+	> Found component: 1673, 189
+Start of varp 5861
+	> Found component: 1430, 63
+	> Found component: 1430, 76
+	> Found component: 1430, 89
+	> Found component: 1430, 102
+	> Found component: 1430, 115
+	> Found component: 1430, 128
+	> Found component: 1430, 141
+	> Found component: 1430, 154
+	> Found component: 1430, 167
+	> Found component: 1430, 180
+	> Found component: 1430, 193
+	> Found component: 1430, 206
+	> Found component: 1430, 219
+	> Found component: 1430, 234
+	> Found component: 1436, 23
+	> Found component: 1436, 36
+	> Found component: 1436, 49
+	> Found component: 1436, 62
+	> Found component: 1436, 75
+	> Found component: 1436, 88
+	> Found component: 1436, 101
+	> Found component: 1436, 114
+	> Found component: 1436, 127
+	> Found component: 1436, 140
+	> Found component: 1436, 153
+	> Found component: 1436, 166
+	> Found component: 1436, 179
+	> Found component: 1436, 192
+	> Found component: 1670, 17
+	> Found component: 1670, 30
+	> Found component: 1670, 43
+	> Found component: 1670, 56
+	> Found component: 1670, 69
+	> Found component: 1670, 82
+	> Found component: 1670, 95
+	> Found component: 1670, 108
+	> Found component: 1670, 121
+	> Found component: 1670, 134
+	> Found component: 1670, 147
+	> Found component: 1670, 160
+	> Found component: 1670, 173
+	> Found component: 1670, 186
+	> Found component: 1671, 14
+	> Found component: 1671, 27
+	> Found component: 1671, 40
+	> Found component: 1671, 53
+	> Found component: 1671, 66
+	> Found component: 1671, 79
+	> Found component: 1671, 92
+	> Found component: 1671, 105
+	> Found component: 1671, 118
+	> Found component: 1671, 131
+	> Found component: 1671, 144
+	> Found component: 1671, 157
+	> Found component: 1671, 170
+	> Found component: 1671, 183
+	> Found component: 1672, 13
+	> Found component: 1672, 26
+	> Found component: 1672, 39
+	> Found component: 1672, 52
+	> Found component: 1672, 65
+	> Found component: 1672, 78
+	> Found component: 1672, 91
+	> Found component: 1672, 104
+	> Found component: 1672, 117
+	> Found component: 1672, 130
+	> Found component: 1672, 143
+	> Found component: 1672, 156
+	> Found component: 1672, 169
+	> Found component: 1672, 182
+	> Found component: 1673, 13
+	> Found component: 1673, 26
+	> Found component: 1673, 39
+	> Found component: 1673, 52
+	> Found component: 1673, 65
+	> Found component: 1673, 78
+	> Found component: 1673, 91
+	> Found component: 1673, 104
+	> Found component: 1673, 117
+	> Found component: 1673, 130
+	> Found component: 1673, 143
+	> Found component: 1673, 156
+	> Found component: 1673, 169
+	> Found component: 1673, 182
+Start of varp 5863
+	> Found component: 1663, 3
+	> Found component: 1674, 1
+	> Found component: 1674, 1
+	> Found component: 1674, 1
+	> Found component: 1674, 1
+	> Found component: 1674, 1
+	> Found component: 1674, 1
+	> Found component: 1674, 1
+Start of varp 5864
+	> Found component: 1675, 3
+	> Found component: 1675, 4
+	> Found component: 1675, 23
+	> Found component: 1675, 24
+	> Found component: 1675, 25
+	> Found component: 1675, 27
+	> Found component: 1675, 28
+	> Found component: 1675, 29
+	> Found component: 1675, 30
+	> Found component: 1675, 31
+	> Found component: 1675, 33
+	> Found component: 1675, 34
+	> Found component: 1675, 35
+	> Found component: 1675, 36
+	> Found component: 1675, 37
+	> Found component: 1675, 39
+Start of varp 5866
+	> Found component: 229, 2
+Start of varp 5868
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 5869
+	> Found component: 1676, 0
+Start of varp 5872
+	> Found component: 187, 4
+	> Found component: 1416, 3
+	> Found component: 1416, 10
+Start of varp 5873
+	> Found component: 187, 4
+	> Found component: 1416, 3
+	> Found component: 1416, 10
+Start of varp 5874
+	> Found component: 187, 4
+	> Found component: 1416, 3
+	> Found component: 1416, 10
+Start of varp 5875
+	> Found component: 187, 4
+	> Found component: 1416, 3
+	> Found component: 1416, 10
+Start of varp 5876
+	> Found component: 187, 4
+	> Found component: 1416, 3
+	> Found component: 1416, 10
+Start of varp 5877
+	> Found component: 187, 4
+	> Found component: 1416, 3
+	> Found component: 1416, 10
+Start of varp 5878
+	> Found component: 187, 4
+	> Found component: 1416, 3
+	> Found component: 1416, 10
+Start of varp 5879
+	> Found component: 187, 4
+	> Found component: 1416, 3
+	> Found component: 1416, 10
+Start of varp 5880
+	> Found component: 187, 4
+	> Found component: 1416, 3
+	> Found component: 1416, 10
+Start of varp 5883
+	> Found component: 1588, 33
+	> Found component: 1681, 43
+Start of varp 5884
+	> Found component: 1588, 33
+	> Found component: 1681, 43
+Start of varp 5897
+	> Found component: 1685, 0
+	> Found component: 1772, 0
+Start of varp 5899
+	> Found component: 1686, 0
+	> Found component: 1686, 3
+Start of varp 5916
+	> Found component: 753, 55
+Start of varp 5917
+	> Found component: 753, 48
+Start of varp 5937
+	> Found component: 1692, 0
+Start of varp 5939
+	> Found component: 1695, 15
+	> Found component: 1760, 55
+Start of varp 5944
+	> Found component: 1700, 137
+Start of varp 5954
+	> Found component: 1706, 1
+	> Found component: 1706, 1
+	> Found component: 1706, 1
+Start of varp 5955
+	> Found component: 1705, 8
+	> Found component: 1705, 27
+	> Found component: 1705, 28
+Start of varp 5967
+	> Found component: 550, 1
+	> Found component: 550, 61
+	> Found component: 1441, 4
+	> Found component: 1477, 887
+	> Found component: 1663, 3
+	> Found component: 1663, 173
+	> Found component: 1674, 1
+	> Found component: 1702, 126
+	> Found component: 1702, 136
+Start of varp 5985
+	> Found component: 1473, 13
+	> Found component: 1474, 15
+	> Found component: 1708, 34
+Start of varp 5986
+	> Found component: 1708, 34
+Start of varp 5987
+	> Found component: 1473, 13
+	> Found component: 1474, 15
+Start of varp 6101
+	> Found component: 1715, 3
+	> Found component: 1715, 4
+	> Found component: 1715, 5
+	> Found component: 1715, 6
+	> Found component: 1715, 7
+	> Found component: 1715, 8
+	> Found component: 1715, 9
+Start of varp 6114
+	> Found component: 1717, 53
+	> Found component: 1717, 58
+Start of varp 6121
+	> Found component: 1718, 14
+Start of varp 6138
+	> Found object: 101269
+	> Found object: 101274
+	> Found object: 101279
+Start of varp 6139
+	> Found component: 1729, 2
+Start of varp 6157
+	> Found component: 1484, 2
+Start of varp 6201
+	> Found component: 1746, 4
+	> Found component: 1746, 41
+Start of varp 6202
+	> Found component: 1746, 4
+	> Found component: 1746, 41
+Start of varp 6203
+	> Found component: 1747, 5
+Start of varp 6204
+	> Found component: 1747, 5
+Start of varp 6205
+	> Found component: 1747, 5
+Start of varp 6206
+	> Found component: 1746, 30
+	> Found component: 1746, 67
+	> Found component: 1747, 5
+Start of varp 6207
+	> Found component: 1746, 0
+	> Found component: 1746, 0
+Start of varp 6209
+	> Found component: 1748, 1
+	> Found component: 1748, 2
+	> Found component: 1748, 3
+	> Found component: 1748, 4
+	> Found component: 1748, 5
+	> Found component: 1748, 6
+Start of varp 6213
+	> Found component: 1749, 4
+	> Found component: 1749, 4
+Start of varp 6221
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 6247
+	> Found component: 1757, 28
+	> Found component: 1759, 0
+Start of varp 6248
+	> Found component: 1757, 25
+Start of varp 6276
+	> Found component: 1763, 1
+Start of varp 6338
+	> Found component: 1253, 256
+	> Found component: 1766, 3
+	> Found component: 1766, 5
+	> Found component: 1766, 8
+	> Found component: 1766, 11
+	> Found component: 1766, 14
+	> Found component: 1766, 17
+	> Found component: 1766, 20
+	> Found component: 1766, 24
+Start of varp 6340
+	> Found component: 1767, 20
+Start of varp 6359
+	> Found component: 1770, 27
+	> Found component: 1771, 1
+Start of varp 6361
+	> Found component: 1769, 2
+Start of varp 6363
+	> Found component: 1770, 10
+	> Found component: 1770, 23
+Start of varp 6448
+	> Found component: 187, 4
+	> Found component: 1416, 3
+Start of varp 6463
+	> Found component: 1642, 2
+Start of varp 6501
+	> Found component: 1784, 2
+	> Found component: 1810, 4
+Start of varp 6503
+	> Found component: 1785, 5
+	> Found component: 1785, 7
+	> Found component: 1785, 13
+	> Found component: 1785, 13
+Start of varp 6507
+	> Found component: 1620, 2
+Start of varp 6516
+	> Found component: 1786, 21
+Start of varp 6525
+	> Found component: 1790, 17
+	> Found component: 1790, 58
+	> Found component: 1790, 59
+	> Found component: 1790, 60
+Start of varp 6545
+	> Found component: 1787, 30
+	> Found component: 1789, 2
+	> Found component: 1789, 30
+	> Found component: 1789, 37
+	> Found component: 1789, 44
+	> Found component: 1789, 51
+	> Found component: 1789, 58
+Start of varp 6560
+	> Found component: 1798, 36
+	> Found component: 1798, 36
+Start of varp 6561
+	> Found component: 1798, 36
+	> Found component: 1798, 36
+Start of varp 6601
+	> Found component: 907, 7
+	> Found component: 907, 8
+	> Found component: 907, 16
+	> Found component: 907, 69
+Start of varp 6613
+	> Found component: 1801, 64
+	> Found component: 1801, 70
+	> Found component: 1801, 75
+	> Found component: 1801, 80
+	> Found component: 1801, 94
+Start of varp 6616
+	> Found component: 1801, 8
+	> Found component: 1801, 8
+	> Found component: 1801, 8
+	> Found component: 1801, 8
+	> Found component: 1801, 8
+	> Found component: 1801, 8
+	> Found component: 1801, 8
+Start of varp 6617
+	> Found component: 1801, 8
+Start of varp 6628
+	> Found component: 1562, 24
+Start of varp 6631
+	> Found component: 1804, 28
+Start of varp 6640
+	> Found component: 1308, 42
+Start of varp 6641
+	> Found component: 1806, 2
+Start of varp 6689
+	> Found component: 751, 21
+	> Found component: 1148, 21
+Start of varp 6692
+	> Found component: 1817, 64
+	> Found component: 1817, 70
+	> Found component: 1817, 75
+	> Found component: 1817, 80
+	> Found component: 1817, 94
+Start of varp 6693
+	> Found component: 1817, 8
+	> Found component: 1817, 8
+	> Found component: 1817, 8
+	> Found component: 1817, 8
+	> Found component: 1817, 8
+	> Found component: 1817, 8
+	> Found component: 1817, 8
+	> Found component: 1817, 8
+Start of varp 6694
+	> Found component: 1817, 35
+	> Found component: 1817, 179
+Start of varp 6695
+	> Found component: 1817, 185
+Start of varp 6718
+	> Found component: 1819, 3

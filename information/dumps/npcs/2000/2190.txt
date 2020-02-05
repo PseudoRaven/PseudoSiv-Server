@@ -1,0 +1,10 @@
+id=2190
+name=Runvastr
+description=A sad old dwarf living in a sad old home.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

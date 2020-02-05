@@ -1,0 +1,10 @@
+id=6656
+name=Dwarf
+description=A tough looking dwarf.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dwarven mines"]
+aggressive=false
+members=false

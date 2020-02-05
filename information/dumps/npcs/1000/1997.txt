@@ -1,0 +1,17 @@
+id=1997
+name=Plague frog
+description=A very smelly frog.
+size=1
+xp=54.9
+lifepoints=1500
+level=21
+attack=15
+defence=15
+ranged=0
+magic=0
+animations={death:1022,attack:1021}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=["RuneScape Surface"]
+aggressive=true

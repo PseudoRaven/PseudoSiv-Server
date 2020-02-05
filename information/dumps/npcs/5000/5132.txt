@@ -1,0 +1,10 @@
+id=5132
+name=Polar eagle
+description=A very large, very dangerous, very cold-looking birdy.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Eagle's Peak cave"]
+aggressive=false
+members=true

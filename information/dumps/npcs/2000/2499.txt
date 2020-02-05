@@ -1,0 +1,17 @@
+id=2499
+name=Broodoo victim
+description=An undead victim of some ancient murderous ritual; his skin appears deep green.
+size=1
+xp=1.2
+lifepoints=2250
+level=63
+attack=45
+defence=45
+ranged=1
+magic=46
+animations={death:836}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=true

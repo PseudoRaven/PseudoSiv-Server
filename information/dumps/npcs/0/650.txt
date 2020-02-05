@@ -1,0 +1,10 @@
+id=650
+name=Warrior
+description=He looks big and dumb.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

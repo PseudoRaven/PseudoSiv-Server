@@ -1,0 +1,17 @@
+id=2497
+name=Tribesman
+description=A vicious warrior.
+size=1
+xp=125.7
+lifepoints=2250
+level=63
+attack=45
+defence=45
+ranged=1
+magic=1
+animations={death:836,attack:428}
+attackable=true
+poisonous=true
+weakness="Fire"
+areas=[]
+aggressive=false

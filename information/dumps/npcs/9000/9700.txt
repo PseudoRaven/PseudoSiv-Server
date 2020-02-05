@@ -1,0 +1,10 @@
+id=9700
+name=Urchin
+description=Don't look her in the eyes!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Mermaid Island"]
+aggressive=false
+members=true

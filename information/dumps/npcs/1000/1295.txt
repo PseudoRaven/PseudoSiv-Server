@@ -1,0 +1,10 @@
+id=1295
+name=Askeladden
+description=Looks like a wanna be Fremennik.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=2709
+name=Fire wizard
+description=Caution: HOT!
+size=1
+xp=39.6
+lifepoints=900
+level=25
+attack=1
+defence=18
+ranged=1
+magic=18
+animations={death:2553,attack:414}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=["RuneScape Surface"]
+aggressive=false

@@ -1,0 +1,10 @@
+id=17559
+name=Zamorak devotee
+description=Wishes he had cool wings and horns.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

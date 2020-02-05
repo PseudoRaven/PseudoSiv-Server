@@ -1,0 +1,11 @@
+id=1161
+name=Kalphite Larva
+description=I don't think insect repellent will work...
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+slayercat=Kalphite
+areas=["Kalphite Hive"]
+aggressive=true
+members=false

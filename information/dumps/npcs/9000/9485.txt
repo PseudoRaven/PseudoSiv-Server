@@ -1,0 +1,10 @@
+id=9485
+name=Obsidian golem
+description=Four fists can make quite an impression IN someone...
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Spirit Plane"]
+aggressive=true
+members=true

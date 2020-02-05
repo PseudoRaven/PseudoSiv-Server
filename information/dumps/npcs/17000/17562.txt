@@ -1,0 +1,10 @@
+id=17562
+name=Zamorak follower
+description=This gentle-natured farmer's wife is - nonetheless - a devout follower of the lord of chaos.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

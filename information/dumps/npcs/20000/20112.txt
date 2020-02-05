@@ -1,0 +1,10 @@
+id=20112
+name=Morvran
+description=He looks a bit creepy.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Prifddinas"]
+aggressive=false
+members=true

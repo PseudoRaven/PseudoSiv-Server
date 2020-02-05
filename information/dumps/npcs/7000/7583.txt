@@ -1,0 +1,10 @@
+id=7583
+name=Captain Marlin
+description=The Don of penguins.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Red Raktuber"]
+aggressive=false
+members=false

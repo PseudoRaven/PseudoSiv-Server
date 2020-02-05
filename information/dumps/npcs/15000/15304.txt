@@ -1,0 +1,17 @@
+id=15304
+name=Crawly monster
+description=A big spider. HAH! I'll squish its face in.
+size=1
+xp=0
+lifepoints=2000
+level=42
+attack=30
+defence=30
+ranged=30
+magic=30
+animations={death:5329,attack:5327}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

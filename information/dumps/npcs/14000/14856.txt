@@ -1,0 +1,10 @@
+id=14856
+name=Ruth Savage
+description=She'll lighten your pockets.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

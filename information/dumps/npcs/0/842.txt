@@ -1,0 +1,16 @@
+id=842
+name=Possessed pickaxe
+description=This pickaxe has been possessed by a dwarf ancestor spirit.
+size=1
+xp=1.3
+lifepoints=400
+level=56
+attack=40
+defence=40
+ranged=1
+magic=1
+animations={death:23847,attack:23839}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

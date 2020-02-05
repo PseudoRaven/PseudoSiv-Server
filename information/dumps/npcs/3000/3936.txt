@@ -1,0 +1,10 @@
+id=3936
+name=Thorodin
+description=A dwarf miner. He's digging holes in the walls.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Miscellania Underground"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=9047
+name=Azzanadra
+description=A mysterious archaeologist.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["The Senntisten Temple","The Senntisten digsite"]
+aggressive=false
+members=false

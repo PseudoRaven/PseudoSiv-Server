@@ -1,0 +1,17 @@
+id=14836
+name=Sk�ll
+description=Stares with burning eyes like suns.
+size=2
+xp=0
+lifepoints=250000
+level=98
+attack=70
+defence=70
+ranged=1
+magic=70
+animations={death:15252,attack:15251}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=true

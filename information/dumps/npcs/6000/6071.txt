@@ -1,0 +1,10 @@
+id=6071
+name=Immenizz
+description=An impling.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Wheat maze"]
+aggressive=false
+members=true

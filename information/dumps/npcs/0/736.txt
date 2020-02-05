@@ -1,0 +1,10 @@
+id=736
+name=Emily
+description=Works in the Rising Sun.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

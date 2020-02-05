@@ -1,0 +1,10 @@
+id=20773
+name=Shopkeeper
+description=Helps sell stuff.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["New Varrock"]
+aggressive=false
+members=false

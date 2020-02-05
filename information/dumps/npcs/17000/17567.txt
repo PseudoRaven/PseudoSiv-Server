@@ -1,0 +1,10 @@
+id=17567
+name=Saradomin devotee
+description=Is proud that both his sons serve as Temple Knights.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=4438
+name=Centaur
+description=Horseplay.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Enchanted valley"]
+aggressive=false
+members=false

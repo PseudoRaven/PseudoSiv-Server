@@ -1,0 +1,10 @@
+id=633
+name=Gnome winger
+description=A professional gnome baller.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

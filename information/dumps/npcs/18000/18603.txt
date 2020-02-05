@@ -1,0 +1,10 @@
+id=18603
+name=Hendrik
+description=A keen fisherman.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

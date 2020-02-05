@@ -1,0 +1,17 @@
+id=1676
+name=Experiment
+description=It has a key hanging from its collar.
+size=2
+xp=51.9
+lifepoints=1250
+level=35
+attack=25
+defence=25
+ranged=0
+magic=0
+animations={death:1628,attack:1626}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["Fenkenstrain's Dungeon"]
+aggressive=false

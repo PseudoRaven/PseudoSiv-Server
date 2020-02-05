@@ -1,0 +1,10 @@
+id=13771
+name=Witchaven villager
+description=A down-on-her-luck villager.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Slug Citadel"]
+aggressive=false
+members=true

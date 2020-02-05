@@ -1,0 +1,17 @@
+id=194
+name=Necromancer
+description=A crazy evil necromancer.
+size=1
+xp=58.5
+lifepoints=1400
+level=39
+attack=1
+defence=28
+ranged=1
+magic=28
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Thrown"
+areas=["RuneScape Surface"]
+aggressive=false

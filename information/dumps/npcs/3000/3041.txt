@@ -1,0 +1,17 @@
+id=3041
+name=Tarik
+description=The mayor's guard.
+size=1
+xp=32.1
+lifepoints=550
+level=15
+attack=11
+defence=11
+ranged=0
+magic=0
+animations={death:836,attack:386}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=["RuneScape Surface"]
+aggressive=false

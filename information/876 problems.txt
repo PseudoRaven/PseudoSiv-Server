@@ -1,0 +1,2 @@
+Lumbridge - part of Varrock as well: issue - Not NPC's
+Button ids change

@@ -1,0 +1,17 @@
+id=15181
+name=TzHaar-Ket-Yit'tal
+description=Champion of the Fight Pit.
+size=2
+xp=805
+lifepoints=7500
+level=105
+attack=75
+defence=75
+ranged=75
+magic=75
+animations={death:16181,attack:16180}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

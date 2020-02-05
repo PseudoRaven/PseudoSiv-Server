@@ -1,0 +1,10 @@
+id=7910
+name=Muncher
+description=Death's faithful companion.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

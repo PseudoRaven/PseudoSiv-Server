@@ -1,0 +1,13 @@
+diff a/src/net/elveron/game/npc/Drops.java b/src/net/elveron/game/npc/Drops.java	(rejected hunks)
+@@ -1,5 +1,11 @@
+ package net.nocturne.game.npc;
+ 
++<<<<<<< HEAD
++=======
++import java.util.ArrayList;
++import java.util.List;
++
++>>>>>>> parent of 4c3089f... massive code cleanup
+ import net.nocturne.cache.loaders.ItemDefinitions;
+ import net.nocturne.game.player.Player;
+ import net.nocturne.game.player.content.Combat;

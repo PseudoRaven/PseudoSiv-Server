@@ -1,0 +1,17 @@
+id=11925
+name=Flesh-Spoiler Haasghenahk
+description=A bloated abomination. It looks fit to burst...
+size=5
+xp=2.5
+lifepoints=2500
+level=84
+attack=60
+defence=60
+ranged=60
+magic=60
+animations={range:14463,death:14467,attack:13320}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

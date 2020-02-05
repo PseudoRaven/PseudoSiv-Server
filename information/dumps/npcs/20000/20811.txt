@@ -1,0 +1,10 @@
+id=20811
+name=Molly
+description=Now forges documents for the Phoenix Gang.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["New Varrock"]
+aggressive=false
+members=false

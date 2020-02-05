@@ -1,0 +1,17 @@
+id=13216
+name=Leeuni
+description=A strange, godlike creature whose sinister smile turns your heart cold.
+size=3
+xp=233.1
+lifepoints=2900
+level=81
+attack=58
+defence=58
+ranged=58
+magic=58
+animations={range:15042,death:15063,attack:15046}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

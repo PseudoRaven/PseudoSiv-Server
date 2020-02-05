@@ -1,0 +1,10 @@
+id=4652
+name=Trader Crewmember
+description=That suit looks a little briny around the edges.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

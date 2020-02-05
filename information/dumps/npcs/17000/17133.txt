@@ -1,0 +1,10 @@
+id=17133
+name=Endwyr, Emissary of Seren
+description=The emissary of Seren.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

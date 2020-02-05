@@ -1,0 +1,10 @@
+id=1572
+name=Radigad Ponfit
+description=A quick and agile fighter, a mercenary from Asgarnia.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Cellar","Myreque Hideout"]
+aggressive=false
+members=true

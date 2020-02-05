@@ -1,0 +1,17 @@
+id=8
+name=Thief
+description=Known for his light-fingered qualities.
+size=1
+xp=30.9
+lifepoints=500
+level=14
+attack=10
+defence=10
+ranged=1
+magic=1
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface"]
+aggressive=false

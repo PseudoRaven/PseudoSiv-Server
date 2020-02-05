@@ -1,0 +1,17 @@
+id=14257
+name=Enhanced ice titan
+description=A powerful, icy foe.
+size=2
+xp=1466.8
+lifepoints=21000
+level=98
+attack=70
+defence=70
+ranged=70
+magic=70
+animations={death:7846,attack:7845}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

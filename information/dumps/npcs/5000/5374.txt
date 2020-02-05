@@ -1,0 +1,17 @@
+id=5374
+name=Ugly
+description=It thinks it scary. Thok show it scary.
+size=1
+xp=0
+lifepoints=800
+level=104
+attack=80
+defence=70
+ranged=80
+magic=80
+animations={death:23828,attack:23827}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

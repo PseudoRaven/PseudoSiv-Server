@@ -1,0 +1,10 @@
+id=9477
+name=Pyrelord
+description=Where did I put the marshmallows?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Spirit Plane"]
+aggressive=true
+members=true

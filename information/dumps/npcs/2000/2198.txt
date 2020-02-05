@@ -1,0 +1,10 @@
+id=2198
+name=Kjut
+description=His kebabs certainly smell delicious.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

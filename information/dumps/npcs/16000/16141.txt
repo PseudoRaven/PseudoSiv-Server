@@ -1,0 +1,17 @@
+id=16141
+name=Magical vortex
+description=A hypnotically flickering knot of magical energy.
+size=1
+xp=0.2
+lifepoints=1
+level=0
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=false

@@ -1,0 +1,16 @@
+id=11086
+name=Protomastyx
+description=A big, slow creature with a tough leathery hide. (Tier 1)
+size=3
+xp=24.9
+lifepoints=80
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:13262,attack:13255}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

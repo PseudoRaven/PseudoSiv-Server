@@ -1,0 +1,10 @@
+id=1274
+name=Ospak
+description=Looks like he's had a few drinks already.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

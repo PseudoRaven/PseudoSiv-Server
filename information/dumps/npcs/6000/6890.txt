@@ -1,0 +1,17 @@
+id=6890
+name=Barker toad
+description=The only creature with a mouth big enough to fit a cannon ball into.
+size=1
+xp=317.2
+lifepoints=7600
+level=78
+attack=60
+defence=53
+ranged=60
+magic=60
+animations={death:7256,attack:7260}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

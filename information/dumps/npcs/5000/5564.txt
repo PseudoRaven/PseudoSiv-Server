@@ -1,0 +1,17 @@
+id=5564
+name=Bouncer
+description=Big, mean, dead doggy.
+size=2
+xp=491.8
+lifepoints=6500
+level=91
+attack=65
+defence=65
+ranged=0
+magic=0
+animations={death:6576,attack:6572}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=false

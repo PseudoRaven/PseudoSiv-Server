@@ -1,0 +1,10 @@
+id=9470
+name=Desert wyrm
+description=Surprisingly slime-free.
+xp=1.4
+animations={}
+attackable=true
+poisonous=false
+areas=["Spirit Plane"]
+aggressive=true
+members=true

@@ -1,0 +1,10 @@
+id=3831
+name=Kathy Corkat
+description=Carries supplies to the Piscatoris Fishing Colony.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

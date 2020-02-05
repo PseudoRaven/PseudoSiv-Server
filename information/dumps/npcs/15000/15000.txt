@@ -1,0 +1,10 @@
+id=15000
+name=Fisherman
+description=Looks like a fan of J R Hartley.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Burthorpe"]
+aggressive=false
+members=false

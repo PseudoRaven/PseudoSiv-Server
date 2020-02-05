@@ -1,0 +1,10 @@
+id=6921
+name=Baby squirrel
+description=A tiny nut-thief.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

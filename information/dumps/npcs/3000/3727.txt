@@ -1,0 +1,17 @@
+id=3727
+name=Splatter
+description=Don't burst its bubble!
+size=1
+xp=96.7
+lifepoints=3000
+level=42
+attack=30
+defence=30
+ranged=1
+magic=1
+animations={death:3888,attack:3891}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=[]
+aggressive=true

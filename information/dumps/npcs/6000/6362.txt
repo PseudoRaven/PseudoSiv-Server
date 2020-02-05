@@ -1,0 +1,10 @@
+id=6362
+name=Eniola
+description=A roving banker.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Ourania Altar"]
+aggressive=false
+members=true

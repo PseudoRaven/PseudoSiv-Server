@@ -1,0 +1,10 @@
+id=308
+name=Master fisher
+description=The man in charge of the fishing guild.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

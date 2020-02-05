@@ -1,0 +1,10 @@
+id=487
+name=Giant
+description=I guess he wants to be more than just the muscle.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Classroom"]
+aggressive=false
+members=false

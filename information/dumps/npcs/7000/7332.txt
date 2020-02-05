@@ -1,0 +1,17 @@
+id=7332
+name=Spirit mosquito
+description=It buzzes and bites. Nasty.
+size=1
+xp=73.2
+lifepoints=2700
+level=20
+attack=16
+defence=14
+ranged=16
+magic=16
+animations={death:8033,attack:8032}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

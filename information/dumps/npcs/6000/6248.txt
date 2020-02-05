@@ -1,0 +1,17 @@
+id=6248
+name=Starlight
+description=Bane of darkness.
+size=2
+xp=729
+lifepoints=7500
+level=102
+attack=73
+defence=73
+ranged=1
+magic=1
+animations={death:17496,attack:17494}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=true

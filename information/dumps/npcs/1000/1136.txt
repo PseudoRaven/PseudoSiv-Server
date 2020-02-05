@@ -1,0 +1,10 @@
+id=1136
+name=Cook
+description=Human is his speciality.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Troll Stronghold"]
+aggressive=false
+members=true

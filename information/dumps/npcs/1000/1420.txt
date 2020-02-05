@@ -1,0 +1,10 @@
+id=1420
+name=Karam
+description=All you see is a glimmer of light and the suggestion of shadow.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

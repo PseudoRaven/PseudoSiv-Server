@@ -1,0 +1,17 @@
+id=4281
+name=Animated Black Armour
+description=Animated black armour.
+size=1
+xp=72.6
+lifepoints=1650
+level=46
+attack=33
+defence=33
+ranged=1
+magic=1
+animations={death:4167,attack:386}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=false

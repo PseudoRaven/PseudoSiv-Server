@@ -1,0 +1,10 @@
+id=656
+name=Cave monk
+description=Unsurprisingly monk like.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

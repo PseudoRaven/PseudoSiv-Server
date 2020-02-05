@@ -1,0 +1,16 @@
+id=101
+name=Pheasant
+description=A brightly coloured game bird.
+size=1
+xp=0.2
+lifepoints=50
+level=4
+attack=3
+defence=3
+ranged=1
+magic=1
+animations={death:2373,attack:2371}
+attackable=true
+poisonous=false
+areas=["Forest"]
+aggressive=false

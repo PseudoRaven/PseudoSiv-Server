@@ -1,0 +1,10 @@
+id=7057
+name=Snurgh
+description=Rather unconvincing as a hotelier.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

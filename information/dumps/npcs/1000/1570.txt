@@ -1,0 +1,10 @@
+id=1570
+name=Sani Piliu
+description=A pretty young rogue.
+xp=37.3
+animations={}
+attackable=true
+poisonous=false
+areas=["Myreque Hideout"]
+aggressive=false
+members=true

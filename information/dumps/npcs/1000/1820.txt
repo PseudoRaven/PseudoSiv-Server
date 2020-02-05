@@ -1,0 +1,10 @@
+id=1820
+name=Mountain Goat
+description=This goat belongs to the mountain camp people.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

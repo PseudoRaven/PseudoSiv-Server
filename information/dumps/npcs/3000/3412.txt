@@ -1,0 +1,17 @@
+id=3412
+name=Wild jade vine
+description=A sentient plant - ready, willing and able to kill.
+size=3
+xp=145.2
+lifepoints=6500
+level=43
+attack=65
+defence=1
+ranged=65
+magic=65
+animations={death:7249,attack:7246}
+attackable=true
+poisonous=true
+weakness="None"
+areas=[]
+aggressive=false

@@ -1,0 +1,10 @@
+id=5484
+name=Flosi Dalksson
+description=Jatizso's fishmonger.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

@@ -1,0 +1,17 @@
+id=14920
+name=Guard
+description=Maintaining order in the market
+size=1
+xp=27.6
+lifepoints=350
+level=9
+attack=7
+defence=7
+ranged=1
+magic=1
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=["RuneScape Surface"]
+aggressive=false

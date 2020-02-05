@@ -1,0 +1,10 @@
+id=9474
+name=Vampyre bat
+description=It vants to suck my blood!
+xp=17.7
+animations={}
+attackable=true
+poisonous=false
+areas=["Spirit Plane"]
+aggressive=true
+members=true

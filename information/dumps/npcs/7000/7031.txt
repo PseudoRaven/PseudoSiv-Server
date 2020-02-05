@@ -1,0 +1,11 @@
+id=7031
+name=Wimpy bird
+description=An ogre snack with wings.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+slayercat=Birds
+areas=["RuneScape Surface"]
+aggressive=true
+members=false

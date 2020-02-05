@@ -1,0 +1,17 @@
+id=6358
+name=Pest Queen
+description=The mother of all pests!
+size=5
+xp=3143.2
+lifepoints=50000
+level=98
+attack=70
+defence=70
+ranged=70
+magic=70
+animations={range:14802,attack:14801}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

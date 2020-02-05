@@ -1,0 +1,17 @@
+id=6866
+name=Smoke devil
+description=Well, there's something you don't see every day.
+size=1
+xp=262.3
+lifepoints=7100
+level=72
+attack=55
+defence=49
+ranged=55
+magic=55
+animations={range:24034,death:24030,attack:24033}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

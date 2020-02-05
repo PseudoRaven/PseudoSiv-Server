@@ -1,0 +1,16 @@
+id=11088
+name=Paramastyx
+description=A big, slow creature with a tough leathery hide. (Tier 3)
+size=3
+xp=0.2
+lifepoints=140
+level=5
+attack=2
+defence=5
+ranged=1
+magic=1
+animations={death:13262,attack:13255}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

@@ -1,0 +1,10 @@
+id=6549
+name=Bolrie
+description=He looks like he could do with some food. And a shave.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Arposandran underground"]
+aggressive=false
+members=true

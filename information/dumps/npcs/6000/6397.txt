@@ -1,0 +1,10 @@
+id=6397
+name=Zanik
+description=The Chosen Commander?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Zanik's Lab"]
+aggressive=false
+members=true

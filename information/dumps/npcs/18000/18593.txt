@@ -1,0 +1,17 @@
+id=18593
+name=Morwenna the Cruel
+description=An evil necromancer.
+size=2
+xp=0
+lifepoints=600
+level=2
+attack=1
+defence=2
+ranged=1
+magic=2
+animations={death:22067,attack:22097}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

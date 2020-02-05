@@ -1,0 +1,11 @@
+id=9119
+name=Koschei the Deathless
+description=He lives again!
+xp=419.1
+animations={}
+attackable=true
+poisonous=false
+weakness="None"
+areas=["Rellekka"]
+aggressive=true
+members=false

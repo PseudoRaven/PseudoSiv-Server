@@ -1,0 +1,17 @@
+id=13741
+name=Forgotten ranger
+description=He seems to have gone mad.
+size=1
+xp=114.6
+lifepoints=2150
+level=60
+attack=32
+defence=43
+ranged=43
+magic=0
+animations={range:426,death:836,attack:426}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=["Daemonheim"]
+aggressive=false

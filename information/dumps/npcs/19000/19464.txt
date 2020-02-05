@@ -1,0 +1,17 @@
+id=19464
+name=Araxxi
+description=Believe it or not, she's still hungry.
+size=5
+xp=12402.7
+lifepoints=100000
+level=3000
+attack=99
+defence=80
+ranged=99
+magic=99
+animations={death:24106,attack:24094}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

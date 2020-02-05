@@ -1,0 +1,17 @@
+id=202
+name=Black Heather
+description=Has a fearsome scowl.
+size=1
+xp=58.5
+lifepoints=1400
+level=39
+attack=28
+defence=28
+ranged=1
+magic=1
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=["RuneScape Surface"]
+aggressive=false

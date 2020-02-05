@@ -1,0 +1,17 @@
+id=8324
+name=Elite Black Knight
+description=A Black Knight with lots of combat experience.
+size=1
+xp=462.6
+lifepoints=3600
+level=100
+attack=72
+defence=72
+ranged=0
+magic=0
+animations={death:10856,attack:10854}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=["Black Knights' catacombs","RuneScape Surface","Wilderness"]
+aggressive=true

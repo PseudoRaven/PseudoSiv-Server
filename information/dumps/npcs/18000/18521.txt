@@ -1,0 +1,10 @@
+id=18521
+name=Rift
+description=A strange rift above Zaros's podium.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Armadyl's Citadel"]
+aggressive=false
+members=false

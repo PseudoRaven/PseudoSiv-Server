@@ -1,0 +1,10 @@
+id=7461
+name=Rat
+description=It seems to be searching for chocolate.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Easter 2009"]
+aggressive=false
+members=false

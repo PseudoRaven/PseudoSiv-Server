@@ -1,0 +1,10 @@
+id=2274
+name=Prison Pete
+description=He wants to escape!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Party room"]
+aggressive=false
+members=false

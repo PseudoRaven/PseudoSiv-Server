@@ -1,0 +1,10 @@
+id=9318
+name=Eir
+description=She has a certain otherworldly quality.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Fremennik spiritual realm"]
+aggressive=false
+members=true

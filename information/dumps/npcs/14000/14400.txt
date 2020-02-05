@@ -1,0 +1,10 @@
+id=14400
+name=Cosplayer
+description=He looks like Death warmed up.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["halloween 2011"]
+aggressive=false
+members=false

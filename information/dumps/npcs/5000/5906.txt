@@ -1,0 +1,17 @@
+id=5906
+name=A Doubt
+description=You can't escape your inadequacy!
+size=1
+xp=201.3
+lifepoints=2750
+level=77
+attack=55
+defence=55
+ranged=0
+magic=0
+animations={death:6315,attack:6310}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=[]
+aggressive=true

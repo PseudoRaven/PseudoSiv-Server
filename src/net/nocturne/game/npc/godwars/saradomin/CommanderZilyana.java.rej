@@ -1,0 +1,25 @@
+diff a/src/net/nocturne/game/npc/godwars/saradomin/CommanderZilyana.java b/src/net/nocturne/game/npc/godwars/saradomin/CommanderZilyana.java	(rejected hunks)
+@@ -99,6 +99,23 @@
+ 				GodWarsBosses.respawnSaradominMinions();
+ 			} catch (Error e) {
+ 				e.printStackTrace( );
++=======
++		GameExecutorManager.slowExecutor.schedule(new Runnable() {
++			@Override
++			public void run() {
++				try {
++					setFinished(false);
++					World.addNPC(npc);
++					npc.setLastRegionId(0);
++					World.updateEntityRegion(npc);
++					loadMapRegions();
++					GodWarsBosses.respawnSaradominMinions();
++				} catch (Exception e) {
++					e.printStackTrace();
++				} catch (Error e) {
++					e.printStackTrace();
++				}
++>>>>>>> parent of 4c3089f... massive code cleanup
+ 			}
+ 		}, getCombatDefinitions().getRespawnDelay() * 600,
+ 				TimeUnit.MILLISECONDS);

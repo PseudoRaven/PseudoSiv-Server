@@ -1,0 +1,10 @@
+id=20303
+name=Cadarn musician
+description=Her music is beautiful.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Prifddinas"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=2547
+name=Chaos druid
+description=A crazy, evil druid.
+size=1
+xp=48.9
+lifepoints=1150
+level=32
+attack=1
+defence=23
+ranged=1
+magic=23
+animations={death:836,attack:7182}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=["Misthalin Underground","Edgeville Dungeon"]
+aggressive=false

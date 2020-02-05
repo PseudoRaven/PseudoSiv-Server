@@ -1,0 +1,10 @@
+id=710
+name=Alrena
+description=She looks concerned.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

@@ -1,0 +1,18 @@
+diff a/src/net/nocturne/game/player/content/Combat.java b/src/net/nocturne/game/player/content/Combat.java	(rejected hunks)
+@@ -12,12 +12,16 @@
+ import net.nocturne.game.player.Equipment;
+ import net.nocturne.game.player.Player;
+ import net.nocturne.game.player.Skills;
++import net.nocturne.utils.Logger;
+ import net.nocturne.utils.Utils;
+ 
++<<<<<<< HEAD
+ import java.util.List;
+ import java.util.Map;
+ 
+ @SuppressWarnings("RedundantCast")
++=======
++>>>>>>> parent of 4c3089f... massive code cleanup
+ public final class Combat {
+ 
+ 	public static final int MELEE_TYPE = 0, RANGE_TYPE = 1, MAGIC_TYPE = 2, ALL_TYPE = 3;

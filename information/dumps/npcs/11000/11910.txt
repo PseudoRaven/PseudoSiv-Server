@@ -1,0 +1,17 @@
+id=11910
+name=Flesh-Spoiler spawn
+description=Miniature abominations.
+size=1
+xp=25.8
+lifepoints=250
+level=7
+attack=5
+defence=5
+ranged=5
+magic=5
+animations={range:14474,death:14487,attack:14475}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

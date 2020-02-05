@@ -1,0 +1,17 @@
+id=3593
+name=Demon
+description=Arrgh! Look at its pointy teeth!
+size=2
+xp=0
+lifepoints=3750
+level=105
+attack=75
+defence=75
+ranged=1
+magic=1
+animations={death:19591,attack:19600}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=true

@@ -1,0 +1,4699 @@
+
+case 0:
+	invType.capacity = 40;
+	break;
+
+case 1:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1265, 1351, 1349, 1353, 1363, 1365, 1369 };
+	invType.capacity = 7;
+	invType.defaultItemCount = 7;
+	break;
+
+case 2:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1103, 1101, 1139, 1137, 1117, 1115, 1173, 1175, 1075, 1067, 1087, 1081, 1119, 1125, 1121 };
+	invType.capacity = 15;
+	invType.defaultItemCount = 15;
+	break;
+
+case 3:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 30, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1931, 1935, 1735, 1925, 1923, 1887, 590, 1755, 2347, 550, 9003 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 11;
+	break;
+
+case 4:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 30, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1931, 1935, 1735, 1925, 1923, 1887, 590, 1755, 2347, 550, 9003 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 11;
+	break;
+
+case 5:
+	invType.defaultItemAmounts = new int[] { 300, 300, 300, 300, 100, 100, 30, 10 };
+	invType.defaultItems = new int[] { 554, 555, 556, 557, 558, 559, 562, 560 };
+	invType.capacity = 8;
+	invType.defaultItemCount = 8;
+	break;
+
+case 6:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1277, 1279, 1281, 1283, 1285, 1287, 1291, 1293, 1295, 1297, 1299, 1301, 1205, 1203, 1207, 1217, 1209, 1211 };
+	invType.capacity = 18;
+	invType.defaultItemCount = 18;
+	break;
+
+case 7:
+	invType.defaultItemAmounts = new int[] { 1000, 100, 100, 100, 30, 300, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 882, 884, 886, 888, 890, 877, 841, 839, 843, 845, 849, 847, 853, 851, 837, 1129, 1059, 1061, 1095, 1133, 1097, 1131 };
+	invType.capacity = 22;
+	invType.defaultItemCount = 22;
+	break;
+
+case 8:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 1000 };
+	invType.defaultItems = new int[] { 1005, 1129, 1059, 1061, 1757, 1013, 1015, 1011, 1007, 950, 428, 426, 1733, 1734 };
+	invType.capacity = 14;
+	invType.defaultItemCount = 14;
+	break;
+
+case 9:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1379, 1389, 1381, 1383, 1385, 1387 };
+	invType.capacity = 6;
+	invType.defaultItemCount = 6;
+	break;
+
+case 10:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1139, 1137, 1141, 1143, 1145, 1155, 1153, 1157, 1165, 1159, 1161 };
+	invType.capacity = 11;
+	invType.defaultItemCount = 11;
+	break;
+
+case 11:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1321, 1323, 1325, 1329 };
+	invType.capacity = 4;
+	invType.defaultItemCount = 4;
+	break;
+
+case 12:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1075, 1067, 1069, 1077, 1071, 1073 };
+	invType.capacity = 6;
+	invType.defaultItemCount = 6;
+	break;
+
+case 13:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 30, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1931, 1935, 1735, 1925, 1923, 1887, 590, 1755, 2347, 550, 9003 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 11;
+	break;
+
+case 14:
+	invType.defaultItemAmounts = new int[] { 10, 10, 0, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 2347, 1265, 436, 438, 440, 453, 2349, 2351, 2357 };
+	invType.capacity = 9;
+	invType.defaultItemCount = 9;
+	break;
+
+case 15:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1171, 1173, 1189, 1175, 1191, 1177, 1193, 1181 };
+	invType.capacity = 8;
+	invType.defaultItemCount = 8;
+	break;
+
+case 16:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1087, 1081, 1083, 1089, 1085, 1091 };
+	invType.capacity = 6;
+	invType.defaultItemCount = 6;
+	break;
+
+case 17:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 30, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1931, 1935, 1735, 1925, 1923, 1887, 590, 1755, 2347, 550, 9003 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 11;
+	break;
+
+case 18:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1021, 1165, 1077, 1123 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 4;
+	break;
+
+case 19:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1422, 1420, 1424, 1428, 1430 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 20:
+	invType.capacity = 1;
+	break;
+
+case 21:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1375, 1363, 1365, 1367, 1369, 1371 };
+	invType.capacity = 6;
+	invType.defaultItemCount = 6;
+	break;
+
+case 22:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1103, 1101, 1105, 1107, 1109, 1111 };
+	invType.capacity = 6;
+	invType.defaultItemCount = 6;
+	break;
+
+case 23:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 30, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1931, 1935, 1735, 1925, 590, 1755, 2347 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 7;
+	break;
+
+case 24:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 30, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1931, 1935, 1735, 1925, 1923, 1887, 590, 1755, 2347, 550, 9003 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 11;
+	break;
+
+case 25:
+	invType.defaultItemAmounts = new int[] { 300, 300, 300, 300, 100, 100, 30, 10, 300, 10, 10 };
+	invType.defaultItems = new int[] { 554, 555, 556, 557, 558, 559, 562, 560, 221, 579, 1017 };
+	invType.capacity = 11;
+	invType.defaultItemCount = 11;
+	break;
+
+case 26:
+	invType.defaultItemAmounts = new int[] { 0, 0, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 1623, 1621, 1619, 1617, 1607, 1605, 1603, 1601 };
+	invType.capacity = 8;
+	invType.defaultItemCount = 8;
+	break;
+
+case 27:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 1000, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1755, 1592, 1597, 1595, 1733, 1734, 1599, 2976, 5523, 9434, 11065 };
+	invType.capacity = 11;
+	invType.defaultItemCount = 11;
+	break;
+
+case 28:
+	invType.defaultItemAmounts = new int[] { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 1635, 1637, 1639, 1641, 1643, 1654, 1656, 1658, 1660, 1662, 1692, 1694, 1696, 1698, 1700, 11069, 11076, 11085, 11072, 11092 };
+	invType.capacity = 20;
+	invType.defaultItemCount = 20;
+	break;
+
+case 29:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10 };
+	invType.defaultItems = new int[] { 1917, 431, 1993 };
+	invType.capacity = 3;
+	invType.defaultItemCount = 3;
+	break;
+
+case 30:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 1000, 10, 10, 1000, 1000, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 303, 307, 309, 311, 301, 13431, 313, 314, 317, 327, 345, 321, 335, 349, 331, 359, 377, 371 };
+	invType.capacity = 18;
+	invType.defaultItemCount = 18;
+	break;
+
+case 31:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 30, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1931, 1935, 1735, 1925, 1923, 1887, 590, 1755, 2347, 550, 9003 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 11;
+	break;
+
+case 32:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 1000, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1755, 1592, 1597, 1595, 1733, 1734, 1599, 2976, 5523, 9434, 11065 };
+	invType.capacity = 11;
+	invType.defaultItemCount = 11;
+	break;
+
+case 33:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1093, 1079, 1432, 1113, 1303, 1289, 1099, 1065, 1169 };
+	invType.capacity = 9;
+	invType.defaultItemCount = 9;
+	break;
+
+case 34:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 30, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1931, 1935, 1735, 1925, 1923, 1887, 590, 1755, 2347 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 9;
+	break;
+
+case 35:
+	invType.defaultItemAmounts = new int[] { 10, 10 };
+	invType.defaultItems = new int[] { 1127, 1135 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 36:
+	invType.defaultItemAmounts = new int[] { 10, 10, 30, 30 };
+	invType.defaultItems = new int[] { 1305, 25740, 1215, 25707 };
+	invType.capacity = 4;
+	invType.defaultItemCount = 4;
+	break;
+
+case 37:
+	invType.defaultItemAmounts = new int[] { 10 };
+	invType.defaultItems = new int[] { 1641 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 38:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 30, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1931, 1935, 1735, 1925, 1923, 1887, 590, 1755, 2347, 550, 9003 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 11;
+	break;
+
+case 39:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1307, 1309, 1311, 1313, 1315, 1317 };
+	invType.capacity = 6;
+	invType.defaultItemCount = 6;
+	break;
+
+case 40:
+	invType.defaultItemAmounts = new int[] { 10, 6, 10, 10, 20 };
+	invType.defaultItems = new int[] { 229, 15362, 233, 221, 15364 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 41:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1931, 1935, 590, 1755, 2347, 1265, 1351 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 7;
+	break;
+
+case 42:
+	invType.defaultItemAmounts = new int[] { 10 };
+	invType.defaultItems = new int[] { 2283 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 43:
+	invType.defaultItemAmounts = new int[] { 10, 10, 1000, 10, 1000, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 303, 307, 311, 301, 313, 305, 317, 327, 345, 353, 341, 321, 359, 377, 363, 371, 383 };
+	invType.capacity = 17;
+	invType.defaultItemCount = 17;
+	break;
+
+case 44:
+	invType.capacity = 1;
+	break;
+
+case 45:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1377, 25776, 1434, 25689 };
+	invType.capacity = 4;
+	invType.defaultItemCount = 4;
+	break;
+
+case 46:
+	invType.defaultItemAmounts = new int[] { 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 1718, 1727, 1729, 1725, 1731 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 47:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 10, 10, 10, 10, 10, 30, 10 };
+	invType.defaultItems = new int[] { 1925, 1265, 1923, 1887, 590, 1755, 2347, 954, 1931, 946 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 10;
+	break;
+
+case 48:
+	invType.defaultItemAmounts = new int[] { 10 };
+	invType.defaultItems = new int[] { 36 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 49:
+	invType.defaultItemAmounts = new int[] { 300, 1000, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100, 100, 100, 100, 30, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 877, 882, 884, 886, 888, 890, 892, 4773, 4778, 4783, 4788, 4793, 4798, 4803, 39, 40, 41, 42, 43, 44, 841, 839, 837, 843, 845, 4827, 1133, 1097 };
+	invType.capacity = 28;
+	invType.defaultItemCount = 28;
+	break;
+
+case 50:
+	invType.defaultItemAmounts = new int[] { 10, 6, 10, 10, 20 };
+	invType.defaultItems = new int[] { 229, 15362, 233, 221, 15364 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 51:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1379, 1389, 1381, 1383, 1385, 1387 };
+	invType.capacity = 6;
+	invType.defaultItemCount = 6;
+	break;
+
+case 52:
+	invType.defaultItemAmounts = new int[] { 0, 0, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 1623, 1621, 1619, 1617, 1607, 1605, 1603, 1601 };
+	invType.capacity = 8;
+	invType.defaultItemCount = 8;
+	break;
+
+case 53:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1117, 1115, 1119, 1125, 1121 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 54:
+	invType.defaultItemAmounts = new int[] { 10, 100, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 14665, 1973, 2309, 1901, 6961, 6963, 6962, 6965, 1891, 2327 };
+	invType.capacity = 10;
+	invType.defaultItemCount = 10;
+	break;
+
+case 55:
+	invType.capacity = 1;
+	break;
+
+case 56:
+	invType.capacity = 1;
+	break;
+
+case 57:
+	invType.defaultItemAmounts = new int[] { 10, 6, 10, 10, 10, 10, 100, 1000, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 227, 15363, 1265, 1349, 2142, 590, 1759, 882, 954, 970, 946, 1935 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 12;
+	break;
+
+case 58:
+	invType.capacity = 1;
+	break;
+
+case 59:
+	invType.defaultItemAmounts = new int[] { 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 948, 958, 10117, 10121, 10119, 10123, 10093, 10095, 10097, 10099, 10101, 10103 };
+	invType.capacity = 12;
+	invType.defaultItemCount = 12;
+	break;
+
+case 60:
+	invType.defaultItemAmounts = new int[] { 1000, 1000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 313, 314, 341, 353, 363, 359, 377, 371, 339, 355, 365, 361, 379, 373 };
+	invType.capacity = 14;
+	invType.defaultItemCount = 14;
+	break;
+
+case 61:
+	invType.defaultItemAmounts = new int[] { 10, 30, 10, 10, 30, 10, 10, 10, 10, 500, 30, 1000, 10 };
+	invType.defaultItems = new int[] { 1265, 1931, 1935, 1735, 1925, 590, 1755, 2347, 954, 1933, 583, 1941, 946 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 13;
+	break;
+
+case 62:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 10, 30, 10, 10, 10, 1000, 10 };
+	invType.defaultItems = new int[] { 1931, 1265, 1935, 1735, 1925, 590, 1755, 2347, 882, 2142 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 10;
+	break;
+
+case 63:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 1000, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 1949, 579, 1023, 958, 948, 1733, 1734, 1059, 1061, 428, 426, 1757, 1013, 1015, 1011, 1007, 1025, 10088, 10090, 10091, 10089, 10087, 11525 };
+	invType.capacity = 23;
+	invType.defaultItemCount = 23;
+	break;
+
+case 64:
+	invType.defaultItemAmounts = new int[] { 1000, 1000, 1000, 1000, 1000, 1000, 300, 300, 1000, 100, 100, 100, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 556, 555, 557, 554, 558, 559, 562, 561, 560, 563, 565, 566, 1387, 1383, 1381, 1385 };
+	invType.capacity = 16;
+	invType.defaultItemCount = 16;
+	break;
+
+case 65:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 30, 10, 10, 10, 10, 10, 10, 300, 300, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 590, 36, 596, 1931, 954, 1129, 1059, 1061, 2142, 2309, 229, 227, 233, 175, 970, 973, 946, 2347, 975, 1755, 952, 1351, 1265, 1349 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 24;
+	break;
+
+case 66:
+	invType.defaultItemAmounts = new int[] { 1000, 1000, 10, 10, 10, 300, 300, 100, 100, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 882, 877, 841, 839, 837, 39, 40, 41, 42, 1349, 1353, 1363, 1365, 1369, 1307, 1309, 1311, 1313, 1315, 1317 };
+	invType.capacity = 20;
+	invType.defaultItemCount = 20;
+	break;
+
+case 67:
+	invType.defaultItemAmounts = new int[] { 10, 0, 10, 10, 10, 10, 10, 30, 10, 500, 10 };
+	invType.defaultItems = new int[] { 2313, 1955, 1887, 1923, 1942, 590, 1935, 1931, 1973, 1933, 1980 };
+	invType.capacity = 11;
+	invType.defaultItemCount = 11;
+	break;
+
+case 68:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1265, 1267, 1269, 1273, 1271, 1275 };
+	invType.capacity = 6;
+	invType.defaultItemCount = 6;
+	break;
+
+case 69:
+	invType.defaultItemAmounts = new int[] { 10 };
+	invType.defaultItems = new int[] { 1978 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 70:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 30, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1931, 1935, 946, 1925, 590, 1755, 2347 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 7;
+	break;
+
+case 71:
+	invType.defaultItemAmounts = new int[] { 10, 6, 10, 10, 20 };
+	invType.defaultItems = new int[] { 229, 15362, 233, 221, 15364 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 72:
+	invType.defaultItemAmounts = new int[] { 10, 0, 0 };
+	invType.defaultItems = new int[] { 1714, 442, 2355 };
+	invType.capacity = 3;
+	invType.defaultItemCount = 3;
+	break;
+
+case 73:
+	invType.defaultItemAmounts = new int[] { 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 1607, 1605, 1603, 1601 };
+	invType.capacity = 4;
+	invType.defaultItemCount = 4;
+	break;
+
+case 74:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10 };
+	invType.defaultItems = new int[] { 2007, 946, 1550 };
+	invType.capacity = 3;
+	invType.defaultItemCount = 3;
+	break;
+
+case 75:
+	invType.capacity = 1;
+	break;
+
+case 76:
+	invType.defaultItemAmounts = new int[] { 500, 10, 10, 10, 0, 0, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1933, 2132, 2138, 1965, 1963, 1951, 2309, 1973, 1985, 1982, 1942, 1550 };
+	invType.capacity = 12;
+	invType.defaultItemCount = 12;
+	break;
+
+case 77:
+	invType.defaultItemAmounts = new int[] { 30, 30, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1823, 1831, 1937, 1921, 1929, 946, 2347 };
+	invType.capacity = 7;
+	invType.defaultItemCount = 7;
+	break;
+
+case 78:
+	invType.defaultItemAmounts = new int[] { 30, 30, 10, 10, 10, 10, 10, 10, 10, 0, 1000, 10, 30, 10, 10, 100 };
+	invType.defaultItems = new int[] { 1823, 1831, 1937, 1921, 1929, 946, 1833, 1835, 1837, 2349, 314, 2347, 1925, 1923, 1935, 954 };
+	invType.capacity = 16;
+	invType.defaultItemCount = 16;
+	break;
+
+case 79:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 6, 8, 10, 12, 5, 4 };
+	invType.capacity = 6;
+	invType.defaultItemCount = 6;
+	break;
+
+case 80:
+	invType.defaultItemAmounts = new int[] { 1000, 300, 300, 100, 100, 100, 30, 1000, 300, 300, 100, 100, 100, 0, 0, 0, 0, 0, 0, 0, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 52, 39, 40, 41, 42, 43, 44, 882, 884, 886, 888, 890, 892, 4773, 4778, 4783, 4788, 4793, 4798, 4803, 841, 843, 849, 839, 845, 847, 4827 };
+	invType.capacity = 27;
+	invType.defaultItemCount = 27;
+	break;
+
+case 81:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1129, 1131, 1133, 1095, 1097, 1169, 1167, 1063 };
+	invType.capacity = 8;
+	invType.defaultItemCount = 8;
+	break;
+
+case 82:
+	invType.defaultItemAmounts = new int[] { 1000, 1000, 300, 300, 100, 100, 1000, 1000, 300, 300, 100, 100 };
+	invType.defaultItems = new int[] { 825, 826, 827, 828, 829, 830, 800, 801, 802, 803, 804, 805 };
+	invType.capacity = 12;
+	invType.defaultItemCount = 12;
+	break;
+
+case 83:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 373, 2323, 121, 886 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 4;
+	break;
+
+case 84:
+	invType.defaultItemAmounts = new int[] { 500, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 299, 1590, 1542, 2368, 1052 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 85:
+	invType.defaultItemAmounts = new int[] { 10, 10, 1000, 1000, 0, 0, 0 };
+	invType.defaultItems = new int[] { 307, 309, 313, 314, 335, 349, 331 };
+	invType.capacity = 7;
+	invType.defaultItemCount = 7;
+	break;
+
+case 86:
+	invType.defaultItemAmounts = new int[] { 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30, 30 };
+	invType.defaultItems = new int[] { 646, 648, 650, 652, 654, 656, 658, 660, 662, 664, 636, 638, 640, 642, 644, 626, 628, 630, 632, 634 };
+	invType.capacity = 20;
+	invType.defaultItemCount = 20;
+	break;
+
+case 87:
+	invType.defaultItemAmounts = new int[] { 1000, 300, 0, 10, 10, 10, 100, 100, 100, 100, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 882, 877, 880, 841, 839, 837, 39, 40, 41, 42, 1349, 1353, 1363, 1365, 1369, 1307, 1309, 1311, 1313, 1315, 1317 };
+	invType.capacity = 21;
+	invType.defaultItemCount = 21;
+	break;
+
+case 88:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 2021, 2019, 2015, 2017, 2114, 2128, 2108, 2102, 2120, 2126, 2025, 1973, 1975, 2130, 1927, 946, 2023, 2026 };
+	invType.capacity = 18;
+	invType.defaultItemCount = 18;
+	break;
+
+case 89:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 2171, 2128, 1933, 2169, 1957, 1942, 1965, 1982, 1985, 6297, 6299, 2120, 2108, 2102, 2114, 2126, 2025, 1973, 1975, 2130, 1927, 946, 2167, 2164, 2165, 2166 };
+	invType.capacity = 26;
+	invType.defaultItemCount = 26;
+	break;
+
+case 90:
+	invType.capacity = 28;
+	break;
+
+case 91:
+	invType.capacity = 216;
+	break;
+
+case 92:
+	invType.capacity = 8;
+	break;
+
+case 93:
+	invType.capacity = 28;
+	break;
+
+case 94:
+	invType.capacity = 19;
+	break;
+
+case 95:
+	invType.capacity = 1221;
+	break;
+
+case 96:
+	invType.capacity = 1;
+	break;
+
+case 97:
+	invType.capacity = 1;
+	break;
+
+case 98:
+	invType.capacity = 1;
+	break;
+
+case 99:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 2028, 2030, 2032, 2034, 2036, 2038, 2040 };
+	invType.capacity = 7;
+	invType.defaultItemCount = 7;
+	break;
+
+case 100:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 2227, 2219, 2221, 2225, 2223, 2233, 2231, 2235, 2229, 2237, 2243, 2239, 2241 };
+	invType.capacity = 13;
+	invType.defaultItemCount = 13;
+	break;
+
+case 101:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 1205, 1277, 1321, 1291, 1307 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 102:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 1351, 1422, 1337, 1375 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 4;
+	break;
+
+case 103:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 1103, 1075, 1087, 1117 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 4;
+	break;
+
+case 104:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 15 };
+	invType.defaultItems = new int[] { 1139, 1155, 1173, 1189, 4819 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 105:
+	invType.defaultItemAmounts = new int[] { 10, 15, 5, 1 };
+	invType.defaultItems = new int[] { 819, 39, 864, 1794 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 4;
+	break;
+
+case 106:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 1203, 1279, 1323, 1293, 1309 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 107:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 1349, 1420, 1335, 1363 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 4;
+	break;
+
+case 108:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 1101, 1067, 1081, 1115 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 4;
+	break;
+
+case 109:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 15 };
+	invType.defaultItems = new int[] { 1137, 1153, 1175, 1191, 4820 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 110:
+	invType.defaultItemAmounts = new int[] { 10, 15, 5, 1 };
+	invType.defaultItems = new int[] { 820, 40, 863, 7225 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 4;
+	break;
+
+case 111:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 1207, 1281, 1325, 1295, 1311 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 112:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 1353, 1424, 1339, 1365 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 4;
+	break;
+
+case 113:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 1105, 1069, 1083, 1119 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 4;
+	break;
+
+case 114:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 15 };
+	invType.defaultItems = new int[] { 1141, 1157, 1177, 1193, 1539 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 115:
+	invType.defaultItemAmounts = new int[] { 10, 15, 5, 1 };
+	invType.defaultItems = new int[] { 821, 41, 865, 2370 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 4;
+	break;
+
+case 116:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 1209, 1285, 1329, 1299, 1315 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 117:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 1355, 1428, 1343, 1369 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 4;
+	break;
+
+case 118:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 1109, 1071, 1085, 1121 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 4;
+	break;
+
+case 119:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 15 };
+	invType.defaultItems = new int[] { 1143, 1159, 1181, 1197, 4822 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 120:
+	invType.defaultItemAmounts = new int[] { 10, 15, 5 };
+	invType.defaultItems = new int[] { 822, 42, 866 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 3;
+	break;
+
+case 121:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 1211, 1287, 1331, 1301, 1317 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 122:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 1357, 1430, 1345, 1371 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 4;
+	break;
+
+case 123:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 1111, 1073, 1091, 1123 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 4;
+	break;
+
+case 124:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 15 };
+	invType.defaultItems = new int[] { 1145, 1161, 1183, 1199, 4823 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 125:
+	invType.defaultItemAmounts = new int[] { 10, 15, 5 };
+	invType.defaultItems = new int[] { 823, 43, 867 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 3;
+	break;
+
+case 126:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 1213, 1289, 1333, 1303, 1319 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 127:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 1359, 1432, 1347, 1373 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 4;
+	break;
+
+case 128:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 1113, 1079, 1093, 1127 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 4;
+	break;
+
+case 129:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 15 };
+	invType.defaultItems = new int[] { 1147, 1163, 1185, 1201, 4824 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 130:
+	invType.defaultItemAmounts = new int[] { 10, 15, 5 };
+	invType.defaultItems = new int[] { 824, 44, 868 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 3;
+	break;
+
+case 131:
+	invType.defaultItemAmounts = new int[] { 1000, 1000, 1000, 1000, 1000, 1000, 300, 300, 100, 100, 300 };
+	invType.defaultItems = new int[] { 554, 555, 556, 557, 558, 559, 561, 562, 563, 564, 560 };
+	invType.capacity = 11;
+	invType.defaultItemCount = 11;
+	break;
+
+case 132:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10 };
+	invType.defaultItems = new int[] { 2415, 2416, 2417 };
+	invType.capacity = 3;
+	invType.defaultItemCount = 3;
+	break;
+
+case 133:
+	invType.capacity = 5;
+	break;
+
+case 134:
+	invType.capacity = 9;
+	break;
+
+case 135:
+	invType.defaultItemAmounts = new int[] { 100 };
+	invType.defaultItems = new int[] { 2518 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 136:
+	invType.capacity = 9;
+	break;
+
+case 137:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 100, 50, 400, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 2520, 2522, 2524, 2526, 4613, 12844, 20179, 20180, 20720, 20722, 20716, 20718, 20725, 24144, 24406, 24408, 24410, 24412, 24414, 24416 };
+	invType.capacity = 20;
+	invType.defaultItemCount = 20;
+	break;
+
+case 138:
+	invType.defaultItemAmounts = new int[] { 10, 10, 20, 10, 30, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 20, 10, 10 };
+	invType.defaultItems = new int[] { 590, 229, 15362, 233, 1931, 1351, 1265, 1349, 1129, 1059, 1061, 2142, 2309, 952, 36, 596, 1755, 2347, 970, 973, 227, 15363, 975, 954 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 24;
+	break;
+
+case 139:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 30, 10, 10, 10, 10, 100, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1931, 954, 1265, 1925, 590, 2347, 1061, 839, 882, 329, 2327, 2309, 2142 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 13;
+	break;
+
+case 140:
+	invType.capacity = 25;
+	break;
+
+case 141:
+	invType.capacity = 9;
+	break;
+
+case 142:
+	invType.capacity = 29;
+	break;
+
+case 143:
+	invType.defaultItemAmounts = new int[] { 100, 30, 10, 10, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 2132, 2138, 2134, 2136, 335, 349, 331, 383 };
+	invType.capacity = 8;
+	invType.defaultItemCount = 8;
+	break;
+
+case 144:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 2894, 2896, 2898, 2900, 2902, 2904, 2906, 2908, 2910, 2912, 2914, 2916, 2918, 2920, 2922, 2924, 2926, 2928, 2930, 2932, 2934, 2936, 2938, 2940, 2942, 1007, 1019, 1021, 1023, 1027 };
+	invType.capacity = 30;
+	invType.defaultItemCount = 30;
+	break;
+
+case 145:
+	invType.defaultItemAmounts = new int[] { 10, 1000, 30, 30, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1733, 1734, 1931, 1925, 1935, 590, 1755, 2347, 3377, 946 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 10;
+	break;
+
+case 146:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 1000, 10, 10 };
+	invType.defaultItems = new int[] { 1755, 1592, 1597, 1595, 1733, 1734, 1599, 5523 };
+	invType.capacity = 8;
+	invType.defaultItemCount = 8;
+	break;
+
+case 147:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 1000, 10, 10 };
+	invType.defaultItems = new int[] { 1755, 1592, 1597, 1595, 1733, 1734, 1599, 5523 };
+	invType.capacity = 8;
+	invType.defaultItemCount = 8;
+	break;
+
+case 148:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 30, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1931, 1935, 1735, 1925, 590, 1755, 2347, 946, 1980 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 9;
+	break;
+
+case 149:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10 };
+	invType.defaultItems = new int[] { 1905, 1907, 1913 };
+	invType.capacity = 3;
+	invType.defaultItemCount = 3;
+	break;
+
+case 150:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 3095 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 151:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 3096 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 152:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 3097 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 153:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 3099 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 154:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 3100 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 155:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 3101 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 156:
+	invType.defaultItemAmounts = new int[] { 10, 10 };
+	invType.defaultItems = new int[] { 3142, 3157 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 157:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 347, 339, 361, 379, 373, 3144 };
+	invType.capacity = 6;
+	invType.defaultItemCount = 6;
+	break;
+
+case 158:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 3170, 3171, 3172, 3173, 3174, 3175, 3188 };
+	invType.capacity = 7;
+	invType.defaultItemCount = 7;
+	break;
+
+case 159:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1931, 1935, 1735, 590, 2309, 3190, 3192, 3194, 3196, 3198, 3200, 3202 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 12;
+	break;
+
+case 160:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1931, 1935, 1735, 590, 2309, 3190, 3192, 3194, 3196, 3198, 3200, 3202, 3204 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 13;
+	break;
+
+case 161:
+	invType.capacity = 1;
+	break;
+
+case 162:
+	invType.capacity = 1;
+	break;
+
+case 163:
+	invType.capacity = 1;
+	break;
+
+case 164:
+	invType.capacity = 1;
+	break;
+
+case 165:
+	invType.capacity = 1;
+	break;
+
+case 166:
+	invType.capacity = 1;
+	break;
+
+case 167:
+	invType.capacity = 1;
+	break;
+
+case 168:
+	invType.capacity = 1;
+	break;
+
+case 169:
+	invType.capacity = 1;
+	break;
+
+case 170:
+	invType.capacity = 1;
+	break;
+
+case 171:
+	invType.capacity = 1;
+	break;
+
+case 172:
+	invType.capacity = 1;
+	break;
+
+case 173:
+	invType.capacity = 1;
+	break;
+
+case 174:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 30, 10, 10, 1000, 10, 10, 10 };
+	invType.defaultItems = new int[] { 303, 311, 2309, 1931, 1927, 1733, 1734, 1917, 1785, 946 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 10;
+	break;
+
+case 175:
+	invType.capacity = 1;
+	break;
+
+case 176:
+	invType.capacity = 1;
+	break;
+
+case 177:
+	invType.capacity = 1;
+	break;
+
+case 178:
+	invType.capacity = 1;
+	break;
+
+case 179:
+	invType.capacity = 1;
+	break;
+
+case 180:
+	invType.capacity = 1;
+	break;
+
+case 181:
+	invType.capacity = 1;
+	break;
+
+case 182:
+	invType.capacity = 1;
+	break;
+
+case 183:
+	invType.capacity = 1;
+	break;
+
+case 184:
+	invType.capacity = 1;
+	break;
+
+case 185:
+	invType.capacity = 1;
+	break;
+
+case 186:
+	invType.capacity = 1;
+	break;
+
+case 187:
+	invType.capacity = 1;
+	break;
+
+case 188:
+	invType.capacity = 1;
+	break;
+
+case 189:
+	invType.capacity = 1;
+	break;
+
+case 190:
+	invType.capacity = 1;
+	break;
+
+case 191:
+	invType.capacity = 1;
+	break;
+
+case 192:
+	invType.capacity = 1;
+	break;
+
+case 193:
+	invType.capacity = 1;
+	break;
+
+case 194:
+	invType.capacity = 1;
+	break;
+
+case 195:
+	invType.capacity = 1;
+	break;
+
+case 196:
+	invType.capacity = 1;
+	break;
+
+case 197:
+	invType.capacity = 1;
+	break;
+
+case 198:
+	invType.capacity = 1;
+	break;
+
+case 199:
+	invType.capacity = 1;
+	break;
+
+case 200:
+	invType.capacity = 1;
+	break;
+
+case 201:
+	invType.capacity = 1;
+	break;
+
+case 202:
+	invType.capacity = 1;
+	break;
+
+case 203:
+	invType.capacity = 1;
+	break;
+
+case 204:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 30, 10, 10, 10, 500, 300, 10, 10 };
+	invType.defaultItems = new int[] { 1931, 1935, 1735, 1925, 590, 1755, 2347, 3424, 227, 1933, 3678 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 11;
+	break;
+
+case 205:
+	invType.defaultItemAmounts = new int[] { 1000, 1000, 1000, 1500, 50 };
+	invType.defaultItems = new int[] { 3211, 3420, 8837, 1941, 960 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 206:
+	invType.capacity = 1;
+	break;
+
+case 207:
+	invType.capacity = 25;
+	break;
+
+case 208:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 3775, 3773, 3767, 3769, 3771, 3793, 3795, 3797, 3799, 3791, 3765, 3763, 3761, 3759, 3777, 3779, 3781, 3783, 3785, 3787, 3789 };
+	invType.capacity = 21;
+	invType.defaultItemCount = 21;
+	break;
+
+case 209:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10 };
+	invType.defaultItems = new int[] { 1917, 3803, 3801 };
+	invType.capacity = 3;
+	invType.defaultItemCount = 3;
+	break;
+
+case 210:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 0, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1337, 1335, 1339, 1341, 1343, 1345, 1347, 3749, 3751, 3753, 3755 };
+	invType.capacity = 11;
+	invType.defaultItemCount = 11;
+	break;
+
+case 211:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 30, 10, 10, 10, 10, 10, 10, 10, 6, 10, 6, 30, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 590, 954, 233, 1931, 2142, 2309, 952, 36, 1755, 2347, 229, 15362, 227, 15363, 1925, 1929, 1944, 1942, 1965 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 19;
+	break;
+
+case 212:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 30, 10, 1000, 1000, 10, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 303, 307, 309, 311, 301, 313, 314, 305, 317, 327, 345, 353, 341, 321, 335, 349, 331, 359, 377, 363, 371, 383 };
+	invType.capacity = 22;
+	invType.defaultItemCount = 22;
+	break;
+
+case 213:
+	invType.defaultItemAmounts = new int[] { 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 948, 958, 10117, 10121, 10119, 10123, 10093, 10095, 10097, 10099, 10101, 10103 };
+	invType.capacity = 12;
+	invType.defaultItemCount = 12;
+	break;
+
+case 214:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 30, 30, 10, 10, 300, 10, 20, 10, 20, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 954, 2347, 1755, 946, 952, 590, 36, 273, 233, 1931, 1925, 1929, 1935, 1937, 229, 15362, 227, 15363, 2019, 2021, 2015, 1915, 2017, 1909, 1913, 1907 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 26;
+	break;
+
+case 215:
+	invType.capacity = 100;
+	break;
+
+case 216:
+	invType.capacity = 28;
+	break;
+
+case 217:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 30, 10, 1000, 1000, 10, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 303, 307, 309, 311, 301, 313, 314, 305, 317, 327, 345, 353, 341, 321, 335, 349, 331, 359, 377, 363, 371, 383 };
+	invType.capacity = 22;
+	invType.defaultItemCount = 22;
+	break;
+
+case 218:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1965, 1942, 1957, 1982, 1550 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 219:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 30, 10, 1000, 1000, 10, 0, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 303, 307, 309, 311, 301, 313, 314, 305, 317, 327, 345, 353, 341, 321, 335, 349, 331, 359, 377, 363, 371, 383 };
+	invType.capacity = 22;
+	invType.defaultItemCount = 22;
+	break;
+
+case 220:
+	invType.defaultItemAmounts = new int[] { 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 1965, 1942, 1957, 1982, 1550 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 221:
+	invType.capacity = 25;
+	break;
+
+case 222:
+	invType.capacity = 25;
+	break;
+
+case 223:
+	invType.defaultItemAmounts = new int[] { 1000, 1000, 1000, 1000, 100, 10, 10, 10 };
+	invType.defaultItems = new int[] { 554, 555, 556, 557, 563, 4008, 4006, 4023 };
+	invType.capacity = 8;
+	invType.defaultItemCount = 8;
+	break;
+
+case 224:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1321, 1323, 1325, 1329 };
+	invType.capacity = 4;
+	invType.defaultItemCount = 4;
+	break;
+
+case 225:
+	invType.defaultItemAmounts = new int[] { 100, 10, 10, 100 };
+	invType.defaultItems = new int[] { 4012, 1963, 4016, 4014 };
+	invType.capacity = 4;
+	invType.defaultItemCount = 4;
+	break;
+
+case 226:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 1000, 100, 10 };
+	invType.defaultItems = new int[] { 1755, 1592, 1597, 4020, 1733, 1734, 1759, 11065 };
+	invType.capacity = 8;
+	invType.defaultItemCount = 8;
+	break;
+
+case 227:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 30, 10, 10 };
+	invType.defaultItems = new int[] { 1931, 1935, 954, 1925, 590, 2347 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 6;
+	break;
+
+case 228:
+	invType.defaultItemAmounts = new int[] { 30, 1, 50, 1, 1, 20 };
+	invType.defaultItems = new int[] { 47, 1133, 892, 1169, 1135, 829 };
+	invType.capacity = 6;
+	invType.defaultItemCount = 6;
+	break;
+
+case 229:
+	invType.capacity = 1;
+	break;
+
+case 230:
+	invType.capacity = 1;
+	break;
+
+case 231:
+	invType.defaultItemAmounts = new int[] { 300, 10, 10, 3000, 1000, 1, 10, 10, 10, 10, 10, 10, 1000, 1, 1, 1000, 1, 10, 10, 10, 10, 1000, 1, 10, 10, 10 };
+	invType.defaultItems = new int[] { 4155, 4156, 4158, 4160, 4161, 34960, 4162, 4164, 4166, 4168, 4170, 4551, 6664, 34963, 34965, 6696, 34961, 6720, 7051, 7159, 7421, 7432, 34962, 8923, 10952, 23035 };
+	invType.capacity = 26;
+	invType.defaultItemCount = 26;
+	break;
+
+case 232:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 4089, 4091, 4093, 4095, 4097, 25812, 25668, 25644, 28628 };
+	invType.capacity = 9;
+	invType.defaultItemCount = 9;
+	break;
+
+case 233:
+	invType.capacity = 1;
+	break;
+
+case 234:
+	invType.capacity = 1;
+	break;
+
+case 235:
+	invType.defaultItemAmounts = new int[] { 300, 300, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1931, 1925, 1735, 1935, 590, 1755, 2347 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 7;
+	break;
+
+case 236:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 4315, 4335, 4355, 4375, 4395 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 237:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 4317, 4337, 4357, 4377, 4397 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 238:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 4319, 4339, 4359, 4379, 4399 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 239:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 4321, 4341, 4361, 4381, 4401 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 240:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 4323, 4343, 4363, 4383, 4403 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 241:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 4325, 4345, 4365, 4385, 4405 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 242:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 4327, 4347, 4367, 4387, 4407 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 243:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 4329, 4349, 4369, 4389, 4409 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 244:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 4331, 4351, 4371, 4391, 4411 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 245:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 4333, 4353, 4373, 4393, 4413 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 246:
+	invType.capacity = 1;
+	break;
+
+case 247:
+	invType.capacity = 1;
+	break;
+
+case 248:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 4540 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 249:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 4544 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 250:
+	invType.defaultItemAmounts = new int[] { 100, 30, 0, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 886, 888, 890, 843, 845, 849, 847, 853, 851 };
+	invType.capacity = 9;
+	invType.defaultItemCount = 9;
+	break;
+
+case 251:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1321, 1323, 1325, 1329, 4587, 25758 };
+	invType.capacity = 6;
+	invType.defaultItemCount = 6;
+	break;
+
+case 252:
+	invType.defaultItemAmounts = new int[] { 30, 10, 30, 10, 10, 30, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1931, 1935, 1825, 1833, 1837, 1925, 4593, 4591, 970, 946, 590, 1265, 2138 };
+	invType.capacity = 13;
+	invType.defaultItemCount = 13;
+	break;
+
+case 253:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1917, 2017, 1993, 2015, 2021, 1915 };
+	invType.capacity = 6;
+	invType.defaultItemCount = 6;
+	break;
+
+case 254:
+	invType.defaultItemAmounts = new int[] { 30, 10, 30, 10, 10, 30, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1931, 1935, 1825, 1833, 1837, 1925, 4593, 4591, 1985, 2120, 1982, 1937, 1921, 1929 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 14;
+	break;
+
+case 255:
+	invType.defaultItemAmounts = new int[] { 30, 30, 10, 10, 10, 10, 10, 30, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1823, 1831, 1937, 1921, 1929, 1935, 1923, 1925, 1837, 1833, 1835, 946 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 12;
+	break;
+
+case 256:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 30, 30, 10, 10, 10, 10, 10, 10, 10, 10, 30, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1969, 2023, 660, 1215, 25707, 550, 583, 1941, 273, 970, 975, 1599, 2976, 1823, 1837, 2524, 3377, 2894, 1909, 3787, 3801, 3678, 3424, 3420, 5 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 25;
+	break;
+
+case 257:
+	invType.defaultItemAmounts = new int[] { 10 };
+	invType.defaultItems = new int[] { 4627 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 258:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 1000, 10 };
+	invType.defaultItems = new int[] { 4684, 1833, 1835, 950, 1734, 1733 };
+	invType.capacity = 6;
+	invType.defaultItemCount = 6;
+	break;
+
+case 259:
+	invType.defaultItemAmounts = new int[] { 100 };
+	invType.defaultItems = new int[] { 4740 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 260:
+	invType.defaultItemAmounts = new int[] { 10, 0, 0, 0, 10, 0, 10, 0, 0, 0, 0, 0, 0, 0, 10 };
+	invType.defaultItems = new int[] { 4844, 10927, 1777, 2876, 2878, 4850, 946, 4773, 4778, 4783, 4788, 4793, 4798, 4803, 4827 };
+	invType.capacity = 15;
+	invType.defaultItemCount = 15;
+	break;
+
+case 261:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1337, 25779, 1335, 25781, 1339, 25783, 1341, 25785, 1343, 25787, 1345, 25789 };
+	invType.capacity = 12;
+	invType.defaultItemCount = 12;
+	break;
+
+case 262:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 100, 100 };
+	invType.defaultItems = new int[] { 1365, 1369, 1285, 1287, 1325, 1297, 1303, 853, 851, 888, 890 };
+	invType.capacity = 11;
+	invType.defaultItemCount = 11;
+	break;
+
+case 263:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1105, 1109, 1107, 1111, 1141, 1143, 1145, 1177, 1195, 30028 };
+	invType.capacity = 10;
+	invType.defaultItemCount = 10;
+	break;
+
+case 264:
+	invType.defaultItemAmounts = new int[] { 10, 30, 10, 10, 10, 10, 10, 10, 10, 300, 10, 10 };
+	invType.defaultItems = new int[] { 1935, 1925, 590, 1755, 2347, 36, 596, 973, 1059, 229, 233, 954 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 12;
+	break;
+
+case 265:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1265, 1269, 1273, 1271, 1275 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 266:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 5050, 5052, 5038, 5040, 5044, 5046, 5026, 5028, 5032, 5034 };
+	invType.capacity = 10;
+	invType.defaultItemCount = 10;
+	break;
+
+case 267:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10 };
+	invType.defaultItems = new int[] { 2309, 1891, 1901 };
+	invType.capacity = 3;
+	invType.defaultItemCount = 3;
+	break;
+
+case 268:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 1000, 100 };
+	invType.defaultItems = new int[] { 1755, 1592, 1597, 1733, 1734, 1759 };
+	invType.capacity = 6;
+	invType.defaultItemCount = 6;
+	break;
+
+case 269:
+	invType.defaultItemAmounts = new int[] { 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 1607, 1605, 1603, 1601 };
+	invType.capacity = 4;
+	invType.defaultItemCount = 4;
+	break;
+
+case 270:
+	invType.defaultItemAmounts = new int[] { 10, 0, 0 };
+	invType.defaultItems = new int[] { 1714, 442, 2355 };
+	invType.capacity = 3;
+	invType.defaultItemCount = 3;
+	break;
+
+case 271:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 5048, 5036, 5042, 5024, 5030, 950 };
+	invType.capacity = 6;
+	invType.defaultItemCount = 6;
+	break;
+
+case 272:
+	invType.capacity = 9;
+	break;
+
+case 273:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 0, 0, 0, 0, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 5318, 5319, 5324, 5322, 5320, 5323, 5321, 5305, 5306, 5097, 5096, 5307, 5308, 5309, 5310, 5311 };
+	invType.capacity = 16;
+	invType.defaultItemCount = 16;
+	break;
+
+case 274:
+	invType.capacity = 1;
+	break;
+
+case 275:
+	invType.capacity = 1;
+	break;
+
+case 276:
+	invType.defaultItemAmounts = new int[] { 100, 100, 100, 100, 100, 100, 30, 30 };
+	invType.defaultItems = new int[] { 554, 555, 556, 557, 558, 559, 562, 560 };
+	invType.capacity = 8;
+	invType.defaultItemCount = 8;
+	break;
+
+case 277:
+	invType.defaultItemAmounts = new int[] { 1000, 1000, 1000, 1000, 1000, 300, 100, 100, 100 };
+	invType.defaultItems = new int[] { 554, 555, 556, 557, 558, 562, 560, 565, 35268 };
+	invType.capacity = 9;
+	invType.defaultItemCount = 9;
+	break;
+
+case 278:
+	invType.capacity = 1;
+	break;
+
+case 279:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 100, 100, 100, 100, 10, 10 };
+	invType.defaultItems = new int[] { 954, 1523, 1755, 946, 5560, 864, 863, 865, 3095, 3096, 3097 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 11;
+	break;
+
+case 280:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 30, 100, 300, 100, 10, 1, 10, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 10 };
+	invType.defaultItems = new int[] { 5341, 5343, 5329, 952, 5325, 5331, 5354, 6032, 1925, 5418, 15367, 5376, 15366, 1942, 1957, 1965, 1982, 5986, 5504, 5982, 5994, 5996, 5998, 6000, 6002, 5931, 6006, 6036, 12622 };
+	invType.capacity = 29;
+	invType.defaultItemCount = 29;
+	break;
+
+case 281:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 30, 100, 300, 100, 10, 1, 10, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 10 };
+	invType.defaultItems = new int[] { 5341, 5343, 5329, 952, 5325, 5331, 5354, 6032, 1925, 5418, 15367, 5376, 15366, 1942, 1957, 1965, 1982, 5986, 5504, 5982, 5994, 5996, 5998, 6000, 6002, 5931, 6006, 6036, 12622 };
+	invType.capacity = 29;
+	invType.defaultItemCount = 29;
+	break;
+
+case 282:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 30, 100, 300, 100, 10, 1, 10, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 10 };
+	invType.defaultItems = new int[] { 5341, 5343, 5329, 952, 5325, 5331, 5354, 6032, 1925, 5418, 15367, 5376, 15366, 1942, 1957, 1965, 1982, 5986, 5504, 5982, 5994, 5996, 5998, 6000, 6002, 5931, 6006, 6036, 12622 };
+	invType.capacity = 29;
+	invType.defaultItemCount = 29;
+	break;
+
+case 283:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 30, 100, 300, 100, 10, 1, 10, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 10, 10 };
+	invType.defaultItems = new int[] { 5341, 5343, 5329, 952, 5325, 5331, 5354, 6032, 1925, 5418, 15367, 5376, 15366, 1942, 1957, 1965, 1982, 5986, 5504, 5982, 5994, 5996, 5998, 6000, 6002, 5931, 6006, 6036, 12622 };
+	invType.capacity = 29;
+	invType.defaultItemCount = 29;
+	break;
+
+case 284:
+	invType.capacity = 1;
+	break;
+
+case 285:
+	invType.capacity = 1;
+	break;
+
+case 286:
+	invType.capacity = 1;
+	break;
+
+case 287:
+	invType.capacity = 1;
+	break;
+
+case 288:
+	invType.capacity = 1;
+	break;
+
+case 289:
+	invType.capacity = 1;
+	break;
+
+case 290:
+	invType.capacity = 1;
+	break;
+
+case 291:
+	invType.capacity = 1;
+	break;
+
+case 292:
+	invType.capacity = 1;
+	break;
+
+case 293:
+	invType.capacity = 1;
+	break;
+
+case 294:
+	invType.capacity = 1;
+	break;
+
+case 295:
+	invType.capacity = 1;
+	break;
+
+case 296:
+	invType.capacity = 1;
+	break;
+
+case 297:
+	invType.capacity = 1;
+	break;
+
+case 298:
+	invType.capacity = 1;
+	break;
+
+case 299:
+	invType.capacity = 1;
+	break;
+
+case 300:
+	invType.capacity = 1;
+	break;
+
+case 301:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 30, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1931, 1935, 1735, 1925, 590, 1755, 2347, 952, 946 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 9;
+	break;
+
+case 302:
+	invType.defaultItemAmounts = new int[] { 1000, 10, 100, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1734, 1733, 1759, 1763, 1765, 1767, 1769, 1771, 1773 };
+	invType.capacity = 9;
+	invType.defaultItemCount = 9;
+	break;
+
+case 303:
+	invType.defaultItemAmounts = new int[] { 1000, 300, 100, 100, 30, 1000, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 884, 886, 888, 890, 892, 877, 843, 845, 837, 849, 847 };
+	invType.capacity = 11;
+	invType.defaultItemCount = 11;
+	break;
+
+case 304:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 2309, 379, 1993, 1985, 1891 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 305:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 0, 0, 0, 10, 10, 10, 10, 10, 0, 0, 0, 10, 10, 10, 10, 10, 0 };
+	invType.defaultItems = new int[] { 6341, 6343, 6345, 6349, 6347, 6313, 6315, 6317, 6351, 6353, 6355, 6357, 6359, 1625, 1627, 1629, 6361, 6363, 6365, 6367, 6369, 1609, 1611, 1613, 6371, 6373, 6375, 6377, 6379, 6311 };
+	invType.capacity = 30;
+	invType.defaultItemCount = 30;
+	break;
+
+case 306:
+	invType.defaultItemAmounts = new int[] { 0, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 2084, 2092, 2048, 2054, 2064, 2074, 2080 };
+	invType.capacity = 7;
+	invType.defaultItemCount = 7;
+	break;
+
+case 307:
+	invType.capacity = 28;
+	break;
+
+case 308:
+	invType.capacity = 81;
+	break;
+
+case 309:
+	invType.defaultItemAmounts = new int[] { 30, 30, 30, 30, 30 };
+	invType.defaultItems = new int[] { 6408, 6412, 6418, 6416, 4600 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 310:
+	invType.defaultItemAmounts = new int[] { 30, 30, 30, 30, 30 };
+	invType.defaultItems = new int[] { 6410, 6414, 6420, 6416, 4600 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 311:
+	invType.defaultItemAmounts = new int[] { 30, 30, 30, 30, 30, 30, 30, 30 };
+	invType.defaultItems = new int[] { 6392, 6394, 6396, 6398, 6400, 6402, 6404, 6406 };
+	invType.capacity = 8;
+	invType.defaultItemCount = 8;
+	break;
+
+case 312:
+	invType.defaultItemAmounts = new int[] { 30, 30, 30, 30, 30 };
+	invType.defaultItems = new int[] { 6382, 6384, 6386, 6388, 6390 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 313:
+	invType.defaultItemAmounts = new int[] { 300, 300, 300, 300 };
+	invType.defaultItems = new int[] { 554, 555, 556, 557 };
+	invType.capacity = 4;
+	invType.defaultItemCount = 4;
+	break;
+
+case 314:
+	invType.defaultItemAmounts = new int[] { 300, 300, 300, 100, 300, 300, 100, 300, 100 };
+	invType.defaultItems = new int[] { 561, 563, 562, 560, 558, 559, 565, 564, 566 };
+	invType.capacity = 9;
+	invType.defaultItemCount = 9;
+	break;
+
+case 315:
+	invType.capacity = 9;
+	break;
+
+case 316:
+	invType.capacity = 18;
+	break;
+
+case 317:
+	invType.capacity = 9;
+	break;
+
+case 318:
+	invType.defaultItemAmounts = new int[] { 100, 100, 100, 100, 100, 100, 100 };
+	invType.defaultItems = new int[] { 436, 438, 440, 447, 442, 444, 453 };
+	invType.capacity = 7;
+	invType.defaultItemCount = 7;
+	break;
+
+case 319:
+	invType.defaultItemAmounts = new int[] { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 1147, 1163, 1127, 1079, 1093, 1185, 1201, 1113, 1145, 1161, 1123, 1073, 1091, 1183, 1199, 1111, 1143, 1159, 1121, 1071, 1085, 1181, 1197, 1109 };
+	invType.capacity = 24;
+	invType.defaultItemCount = 24;
+	break;
+
+case 320:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 1555, 1556, 1557, 1558, 1559, 1560 };
+	invType.capacity = 6;
+	invType.defaultItemCount = 6;
+	break;
+
+case 321:
+	invType.capacity = 1;
+	break;
+
+case 322:
+	invType.capacity = 1;
+	break;
+
+case 323:
+	invType.capacity = 1;
+	break;
+
+case 324:
+	invType.capacity = 1;
+	break;
+
+case 325:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 6522, 6523, 6524, 6525, 6526, 6527, 6528, 6568 };
+	invType.capacity = 8;
+	invType.defaultItemCount = 8;
+	break;
+
+case 326:
+	invType.defaultItemAmounts = new int[] { 5, 5, 2, 1, 1, 1, 50 };
+	invType.defaultItems = new int[] { 438, 436, 440, 1623, 1621, 6571, 9194 };
+	invType.capacity = 7;
+	invType.defaultItemCount = 7;
+	break;
+
+case 327:
+	invType.defaultItemAmounts = new int[] { 1000, 1000, 1000, 1000, 1000, 1000, 300, 100 };
+	invType.defaultItems = new int[] { 554, 555, 556, 557, 558, 559, 562, 560 };
+	invType.capacity = 8;
+	invType.defaultItemCount = 8;
+	break;
+
+case 328:
+	invType.defaultItemAmounts = new int[] { 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 6615, 6625, 6627, 6621, 6631, 6623, 6633, 6617, 6619, 6629, 6591, 6605, 6601, 6603, 6607, 6613, 6589, 6611, 6587, 25948, 6609, 6599 };
+	invType.capacity = 22;
+	invType.defaultItemCount = 22;
+	break;
+
+case 329:
+	invType.defaultItemAmounts = new int[] { 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 6615, 6625, 6627, 6621, 6631, 6623, 6633, 6617, 6619, 6629, 6591, 6605, 6601, 6603, 6607, 6613, 6589, 6611, 6587, 25948, 6609, 6599 };
+	invType.capacity = 22;
+	invType.defaultItemCount = 22;
+	break;
+
+case 330:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 0, 0, 0, 0, 0, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 6615, 6625, 6627, 6621, 6631, 6623, 6633, 6617, 6619, 6629, 6591, 6605, 6601, 6603, 6607, 6613, 6589, 6611, 6587, 25948, 6609, 6599 };
+	invType.capacity = 22;
+	invType.defaultItemCount = 22;
+	break;
+
+case 331:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 0, 0, 0, 0, 0, 10, 10, 10, 10, 10, 0, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 6615, 6625, 6627, 6621, 6631, 6623, 6633, 6617, 6619, 6629, 6591, 6605, 6601, 6603, 6607, 6613, 6589, 6611, 6587, 25948, 6609, 6599 };
+	invType.capacity = 22;
+	invType.defaultItemCount = 22;
+	break;
+
+case 332:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 0, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 6615, 6625, 6627, 6621, 6631, 6623, 6633, 6617, 6619, 6629, 6591, 6605, 6601, 6603, 6607, 6613, 6589, 6611, 6587, 25948, 6609, 6599 };
+	invType.capacity = 22;
+	invType.defaultItemCount = 22;
+	break;
+
+case 333:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 6615, 6625, 6627, 6621, 6631, 6623, 6633, 6617, 6619, 6629, 6591, 6605, 6601, 6603, 6607, 6613, 6589, 6611, 6587, 25948, 6609, 6599 };
+	invType.capacity = 22;
+	invType.defaultItemCount = 22;
+	break;
+
+case 334:
+	invType.defaultItemAmounts = new int[] { 100 };
+	invType.defaultItems = new int[] { 2518 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 335:
+	invType.capacity = 1;
+	break;
+
+case 336:
+	invType.capacity = 1;
+	break;
+
+case 337:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 1714 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 338:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 1720 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 339:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 2961 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 340:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 4201 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 341:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 5525 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 342:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 6748 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 343:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 30, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1931, 1935, 1735, 1925, 1923, 1887, 590, 1755, 2347 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 9;
+	break;
+
+case 344:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1093, 1079, 1113, 1099, 1065, 1193, 1151 };
+	invType.capacity = 7;
+	invType.defaultItemCount = 7;
+	break;
+
+case 345:
+	invType.defaultItemAmounts = new int[] { 10, 10 };
+	invType.defaultItems = new int[] { 6794, 1973 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 346:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 100 };
+	invType.defaultItems = new int[] { 2309, 1891, 1901, 1973 };
+	invType.capacity = 4;
+	invType.defaultItemCount = 4;
+	break;
+
+case 347:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 1, 100, 100, 100, 100, 100, 100, 100, 100, 300, 100, 100, 100, 100, 100, 1 };
+	invType.defaultItems = new int[] { 6908, 6910, 6912, 6914, 6916, 6918, 6920, 6922, 6924, 6889, 6926, 1391, 4695, 4696, 4698, 4697, 4694, 4699, 564, 562, 561, 560, 563, 566, 565, 6891 };
+	invType.capacity = 26;
+	invType.defaultItemCount = 26;
+	break;
+
+case 348:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1321, 1323, 1325, 1329, 2347 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 349:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1917, 7157, 1993, 2003 };
+	invType.capacity = 4;
+	invType.defaultItemCount = 4;
+	break;
+
+case 350:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 317, 327, 345, 353, 341, 321, 359, 377, 363, 371 };
+	invType.capacity = 10;
+	invType.defaultItemCount = 10;
+	break;
+
+case 351:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 7114, 7110, 7112, 7116, 7122, 7124, 7126, 7128, 7130, 7132, 7134, 7136, 7138 };
+	invType.capacity = 13;
+	invType.defaultItemCount = 13;
+	break;
+
+case 352:
+	invType.defaultItemAmounts = new int[] { 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100, 100 };
+	invType.defaultItems = new int[] { 7162, 2325, 2327, 7170, 2323, 7178, 7188, 7198, 7208, 7218, 1933, 2313 };
+	invType.capacity = 12;
+	invType.defaultItemCount = 12;
+	break;
+
+case 353:
+	invType.capacity = 1;
+	break;
+
+case 354:
+	invType.capacity = 1;
+	break;
+
+case 355:
+	invType.capacity = 2;
+	break;
+
+case 356:
+	invType.defaultItemAmounts = new int[] { 30, 1, 1, 5, 1, 10, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 1973, 1985, 1982, 1955, 1987, 1933, 2283, 1944, 1927, 2130, 6697, 2007, 2313, 1887, 1923, 1935, 1931, 1980, 1925 };
+	invType.capacity = 19;
+	invType.defaultItemCount = 19;
+	break;
+
+case 357:
+	invType.defaultItemAmounts = new int[] { 60, 2, 2, 10, 1, 20, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2 };
+	invType.defaultItems = new int[] { 1973, 1985, 1982, 1955, 1987, 1933, 2283, 1944, 1927, 2130, 6697, 2007, 2313, 1887, 1923, 1935, 1931, 1980, 1925 };
+	invType.capacity = 19;
+	invType.defaultItemCount = 19;
+	break;
+
+case 358:
+	invType.defaultItemAmounts = new int[] { 90, 3, 3, 15, 2, 30, 1, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3 };
+	invType.defaultItems = new int[] { 1973, 1985, 1982, 1955, 1987, 1933, 2283, 1944, 1927, 2130, 6697, 2007, 2313, 1887, 1923, 1935, 1931, 1980, 1925 };
+	invType.capacity = 19;
+	invType.defaultItemCount = 19;
+	break;
+
+case 359:
+	invType.defaultItemAmounts = new int[] { 120, 4, 4, 20, 2, 40, 1, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4 };
+	invType.defaultItems = new int[] { 1973, 1985, 1982, 1955, 1987, 1933, 2283, 1944, 1927, 2130, 6697, 2007, 2313, 1887, 1923, 1935, 1931, 1980, 1925 };
+	invType.capacity = 19;
+	invType.defaultItemCount = 19;
+	break;
+
+case 360:
+	invType.defaultItemAmounts = new int[] { 150, 5, 5, 25, 3, 50, 1, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5 };
+	invType.defaultItems = new int[] { 1973, 1985, 1982, 1955, 1987, 1933, 2283, 1944, 1927, 2130, 6697, 2007, 2313, 1887, 1923, 1935, 1931, 1980, 1925 };
+	invType.capacity = 19;
+	invType.defaultItemCount = 19;
+	break;
+
+case 361:
+	invType.defaultItemAmounts = new int[] { 180, 6, 6, 30, 4, 60, 1, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6 };
+	invType.defaultItems = new int[] { 1973, 1985, 1982, 1955, 1987, 1933, 2283, 1944, 1927, 2130, 6697, 2007, 2313, 1887, 1923, 1935, 1931, 1980, 1925 };
+	invType.capacity = 19;
+	invType.defaultItemCount = 19;
+	break;
+
+case 362:
+	invType.defaultItemAmounts = new int[] { 210, 7, 7, 35, 4, 70, 1, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7 };
+	invType.defaultItems = new int[] { 1973, 1985, 1982, 1955, 1987, 1933, 2283, 1944, 1927, 2130, 6697, 2007, 2313, 1887, 1923, 1935, 1931, 1980, 1925 };
+	invType.capacity = 19;
+	invType.defaultItemCount = 19;
+	break;
+
+case 363:
+	invType.defaultItemAmounts = new int[] { 240, 8, 8, 40, 4, 80, 1, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8 };
+	invType.defaultItems = new int[] { 1973, 1985, 1982, 1955, 1987, 1933, 2283, 1944, 1927, 2130, 6697, 2007, 2313, 1887, 1923, 1935, 1931, 1980, 1925 };
+	invType.capacity = 19;
+	invType.defaultItemCount = 19;
+	break;
+
+case 364:
+	invType.defaultItemAmounts = new int[] { 270, 9, 9, 45, 5, 90, 1, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9 };
+	invType.defaultItems = new int[] { 1973, 1985, 1982, 1955, 1987, 1933, 2283, 1944, 1927, 2130, 6697, 2007, 2313, 1887, 1923, 1935, 1931, 1980, 1925 };
+	invType.capacity = 19;
+	invType.defaultItemCount = 19;
+	break;
+
+case 365:
+	invType.defaultItemAmounts = new int[] { 300, 10, 10, 50, 5, 100, 1, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1973, 1985, 1982, 1955, 1987, 1933, 2283, 1944, 1927, 2130, 6697, 2007, 2313, 1887, 1923, 1935, 1931, 1980, 1925 };
+	invType.capacity = 19;
+	invType.defaultItemCount = 19;
+	break;
+
+case 366:
+	invType.defaultItemAmounts = new int[] { 10, 10 };
+	invType.defaultItems = new int[] { 7453, 7433 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 367:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 7453, 7454, 7433, 7435 };
+	invType.capacity = 4;
+	invType.defaultItemCount = 4;
+	break;
+
+case 368:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 7453, 7454, 7455, 7433, 7435, 7437 };
+	invType.capacity = 6;
+	invType.defaultItemCount = 6;
+	break;
+
+case 369:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 7453, 7454, 7455, 7456, 7433, 7435, 7437, 7439 };
+	invType.capacity = 8;
+	invType.defaultItemCount = 8;
+	break;
+
+case 370:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 7453, 7454, 7455, 7456, 7457, 7433, 7435, 7437, 7439, 7441 };
+	invType.capacity = 10;
+	invType.defaultItemCount = 10;
+	break;
+
+case 371:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 7453, 7454, 7455, 7456, 7457, 7458, 7433, 7435, 7437, 7439, 7441, 7443 };
+	invType.capacity = 12;
+	invType.defaultItemCount = 12;
+	break;
+
+case 372:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 7453, 7454, 7455, 7456, 7457, 7458, 7459, 7433, 7435, 7437, 7439, 7441, 7443, 7445 };
+	invType.capacity = 14;
+	invType.defaultItemCount = 14;
+	break;
+
+case 373:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 7453, 7454, 7455, 7456, 7457, 7458, 7459, 7460, 7433, 7435, 7437, 7439, 7441, 7443, 7445, 7447 };
+	invType.capacity = 16;
+	invType.defaultItemCount = 16;
+	break;
+
+case 374:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 7453, 7454, 7455, 7456, 7457, 7458, 7459, 7460, 7461, 7433, 7435, 7437, 7439, 7441, 7443, 7445, 7447, 7449 };
+	invType.capacity = 18;
+	invType.defaultItemCount = 18;
+	break;
+
+case 375:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 7453, 7454, 7455, 7456, 7457, 7458, 7459, 7460, 7461, 7462, 7433, 7435, 7437, 7439, 7441, 7443, 7445, 7447, 7449, 7451 };
+	invType.capacity = 20;
+	invType.defaultItemCount = 20;
+	break;
+
+case 376:
+	invType.capacity = 1;
+	break;
+
+case 377:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 2952, 2875, 420, 5763, 1913, 5755, 1611, 1609, 1452, 1448 };
+	invType.capacity = 11;
+	invType.defaultItemCount = 10;
+	break;
+
+case 378:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 2402, 7547, 552, 2955, 3844, 333, 351, 1515, 1456, 1513 };
+	invType.capacity = 11;
+	invType.defaultItemCount = 10;
+	break;
+
+case 379:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 2407, 1811, 7548, 7550, 753, 247, 347, 329, 2126, 7552 };
+	invType.capacity = 11;
+	invType.defaultItemCount = 10;
+	break;
+
+case 380:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 7554, 857, 438, 440, 3840, 2126, 7552, 333, 442, 7560 };
+	invType.capacity = 11;
+	invType.defaultItemCount = 10;
+	break;
+
+case 381:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 7558, 851, 861, 7562, 3842, 6018, 5974, 7556, 1511, 1297 };
+	invType.capacity = 11;
+	invType.defaultItemCount = 10;
+	break;
+
+case 382:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 7620 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 383:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1351, 590, 3363, 353, 952 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 5;
+	break;
+
+case 384:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10 };
+	invType.defaultItems = new int[] { 1993, 1935, 7919 };
+	invType.capacity = 3;
+	invType.defaultItemCount = 3;
+	break;
+
+case 385:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1993, 7810, 7919, 1935 };
+	invType.capacity = 4;
+	invType.defaultItemCount = 4;
+	break;
+
+case 386:
+	invType.defaultItemAmounts = new int[] { 10, 10 };
+	invType.defaultItems = new int[] { 1993, 1935 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 387:
+	invType.defaultItemAmounts = new int[] { 300, 300, 100, 100, 250, 10, 100, 100, 100, 30, 30, 10 };
+	invType.defaultItems = new int[] { 825, 826, 827, 828, 829, 830, 39, 40, 41, 42, 43, 44 };
+	invType.capacity = 12;
+	invType.defaultItemCount = 12;
+	break;
+
+case 388:
+	invType.defaultItemAmounts = new int[] { 1000, 1000, 1000, 1000, 1000, 1000, 300, 100 };
+	invType.defaultItems = new int[] { 554, 555, 556, 557, 558, 559, 562, 560 };
+	invType.capacity = 8;
+	invType.defaultItemCount = 8;
+	break;
+
+case 389:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 30, 10, 10, 10, 10, 10, 10, 50 };
+	invType.defaultItems = new int[] { 1931, 1935, 1735, 1925, 1923, 1887, 590, 1755, 2347, 1351, 7934 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 11;
+	break;
+
+case 390:
+	invType.capacity = 88;
+	break;
+
+case 391:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 30, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1931, 1935, 1735, 1925, 1923, 1887, 590, 1755, 2347 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 9;
+	break;
+
+case 392:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 3767, 3769, 3771, 3773, 3775, 3793, 3795, 5050, 5052, 5038, 5040, 5044, 5046, 5026, 5028, 5032, 5034 };
+	invType.capacity = 17;
+	invType.defaultItemCount = 17;
+	break;
+
+case 393:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1917, 5763, 1993, 1978 };
+	invType.capacity = 4;
+	invType.defaultItemCount = 4;
+	break;
+
+case 394:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 2309, 1985, 1965, 1942, 1957, 1933, 1973, 1927 };
+	invType.capacity = 8;
+	invType.defaultItemCount = 8;
+	break;
+
+case 395:
+	invType.defaultItemAmounts = new int[] { 10, 300, 300, 300, 300 };
+	invType.defaultItems = new int[] { 8794, 8790, 4819, 4820, 1539 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 396:
+	invType.defaultItemAmounts = new int[] { 500, 30, 30, 30 };
+	invType.defaultItems = new int[] { 3420, 8786, 8784, 8788 };
+	invType.capacity = 4;
+	invType.defaultItemCount = 4;
+	break;
+
+case 397:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 1000, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 8417, 8419, 8421, 8423, 8425, 15237, 8427, 15239, 8429, 8431, 8433, 8435, 8437, 8439, 8441, 8443, 8445, 8447, 8449, 8451, 8453, 8455, 8457, 8459, 8461 };
+	invType.capacity = 25;
+	invType.defaultItemCount = 25;
+	break;
+
+case 398:
+	invType.capacity = 8;
+	break;
+
+case 399:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 8170, 8315, 8222, 8121, 8379, 8037, 8255, 8163, 8027, 8259, 8340, 9822, 8068, 8333, 8195, 8363, 8302, 8123, 8151 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 19;
+	break;
+
+case 400:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 8309, 8310, 8115, 8108, 8246, 8311, 8312, 8031, 8116, 8109, 8313, 8032, 8117, 8110, 8247, 8033, 8314, 8118, 8111, 8034, 8112, 8119, 8035, 8315, 8120, 8113, 8248, 8036, 8357, 8037, 8114, 8358, 8121, 8359, 8360, 8361, 8362, 8363 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 38;
+	break;
+
+case 401:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 8319, 8223, 8239, 8233, 8240, 8224, 8384, 8241, 8038, 8045, 8225, 8385, 8242, 8039, 8046, 8320, 8234, 8226, 8386, 8243, 8047, 8040, 8321, 8235, 8387, 8227, 8048, 8244, 8041, 8388, 8049, 8228, 8042, 8050, 8229, 8051, 8043, 8044 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 38;
+	break;
+
+case 402:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 8325, 8216, 8230, 8217, 8389, 8392, 8380, 8218, 8375, 8219, 8381, 8231, 8220, 8376, 8326, 8382, 8221, 8390, 8393, 8222, 8383, 8377, 8232, 8391, 8378, 8327, 8394, 8379 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 28;
+	break;
+
+case 403:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 8316, 8322, 8317, 8323, 8052, 8334, 8324, 8341, 8354, 8348, 8335, 8336, 8342, 8053, 8337, 8338, 8343, 8355, 8349, 8318, 8339, 8340, 8344, 8128, 8125, 8345, 8356, 8126, 8129, 8350, 8054, 8346, 8127, 8130, 8347 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 35;
+	break;
+
+case 404:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 8162, 8023, 8028, 8165, 8156, 8159, 8153, 8024, 8029, 8166, 8160, 8025, 8163, 8030, 8167, 8157, 8154, 8161, 8026, 8158, 8155, 8164, 8027 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 23;
+	break;
+
+case 405:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 8168, 8096, 8169, 8173, 8097, 8170, 8174, 8098, 8171, 8175, 8176, 8177, 8196, 8203, 8197, 8204, 8178, 8198, 8205, 8192, 8213, 8210, 8199, 8206, 8172, 8214, 8211, 8200, 8193, 8207, 8179, 8194, 8201, 8208, 8215, 8212, 8202, 8209, 8195 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 39;
+	break;
+
+case 406:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 8236, 8237, 8099, 8249, 8238, 8100, 8351, 8252, 8328, 8331, 8352, 8101, 8332, 8329, 8353, 8258, 8306, 8364, 8307, 8365, 8330, 8333, 8255, 8308, 8366, 8259 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 26;
+	break;
+
+case 407:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 8062, 8070, 8055, 8057, 8056, 8069, 8079, 8082, 8076, 8063, 8071, 8064, 8072, 8080, 8058, 8060, 8059, 8065, 8073, 8066, 8074, 8083, 8081, 8077, 8075, 8067, 8061, 8068, 8084, 8078 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 30;
+	break;
+
+case 408:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 8370, 8297, 8302, 8371, 8298, 8131, 8303, 8143, 8372, 8122, 8132, 8148, 8138, 8299, 8144, 8304, 8133, 8149, 8300, 8145, 8139, 8373, 8134, 8150, 8305, 8123, 8146, 8140, 8301, 8135, 8151, 8147, 8374, 8136, 8141, 8152, 8124, 8137, 8142 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 39;
+	break;
+
+case 409:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 8102, 8085, 8086, 8267, 8103, 8087, 8294, 8095, 8090, 8091, 8092, 8093, 8104, 8268, 8295, 8088, 8094, 8105, 8269, 8106, 8089, 8296, 8107 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 23;
+	break;
+
+case 410:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 333, 365, 2289, 6705, 2003 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 411:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1363, 1365, 1369, 1277, 1279, 1281, 1283, 1285, 1287, 1291, 1293, 1295, 1297, 1299, 1301, 1205, 1203, 1207, 1217, 1209, 1211, 1422, 1420, 1424, 1428, 1430, 1307, 1309, 1311, 1313, 1315, 1317, 1103, 1101, 1105, 1139, 1137, 1141 };
+	invType.capacity = 38;
+	invType.defaultItemCount = 38;
+	break;
+
+case 412:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10 };
+	invType.defaultItems = new int[] { 115, 121, 133 };
+	invType.capacity = 3;
+	invType.defaultItemCount = 3;
+	break;
+
+case 413:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 300 };
+	invType.defaultItems = new int[] { 5018, 5016, 8872, 8880, 8882 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 414:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 30, 30 };
+	invType.defaultItems = new int[] { 8952, 8959, 8991, 8953, 8960, 8992, 8954, 8961, 8993, 8955, 8962, 8994, 8956, 8963, 8995, 8957, 8964, 8996, 8958, 8965, 8997, 8966, 8967, 8968, 8969, 8970, 8971, 8988, 8940, 8941 };
+	invType.capacity = 30;
+	invType.defaultItemCount = 30;
+	break;
+
+case 415:
+	invType.capacity = 1;
+	break;
+
+case 416:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 30, 10, 10, 10, 10, 10, 10, 10, 20 };
+	invType.defaultItems = new int[] { 1931, 1935, 1735, 1925, 1923, 1887, 590, 1755, 2347, 9003, 229, 15362 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 12;
+	break;
+
+case 417:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 1000 };
+	invType.defaultItems = new int[] { 9068, 9069, 9070, 9071, 9072, 9073, 9074, 1733, 1734 };
+	invType.capacity = 9;
+	invType.defaultItemCount = 9;
+	break;
+
+case 418:
+	invType.defaultItemAmounts = new int[] { 1000, 1000, 1000, 1000, 1000, 1000, 300, 300, 300, 100, 100, 100, 20, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 556, 555, 557, 554, 558, 559, 562, 561, 560, 563, 565, 566, 1392, 1387, 1383, 1381, 1385, 9078 };
+	invType.capacity = 18;
+	invType.defaultItemCount = 18;
+	break;
+
+case 419:
+	invType.defaultItemAmounts = new int[] { 1000, 1000, 1000, 1000, 1000, 1000, 300, 300, 300, 100, 100, 100, 100, 20, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 556, 555, 557, 554, 558, 559, 562, 561, 560, 563, 565, 566, 9075, 1392, 1387, 1383, 1381, 1385, 9078 };
+	invType.capacity = 19;
+	invType.defaultItemCount = 19;
+	break;
+
+case 420:
+	invType.capacity = 1;
+	break;
+
+case 421:
+	invType.capacity = 1;
+	break;
+
+case 422:
+	invType.capacity = 1;
+	break;
+
+case 423:
+	invType.capacity = 1;
+	break;
+
+case 424:
+	invType.capacity = 1;
+	break;
+
+case 425:
+	invType.capacity = 1;
+	break;
+
+case 426:
+	invType.capacity = 1;
+	break;
+
+case 427:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 0, 0, 10, 10, 10, 10, 0, 0, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 9440, 9442, 9444, 9446, 9448, 9450, 9452, 9420, 9423, 9425, 9427, 9429, 9431, 9174, 9177, 9179, 9181, 9183, 9185 };
+	invType.capacity = 19;
+	invType.defaultItemCount = 19;
+	break;
+
+case 428:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 0, 10, 10, 10, 10, 10, 0, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 9440, 9442, 9444, 9446, 9448, 9450, 9452, 9420, 9423, 9425, 9427, 9429, 9431, 9174, 9177, 9179, 9181, 9183, 9185 };
+	invType.capacity = 19;
+	invType.defaultItemCount = 19;
+	break;
+
+case 429:
+	invType.defaultItemAmounts = new int[] { 10 };
+	invType.defaultItems = new int[] { 9382 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 430:
+	invType.defaultItemAmounts = new int[] { 10, 1 };
+	invType.defaultItems = new int[] { 9375, 9420 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 431:
+	invType.defaultItemAmounts = new int[] { 10, 1 };
+	invType.defaultItems = new int[] { 9377, 9423 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 432:
+	invType.defaultItemAmounts = new int[] { 10, 1 };
+	invType.defaultItems = new int[] { 9378, 9425 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 433:
+	invType.defaultItemAmounts = new int[] { 10, 1 };
+	invType.defaultItems = new int[] { 9379, 9427 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 434:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 9416 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 435:
+	invType.defaultItemAmounts = new int[] { 10, 1 };
+	invType.defaultItems = new int[] { 9380, 9429 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 436:
+	invType.defaultItemAmounts = new int[] { 10, 1 };
+	invType.defaultItems = new int[] { 9381, 9431 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 437:
+	invType.capacity = 1;
+	break;
+
+case 438:
+	invType.capacity = 3;
+	break;
+
+case 439:
+	invType.capacity = 4;
+	break;
+
+case 440:
+	invType.defaultItemAmounts = new int[] { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 9597, 9598, 9599, 9600, 9601, 9602, 9603, 9604, 9605, 9606, 9607, 9608, 9609, 9610, 9611, 9612, 9613, 9614, 9615, 9616, 9617, 9618, 9619, 9620, 9621, 9622, 9623, 9624 };
+	invType.capacity = 28;
+	invType.defaultItemCount = 28;
+	break;
+
+case 441:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 30, 10, 10, 10, 10, 10, 10, 10, 10, 10, 0, 10, 0, 10, 0, 0, 0, 10, 10, 10, 10, 10, 10, 0 };
+	invType.defaultItems = new int[] { 1931, 1935, 1735, 1925, 1923, 1887, 590, 1755, 2347, 550, 9003, 954, 946, 2114, 1963, 2108, 1785, 1783, 401, 1781, 301, 307, 1941, 9629, 3226, 1025, 6014 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 27;
+	break;
+
+case 442:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 9640, 9642, 9644, 9634, 9636, 9638 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 6;
+	break;
+
+case 443:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 5574, 5576, 5575, 23122, 9668, 23125 };
+	invType.capacity = 6;
+	invType.defaultItemCount = 6;
+	break;
+
+case 444:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 5574, 5576, 5575, 23122, 9668, 23125, 9672, 9676, 9674, 9678, 9666, 9670 };
+	invType.capacity = 12;
+	invType.defaultItemCount = 12;
+	break;
+
+case 445:
+	invType.capacity = 30;
+	break;
+
+case 446:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 10601, 10602, 10603, 10604, 10605, 10606, 10607, 10608, 10609, 13658, 13657, 13656, 14732, 15336, 15337, 15338, 15339, 21478 };
+	invType.capacity = 30;
+	invType.defaultItemCount = 18;
+	break;
+
+case 447:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 10610, 10611, 10612, 10614, 10613, 10615, 10616, 10617, 10618, 10619, 10620, 10621, 10624, 10623, 10622, 10628, 10626, 10625, 10627, 20050, 10883, 10945, 11135, 11274, 11676, 11675, 11674, 10165 };
+	invType.capacity = 30;
+	invType.defaultItemCount = 28;
+	break;
+
+case 448:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 10629, 10630, 10721, 10631, 10632, 10633, 10634, 19777, 21596, 23124, 32192, 32618, 32732 };
+	invType.capacity = 30;
+	invType.defaultItemCount = 13;
+	break;
+
+case 449:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 19481, 19484, 19487, 19490, 19493, 10680, 10681, 10686, 10687, 10690, 10691, 10692, 10693, 10694, 10695, 10738, 10744, 10740, 10742, 10746, 10714, 10715, 10716, 10717, 10718, 10750, 10754, 10752, 11278, 10165 };
+	invType.capacity = 30;
+	invType.defaultItemCount = 30;
+	break;
+
+case 450:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 10758, 10760, 10762, 10764, 10766, 19482, 19485, 19488, 19491, 19494, 10682, 10683, 10696, 10697, 10698, 10768, 10770, 10772, 10736, 10748, 10756, 10689, 13164, 13169, 13171, 13173, 13170, 13172, 13167, 10165 };
+	invType.capacity = 30;
+	invType.defaultItemCount = 30;
+	break;
+
+case 451:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 19483, 19486, 19489, 19492, 19495, 10684, 10685, 10688, 10796, 10798, 10800, 10802, 10804, 10806, 10774, 10776, 10778, 10780, 10782, 10719, 10784, 10788, 10786, 10792, 10794, 10790, 11277, 13165, 13166, 10165 };
+	invType.capacity = 30;
+	invType.defaultItemCount = 30;
+	break;
+
+case 452:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 10635, 10636, 10637, 10638, 10720, 10639, 10641, 10640, 10647, 10648, 10658, 10654, 10651, 10661, 10659, 10657, 10652, 10649, 10644, 10655, 10643, 10642, 10645, 10653, 10656, 10650, 10660, 10646, 10662, 10165 };
+	invType.capacity = 30;
+	invType.defaultItemCount = 30;
+	break;
+
+case 453:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 10722, 10723, 10724, 10725, 10726, 10727, 10728, 10729, 9815, 9816, 10730, 10731, 10732, 10733, 10734, 10735, 11015, 11016, 11017, 11018, 11790, 11949, 12634, 14086, 14087, 14088, 14570, 14595, 14596, 14713, 10165 };
+	invType.capacity = 31;
+	invType.defaultItemCount = 31;
+	break;
+
+case 454:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 9829, 9823, 9826, 9839, 9836, 9830, 9817, 9831, 9824, 9818, 9827, 9840, 9837, 9832, 9819, 9833, 9825, 9820, 9828, 9841, 9838, 9834, 9821, 9835, 9822 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 25;
+	break;
+
+case 455:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 100, 100, 100, 100, 10, 10, 1 };
+	invType.defaultItems = new int[] { 954, 1523, 1755, 946, 5560, 864, 863, 865, 3095, 3096, 3097, 9777 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 12;
+	break;
+
+case 456:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 100, 100, 100, 100, 10, 10, 1 };
+	invType.defaultItems = new int[] { 954, 1523, 1755, 946, 5560, 864, 863, 865, 3095, 3096, 3097, 9778 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 12;
+	break;
+
+case 457:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 1 };
+	invType.defaultItems = new int[] { 1129, 1131, 1133, 1095, 1097, 1169, 1167, 1063, 9756 };
+	invType.capacity = 9;
+	invType.defaultItemCount = 9;
+	break;
+
+case 458:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 1 };
+	invType.defaultItems = new int[] { 1129, 1131, 1133, 1095, 1097, 1169, 1167, 1063, 9757 };
+	invType.capacity = 9;
+	invType.defaultItemCount = 9;
+	break;
+
+case 459:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 9765 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 460:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 9766 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 461:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 1 };
+	invType.defaultItems = new int[] { 4089, 4091, 4093, 4095, 4097, 25812, 25668, 25644, 28628, 9762 };
+	invType.capacity = 10;
+	invType.defaultItemCount = 10;
+	break;
+
+case 462:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 1 };
+	invType.defaultItems = new int[] { 4089, 4091, 4093, 4095, 4097, 25812, 25668, 25644, 28628, 9763 };
+	invType.capacity = 10;
+	invType.defaultItemCount = 10;
+	break;
+
+case 463:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1 };
+	invType.defaultItems = new int[] { 19713, 19726, 19727 };
+	invType.capacity = 3;
+	invType.defaultItemCount = 3;
+	break;
+
+case 464:
+	invType.defaultItemAmounts = new int[] { 4, 5, 5, 5, 2 };
+	invType.defaultItems = new int[] { 14834, 954, 303, 10008, 946 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 465:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 5341, 5343, 5329, 952, 5325, 5331, 6032, 6036, 2026, 1480 };
+	invType.capacity = 10;
+	invType.defaultItemCount = 10;
+	break;
+
+case 466:
+	invType.defaultItemAmounts = new int[] { 300, 1000, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100, 100, 100, 100, 30, 10, 10, 10, 10, 10, 10, 10, 10, 10, 1 };
+	invType.defaultItems = new int[] { 877, 882, 884, 886, 888, 890, 892, 4773, 4778, 4783, 4788, 4793, 4798, 4803, 39, 40, 41, 42, 43, 44, 841, 839, 837, 843, 845, 4827, 1133, 1097, 9783 };
+	invType.capacity = 29;
+	invType.defaultItemCount = 29;
+	break;
+
+case 467:
+	invType.defaultItemAmounts = new int[] { 300, 1000, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100, 100, 100, 100, 30, 10, 10, 10, 10, 10, 10, 10, 10, 10, 1 };
+	invType.defaultItems = new int[] { 877, 882, 884, 886, 888, 890, 892, 4773, 4778, 4783, 4788, 4793, 4798, 4803, 39, 40, 41, 42, 43, 44, 841, 839, 837, 843, 845, 4827, 1133, 1097, 9784 };
+	invType.capacity = 29;
+	invType.defaultItemCount = 29;
+	break;
+
+case 468:
+	invType.capacity = 501;
+	break;
+
+case 469:
+	invType.capacity = 1;
+	break;
+
+case 470:
+	invType.capacity = 1;
+	break;
+
+case 471:
+	invType.capacity = 1;
+	break;
+
+case 472:
+	invType.capacity = 1;
+	break;
+
+case 473:
+	invType.capacity = 1;
+	break;
+
+case 474:
+	invType.capacity = 1;
+	break;
+
+case 475:
+	invType.capacity = 1;
+	break;
+
+case 476:
+	invType.capacity = 1;
+	break;
+
+case 477:
+	invType.capacity = 1;
+	break;
+
+case 478:
+	invType.capacity = 1;
+	break;
+
+case 479:
+	invType.capacity = 1;
+	break;
+
+case 480:
+	invType.capacity = 1;
+	break;
+
+case 481:
+	invType.capacity = 1;
+	break;
+
+case 482:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 10065, 10067, 10053, 10055, 10057, 10059, 10061, 10063, 10075, 10069, 10045, 10043, 10041, 10051, 10049, 10047, 10039, 10037, 10035, 10071 };
+	invType.capacity = 20;
+	invType.defaultItemCount = 20;
+	break;
+
+case 483:
+	invType.defaultItemAmounts = new int[] { 10, 300, 300, 10, 30, 30, 10, 10, 30, 0 };
+	invType.defaultItems = new int[] { 10010, 10012, 10025, 10150, 10006, 10008, 10029, 596, 10031, 12539 };
+	invType.capacity = 10;
+	invType.defaultItemCount = 10;
+	break;
+
+case 484:
+	invType.defaultItemAmounts = new int[] { 10, 300, 300, 10, 30, 30, 10, 10, 30, 0 };
+	invType.defaultItems = new int[] { 10010, 10012, 10025, 10150, 10006, 10008, 10029, 596, 10031, 12539 };
+	invType.capacity = 10;
+	invType.defaultItemCount = 10;
+	break;
+
+case 485:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1 };
+	invType.defaultItems = new int[] { 13163, 13168, 10166 };
+	invType.capacity = 30;
+	invType.defaultItemCount = 3;
+	break;
+
+case 486:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1 };
+	invType.defaultItems = new int[] { 19713, 19723, 19722 };
+	invType.capacity = 3;
+	invType.defaultItemCount = 3;
+	break;
+
+case 487:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 24108, 24112, 24110, 24114, 19496, 19497, 19498, 19499, 19500, 19501, 20949, 20950, 20951, 20952, 10166 };
+	invType.capacity = 30;
+	invType.defaultItemCount = 15;
+	break;
+
+case 488:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 12524, 15706, 19710, 29188, 10663, 10664, 15474, 20713, 20735, 20736, 20737, 20738, 20739, 20740, 20741, 20742, 20743, 20745, 20746, 20747, 20748, 21434, 23639, 33661, 33662, 24160, 24161, 24162, 10165, 10166 };
+	invType.capacity = 30;
+	invType.defaultItemCount = 30;
+	break;
+
+case 489:
+	invType.defaultItemAmounts = new int[] { 1000, 1000, 1000, 1000, 1000 };
+	invType.defaultItems = new int[] { 314, 884, 886, 40, 41 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 490:
+	invType.capacity = 1;
+	break;
+
+case 491:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 1000, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1755, 1592, 1597, 1595, 1733, 1734, 1599, 2976, 5523, 11065 };
+	invType.capacity = 10;
+	invType.defaultItemCount = 10;
+	break;
+
+case 492:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 30 };
+	invType.defaultItems = new int[] { 2309, 1891, 1901, 1823 };
+	invType.capacity = 4;
+	invType.defaultItemCount = 4;
+	break;
+
+case 493:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 0, 10, 10, 10, 0, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1205, 1203, 1207, 1217, 1209, 1211, 1213, 1215, 1321, 1323, 1325 };
+	invType.capacity = 11;
+	invType.defaultItemCount = 11;
+	break;
+
+case 494:
+	invType.defaultItemAmounts = new int[] { 30, 10, 0, 10 };
+	invType.defaultItems = new int[] { 1931, 2169, 5970, 175 };
+	invType.capacity = 4;
+	invType.defaultItemCount = 4;
+	break;
+
+case 495:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 1000, 10 };
+	invType.defaultItems = new int[] { 4684, 1833, 1835, 1837, 950, 1734, 1733 };
+	invType.capacity = 7;
+	invType.defaultItemCount = 7;
+	break;
+
+case 496:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 19167, 19188, 19209, 19230, 19251, 7362, 7364, 7390, 7392, 2583, 2591, 2631, 2633, 2635, 2637, 10366, 10396, 10392, 10394, 10398, 10316, 10318, 10320, 10322, 10324, 10404, 10412, 10408, 11282, 10165 };
+	invType.capacity = 30;
+	invType.defaultItemCount = 30;
+	break;
+
+case 497:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1 };
+	invType.defaultItems = new int[] { 13095, 13105, 10166 };
+	invType.capacity = 30;
+	invType.defaultItemCount = 3;
+	break;
+
+case 498:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 7319, 7321, 7323, 7325, 7327, 19173, 19194, 19215, 19236, 19257, 7370, 7372, 2577, 2599, 2607, 2645, 2647, 2649, 10364, 10400, 10416, 2579, 13097, 13107, 13111, 13115, 13109, 13113, 13103, 10165 };
+	invType.capacity = 30;
+	invType.defaultItemCount = 30;
+	break;
+
+case 499:
+	invType.defaultItemAmounts = new int[] { 1, 1 };
+	invType.defaultItems = new int[] { 19713, 19724 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 500:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 19179, 19200, 19221, 19242, 19263, 7374, 7376, 7399, 2581, 2615, 2623, 2639, 2641, 2643, 2651, 2653, 2661, 2669, 3481, 10362, 10458, 10462, 10460, 10386, 10378, 10370, 11280, 13099, 13101, 10165 };
+	invType.capacity = 30;
+	invType.defaultItemCount = 30;
+	break;
+
+case 501:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 24108, 24112, 24110, 24114, 19272, 19275, 19278, 19281, 19284, 19287, 21258, 21260, 21262, 21264, 10166 };
+	invType.capacity = 30;
+	invType.defaultItemCount = 15;
+	break;
+
+case 502:
+	invType.defaultItemAmounts = new int[] { 10, 10, 1000, 10, 10, 10, 100 };
+	invType.defaultItems = new int[] { 946, 2347, 1734, 1733, 4819, 1351, 1759 };
+	invType.capacity = 7;
+	invType.defaultItemCount = 7;
+	break;
+
+case 503:
+	invType.defaultItemAmounts = new int[] { 0, 0, 10, 10, 0, 0 };
+	invType.defaultItems = new int[] { 377, 359, 331, 341, 371, 383 };
+	invType.capacity = 6;
+	invType.defaultItemCount = 6;
+	break;
+
+case 504:
+	invType.defaultItemAmounts = new int[] { 0, 10, 10, 0, 0, 0 };
+	invType.defaultItems = new int[] { 361, 329, 339, 379, 373, 385 };
+	invType.capacity = 6;
+	invType.defaultItemCount = 6;
+	break;
+
+case 505:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1109, 1143, 1159, 1181, 1197, 1071, 1085, 1121 };
+	invType.capacity = 8;
+	invType.defaultItemCount = 8;
+	break;
+
+case 506:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1299, 1343, 1369, 3099, 1315 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 507:
+	invType.defaultItemAmounts = new int[] { 10, 10, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 436, 438, 440, 442, 453, 444, 447, 449 };
+	invType.capacity = 8;
+	invType.defaultItemCount = 8;
+	break;
+
+case 508:
+	invType.defaultItemAmounts = new int[] { 1000, 10, 10 };
+	invType.defaultItems = new int[] { 10818, 10816, 10814 };
+	invType.capacity = 3;
+	invType.defaultItemCount = 3;
+	break;
+
+case 509:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 3369, 3371, 3373, 329, 2003, 3381, 2142, 361, 7530, 379, 365, 2325, 2323, 7178, 7188, 1891, 1897, 5988, 6703 };
+	invType.capacity = 19;
+	invType.defaultItemCount = 19;
+	break;
+
+case 510:
+	invType.capacity = 100;
+	break;
+
+case 511:
+	invType.defaultItemAmounts = new int[] { 10, 0, 0, 0, 10, 10, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 596, 4525, 4535, 4546, 5014, 590, 10973, 4522, 4537, 4548 };
+	invType.capacity = 10;
+	invType.defaultItemCount = 10;
+	break;
+
+case 512:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10 };
+	invType.defaultItems = new int[] { 10954, 10956, 10958 };
+	invType.capacity = 3;
+	invType.defaultItemCount = 3;
+	break;
+
+case 513:
+	invType.defaultItemAmounts = new int[] { 10, 10, 30, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 596, 590, 1931, 1935, 1923, 1887, 954, 1785 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 8;
+	break;
+
+case 514:
+	invType.capacity = 36;
+	break;
+
+case 515:
+	invType.capacity = 5;
+	break;
+
+case 516:
+	invType.capacity = 1;
+	break;
+
+case 517:
+	invType.capacity = 1;
+	break;
+
+case 518:
+	invType.capacity = 1;
+	break;
+
+case 519:
+	invType.capacity = 1;
+	break;
+
+case 520:
+	invType.capacity = 1;
+	break;
+
+case 521:
+	invType.capacity = 1;
+	break;
+
+case 522:
+	invType.capacity = 1;
+	break;
+
+case 523:
+	invType.capacity = 2;
+	break;
+
+case 524:
+	invType.capacity = 2;
+	break;
+
+case 525:
+	invType.capacity = 2;
+	break;
+
+case 526:
+	invType.capacity = 2;
+	break;
+
+case 527:
+	invType.capacity = 2;
+	break;
+
+case 528:
+	invType.capacity = 2;
+	break;
+
+case 529:
+	invType.capacity = 216;
+	break;
+
+case 530:
+	invType.capacity = 32;
+	break;
+
+case 531:
+	invType.defaultItemAmounts = new int[] { 10, 1000, 10, 65000, 65000 };
+	invType.defaultItems = new int[] { 12130, 12125, 12127, 12183, 15262 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 532:
+	invType.defaultItemAmounts = new int[] { 10, 10, 0, 0, 0, 0, 0, 65000, 5000, 65000 };
+	invType.defaultItems = new int[] { 12204, 12207, 12210, 12213, 12216, 12219, 12222, 12183, 12155, 15262 };
+	invType.capacity = 10;
+	invType.defaultItemCount = 10;
+	break;
+
+case 533:
+	invType.defaultItemAmounts = new int[] { 10, 100, 10, 1000, 10, 10, 30, 30, 10, 10, 10, 10, 10, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 590, 2866, 2878, 314, 1351, 954, 1931, 1925, 2347, 946, 12561, 12563, 12565, 12567, 12568, 12559, 12570 };
+	invType.capacity = 17;
+	invType.defaultItemCount = 17;
+	break;
+
+case 534:
+	invType.defaultItemAmounts = new int[] { 10, 300, 10, 10, 10, 10, 100, 0, 0, 10, 0, 0, 0, 0, 0, 10, 6, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 2134, 2132, 2136, 2142, 2138, 2140, 3226, 7224, 7223, 3228, 2876, 7230, 2878, 7566, 2337, 9978, 15365, 9984, 9980, 9986, 9992, 9988 };
+	invType.capacity = 22;
+	invType.defaultItemCount = 22;
+	break;
+
+case 535:
+	invType.capacity = 14;
+	break;
+
+case 536:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 30 };
+	invType.defaultItems = new int[] { 1931, 1929, 1937, 2313, 1887, 590, 1735, 1951, 1969, 1949, 1277, 1173, 841, 882 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 14;
+	break;
+
+case 537:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 19711, 19803, 19804, 13185, 13181, 13184, 13182, 13187, 13186, 13183, 14730, 15519, 15625, 15624, 20115, 20792, 21439, 21462, 21467, 21472, 21482, 21485, 22413, 22949, 24427, 27354, 10165, 10166 };
+	invType.capacity = 30;
+	invType.defaultItemCount = 28;
+	break;
+
+case 538:
+	invType.defaultItemAmounts = new int[] { 300, 10, 10, 3000, 1000, 1, 10, 10, 10, 10, 10, 10, 1000, 1, 1, 1000, 1, 10, 10, 10, 10, 1000, 1, 10, 10, 3000, 3000, 10 };
+	invType.defaultItems = new int[] { 4155, 4156, 4158, 4160, 4161, 34960, 4162, 4164, 4166, 4168, 4170, 4551, 6664, 34963, 34965, 6696, 34961, 6720, 7051, 7159, 7421, 7432, 34962, 8923, 10952, 13278, 13279, 23035 };
+	invType.capacity = 28;
+	invType.defaultItemCount = 28;
+	break;
+
+case 539:
+	invType.capacity = 1;
+	break;
+
+case 540:
+	invType.capacity = 1;
+	break;
+
+case 541:
+	invType.capacity = 1;
+	break;
+
+case 542:
+	invType.capacity = 4;
+	break;
+
+case 543:
+	invType.capacity = 4;
+	break;
+
+case 544:
+	invType.capacity = 10;
+	break;
+
+case 545:
+	invType.capacity = 30;
+	break;
+
+case 546:
+	invType.capacity = 1;
+	break;
+
+case 547:
+	invType.defaultItemAmounts = new int[] { 10, 10 };
+	invType.defaultItems = new int[] { 36, 38 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 548:
+	invType.capacity = 1;
+	break;
+
+case 549:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 100 };
+	invType.defaultItems = new int[] { 14743, 14745, 14747, 14749, 14751, 14753, 14755, 14757, 14759, 14761, 14763, 14765, 14767, 14769, 14771, 14773, 14775, 14777, 14779, 14781, 14783, 14785, 14787, 14789, 14791, 20179, 20180 };
+	invType.capacity = 27;
+	invType.defaultItemCount = 27;
+	break;
+
+case 550:
+	invType.capacity = 10;
+	break;
+
+case 551:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 15046, 15078, 15080, 15082, 15075, 15056, 15059, 15061, 15069, 15073, 15077, 15484 };
+	invType.capacity = 14;
+	invType.defaultItemCount = 12;
+	break;
+
+case 552:
+	invType.capacity = 25;
+	break;
+
+case 553:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1 };
+	invType.defaultItems = new int[] { 590, 2347, 1205 };
+	invType.capacity = 3;
+	invType.defaultItemCount = 3;
+	break;
+
+case 554:
+	invType.defaultItemAmounts = new int[] { 1, 1 };
+	invType.defaultItems = new int[] { 1265, 1351 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 555:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 1277 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 1;
+	break;
+
+case 556:
+	invType.defaultItemAmounts = new int[] { 30, 1, 1 };
+	invType.defaultItems = new int[] { 882, 841, 839 };
+	invType.capacity = 3;
+	invType.defaultItemCount = 3;
+	break;
+
+case 557:
+	invType.defaultItemAmounts = new int[] { 30, 30 };
+	invType.defaultItems = new int[] { 556, 558 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 558:
+	invType.defaultItemAmounts = new int[] { 60000, 10, 10 };
+	invType.defaultItems = new int[] { 590, 596, 1351 };
+	invType.capacity = 3;
+	invType.defaultItemCount = 3;
+	break;
+
+case 559:
+	invType.defaultItemAmounts = new int[] { 60000, 10, 10, 1 };
+	invType.defaultItems = new int[] { 590, 596, 1351, 9804 };
+	invType.capacity = 4;
+	invType.defaultItemCount = 4;
+	break;
+
+case 560:
+	invType.defaultItemAmounts = new int[] { 60000, 10, 10, 1 };
+	invType.defaultItems = new int[] { 590, 596, 1351, 9805 };
+	invType.capacity = 4;
+	invType.defaultItemCount = 4;
+	break;
+
+case 561:
+	invType.defaultItemAmounts = new int[] { 1, 1 };
+	invType.defaultItems = new int[] { 303, 13431 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 562:
+	invType.defaultItemAmounts = new int[] { 5, 10, 10, 10, 1000, 1000, 0, 0, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 303, 307, 309, 13431, 313, 314, 317, 327, 345, 321, 335, 349, 331, 13435 };
+	invType.capacity = 18;
+	invType.defaultItemCount = 14;
+	break;
+
+case 563:
+	invType.capacity = 2;
+	break;
+
+case 564:
+	invType.defaultItemAmounts = new int[] { 10 };
+	invType.defaultItems = new int[] { 11260 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 565:
+	invType.defaultItemAmounts = new int[] { 1, 1 };
+	invType.defaultItems = new int[] { 10150, 10006 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 566:
+	invType.defaultItemAmounts = new int[] { 1, 1 };
+	invType.defaultItems = new int[] { 10150, 10006 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 567:
+	invType.defaultItemAmounts = new int[] { 5, 30, 5, 20 };
+	invType.defaultItems = new int[] { 10010, 10012, 10150, 10006 };
+	invType.capacity = 4;
+	invType.defaultItemCount = 4;
+	break;
+
+case 568:
+	invType.defaultItemAmounts = new int[] { 5, 30, 5, 20 };
+	invType.defaultItems = new int[] { 10010, 10012, 10150, 10006 };
+	invType.capacity = 4;
+	invType.defaultItemCount = 4;
+	break;
+
+case 569:
+	invType.defaultItemAmounts = new int[] { 30 };
+	invType.defaultItems = new int[] { 3105 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 570:
+	invType.defaultItemAmounts = new int[] { 5 };
+	invType.defaultItems = new int[] { 1265 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 571:
+	invType.defaultItemAmounts = new int[] { 30 };
+	invType.defaultItems = new int[] { 197 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 572:
+	invType.defaultItemAmounts = new int[] { 300 };
+	invType.defaultItems = new int[] { 556 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 573:
+	invType.capacity = 30;
+	break;
+
+case 574:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1755, 1592, 1597, 1595, 1733, 1599, 2976, 5523, 9434, 11065 };
+	invType.capacity = 10;
+	invType.defaultItemCount = 10;
+	break;
+
+case 575:
+	invType.defaultItemAmounts = new int[] { 2, 5, 100, 10, 10 };
+	invType.defaultItems = new int[] { 1523, 4600, 18644, 590, 954 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 5;
+	break;
+
+case 576:
+	invType.defaultItemAmounts = new int[] { 5, 100, 10, 10 };
+	invType.defaultItems = new int[] { 4600, 18644, 590, 954 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 4;
+	break;
+
+case 577:
+	invType.defaultItemAmounts = new int[] { 2, 10, 10 };
+	invType.defaultItems = new int[] { 1523, 590, 954 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 3;
+	break;
+
+case 578:
+	invType.defaultItemAmounts = new int[] { 10, 10 };
+	invType.defaultItems = new int[] { 590, 954 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 2;
+	break;
+
+case 579:
+	invType.defaultItemAmounts = new int[] { 10, 10 };
+	invType.defaultItems = new int[] { 4587, 25758 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 580:
+	invType.defaultItemAmounts = new int[] { 200 };
+	invType.defaultItems = new int[] { 1927 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 581:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 19502, 19503, 19504, 19505, 19506, 19507, 19513, 19512, 19511, 19508, 19510, 19509, 19515, 19516, 19514, 19519, 19518, 19517 };
+	invType.capacity = 30;
+	invType.defaultItemCount = 18;
+	break;
+
+case 582:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 19290, 19293, 19296, 19299, 19302, 19305, 19335, 19337, 19342, 19380, 19384, 19382, 19413, 19428, 19398, 19461, 19453, 19445 };
+	invType.capacity = 30;
+	invType.defaultItemCount = 18;
+	break;
+
+case 583:
+	invType.capacity = 10;
+	break;
+
+case 584:
+	invType.capacity = 10;
+	break;
+
+case 585:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 19713 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 586:
+	invType.defaultItemAmounts = new int[] { 1, 1 };
+	invType.defaultItems = new int[] { 19713, 19714 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 587:
+	invType.defaultItemAmounts = new int[] { 1, 1 };
+	invType.defaultItems = new int[] { 19713, 19715 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 588:
+	invType.defaultItemAmounts = new int[] { 1, 1 };
+	invType.defaultItems = new int[] { 19713, 19716 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 589:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1 };
+	invType.defaultItems = new int[] { 19713, 19718, 19719 };
+	invType.capacity = 3;
+	invType.defaultItemCount = 3;
+	break;
+
+case 590:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1 };
+	invType.defaultItems = new int[] { 19713, 19720, 19721 };
+	invType.capacity = 3;
+	invType.defaultItemCount = 3;
+	break;
+
+case 591:
+	invType.defaultItemAmounts = new int[] { 1, 1 };
+	invType.defaultItems = new int[] { 19713, 19725 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 592:
+	invType.defaultItemAmounts = new int[] { 1, 1 };
+	invType.defaultItems = new int[] { 19713, 19728 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 593:
+	invType.defaultItemAmounts = new int[] { 1, 1 };
+	invType.defaultItems = new int[] { 19713, 19729 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 594:
+	invType.defaultItemAmounts = new int[] { 1, 1 };
+	invType.defaultItems = new int[] { 19713, 19730 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 595:
+	invType.defaultItemAmounts = new int[] { 1, 1 };
+	invType.defaultItems = new int[] { 19713, 19731 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 596:
+	invType.defaultItemAmounts = new int[] { 1, 1 };
+	invType.defaultItems = new int[] { 19713, 19732 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 597:
+	invType.defaultItemAmounts = new int[] { 1, 1 };
+	invType.defaultItems = new int[] { 19713, 19717 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 598:
+	invType.defaultItemAmounts = new int[] { 1, 1 };
+	invType.defaultItems = new int[] { 19713, 19733 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 599:
+	invType.defaultItemAmounts = new int[] { 1, 1 };
+	invType.defaultItems = new int[] { 19713, 19734 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 600:
+	invType.defaultItemAmounts = new int[] { 80 };
+	invType.defaultItems = new int[] { 1391 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 601:
+	invType.defaultItemAmounts = new int[] { 1, 1 };
+	invType.defaultItems = new int[] { 19805, 19808 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 602:
+	invType.defaultItemAmounts = new int[] { 30 };
+	invType.defaultItems = new int[] { 1478 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 603:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 10, 100, 100, 10, 10, 10, 10, 10, 10, 10, 10, 20, 10, 10, 100, 100, 100, 0, 0, 100 };
+	invType.defaultItems = new int[] { 19965, 10150, 590, 596, 19994, 20047, 5341, 952, 5343, 19922, 19927, 19932, 5350, 5325, 6036, 5329, 5340, 1925, 5376, 15366, 20044, 20045, 19967 };
+	invType.capacity = 23;
+	invType.defaultItemCount = 23;
+	break;
+
+case 604:
+	invType.defaultItemAmounts = new int[] { 100 };
+	invType.defaultItems = new int[] { 19967 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 605:
+	invType.defaultItemAmounts = new int[] { 3, 3, 1, 1, 1 };
+	invType.defaultItems = new int[] { 1823, 946, 1833, 1835, 1837 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 5;
+	break;
+
+case 606:
+	invType.defaultItemAmounts = new int[] { 1, 1, 0, 0 };
+	invType.defaultItems = new int[] { 1623, 1621, 1619, 1617 };
+	invType.capacity = 4;
+	invType.defaultItemCount = 4;
+	break;
+
+case 607:
+	invType.defaultItemAmounts = new int[] { 10 };
+	invType.defaultItems = new int[] { 1963 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 608:
+	invType.defaultItemAmounts = new int[] { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+	invType.defaultItems = new int[] { 20211, 20219, 20227, 20235, 20243, 20251, 20212, 20220, 20228, 20236, 20244, 20252, 20213, 20221, 20229, 20237, 20245, 20253, 20214, 20222, 20230, 20238, 20246, 20254, 20215, 20223, 20231, 20239, 20247, 20255, 20216, 20224, 20232, 20240, 20248, 20256, 20217, 20225, 20233, 20241, 20249, 20257 };
+	invType.capacity = 42;
+	invType.defaultItemCount = 42;
+	break;
+
+case 609:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 100, 50, 400, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 2520, 2522, 2524, 2526, 4613, 12844, 20179, 20180, 20720, 20722, 20716, 20718, 20725, 20714, 24144, 24406, 24408, 24410, 24412, 24414, 24416 };
+	invType.capacity = 21;
+	invType.defaultItemCount = 21;
+	break;
+
+case 610:
+	invType.capacity = 28;
+	break;
+
+case 611:
+	invType.capacity = 28;
+	break;
+
+case 612:
+	invType.capacity = 28;
+	break;
+
+case 613:
+	invType.capacity = 8;
+	break;
+
+case 614:
+	invType.capacity = 3;
+	break;
+
+case 615:
+	invType.capacity = 17;
+	break;
+
+case 616:
+	invType.capacity = 20;
+	break;
+
+case 617:
+	invType.capacity = 15;
+	break;
+
+case 618:
+	invType.capacity = 28;
+	break;
+
+case 619:
+	invType.defaultItemAmounts = new int[] { 30, 10, 30, 10, 10, 10, 10, 10, 1000, 10, 10, 100, 30, 10, 10 };
+	invType.defaultItems = new int[] { 1931, 1935, 1925, 1923, 590, 1755, 2347, 1733, 1734, 946, 954, 2132, 2138, 2134, 2136 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 15;
+	break;
+
+case 620:
+	invType.capacity = 1;
+	break;
+
+case 621:
+	invType.capacity = 30;
+	break;
+
+case 622:
+	invType.defaultItemAmounts = new int[] { 3, 2, 2, 2, 50, 2, 1, 20, 40, 40, 40 };
+	invType.defaultItems = new int[] { 1935, 233, 946, 1733, 1734, 590, 1511, 229, 22452, 22454, 22456 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 11;
+	break;
+
+case 623:
+	invType.defaultItemAmounts = new int[] { 0 };
+	invType.defaultItems = new int[] { 995 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 624:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 22969, 22972, 22970, 22971, 10166 };
+	invType.capacity = 30;
+	invType.defaultItemCount = 5;
+	break;
+
+case 625:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 22552, 22558, 22554, 22556, 10166 };
+	invType.capacity = 30;
+	invType.defaultItemCount = 5;
+	break;
+
+case 626:
+	invType.capacity = 1;
+	break;
+
+case 627:
+	invType.capacity = 6;
+	break;
+
+case 628:
+	invType.defaultItemAmounts = new int[] { 10, 10, 0, 0, 0, 0, 0, 65000, 5000, 65000, 0, 0 };
+	invType.defaultItems = new int[] { 12204, 12207, 12210, 12213, 12216, 12219, 12222, 12183, 12155, 15262, 12158, 2859 };
+	invType.capacity = 22;
+	invType.defaultItemCount = 12;
+	break;
+
+case 629:
+	invType.defaultItemAmounts = new int[] { 7, 1, 1, 1 };
+	invType.defaultItems = new int[] { 12183, 12155, 12158, 2859 };
+	invType.capacity = 4;
+	invType.defaultItemCount = 4;
+	break;
+
+case 630:
+	invType.defaultItemAmounts = new int[] { 10 };
+	invType.defaultItems = new int[] { 1265 };
+	invType.capacity = 12;
+	invType.defaultItemCount = 1;
+	break;
+
+case 631:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 1265 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 632:
+	invType.defaultItemAmounts = new int[] { 300, 10, 10, 3000, 1000, 1, 10, 10, 10, 10, 10, 10, 1000, 1, 1, 1000, 1, 10, 10, 10, 10, 1000, 1, 10, 10, 10 };
+	invType.defaultItems = new int[] { 4155, 4156, 4158, 4160, 4161, 34960, 4162, 4164, 4166, 4168, 4170, 4551, 6664, 34963, 34965, 6696, 34961, 6720, 7051, 7159, 7421, 7432, 34962, 8923, 10952, 23035 };
+	invType.capacity = 36;
+	invType.defaultItemCount = 26;
+	break;
+
+case 633:
+	invType.defaultItemAmounts = new int[] { 300, 10, 10, 3000, 1000, 1, 10, 10, 10, 10, 10, 10, 1000, 1, 1, 1000, 1, 10, 10, 10, 10, 1000, 1, 10, 10, 3000, 3000, 10 };
+	invType.defaultItems = new int[] { 4155, 4156, 4158, 4160, 4161, 34960, 4162, 4164, 4166, 4168, 4170, 4551, 6664, 34963, 34965, 6696, 34961, 6720, 7051, 7159, 7421, 7432, 34962, 8923, 10952, 13278, 13279, 23035 };
+	invType.capacity = 38;
+	invType.defaultItemCount = 28;
+	break;
+
+case 634:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 23035 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 635:
+	invType.defaultItemAmounts = new int[] { 10, 6, 20, 40, 10, 10, 20, 5, 5, 5 };
+	invType.defaultItems = new int[] { 229, 15362, 227, 15363, 233, 221, 15364, 235, 225, 239 };
+	invType.capacity = 17;
+	invType.defaultItemCount = 10;
+	break;
+
+case 636:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1 };
+	invType.defaultItems = new int[] { 227, 221, 199 };
+	invType.capacity = 3;
+	invType.defaultItemCount = 3;
+	break;
+
+case 637:
+	invType.defaultItemAmounts = new int[] { 10, 300, 10, 30 };
+	invType.defaultItems = new int[] { 10010, 10012, 10150, 10006 };
+	invType.capacity = 14;
+	invType.defaultItemCount = 4;
+	break;
+
+case 638:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 10006 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 1;
+	break;
+
+case 639:
+	invType.defaultItemAmounts = new int[] { 10 };
+	invType.defaultItems = new int[] { 2347 };
+	invType.capacity = 11;
+	invType.defaultItemCount = 1;
+	break;
+
+case 640:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 2347 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 641:
+	invType.defaultItemAmounts = new int[] { 300, 300, 300, 300, 100, 100, 30, 10 };
+	invType.defaultItems = new int[] { 554, 555, 556, 557, 558, 559, 562, 560 };
+	invType.capacity = 18;
+	invType.defaultItemCount = 8;
+	break;
+
+case 642:
+	invType.defaultItemAmounts = new int[] { 30, 30, 1 };
+	invType.defaultItems = new int[] { 556, 558, 1448 };
+	invType.capacity = 3;
+	invType.defaultItemCount = 3;
+	break;
+
+case 643:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10 };
+	invType.defaultItems = new int[] { 1351, 1349, 1353 };
+	invType.capacity = 13;
+	invType.defaultItemCount = 3;
+	break;
+
+case 644:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 1351 };
+	invType.capacity = 3;
+	invType.defaultItemCount = 1;
+	break;
+
+case 645:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 30, 10, 500, 10 };
+	invType.defaultItems = new int[] { 2313, 1982, 1887, 1923, 1942, 590, 1935, 1931, 1973, 1933, 1980 };
+	invType.capacity = 21;
+	invType.defaultItemCount = 11;
+	break;
+
+case 646:
+	invType.defaultItemAmounts = new int[] { 1, 1 };
+	invType.defaultItems = new int[] { 2313, 1931 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 647:
+	invType.defaultItemAmounts = new int[] { 10, 40, 10, 10 };
+	invType.defaultItems = new int[] { 13431, 303, 307, 313 };
+	invType.capacity = 14;
+	invType.defaultItemCount = 4;
+	break;
+
+case 648:
+	invType.defaultItemAmounts = new int[] { 10 };
+	invType.defaultItems = new int[] { 313 };
+	invType.capacity = 4;
+	invType.defaultItemCount = 1;
+	break;
+
+case 649:
+	invType.defaultItemAmounts = new int[] { 14, 10, 5, 10, 10, 1, 1, 1, 1, 1, 1, 10, 10 };
+	invType.defaultItems = new int[] { 1755, 1733, 1734, 1925, 1735, 1592, 1595, 1597, 11065, 1599, 5523, 2976, 9434 };
+	invType.capacity = 24;
+	invType.defaultItemCount = 13;
+	break;
+
+case 650:
+	invType.defaultItemAmounts = new int[] { 10, 1, 1 };
+	invType.defaultItems = new int[] { 1734, 1925, 1931 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 3;
+	break;
+
+case 651:
+	invType.defaultItemAmounts = new int[] { 10, 10 };
+	invType.defaultItems = new int[] { 596, 590 };
+	invType.capacity = 12;
+	invType.defaultItemCount = 2;
+	break;
+
+case 652:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 590 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 653:
+	invType.capacity = 40;
+	break;
+
+case 654:
+	invType.defaultItemAmounts = new int[] { 10, 10 };
+	invType.defaultItems = new int[] { 2347, 8794 };
+	invType.capacity = 12;
+	invType.defaultItemCount = 2;
+	break;
+
+case 655:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 30, 1, 1 };
+	invType.defaultItems = new int[] { 19830, 1173, 1175, 1103, 1101, 1139, 1137, 1117, 1115, 1075, 1067, 1087, 1081, 1129, 1131, 1095, 1375, 1363, 1307, 1309, 1379, 1389, 882, 841, 839 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 25;
+	break;
+
+case 656:
+	invType.defaultItemAmounts = new int[] { 5, 20, 20, 5 };
+	invType.defaultItems = new int[] { 2309, 882, 556, 1067 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 4;
+	break;
+
+case 657:
+	invType.defaultItemAmounts = new int[] { 1, 1 };
+	invType.defaultItems = new int[] { 1277, 19830 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 658:
+	invType.defaultItemAmounts = new int[] { 10, 100, 15, 15 };
+	invType.defaultItems = new int[] { 946, 314, 39, 1777 };
+	invType.capacity = 12;
+	invType.defaultItemCount = 4;
+	break;
+
+case 659:
+	invType.defaultItemAmounts = new int[] { 15, 15, 1 };
+	invType.defaultItems = new int[] { 314, 39, 1777 };
+	invType.capacity = 3;
+	invType.defaultItemCount = 3;
+	break;
+
+case 660:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 30, 300, 100, 10, 10, 10, 10, 10, 10, 100, 10, 1, 10, 1, 10, 10, 10, 20 };
+	invType.defaultItems = new int[] { 5318, 5319, 5324, 5322, 5320, 5323, 5331, 6032, 5354, 5343, 5325, 952, 5329, 5341, 5345, 1925, 5418, 15367, 5376, 15366, 6036, 12608, 12622, 1735 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 24;
+	break;
+
+case 661:
+	invType.defaultItemAmounts = new int[] { 3, 1 };
+	invType.defaultItems = new int[] { 5318, 1942 };
+	invType.capacity = 40;
+	invType.defaultItemCount = 2;
+	break;
+
+case 662:
+	invType.capacity = 1;
+	break;
+
+case 663:
+	invType.defaultItemAmounts = new int[] { 50000, 50000 };
+	invType.defaultItems = new int[] { 24127, 24133 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 2;
+	break;
+
+case 664:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 24163, 24164, 24165, 24167, 24166, 24168, 24707, 19748, 19893, 31387, 31383, 31384, 31385, 31386, 33574, 33575, 33576, 33577, 33760, 33761, 33762, 33763, 33764, 33765, 33766, 33767, 33872, 10166 };
+	invType.capacity = 30;
+	invType.defaultItemCount = 28;
+	break;
+
+case 665:
+	invType.capacity = 13;
+	break;
+
+case 666:
+	invType.capacity = 30;
+	break;
+
+case 667:
+	invType.defaultItemAmounts = new int[] { 50, 50, 50, 50 };
+	invType.defaultItems = new int[] { 24396, 24398, 24400, 24402 };
+	invType.capacity = 4;
+	invType.defaultItemCount = 4;
+	break;
+
+case 668:
+	invType.defaultItemAmounts = new int[] { 50, 50, 50, 50, 50 };
+	invType.defaultItems = new int[] { 24396, 24398, 24400, 24402, 24404 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 669:
+	invType.defaultItemAmounts = new int[] { 10, 100, 50, 400, 10, 10, 100, 100, 100, 100, 100, 100 };
+	invType.defaultItems = new int[] { 20179, 20180, 20720, 20722, 20716, 20718, 24406, 24408, 24410, 24412, 24414, 24416 };
+	invType.capacity = 12;
+	invType.defaultItemCount = 12;
+	break;
+
+case 670:
+	invType.capacity = 19;
+	break;
+
+case 671:
+	invType.capacity = 19;
+	break;
+
+case 672:
+	invType.capacity = 19;
+	break;
+
+case 673:
+	invType.capacity = 20;
+	break;
+
+case 674:
+	invType.capacity = 100;
+	break;
+
+case 675:
+	invType.capacity = 30;
+	break;
+
+case 676:
+	invType.capacity = 47;
+	break;
+
+case 677:
+	invType.capacity = 30;
+	break;
+
+case 678:
+	invType.capacity = 4;
+	break;
+
+case 679:
+	invType.capacity = 11;
+	break;
+
+case 680:
+	invType.capacity = 11;
+	break;
+
+case 681:
+	invType.capacity = 11;
+	break;
+
+case 682:
+	invType.capacity = 11;
+	break;
+
+case 683:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 6656, 6654, 6655, 6188, 6184, 6185, 6182, 6180, 6181, 3057, 3058, 3059, 3060, 3061, 7594, 7592, 7593, 7595, 7596 };
+	invType.capacity = 19;
+	invType.defaultItemCount = 19;
+	break;
+
+case 684:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 6656, 6654, 6655, 6188, 6186, 6187, 6182, 6180, 6181, 3057, 3058, 3059, 3060, 3061, 7594, 7592, 7593, 7595, 7596 };
+	invType.capacity = 19;
+	invType.defaultItemCount = 19;
+	break;
+
+case 685:
+	invType.capacity = 9;
+	break;
+
+case 686:
+	invType.capacity = 30;
+	break;
+
+case 687:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 26124, 26126, 26128, 26130, 26132, 26134, 26136, 26138, 26140, 28761, 28779, 28912, 28933, 30294, 30312, 14936, 30892, 31262, 31635, 31638, 31636, 31637, 31633, 31634, 31816, 10166, 34866 };
+	invType.capacity = 30;
+	invType.defaultItemCount = 27;
+	break;
+
+case 688:
+	invType.capacity = 12;
+	break;
+
+case 689:
+	invType.capacity = 16;
+	break;
+
+case 690:
+	invType.capacity = 28;
+	break;
+
+case 691:
+	invType.capacity = 180;
+	break;
+
+case 692:
+	invType.capacity = 180;
+	break;
+
+case 693:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1337, 25779, 1335, 25781, 1339, 25783, 1341, 25785, 1343, 25787, 1345, 25789, 29534, 29537 };
+	invType.capacity = 14;
+	invType.defaultItemCount = 14;
+	break;
+
+case 694:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 100, 100, 10 };
+	invType.defaultItems = new int[] { 1365, 1369, 1285, 1287, 1325, 1297, 1303, 853, 851, 888, 890, 29540 };
+	invType.capacity = 12;
+	invType.defaultItemCount = 12;
+	break;
+
+case 695:
+	invType.capacity = 28;
+	break;
+
+case 696:
+	invType.capacity = 19;
+	break;
+
+case 697:
+	invType.defaultItemAmounts = new int[] { 10 };
+	invType.defaultItems = new int[] { 29864 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 698:
+	invType.defaultItemAmounts = new int[] { 50, 50, 50, 50, 50 };
+	invType.defaultItems = new int[] { 30401, 30403, 30399, 30405, 30397 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 699:
+	invType.capacity = 2;
+	break;
+
+case 700:
+	invType.capacity = 28;
+	break;
+
+case 701:
+	invType.capacity = 16;
+	break;
+
+case 702:
+	invType.capacity = 28;
+	break;
+
+case 703:
+	invType.capacity = 16;
+	break;
+
+case 704:
+	invType.capacity = 28;
+	break;
+
+case 705:
+	invType.capacity = 16;
+	break;
+
+case 706:
+	invType.capacity = 28;
+	break;
+
+case 707:
+	invType.capacity = 16;
+	break;
+
+case 708:
+	invType.capacity = 28;
+	break;
+
+case 709:
+	invType.capacity = 16;
+	break;
+
+case 710:
+	invType.capacity = 28;
+	break;
+
+case 711:
+	invType.capacity = 16;
+	break;
+
+case 712:
+	invType.capacity = 28;
+	break;
+
+case 713:
+	invType.capacity = 16;
+	break;
+
+case 714:
+	invType.capacity = 28;
+	break;
+
+case 715:
+	invType.capacity = 16;
+	break;
+
+case 716:
+	invType.capacity = 28;
+	break;
+
+case 717:
+	invType.capacity = 16;
+	break;
+
+case 718:
+	invType.capacity = 28;
+	break;
+
+case 719:
+	invType.capacity = 16;
+	break;
+
+case 720:
+	invType.capacity = 28;
+	break;
+
+case 721:
+	invType.capacity = 16;
+	break;
+
+case 722:
+	invType.capacity = 28;
+	break;
+
+case 723:
+	invType.capacity = 16;
+	break;
+
+case 724:
+	invType.capacity = 28;
+	break;
+
+case 725:
+	invType.capacity = 16;
+	break;
+
+case 726:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 19713 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 1;
+	break;
+
+case 727:
+	invType.defaultItemAmounts = new int[] { 1, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 31348, 5312, 5313, 5314, 5315, 5287, 5288, 5297, 5299, 21621, 5295, 5300, 5296, 5301, 5298, 5304, 5302, 5303, 5100, 5323, 5321, 5281, 21620, 5311 };
+	invType.capacity = 29;
+	invType.defaultItemCount = 24;
+	break;
+
+case 728:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 100, 50, 400, 10, 10, 10, 5 };
+	invType.defaultItems = new int[] { 2520, 2522, 2524, 2526, 4613, 12844, 20179, 20180, 20720, 20722, 20716, 20718, 20725, 31620 };
+	invType.capacity = 14;
+	invType.defaultItemCount = 14;
+	break;
+
+case 729:
+	invType.capacity = 500;
+	break;
+
+case 730:
+	invType.capacity = 20;
+	break;
+
+case 731:
+	invType.capacity = 32;
+	break;
+
+case 732:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 9772, 9748, 9769, 9790, 9802, 9781, 9754, 29186, 18509, 9811, 9805, 9799, 9784, 9775, 9949, 9763, 9793, 9760, 9757, 9766, 9787, 9796, 9751, 12170, 9778, 9808 };
+	invType.capacity = 26;
+	invType.defaultItemCount = 26;
+	break;
+
+case 733:
+	invType.defaultItemAmounts = new int[] { 30, 10, 10, 10, 10, 0, 0, 0, 0, 10, 10, 10, 10, 10, 10, 10, 10, 10, 5, 4, 3, 5, 5, 4, 4, 3, 10 };
+	invType.defaultItems = new int[] { 1925, 5331, 5318, 5319, 5324, 5322, 5320, 5323, 5321, 5305, 5306, 5097, 5096, 5307, 5308, 5309, 5310, 5311, 5358, 5359, 5360, 5480, 5482, 5481, 5483, 5484, 5354 };
+	invType.capacity = 27;
+	invType.defaultItemCount = 27;
+	break;
+
+case 734:
+	invType.defaultItemAmounts = new int[] { 20 };
+	invType.defaultItems = new int[] { 1392 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 735:
+	invType.capacity = 19;
+	break;
+
+case 736:
+	invType.defaultItemAmounts = new int[] { 5 };
+	invType.defaultItems = new int[] { 32615 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 737:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 1000, 10, 10 };
+	invType.defaultItems = new int[] { 946, 2347, 1755, 1592, 1597, 1595, 1599, 2976, 5523, 9434, 11065, 1733, 1734, 1759, 1785 };
+	invType.capacity = 15;
+	invType.defaultItemCount = 15;
+	break;
+
+case 738:
+	invType.defaultItemAmounts = new int[] { 4, 10, 6, 20, 40, 10, 10, 20, 5, 5, 5 };
+	invType.defaultItems = new int[] { 32665, 229, 15362, 227, 15363, 233, 221, 15364, 235, 225, 239 };
+	invType.capacity = 11;
+	invType.defaultItemCount = 11;
+	break;
+
+case 739:
+	invType.defaultItemAmounts = new int[] { 5, 150, 150, 150, 150, 250, 15, 15, 15 };
+	invType.defaultItems = new int[] { 8794, 8790, 4819, 4820, 1539, 3420, 8786, 8784, 8788 };
+	invType.capacity = 9;
+	invType.defaultItemCount = 9;
+	break;
+
+case 740:
+	invType.defaultItemAmounts = new int[] { 10, 300, 300, 300, 300, 500, 30, 30, 30 };
+	invType.defaultItems = new int[] { 8794, 8790, 4819, 4820, 1539, 3420, 8786, 8784, 8788 };
+	invType.capacity = 9;
+	invType.defaultItemCount = 9;
+	break;
+
+case 741:
+	invType.capacity = 32;
+	break;
+
+case 742:
+	invType.capacity = 19;
+	break;
+
+case 743:
+	invType.capacity = 19;
+	break;
+
+case 744:
+	invType.defaultItemAmounts = new int[] { 16 };
+	invType.defaultItems = new int[] { 1391 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 745:
+	invType.defaultItemAmounts = new int[] { 15 };
+	invType.defaultItems = new int[] { 1939 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 746:
+	invType.defaultItemAmounts = new int[] { 30 };
+	invType.defaultItems = new int[] { 1939 };
+	invType.capacity = 1;
+	invType.defaultItemCount = 1;
+	break;
+
+case 747:
+	invType.capacity = 19;
+	break;
+
+case 748:
+	invType.capacity = 28;
+	break;
+
+case 749:
+	invType.defaultItemAmounts = new int[] { 10, 30, 10, 30, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 229, 1925, 1935, 1931, 1923, 1887, 1735, 590, 1755, 2347, 5341, 952, 5331 };
+	invType.capacity = 13;
+	invType.defaultItemCount = 13;
+	break;
+
+case 750:
+	invType.defaultItemAmounts = new int[] { 10, 10 };
+	invType.defaultItems = new int[] { 34351, 34352 };
+	invType.capacity = 8;
+	invType.defaultItemCount = 2;
+	break;
+
+case 751:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 2 };
+	invType.defaultItems = new int[] { 34374, 1942, 1957, 1982, 34462 };
+	invType.capacity = 10;
+	invType.defaultItemCount = 5;
+	break;
+
+case 752:
+	invType.defaultItemAmounts = new int[] { 1, 1, 1, 1, 1, 1, 1, 1, 1, 10, 1000, 5 };
+	invType.defaultItems = new int[] { 34382, 34384, 34386, 34409, 34411, 34413, 34415, 34417, 34354, 1733, 1734, 1759 };
+	invType.capacity = 12;
+	invType.defaultItemCount = 12;
+	break;
+
+case 753:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1139, 1103, 1075, 1087, 1173 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 754:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 436, 438, 440, 444 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 4;
+	break;
+
+case 755:
+	invType.defaultItemAmounts = new int[] { 1 };
+	invType.defaultItems = new int[] { 1277 };
+	invType.capacity = 2;
+	invType.defaultItemCount = 1;
+	break;
+
+case 756:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1351, 1375, 25761, 1205, 25692, 3190, 1291, 25725, 1321, 25743, 1277, 25710 };
+	invType.capacity = 12;
+	invType.defaultItemCount = 12;
+	break;
+
+case 757:
+	invType.defaultItemAmounts = new int[] { 30, 30 };
+	invType.defaultItems = new int[] { 882, 877 };
+	invType.capacity = 3;
+	invType.defaultItemCount = 2;
+	break;
+
+case 758:
+	invType.defaultItemAmounts = new int[] { 100, 100, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 884, 9140, 841, 839, 25919, 9174, 25881, 807, 25910, 826, 863, 25896, 801, 25904 };
+	invType.capacity = 14;
+	invType.defaultItemCount = 14;
+	break;
+
+case 759:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 1167, 1129, 1095, 25806, 1741, 1743, 1734 };
+	invType.capacity = 10;
+	invType.defaultItemCount = 7;
+	break;
+
+case 760:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 579, 577, 1011, 25646, 25656, 1381, 1383, 1385, 1387, 25545, 1734 };
+	invType.capacity = 12;
+	invType.defaultItemCount = 11;
+	break;
+
+case 761:
+	invType.defaultItemAmounts = new int[] { 15, 15, 15, 15 };
+	invType.defaultItems = new int[] { 554, 555, 556, 557 };
+	invType.capacity = 4;
+	invType.defaultItemCount = 4;
+	break;
+
+case 762:
+	invType.defaultItemAmounts = new int[] { 300, 300, 300, 300, 100, 100, 30, 30, 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 554, 555, 556, 557, 558, 559, 564, 562, 561, 563, 560, 9075, 565 };
+	invType.capacity = 13;
+	invType.defaultItemCount = 13;
+	break;
+
+case 763:
+	invType.defaultItemAmounts = new int[] { 10, 1, 1, 1, 1, 10, 10, 10, 10, 10, 10, 10, 10, 10, 5, 5, 5, 5 };
+	invType.defaultItems = new int[] { 1755, 1623, 1621, 1619, 1617, 1592, 1597, 1595, 1733, 1599, 2976, 5523, 9434, 11065, 1511, 1521, 1519, 6333 };
+	invType.capacity = 18;
+	invType.defaultItemCount = 18;
+	break;
+
+case 764:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10 };
+	invType.defaultItems = new int[] { 436, 438, 440, 444, 453 };
+	invType.capacity = 5;
+	invType.defaultItemCount = 5;
+	break;
+
+case 765:
+	invType.defaultItemAmounts = new int[] { 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 7 };
+	invType.defaultItems = new int[] { 579, 577, 1011, 25646, 25656, 1381, 1383, 1385, 1387, 25545, 1734, 25547 };
+	invType.capacity = 12;
+	invType.defaultItemCount = 12;
+	break;
+
+case 766:
+	invType.capacity = 551;
+	break;
+
+case 767:
+	invType.capacity = 551;
+	break;
+
+case 768:
+	invType.capacity = 551;
+	break;
+
+case 769:
+	invType.capacity = 551;
+	break;
+
+case 770:
+	invType.capacity = 551;
+	break;
+
+case 771:
+	invType.capacity = 551;
+	break;
+
+case 772:
+	invType.capacity = 551;
+	break;
+
+case 773:
+	invType.capacity = 28;
+	break;
+
+case 774:
+	invType.capacity = 25;
+	break;
+
+case 775:
+	invType.capacity = 25;
+	break;
+
+case 776:
+	invType.capacity = 1;
+	break;
+
+case 777:
+	invType.capacity = 28;
+	break;
+
+case 778:
+	invType.capacity = 19;
+	break;
+
+case 779:
+	invType.capacity = 1;
+	break;
+
+case 780:
+	invType.capacity = 1;
+	break;
+
+case 781:
+	invType.capacity = 1;
+	break;
+
+case 782:
+	invType.capacity = 1;
+	break;
+
+case 783:
+	invType.capacity = 2;
+	break;
+
+case 784:
+	invType.capacity = 2;
+	break;
+
+case 785:
+	invType.capacity = 20;
+	break;
+
+case 786:
+	invType.defaultItemAmounts = new int[] { 15, 3, 1, 1, 1, 1, 1, 1 };
+	invType.defaultItems = new int[] { 35199, 3024, 12140, 2436, 2440, 2442, 3040, 2444 };
+	invType.capacity = 8;
+	invType.defaultItemCount = 8;
+	break;

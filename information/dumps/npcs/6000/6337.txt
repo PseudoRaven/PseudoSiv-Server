@@ -1,0 +1,10 @@
+id=6337
+name=Child
+description=A child of West Ardougne.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=989
+name=Sir Carl
+description=A mighty-looking warrior.
+size=1
+xp=233.1
+lifepoints=2900
+level=81
+attack=58
+defence=58
+ranged=0
+magic=0
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=["Underground path"]
+aggressive=false

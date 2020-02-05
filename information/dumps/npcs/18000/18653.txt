@@ -1,0 +1,17 @@
+id=18653
+name=Bandosian bodyguard
+description=A tough Bandosian bodyguard, protecting caravans.
+size=2
+xp=1035.4
+lifepoints=30000
+level=70
+attack=50
+defence=50
+ranged=1
+magic=1
+animations={death:17506,attack:17505}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=false

@@ -1,0 +1,10 @@
+id=18203
+name=Aoife Fairweather
+description=She has a strange energy about her.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

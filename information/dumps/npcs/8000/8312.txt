@@ -1,0 +1,17 @@
+id=8312
+name=Elite Dark Warrior
+description=An elite dark warrior with lots of combat experience.
+size=1
+xp=419.1
+lifepoints=3500
+level=98
+attack=70
+defence=70
+ranged=1
+magic=1
+animations={death:10846,attack:10844}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=["Black Knights' catacombs"]
+aggressive=true

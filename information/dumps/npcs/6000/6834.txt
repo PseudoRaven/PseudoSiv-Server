@@ -1,0 +1,17 @@
+id=6834
+name=Evil turnip
+description=If you think he's evil, you should see the carrots.
+size=1
+xp=124.6
+lifepoints=5200
+level=50
+attack=38
+defence=34
+ranged=38
+magic=38
+animations={range:8251,death:8250,attack:8248}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

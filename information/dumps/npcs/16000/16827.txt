@@ -1,0 +1,10 @@
+id=16827
+name=Talsar
+description=Has a feeling there are more dungeons than meet the eye.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

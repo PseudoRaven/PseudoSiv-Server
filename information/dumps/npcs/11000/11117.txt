@@ -1,0 +1,17 @@
+id=11117
+name=Brah bloodrager
+description=Trained from birth to tear and rend. (Tier 6)
+size=1
+xp=385.2
+lifepoints=7500
+level=84
+attack=60
+defence=60
+ranged=60
+magic=60
+animations={death:13683,attack:13617}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

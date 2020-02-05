@@ -1,0 +1,10 @@
+id=1912
+name=Elissa
+description=An old archaeologist.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

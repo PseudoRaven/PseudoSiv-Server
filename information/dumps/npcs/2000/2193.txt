@@ -1,0 +1,10 @@
+id=2193
+name=Ulifed
+description=A dwarf minding his own business.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

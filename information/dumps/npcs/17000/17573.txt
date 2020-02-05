@@ -1,0 +1,12 @@
+id=17573
+name=Saradominist crusader
+description=For justice!
+size=1
+xp=539719.5
+animations={}
+attackable=true
+poisonous=false
+weakness="Fire"
+abilities=["Slice","Sever","Smash","Backhand","Slaughter","Hurricane","Meteor Strike","Overpower","Dismember","Punish","Assault","Berserk","Quake","Freedom"]
+areas=[]
+aggressive=false

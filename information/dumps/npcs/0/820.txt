@@ -1,0 +1,10 @@
+id=820
+name=Poison Salesman
+description=He sure likes to sell stuff!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=20283
+name=Meilyr Guard
+description=Guards the entrance to the edimmu section of Clan Meilyr's resource dungeon.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Edimmu Dungeon"]
+aggressive=false
+members=false

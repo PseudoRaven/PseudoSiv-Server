@@ -1,0 +1,10 @@
+id=6132
+name=Goblin
+description=The studious one.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Classroom"]
+aggressive=false
+members=false

@@ -1,0 +1,16 @@
+id=15578
+name=Supreme Ded Meet
+description=A worthy opponent!
+size=1
+xp=0.5
+lifepoints=1000
+level=35
+attack=20
+defence=30
+ranged=1
+magic=1
+animations={death:843,attack:12311}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

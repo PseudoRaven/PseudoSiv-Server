@@ -1,0 +1,10 @@
+id=1661
+name=Agility Boss
+description=He's in charge of the Agility Course.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Morytania underground"]
+aggressive=false
+members=true

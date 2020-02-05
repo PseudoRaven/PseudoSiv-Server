@@ -1,0 +1,17 @@
+id=17603
+name=Zamorakian butcher demon
+description=An embodiment of terror.
+size=3
+xp=161.8
+lifepoints=85000
+level=0
+attack=132
+defence=132
+ranged=132
+magic=132
+animations={death:20692,attack:20691}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

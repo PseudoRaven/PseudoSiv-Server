@@ -1,0 +1,17 @@
+id=6048
+name=Armoured cow thing
+description=Now it has no armour, Thok squish it good.
+size=5
+xp=0
+lifepoints=5500
+level=62
+attack=95
+defence=1
+ranged=95
+magic=95
+animations={death:13005,attack:13001}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

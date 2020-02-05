@@ -1,0 +1,17 @@
+id=8600
+name=Barricade
+description=Perfect for hindering the enemy.
+size=1
+xp=2502.4
+lifepoints=10000
+level=0
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={}
+attackable=true
+poisonous=false
+weakness="Slashing"
+areas=[]
+aggressive=false

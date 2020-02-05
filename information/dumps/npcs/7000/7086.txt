@@ -1,0 +1,17 @@
+id=7086
+name=Ourg statue
+description=Dead stone defending a dead throne room.
+size=4
+xp=332.5
+lifepoints=5700
+level=79
+attack=57
+defence=57
+ranged=0
+magic=0
+animations={death:11410,attack:11408}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=false

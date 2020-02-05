@@ -1,0 +1,17 @@
+id=5170
+name=Ram
+description=White and shaggy.
+size=1
+xp=24.9
+lifepoints=100
+level=2
+attack=2
+defence=2
+ranged=0
+magic=0
+animations={death:5336,attack:5338}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface"]
+aggressive=false

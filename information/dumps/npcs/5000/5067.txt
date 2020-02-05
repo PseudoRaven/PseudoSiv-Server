@@ -1,0 +1,10 @@
+id=5067
+name=Shark
+description=Time to run away...
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Crash site"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=8597
+name=Avatar of Creation
+description=A being of unsurpassed vitality.
+size=5
+xp=4062.1
+lifepoints=125000
+level=65
+attack=99
+defence=1
+ranged=1
+magic=1
+animations={death:11204,attack:11202}
+attackable=true
+poisonous=false
+weakness="None"
+areas=["Soul Wars"]
+aggressive=true

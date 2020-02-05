@@ -1,0 +1,10 @@
+id=1282
+name=Sigmund The Merchant
+description=A Fremennik merchant.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

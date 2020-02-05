@@ -1,0 +1,17 @@
+id=6872
+name=Compost mound
+description=I suppose it could smell worse, I just can't think how.
+size=2
+xp=100.8
+lifepoints=3800
+level=34
+attack=26
+defence=23
+ranged=26
+magic=26
+animations={death:7770,attack:7769}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

@@ -1,0 +1,17 @@
+id=11155
+name=Brave hoardstalker
+description=Trained from birth to provide for the camp. (Tier 5)
+size=1
+xp=301.9
+lifepoints=6875
+level=77
+attack=55
+defence=55
+ranged=55
+magic=55
+animations={range:13617,death:13683,attack:13617}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

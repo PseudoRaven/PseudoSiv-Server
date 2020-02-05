@@ -1,0 +1,10 @@
+id=3443
+name=Fish
+description=A shoal of Neon Tetra.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Underwater cave","Dragontooth shipwreck"]
+aggressive=false
+members=true

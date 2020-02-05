@@ -1,0 +1,17 @@
+id=11353
+name=Ivory Gromblod (cursed)
+description=A cursed ivory version of General Gromblod.
+size=2
+xp=244.8
+lifepoints=2950
+level=82
+attack=1
+defence=59
+ranged=59
+magic=1
+animations={range:13919,death:13915}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=["Orks Rift"]
+aggressive=false

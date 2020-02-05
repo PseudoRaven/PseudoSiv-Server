@@ -1,0 +1,17 @@
+id=6712
+name=Barrelchest Mk II
+description=It's trying to mash your house! Less examine, more fight!
+size=3
+xp=513.6
+lifepoints=10000
+level=84
+attack=60
+defence=60
+ranged=60
+magic=60
+animations={range:9618,death:5898,attack:5894}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

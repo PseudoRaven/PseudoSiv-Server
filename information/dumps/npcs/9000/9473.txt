@@ -1,0 +1,10 @@
+id=9473
+name=Compost mound
+description=I suppose it could smell worse, I just can't think how.
+xp=8.4
+animations={}
+attackable=true
+poisonous=false
+areas=["Spirit Plane"]
+aggressive=true
+members=true

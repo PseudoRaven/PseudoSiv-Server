@@ -1,0 +1,17 @@
+id=7085
+name=Ogre statue
+description=Dead stone defending a dead throne room.
+size=2
+xp=192
+lifepoints=5000
+level=75
+attack=54
+defence=54
+ranged=0
+magic=0
+animations={death:11403,attack:11404}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=false

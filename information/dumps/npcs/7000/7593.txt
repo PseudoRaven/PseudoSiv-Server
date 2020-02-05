@@ -1,0 +1,10 @@
+id=7593
+name=Trainee KGP agent
+description=He's a little rough around the edges.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Miscellania Underground"]
+aggressive=false
+members=true

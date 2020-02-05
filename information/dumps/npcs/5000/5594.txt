@@ -1,0 +1,17 @@
+id=5594
+name=Spidine
+description=Does whatever a spider-sardine does.
+size=1
+xp=125.7
+lifepoints=2250
+level=63
+attack=33
+defence=45
+ranged=45
+magic=0
+animations={death:146,attack:143}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=false

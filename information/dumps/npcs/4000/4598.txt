@@ -1,0 +1,10 @@
+id=4598
+name=Wurbel
+description=He looks like a big gnomeball fan.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

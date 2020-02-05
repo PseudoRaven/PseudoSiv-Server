@@ -1,0 +1,10 @@
+id=2564
+name=Ordan
+description=He smells of rock dust.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Blast furnace"]
+aggressive=false
+members=true

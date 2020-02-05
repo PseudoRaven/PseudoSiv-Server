@@ -1,0 +1,566 @@
+
+case 0:
+	mapSceneType.spriteId = 1603;
+	break;
+
+case 1:
+	mapSceneType.spriteId = 1604;
+	break;
+
+case 2:
+	mapSceneType.spriteId = 1605;
+	break;
+
+case 3:
+	mapSceneType.spriteId = 1606;
+	break;
+
+case 4:
+	mapSceneType.spriteId = 1607;
+	break;
+
+case 5:
+	mapSceneType.spriteId = 1608;
+	break;
+
+case 6:
+	mapSceneType.spriteId = 1609;
+	break;
+
+case 7:
+	mapSceneType.spriteId = 1610;
+	break;
+
+case 8:
+	mapSceneType.spriteId = 1611;
+	break;
+
+case 9:
+	mapSceneType.spriteId = 1612;
+	break;
+
+case 10:
+	mapSceneType.spriteId = 1613;
+	break;
+
+case 11:
+	mapSceneType.spriteId = 1614;
+	break;
+
+case 12:
+	mapSceneType.spriteId = 1615;
+	break;
+
+case 13:
+	mapSceneType.spriteId = 1616;
+	break;
+
+case 14:
+	mapSceneType.spriteId = 1617;
+	break;
+
+case 15:
+	mapSceneType.spriteId = 1618;
+	break;
+
+case 16:
+	mapSceneType.spriteId = 1619;
+	break;
+
+case 17:
+	mapSceneType.spriteId = 1620;
+	break;
+
+case 18:
+	mapSceneType.spriteId = 1621;
+	break;
+
+case 19:
+	mapSceneType.spriteId = 1622;
+	break;
+
+case 20:
+	mapSceneType.spriteId = 1623;
+	break;
+
+case 21:
+	mapSceneType.spriteId = 1624;
+	break;
+
+case 22:
+	mapSceneType.spriteId = -1;
+	break;
+
+case 23:
+	mapSceneType.spriteId = 1625;
+	break;
+
+case 24:
+	mapSceneType.spriteId = 1626;
+	break;
+
+case 25:
+	mapSceneType.spriteId = 1627;
+	break;
+
+case 26:
+	mapSceneType.spriteId = 1628;
+	break;
+
+case 27:
+	mapSceneType.spriteId = 1629;
+	break;
+
+case 28:
+	mapSceneType.spriteId = 1630;
+	break;
+
+case 29:
+	mapSceneType.spriteId = 1631;
+	break;
+
+case 30:
+	mapSceneType.spriteId = 1632;
+	break;
+
+case 31:
+	mapSceneType.spriteId = 1633;
+	break;
+
+case 32:
+	mapSceneType.spriteId = 1634;
+	break;
+
+case 33:
+	mapSceneType.spriteId = 1635;
+	break;
+
+case 34:
+	mapSceneType.spriteId = 1636;
+	break;
+
+case 35:
+	mapSceneType.spriteId = 1637;
+	break;
+
+case 36:
+	mapSceneType.spriteId = -1;
+	break;
+
+case 37:
+	mapSceneType.spriteId = -1;
+	break;
+
+case 38:
+	mapSceneType.spriteId = -1;
+	break;
+
+case 39:
+	mapSceneType.spriteId = -1;
+	break;
+
+case 40:
+	mapSceneType.spriteId = -1;
+	break;
+
+case 41:
+	mapSceneType.spriteId = 1638;
+	break;
+
+case 42:
+	mapSceneType.spriteId = 1639;
+	break;
+
+case 43:
+	mapSceneType.spriteId = 1640;
+	break;
+
+case 44:
+	mapSceneType.spriteId = 1641;
+	break;
+
+case 45:
+	mapSceneType.spriteId = 1642;
+	break;
+
+case 46:
+	mapSceneType.spriteId = 1643;
+	break;
+
+case 47:
+	mapSceneType.spriteId = 1644;
+	break;
+
+case 48:
+	mapSceneType.spriteId = 1645;
+	break;
+
+case 49:
+	mapSceneType.spriteId = 1646;
+	break;
+
+case 50:
+	mapSceneType.spriteId = 1647;
+	break;
+
+case 51:
+	mapSceneType.spriteId = 1648;
+	break;
+
+case 52:
+	mapSceneType.spriteId = 1649;
+	break;
+
+case 53:
+	mapSceneType.spriteId = 1650;
+	break;
+
+case 54:
+	mapSceneType.spriteId = 1651;
+	break;
+
+case 55:
+	mapSceneType.spriteId = 1652;
+	break;
+
+case 56:
+	mapSceneType.spriteId = 1653;
+	break;
+
+case 57:
+	mapSceneType.spriteId = 1654;
+	break;
+
+case 58:
+	mapSceneType.spriteId = 1655;
+	break;
+
+case 59:
+	mapSceneType.spriteId = 1656;
+	break;
+
+case 60:
+	mapSceneType.spriteId = 1657;
+	break;
+
+case 61:
+	mapSceneType.spriteId = 1658;
+	break;
+
+case 62:
+	mapSceneType.spriteId = 1659;
+	break;
+
+case 63:
+	mapSceneType.spriteId = 1660;
+	break;
+
+case 64:
+	mapSceneType.spriteId = 1661;
+	break;
+
+case 65:
+	mapSceneType.spriteId = 1662;
+	break;
+
+case 66:
+	mapSceneType.spriteId = 1663;
+	break;
+
+case 67:
+	mapSceneType.spriteId = 1664;
+	break;
+
+case 68:
+	mapSceneType.spriteId = 1665;
+	break;
+
+case 69:
+	mapSceneType.spriteId = 1666;
+	break;
+
+case 70:
+	mapSceneType.spriteId = 1667;
+	break;
+
+case 71:
+	mapSceneType.spriteId = 1668;
+	break;
+
+case 72:
+	mapSceneType.spriteId = 1669;
+	break;
+
+case 73:
+	mapSceneType.spriteId = 1670;
+	break;
+
+case 74:
+	mapSceneType.spriteId = 1671;
+	break;
+
+case 75:
+	mapSceneType.spriteId = 1672;
+	break;
+
+case 76:
+	mapSceneType.spriteId = 1673;
+	break;
+
+case 77:
+	mapSceneType.spriteId = 1674;
+	break;
+
+case 78:
+	mapSceneType.spriteId = 1675;
+	break;
+
+case 79:
+	mapSceneType.spriteId = 1676;
+	break;
+
+case 80:
+	mapSceneType.spriteId = 1677;
+	break;
+
+case 81:
+	mapSceneType.spriteId = 1678;
+	break;
+
+case 82:
+	mapSceneType.spriteId = 1679;
+	break;
+
+case 83:
+	mapSceneType.spriteId = 1680;
+	break;
+
+case 84:
+	mapSceneType.spriteId = 1681;
+	break;
+
+case 85:
+	mapSceneType.spriteId = 1682;
+	break;
+
+case 86:
+	mapSceneType.spriteId = 1683;
+	break;
+
+case 87:
+	mapSceneType.spriteId = 1684;
+	break;
+
+case 88:
+	mapSceneType.spriteId = 1685;
+	break;
+
+case 89:
+	mapSceneType.spriteId = 1686;
+	break;
+
+case 90:
+	mapSceneType.spriteId = 1687;
+	break;
+
+case 91:
+	mapSceneType.spriteId = 1688;
+	break;
+
+case 92:
+	mapSceneType.spriteId = 1689;
+	break;
+
+case 93:
+	mapSceneType.spriteId = 2315;
+	break;
+
+case 94:
+	mapSceneType.spriteId = 2316;
+	break;
+
+case 95:
+	mapSceneType.spriteId = -1;
+	break;
+
+case 96:
+	mapSceneType.spriteId = 1624;
+	mapSceneType.enlarge = true;
+	break;
+
+case 97:
+	mapSceneType.spriteId = 2424;
+	mapSceneType.enlarge = true;
+	break;
+
+case 98:
+	mapSceneType.spriteId = 8460;
+	mapSceneType.enlarge = true;
+	break;
+
+case 99:
+	mapSceneType.spriteId = 2426;
+	break;
+
+case 100:
+	mapSceneType.spriteId = 2427;
+	break;
+
+case 101:
+	mapSceneType.spriteId = 8461;
+	mapSceneType.enlarge = true;
+	break;
+
+case 102:
+	mapSceneType.spriteId = 8462;
+	mapSceneType.enlarge = true;
+	break;
+
+case 103:
+	mapSceneType.spriteId = 8463;
+	mapSceneType.enlarge = true;
+	break;
+
+case 104:
+	mapSceneType.spriteId = 8464;
+	mapSceneType.enlarge = true;
+	break;
+
+case 105:
+	mapSceneType.spriteId = 8465;
+	break;
+
+case 106:
+	mapSceneType.spriteId = 10199;
+	break;
+
+case 107:
+	mapSceneType.spriteId = 1686;
+	mapSceneType.colour = 7574716;
+	break;
+
+case 108:
+	mapSceneType.spriteId = 1687;
+	mapSceneType.colour = 7574716;
+	break;
+
+case 109:
+	mapSceneType.spriteId = 1688;
+	mapSceneType.colour = 7574716;
+	break;
+
+case 110:
+	mapSceneType.spriteId = 2424;
+	mapSceneType.colour = 7574716;
+	mapSceneType.enlarge = true;
+	break;
+
+case 111:
+	mapSceneType.spriteId = 2425;
+	mapSceneType.colour = 7574716;
+	mapSceneType.enlarge = true;
+	break;
+
+case 112:
+	mapSceneType.spriteId = 2426;
+	mapSceneType.colour = 7574716;
+	mapSceneType.enlarge = true;
+	break;
+
+case 113:
+	mapSceneType.spriteId = 12243;
+	break;
+
+case 114:
+	mapSceneType.spriteId = 12244;
+	break;
+
+case 115:
+	mapSceneType.spriteId = 12245;
+	break;
+
+case 116:
+	mapSceneType.spriteId = 12246;
+	break;
+
+case 117:
+	mapSceneType.spriteId = 12247;
+	break;
+
+case 118:
+	mapSceneType.spriteId = 12247;
+	mapSceneType.colour = 7574716;
+	break;
+
+case 119:
+	mapSceneType.spriteId = 12247;
+	mapSceneType.colour = 13546940;
+	break;
+
+case 120:
+	mapSceneType.spriteId = 12247;
+	mapSceneType.colour = 12438713;
+	break;
+
+case 121:
+	mapSceneType.spriteId = 1626;
+	mapSceneType.enlarge = true;
+	break;
+
+case 122:
+	mapSceneType.spriteId = 1627;
+	mapSceneType.enlarge = true;
+	break;
+
+case 123:
+	mapSceneType.spriteId = 17851;
+	mapSceneType.enlarge = true;
+	break;
+
+case 124:
+	mapSceneType.spriteId = 17856;
+	mapSceneType.enlarge = true;
+	break;
+
+case 125:
+	mapSceneType.spriteId = 17853;
+	mapSceneType.enlarge = true;
+	break;
+
+case 126:
+	mapSceneType.spriteId = 17852;
+	mapSceneType.enlarge = true;
+	break;
+
+case 127:
+	mapSceneType.spriteId = 17855;
+	mapSceneType.enlarge = true;
+	break;
+
+case 128:
+	mapSceneType.spriteId = 17854;
+	mapSceneType.enlarge = true;
+	break;
+
+case 129:
+	mapSceneType.spriteId = 17857;
+	mapSceneType.enlarge = true;
+	break;
+
+case 130:
+	mapSceneType.spriteId = 17858;
+	mapSceneType.enlarge = true;
+	break;
+
+case 131:
+	mapSceneType.spriteId = 20366;
+	break;
+
+case 132:
+	mapSceneType.spriteId = 300;
+	break;
+
+case 133:
+	mapSceneType.spriteId = 24987;
+	mapSceneType.enlarge = true;
+	break;

@@ -1,0 +1,17 @@
+id=799
+name=Pirate Guard
+description=A morally ambiguous guard.
+size=1
+xp=64.5
+lifepoints=1500
+level=42
+attack=30
+defence=30
+ranged=0
+magic=0
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=["RuneScape Surface"]
+aggressive=false

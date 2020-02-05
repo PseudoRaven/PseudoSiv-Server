@@ -1,0 +1,17 @@
+id=32
+name=Guard
+description=Keeps the peace... kind of.
+size=1
+xp=35.7
+lifepoints=650
+level=18
+attack=13
+defence=13
+ranged=1
+magic=1
+animations={death:836,attack:401}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface"]
+aggressive=false

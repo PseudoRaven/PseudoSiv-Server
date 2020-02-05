@@ -1,0 +1,10 @@
+id=2987
+name=Treacle
+description=A sticky character.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Rat Pit"]
+aggressive=true
+members=true

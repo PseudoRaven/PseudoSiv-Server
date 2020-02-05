@@ -1,0 +1,10 @@
+id=4585
+name=Professor Onglewip
+description=A gnome mage on sabbatical.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface","Wizards' Tower"]
+aggressive=false
+members=false

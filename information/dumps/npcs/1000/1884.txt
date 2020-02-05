@@ -1,0 +1,10 @@
+id=1884
+name=Trobert
+description=A well dressed thief.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

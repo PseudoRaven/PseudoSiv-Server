@@ -1,0 +1,10 @@
+id=4642
+name=Gnome soldier
+description=A little warrior.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Battlefield"]
+aggressive=false
+members=false

@@ -1,0 +1,201 @@
+
+case 0:
+	lightIntensityType.intensityOffset = 205;
+	lightIntensityType.intensityModifier = 724;
+	lightIntensityType.intensityType = 3;
+	break;
+
+case 1:
+	lightIntensityType.intensityOffset = 819;
+	lightIntensityType.intensityModifier = 724;
+	lightIntensityType.intensityType = 3;
+	break;
+
+case 2:
+	lightIntensityType.intensityOffset = 614;
+	lightIntensityType.intensityModifier = 0;
+	break;
+
+case 3:
+	lightIntensityType.intensityOffset = 1843;
+	lightIntensityType.intensityModifier = 0;
+	break;
+
+case 4:
+	lightIntensityType.intensityOffset = 2048;
+	lightIntensityType.intensityModifier = 0;
+	break;
+
+case 5:
+	lightIntensityType.intensityModifier = 1024;
+	break;
+
+case 6:
+	lightIntensityType.intensityOffset = 410;
+	lightIntensityType.intensityModifier = 102;
+	lightIntensityType.intensityType = 1;
+	lightIntensityType.anInt35 = 1024;
+	break;
+
+case 7:
+	lightIntensityType.intensityOffset = 819;
+	lightIntensityType.intensityModifier = 102;
+	lightIntensityType.intensityType = 1;
+	lightIntensityType.anInt35 = 1024;
+	break;
+
+case 8:
+	lightIntensityType.intensityOffset = 1229;
+	lightIntensityType.intensityModifier = 512;
+	lightIntensityType.intensityType = 1;
+	lightIntensityType.anInt35 = 1024;
+	break;
+
+case 9:
+	lightIntensityType.intensityModifier = 614;
+	lightIntensityType.intensityType = 3;
+	lightIntensityType.anInt35 = 1638;
+	break;
+
+case 10:
+	lightIntensityType.intensityOffset = 410;
+	lightIntensityType.intensityModifier = 1434;
+	lightIntensityType.intensityType = 3;
+	lightIntensityType.anInt35 = 1229;
+	break;
+
+case 11:
+	lightIntensityType.intensityOffset = 819;
+	lightIntensityType.intensityModifier = 102;
+	lightIntensityType.intensityType = 3;
+	lightIntensityType.anInt35 = 1024;
+	break;
+
+case 12:
+	lightIntensityType.intensityOffset = 819;
+	lightIntensityType.intensityModifier = 307;
+	lightIntensityType.intensityType = 3;
+	lightIntensityType.anInt35 = 1024;
+	break;
+
+case 13:
+	lightIntensityType.intensityOffset = 1024;
+	lightIntensityType.intensityModifier = 307;
+	lightIntensityType.intensityType = 3;
+	lightIntensityType.anInt35 = 1024;
+	break;
+
+case 14:
+	lightIntensityType.intensityOffset = 1229;
+	lightIntensityType.intensityModifier = 307;
+	lightIntensityType.intensityType = 3;
+	lightIntensityType.anInt35 = 1024;
+	break;
+
+case 15:
+	lightIntensityType.intensityOffset = 819;
+	lightIntensityType.intensityModifier = 717;
+	lightIntensityType.intensityType = 3;
+	lightIntensityType.anInt35 = 1024;
+	break;
+
+case 16:
+	lightIntensityType.intensityOffset = 614;
+	lightIntensityType.intensityModifier = 724;
+	lightIntensityType.intensityType = 3;
+	break;
+
+case 17:
+	lightIntensityType.intensityOffset = 1024;
+	lightIntensityType.intensityModifier = 0;
+	break;
+
+case 18:
+	lightIntensityType.intensityOffset = 410;
+	lightIntensityType.intensityModifier = 0;
+	break;
+
+case 19:
+	lightIntensityType.intensityOffset = 205;
+	lightIntensityType.intensityModifier = 0;
+	break;
+
+case 20:
+	lightIntensityType.intensityOffset = 819;
+	lightIntensityType.intensityModifier = 0;
+	break;
+
+case 22:
+	lightIntensityType.intensityOffset = 2048;
+	lightIntensityType.intensityModifier = 724;
+	lightIntensityType.intensityType = 3;
+	break;
+
+case 23:
+	lightIntensityType.intensityOffset = 410;
+	lightIntensityType.intensityModifier = 724;
+	lightIntensityType.intensityType = 3;
+	break;
+
+case 24:
+	lightIntensityType.intensityOffset = 1024;
+	lightIntensityType.intensityModifier = 724;
+	lightIntensityType.intensityType = 3;
+	break;
+
+case 25:
+	lightIntensityType.intensityOffset = 1229;
+	lightIntensityType.intensityModifier = 724;
+	lightIntensityType.intensityType = 3;
+	break;
+
+case 26:
+	lightIntensityType.intensityOffset = 1434;
+	lightIntensityType.intensityModifier = 724;
+	lightIntensityType.intensityType = 3;
+	break;
+
+case 27:
+	lightIntensityType.intensityOffset = 1638;
+	lightIntensityType.intensityModifier = 724;
+	lightIntensityType.intensityType = 3;
+	break;
+
+case 28:
+	lightIntensityType.intensityOffset = 1843;
+	lightIntensityType.intensityModifier = 724;
+	lightIntensityType.intensityType = 3;
+	break;
+
+case 29:
+	lightIntensityType.intensityOffset = 1229;
+	lightIntensityType.intensityModifier = 0;
+	break;
+
+case 30:
+	lightIntensityType.intensityOffset = 1434;
+	lightIntensityType.intensityModifier = 0;
+	break;
+
+case 31:
+	lightIntensityType.intensityOffset = 1638;
+	lightIntensityType.intensityModifier = 0;
+	break;
+
+case 32:
+	lightIntensityType.intensityModifier = 512;
+	lightIntensityType.anInt35 = 1024;
+	break;
+
+case 33:
+	lightIntensityType.intensityOffset = 205;
+	lightIntensityType.intensityModifier = 614;
+	lightIntensityType.intensityType = 3;
+	lightIntensityType.anInt35 = 1638;
+	break;
+
+case 34:
+	lightIntensityType.intensityOffset = 205;
+	lightIntensityType.intensityModifier = 102;
+	lightIntensityType.intensityType = 3;
+	break;

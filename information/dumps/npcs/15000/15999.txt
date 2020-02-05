@@ -1,0 +1,17 @@
+id=15999
+name=Morningstar
+description=A huge and powerful troll leading the attack.
+size=3
+xp=0
+lifepoints=800
+level=5
+attack=2
+defence=6
+ranged=2
+magic=2
+animations={range:1933,death:15856,attack:1932}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

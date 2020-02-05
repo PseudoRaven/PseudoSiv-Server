@@ -1,0 +1,17 @@
+id=6159
+name=Walking icecube
+description=It is cold and solid. Thok will strap it to Marmaros's leg.
+size=2
+xp=0
+lifepoints=4000
+level=81
+attack=50
+defence=65
+ranged=50
+magic=50
+animations={death:13336,attack:13337}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

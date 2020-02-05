@@ -1,0 +1,17 @@
+id=191
+name=Tribesman
+description=A primitive warrior.
+size=1
+xp=114.6
+lifepoints=2150
+level=60
+attack=43
+defence=43
+ranged=1
+magic=1
+animations={death:836,attack:428}
+attackable=true
+poisonous=true
+weakness="Earth"
+areas=["RuneScape Surface"]
+aggressive=false

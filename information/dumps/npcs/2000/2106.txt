@@ -1,0 +1,10 @@
+id=2106
+name=Brown Engine Director
+description=One of the leaders of the business Consortium.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

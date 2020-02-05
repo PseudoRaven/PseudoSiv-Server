@@ -1,0 +1,17 @@
+id=18748
+name=Armadylean golem
+description=A huge construct built to support the armies of Armadyl.
+size=2
+xp=199.2
+lifepoints=100000
+level=0
+attack=132
+defence=132
+ranged=132
+magic=132
+animations={death:22322,attack:22373}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

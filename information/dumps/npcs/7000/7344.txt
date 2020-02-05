@@ -1,0 +1,17 @@
+id=7344
+name=Steel titan
+description=The King of the Titans!
+size=2
+xp=1325.7
+lifepoints=10900
+level=118
+attack=90
+defence=80
+ranged=90
+magic=90
+animations={range:8190,death:8184,attack:8183}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

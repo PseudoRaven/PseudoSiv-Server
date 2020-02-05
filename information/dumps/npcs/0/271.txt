@@ -1,0 +1,17 @@
+id=271
+name=Khazard scorpion
+description=A large, angry scorpion.
+size=3
+xp=83.1
+lifepoints=1800
+level=50
+attack=27
+defence=36
+ranged=36
+magic=0
+animations={death:23628,attack:23627}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=true

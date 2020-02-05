@@ -1,0 +1,17 @@
+id=1681
+name=Moss giant
+description=Bigger than your average moss giant.
+size=2
+xp=1.1
+lifepoints=1000
+level=61
+attack=33
+defence=44
+ranged=0
+magic=44
+animations={death:4659,attack:4658}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=["Glarial's tomb"]
+aggressive=false

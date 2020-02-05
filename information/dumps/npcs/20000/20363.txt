@@ -1,0 +1,17 @@
+id=20363
+name=Mummy
+description=An irate mummy.
+size=1
+xp=159.3
+lifepoints=2500
+level=70
+attack=50
+defence=50
+ranged=0
+magic=0
+animations={death:26109,attack:26108}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

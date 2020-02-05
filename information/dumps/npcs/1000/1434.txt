@@ -1,0 +1,10 @@
+id=1434
+name=Daga
+description=A shrewd-looking monkey swordsmith.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

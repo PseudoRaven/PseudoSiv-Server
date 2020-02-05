@@ -1,0 +1,10 @@
+id=490
+name=Mummy
+description=If the mummy is at school, where are the kids?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Classroom"]
+aggressive=false
+members=false

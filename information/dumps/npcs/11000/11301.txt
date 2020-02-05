@@ -1,0 +1,17 @@
+id=11301
+name=Kolodion
+description=He's a shape-shifter.
+size=1
+xp=201.3
+lifepoints=3500
+level=0
+attack=41
+defence=55
+ranged=0
+magic=55
+animations={death:10815,attack:13836}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

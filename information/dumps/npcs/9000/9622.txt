@@ -1,0 +1,17 @@
+id=9622
+name=Dragith Nurn
+description=The mindless husk of a long-dead necromancer.
+size=1
+xp=40.8
+lifepoints=950
+level=26
+attack=1
+defence=19
+ranged=1
+magic=19
+animations={range:12847,death:12870,attack:12874}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=["Lumbridge Catacombs"]
+aggressive=false

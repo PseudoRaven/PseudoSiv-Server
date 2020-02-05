@@ -1,0 +1,10 @@
+id=812
+name=Guard
+description=An officer of the Law.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

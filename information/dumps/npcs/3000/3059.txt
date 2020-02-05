@@ -1,0 +1,17 @@
+id=3059
+name=Ghoul Champion
+description=Champion of the ghouls.
+size=1
+xp=114.6
+lifepoints=2150
+level=60
+attack=43
+defence=43
+ranged=43
+magic=1
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

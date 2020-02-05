@@ -1,0 +1,10 @@
+id=4738
+name=Meiyerditch citizen
+description=This citizen looks pale, tired and old!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

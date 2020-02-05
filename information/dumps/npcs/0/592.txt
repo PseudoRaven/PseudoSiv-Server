@@ -1,0 +1,10 @@
+id=592
+name=Roachey
+description=He runs the Fishing Guild shop.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=5974
+name=Monkey display
+description=A cheeky little monkey.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Varrock Museum"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=20893
+name=Armoured zombie
+description=It hasn't quite got round to dying.
+size=1
+xp=0
+lifepoints=3000
+level=42
+attack=30
+defence=30
+ranged=0
+magic=0
+animations={death:26140,attack:26135}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=true

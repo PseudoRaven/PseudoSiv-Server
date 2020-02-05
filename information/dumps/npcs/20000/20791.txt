@@ -1,0 +1,10 @@
+id=20791
+name=Martina Scorsby
+description=A less enthusiastic ecclesiastic woman. She seems slightly tired.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["New Varrock"]
+aggressive=false
+members=false

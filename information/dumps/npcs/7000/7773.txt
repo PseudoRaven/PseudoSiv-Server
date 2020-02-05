@@ -1,0 +1,17 @@
+id=7773
+name=Fire monster
+description=A monster like many others, but on fire.
+size=1
+xp=90.9
+lifepoints=1900
+level=53
+attack=28
+defence=38
+ranged=38
+magic=0
+animations={death:9344,attack:9341}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=["Collapsing cave"]
+aggressive=false

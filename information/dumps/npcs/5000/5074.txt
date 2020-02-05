@@ -1,0 +1,11 @@
+id=5074
+name=Cerulean twitch
+description=Best served ice cold.
+xp=0.5
+animations={}
+attackable=true
+poisonous=false
+slayercat=Birds
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

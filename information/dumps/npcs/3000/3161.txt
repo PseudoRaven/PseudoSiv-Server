@@ -1,0 +1,10 @@
+id=3161
+name=Charley
+description='Two Feet' Charley.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

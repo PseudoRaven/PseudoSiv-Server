@@ -1,0 +1,10 @@
+id=3391
+name=General Wartface
+description=An ugly green creature.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Lumbridge"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=2417
+name=Mound
+description=I'm pretty sure there's something under there.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

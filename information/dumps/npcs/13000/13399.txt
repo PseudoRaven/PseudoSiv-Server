@@ -1,0 +1,10 @@
+id=13399
+name=Lava-flow miner
+description=A dwarf miner in heat-resistant overalls.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Lava Flow Mine"]
+aggressive=true
+members=false

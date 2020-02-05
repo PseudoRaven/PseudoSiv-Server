@@ -1,0 +1,10 @@
+id=16013
+name=Flying book
+description=The book appears to be alive.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Runecrafting Guild"]
+aggressive=false
+members=false

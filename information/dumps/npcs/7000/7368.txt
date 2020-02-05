@@ -1,0 +1,17 @@
+id=7368
+name=Void shifter
+description=It shifts.
+size=1
+xp=92.2
+lifepoints=4400
+level=41
+attack=31
+defence=28
+ranged=31
+magic=31
+animations={death:8133,attack:8131}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

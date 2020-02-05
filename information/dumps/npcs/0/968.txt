@@ -1,0 +1,10 @@
+id=968
+name=Afrah
+description=A citizen of Al Kharid.
+xp=24.9
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

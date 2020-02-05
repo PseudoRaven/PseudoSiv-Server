@@ -1,0 +1,10 @@
+id=850
+name=Aluft Gianne snr.
+description=The famous tree gnome chef.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

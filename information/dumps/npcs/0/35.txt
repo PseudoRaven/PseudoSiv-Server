@@ -1,0 +1,17 @@
+id=35
+name=Soldier
+description=A soldier of the town of Yanille.
+size=1
+xp=48.9
+lifepoints=1150
+level=32
+attack=23
+defence=23
+ranged=1
+magic=1
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=["Yanille","RuneScape Surface"]
+aggressive=false

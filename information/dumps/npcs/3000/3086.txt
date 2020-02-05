@@ -1,0 +1,10 @@
+id=3086
+name=Fionn
+description=One of Diango's itinerant pixies.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Xmas 2005"]
+aggressive=false
+members=false

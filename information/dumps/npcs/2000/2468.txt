@@ -1,0 +1,17 @@
+id=2468
+name=H.A.M. agent Walton
+description=He sold poisoned ingredients to the cave goblins.
+size=1
+xp=119.7
+lifepoints=3500
+level=49
+attack=35
+defence=35
+ranged=35
+magic=35
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

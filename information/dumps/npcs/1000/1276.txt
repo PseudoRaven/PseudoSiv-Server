@@ -1,0 +1,10 @@
+id=1276
+name=Torbrund
+description=Waiting for the show.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

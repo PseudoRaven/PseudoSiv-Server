@@ -1,0 +1,17 @@
+id=2879
+name=Bardur
+description=A Fremennik warrior, hard at work.
+size=1
+xp=0
+lifepoints=150000
+level=200
+attack=99
+defence=99
+ranged=1
+magic=1
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="None"
+areas=["Waterbirth Island Dungeon"]
+aggressive=true

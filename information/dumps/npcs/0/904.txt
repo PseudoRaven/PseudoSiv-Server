@@ -1,0 +1,10 @@
+id=904
+name=Chamber guardian
+description=He hasn't seen much sun lately.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Wilderness Dungeons"]
+aggressive=false
+members=true

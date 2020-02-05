@@ -1,0 +1,10 @@
+id=6523
+name=Farid Morrisane (ores)
+description=The son of Ali M!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

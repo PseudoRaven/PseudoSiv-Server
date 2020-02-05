@@ -1,0 +1,10 @@
+id=2162
+name=Vermundi
+description=A rather poor looking little dwarf, selling her clothes on the market.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

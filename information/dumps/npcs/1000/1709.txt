@@ -1,0 +1,10 @@
+id=1709
+name=Johanhus Ulsbrecht
+description=The leader of the 'Humans Against Monsters' group.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Misthalin Underground"]
+aggressive=false
+members=false

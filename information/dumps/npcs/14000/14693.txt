@@ -1,0 +1,17 @@
+id=14693
+name=Fungal rodent
+description=This fungal rodent has been weakened slightly.
+size=2
+xp=61.2
+lifepoints=1900
+level=26
+attack=19
+defence=19
+ranged=1
+magic=1
+animations={range:15516,death:15518,attack:15514}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=false

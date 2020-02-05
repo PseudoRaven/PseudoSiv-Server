@@ -1,0 +1,10 @@
+id=1574
+name=Ivan Strom
+description=A member of the Myreque and an aspiring young priest.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Myreque Hideout"]
+aggressive=false
+members=true

@@ -1,0 +1,10 @@
+id=7204
+name=Rat
+description=It's had more than its fair share of chocolate this Easter.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Easter 2009"]
+aggressive=false
+members=false

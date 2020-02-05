@@ -1,0 +1,17 @@
+id=2695
+name=Pirate
+description=Yarrr! Shiver me timbers!
+size=1
+xp=48.9
+lifepoints=1150
+level=32
+attack=23
+defence=23
+ranged=1
+magic=1
+animations={death:7185,attack:7183}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=["RuneScape Surface"]
+aggressive=false

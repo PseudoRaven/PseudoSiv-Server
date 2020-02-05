@@ -1,0 +1,10 @@
+id=5979
+name=Dragon display
+description=Looks like a fire-breather.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Varrock Museum"]
+aggressive=false
+members=false

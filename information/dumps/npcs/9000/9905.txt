@@ -1,0 +1,17 @@
+id=9905
+name=Har'Lakk the Riftsplitter
+description=A magical and powerful demon.
+size=5
+xp=1163.2
+lifepoints=28000
+level=78
+attack=56
+defence=56
+ranged=56
+magic=56
+animations={range:16990,death:16988,attack:19567}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

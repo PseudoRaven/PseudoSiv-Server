@@ -1,0 +1,10 @@
+id=7939
+name=Sir Vant
+description=A White Knight from Falador.
+xp=11.3
+animations={}
+attackable=true
+poisonous=false
+areas=["Lumbridge Cellar"]
+aggressive=false
+members=false

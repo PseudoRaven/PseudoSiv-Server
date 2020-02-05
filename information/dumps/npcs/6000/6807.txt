@@ -1,0 +1,17 @@
+id=6807
+name=Thorny snail
+description=A hermit slug!
+size=1
+xp=80.2
+lifepoints=2300
+level=16
+attack=12
+defence=11
+ranged=12
+magic=12
+animations={range:8911,death:8144,attack:8143}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

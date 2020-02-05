@@ -1,0 +1,17 @@
+id=4283
+name=Animated Adamant Armour
+description=Animated adamant armour.
+size=1
+xp=145.2
+lifepoints=2400
+level=67
+attack=48
+defence=48
+ranged=1
+magic=1
+animations={death:4167,attack:407}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=false

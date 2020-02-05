@@ -1,0 +1,10 @@
+id=3329
+name=Sigurd
+description=His furs look very damp.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

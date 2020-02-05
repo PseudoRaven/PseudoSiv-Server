@@ -1,0 +1,17 @@
+id=6862
+name=Adamant minotaur
+description=He's just a big bully.
+size=2
+xp=491.8
+lifepoints=8600
+level=90
+attack=69
+defence=61
+ranged=69
+magic=69
+animations={death:8025,attack:8024}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

@@ -1,0 +1,16 @@
+id=19442
+name=Azure skillchompa
+description=Once caught, this creature can be used to enhance gathering of energy, fish, logs and ore. Where applicable, it acts as a rune-equivalent tool.
+size=1
+xp=0.2
+lifepoints=1
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:5183}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false

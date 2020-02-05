@@ -1,0 +1,17 @@
+id=3847
+name=Sea Troll Queen
+description=The mother of all sea trolls!
+size=5
+xp=819.7
+lifepoints=15000
+level=91
+attack=65
+defence=65
+ranged=65
+magic=65
+animations={death:3993,attack:3991}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

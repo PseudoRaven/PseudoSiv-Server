@@ -1,0 +1,10 @@
+id=4594
+name=Captain Ninto
+description=A gnome pilot off duty, he looks a bit worse for wear...
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["White Wolf Mountain underground"]
+aggressive=false
+members=false

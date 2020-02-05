@@ -1,0 +1,1242 @@
+809 = Spear stand emote
+
+744 = Monkey Bars
+
+745 = Umm... More Monkey Bars
+
+746 = Entering Obstacle Pipe
+
+747 = Same as above but faster
+
+748 = Exiting Obstacle Pipes
+
+749 = Getting in and out at same time
+
+770 = Falling
+
+771 = Falling
+
+772 = Swimming
+
+773 = Still in water
+
+774 = No idea
+
+775 = Swinging on a rope
+
+776 = Pulling a rope whilst in water
+
+777 = Holding a rope whilst in water
+
+778 = No idea
+
+779 = Holding knee as if it's hurt
+
+780 = Bowing
+
+781 = No idea
+
+782 = Holding arms out then clapping
+
+783 = Passing Gnomeball
+
+784 = Dances then claps then dances then cheers then dances then bows - All in old emotes
+
+--- Cripples from 785-791 ---
+--- End of Cripples ---
+
+791 = Runecrafting emote
+
+794 = Balloon Stomp
+
+795 = No idea
+
+796 = No idea
+
+797 = Falling off a ledge maybe
+
+798 = Pressing a button?
+
+799 = Stabbing with a sword emote
+
+780 = Looks like going through an obstacle pipe
+
+
+
+
+811 = God Spell
+
+830 = Dig
+
+831 = Rapid digging and it doesn't stop
+
+832 = Same as below
+
+833 = Searching a drawer maybe
+
+834 = No idea
+
+835 = No idea
+
+836 = ANOTHER DYING EMOTE
+
+837 = Hit by HAM, fall down
+
+838 = Hit by HAM, laid down
+
+839 = Climb over something
+
+844 = Crawling
+
+845 = Crouched on floor
+
+846 = Falls back as if pushed
+
+847 = Some sort of salute
+
+848 = Drunk
+
+849 = Turns right then puts arms in air
+
+850 = Same as above but doesn't turn
+
+851 = Same as above but faces left
+
+852 = Turns left then puts arms in air
+
+853 = Turns right then puts arms in air really fast
+
+854 = Turns left then puts arms in air really fast
+
+855 = Yes
+
+856 = No
+
+857 = Thinking
+
+858 = Bow
+
+859 = Angry
+
+860 = Cry
+
+861 = Laugh
+
+862 = Cheer
+
+863 = Wave
+
+864 = Beckon
+
+865 = Clap
+
+866 = Dance
+
+867 = Woodcutting with Rune
+
+868 = Making canoe with Rune
+
+869 = Woodcutting with Adamant
+
+870 = Making canoe with Adamant
+
+871 = Woodcutting with Mith
+
+872 = Making canoe with Mith
+
+873 = Woodcutting with Black
+
+874 = Making canoe with Black
+
+875 = Woodcutting with Steel
+
+876 = Making canoe with Steel
+
+877 = Woodcutting with Iron
+
+878 = Making canoe with Iron
+
+879 = Woodcutting with Bronze
+
+880 = Making canoe with Bronze
+
+881 = Pickpocketing
+
+882 = Jumping over someting (stile maybe)
+
+883 = No idea
+
+884 = Glassblowing
+
+885 = Cutting Dragonstone
+
+886 = Cutting Diamond
+
+887 = Cutting Ruby
+
+888 = Cutting Saphire
+
+889 = Cutting Emerald
+
+890 = Cutting Jade
+
+891 = Cutting Opal
+
+892 = Cutting Oynx
+
+893 = Shearing sheep Not sure
+
+894 = No idea
+
+895 = Filling a bucket with water
+
+896 = Cooking on a range
+
+897 = Cooking on a fire
+
+898 = Smithing
+
+899 = No idea
+
+--- Cripples 899-1110 ---
+
+1110 = Matrix (dart dodging)
+
+1114 = Shot by something
+
+1115 = Dive out of the way of something
+
+1116 = Laid down then getting up
+
+1117 = Wall Supports (Mourning's Ends part ll)
+
+1118 = Staying still on Wall Supports
+
+1119 = Falling off Wall Supports (Mourning's Ends Part ll)
+
+1120 = Same as 1117 but more longer
+
+1125 = Holds head then stumbles backwards
+
+1126 = Head vanishes
+
+1127 = Head flashes fading lol
+
+1128 = GLASS WALL
+
+1129 = Lean
+
+1130 = Climb Rope
+
+1131 = Glass Box
+
+--- Cripples 1131-2105 ---
+
+
+--- End of Cripples ---
+
+2105 = Panic
+
+2106 = Jig
+
+2107 = Spin
+
+2108 = Headbang
+
+2109 = Jump for Joy
+
+2110 = Raspberry
+
+2111 = Yawn
+
+2112 = Salute
+
+2113 = Shrug
+
+--- Cripples 2113-2239 ---
+
+2239 = Shoots in air like a cannon lmao
+
+2240 = No idea
+
+2241 = Holds face and dies as if been gassed
+
+2242 = Lmao! Fly in air then drop down dead
+
+2243 = No idea
+
+2244 = Bends down and astarts stroking floor...
+
+2245 = Side wall trap - rogues den
+
+2246 = Lock picking
+
+2247 = Listening to a lock
+
+2262 = Walking while thinking
+
+2263 = Stroking Beard
+
+2264 = Crippled
+
+2265 = Crippled
+
+2266 = Crippled
+
+2267 = No idea
+
+2268 = Nothing
+
+2269 = Slicing Watermelon
+
+2270 = Swinging arms around
+
+2271 = Punching the floor but you don't stop
+
+2272 = Digging something up with a Trowel
+
+2273 = Raking weeds
+
+2274 = Poking something
+
+2281 = Poking something
+
+2282 = Poking something
+
+2283 = Compost
+
+2284 = No idea
+
+2285 = No idea
+
+2286 = Picking/Planting something
+
+2287 = No idea
+
+2288 = Pouring on Plant Cure
+
+2289 = No idea
+
+2290 = No idea
+
+2291 = Planting seeds with a seed dibber
+
+2292 = No idea
+
+2293 = Watering
+
+2295 = Stroking something
+
+2750 = Jump forward
+
+2753 = Massive jump in air
+
+2761 = Starjumps
+
+2756 = Pushups
+
+2763 = Situps
+
+2764 = Jogging on the spot
+
+3063 = Climb over something
+
+3067 = Jumping and landing it
+
+3068 = Jumping then falling
+
+3094 = Looks down then falls over
+
+--- From 3094 to 6378 are cripples (or at least the ones I've checked) ---
+
+
+			--- Here's some I found though ---
+
+6300 = Crouched down
+
+6301 = Falls forward
+
+6302 = Crippled
+
+6303 = Chanting
+
+6304 = Teleother backwards
+
+6305 = Signaling something
+
+
+--- I think the others might be NPC emotes ---
+
+
+				--- End of Cripples ---
+
+6300 = Crouched down
+
+6301 = Falls forward
+
+6302 = Crippled
+
+6303 = Chanting
+
+6304 = Teleother backwards
+
+6305 = Signaling something
+
+6306 = Crippled
+
+6378 = Stumbling while arms on eyes as if crying
+
+6379 = Arm on eyes as if crying
+
+6380 = Thinking
+
+6381 = Leaning over like your upset
+
+6382 = Jump then cheers I'm not sure
+
+6383 = Arms on waist then looking down
+
+6384 = Crossing arms then looking up
+
+6385 = Crossing arms then thinking
+
+6386 = Arms on waist then looking up
+
+6387 = Opening findings crate - Varrock Museum
+
+6388 = Poshly walking
+
+6389 = Museum Guard guy emote then writes something
+
+6390 = Museum Guard guy emote
+
+6391 = 'Come on in' emote at Varrock Museum
+
+6392 = 'Come on in' emote at Varrock Museum
+
+6393 = Standing with hands on waist as if observing something/angry
+
+6394 = No idea
+
+6395 = Walking gayly
+
+6397 = No idea
+
+6398 = No idea
+
+6399 = No idea
+
+6401 = No idea
+
+6402 = No idea
+
+6403 = No idea
+
+6404 = No idea
+
+6405 = No idea
+
+6406 = No idea
+
+6407 = No idea
+
+6408 = Getting ready for a race
+
+6409 = LMFAO, headbanging on a wall
+
+--- Cripples from 6410 to 6737 ---
+
+6737 = Head fades in out in out
+
+6738 = Canoe making with Rune
+
+6739 = Canoe making with Addy
+
+6740 = Canoe making with Mith
+
+6741 = Canoe making with Black
+
+6742 = Canoe making with Steel
+
+6743 = Canoe making with Iron
+
+6744 = Canoe making with Bronze
+
+6745 = Canoe making with Dragon
+
+6746 = Normal mining with Rune
+
+6747 = Normal mining with Bronze
+
+6748 = Normal mining with Iron 
+
+6749 = Normal mining with Steel
+
+6750 = Normal mining with Addy
+
+6751 = Normal mining with Mith
+
+6752 = Different mining with Rune
+
+6753 = Different mining with Bronze
+
+6754 = Different mining with Iron
+
+6755 = Different mining with Steel
+
+6756 = Different mining with Addy
+
+6757 = Different mining with Mith
+
+6758 = Different mining
+
+--- Cripples to 7181 -----
+
+7172 = Giant swaying side to side
+
+7173 = Turn gaint
+
+7174 = Turn giant stood still
+
+7175 = Turn gaint like a cripple
+
+7176 = Turn giant leaned over
+
+7177 = Turn giant leaned over less
+
+7178 = Turn giant leaned over less other way
+
+7179 = Turn giant wtf
+
+7180 = Turn giant wtf
+
+--- End of Cripples ---
+
+7181 = Punch in the balls!
+
+7182 = Low punch
+
+7183 = Punch
+
+7184 = Bowing
+
+7185 = Dying AGAIN
+
+7186 = No idea
+
+7187 = Block
+
+7188 = Nothing
+
+7189 = Crouching while walking
+
+7190 = Crouching while walking
+
+7191 = Walking
+
+7192 = Weirdly Walking forward
+
+7193 = Sidestepping Right
+
+7194 = Sidestepping Left
+
+7195 = No idea
+
+7196 = No idea
+
+7196 = Bowing
+
+7197 = Dying again
+
+7198 = Blocking something
+
+7199 = Nothing
+
+7200 = Weirdly Walk
+
+7201 = Weirdly Walk again
+
+7202 = Sidestepping to the left
+
+7203 = Sidestepping the right
+
+7204 = Head vanishes
+
+7206 = Skipping lmao
+
+7211 = Fletching Magic Log
+
+7227 = Chopping with some Secatuars
+
+7228 = Beating tree guy with Enchanted Secatuars (A Fairy Tale part ll)
+
+7230 = Shaking head then shielding from something
+
+7232 = No idea
+
+7253 = Limbo lol
+
+7261 = Fishing with a gaint rod
+
+7264 = Slaps the air lol
+
+7265 = standing still, doby slightly turn's
+
+7266 = in the gound, agility maybe
+
+7267 = in the gound moving, agility maybe
+
+7268 = jump's in air, agility maybe
+
+7269 = jump's in air, and fall's into the gound, agility maybe
+
+7270 = lean's over to pick something up
+
+7271 = lean's over to pick something up, then jump's back
+
+7272 = Dodgeing something, agility maybe
+
+7273 = walking up from gound, as if was walking up some stairs, agility maybe
+
+7274 = climb something, then falls
+
+7275 = walk's over something
+
+7276 = leaning over to grab something
+
+7277 = stick's chest outward's, then put's hand's by face
+
+7299 = Get's hit by something
+
+7301 = Move's backward's and put's hand's in air and make them touch, like saying time=out
+
+7302 = Returning normal standing animation from 7301
+
+7303 = Disapear, then reapear with hand's by head
+
+7305 = Crippled
+
+7307 = Magician!
+
+7321 = Pushing like a giant rock (Galfrie thing part ll)
+
+7363 = Leaning over like your gonna be sick
+
+7364 = Umm... Cleaning something
+
+7365 = Crossing arms while looking up
+
+7366 = Acting like you have nothing to hide... 
+
+7368 = Hmmm... Writing then pondering something
+
+7369 = NO IDEA Suicide Saluting God knows
+
+7376 = Walks then slowly fades away :O
+
+7377 = Walks as a ghost then completely fades in
+
+7385 = Warrior Guild weight throwing thing
+
+7391 = Crouches over then fades away
+
+7392 = Fades in crouched over
+
+7393 = Nothing
+
+------ Cripples from 7394 all the way to 8938 ------
+
+------ Back to emotes ------
+
+8939 = Teleport
+
+8940 = Crippled
+
+8941 = Crippled
+
+8942 = Crippled
+
+8943 = Sitting down on nothing
+
+8944 = Same as 8943
+
+8945 = Crippled
+
+8946 = Crippled
+
+8947 = Crippled
+
+8948 = Crippled
+
+8949 = Crippled
+
+8950 = Crippled
+
+8951 = Crippled
+
+8952 = Crippled
+
+8953 = Crippled
+
+8954 = Crippled
+
+8955 = Gnome flying things: Getting On
+
+8956 = Gnome flying things: Ready for take=off
+
+8957 = Gnome flying things: Landing
+
+8959 = Gnome flying things: Getting off
+
+8961 = Gnome flying things: Flying
+
+8962 = Flying while crossing arms
+
+8963 = Gnome flying things: Going Down
+
+8964 = Gnome flying things: Going Down
+
+8980 = Standing still with hand in pockets
+
+8981 = Holding out arm as if pressing something
+
+8982 = Walking with something
+
+8983 = Same as above but to the left
+
+8984 = Same as above but to the right
+
+8985 = Same as above but look to the right
+
+8986 = Sprinting
+
+8987 = No idea
+
+8988 = Block
+
+8989 = Punch
+
+8990 = Kite emote thing
+
+8991 = Football lmao
+
+8996 = Showing your muscles lol.
+
+8997 = Walking like an ape
+
+8998 = Standing like an ape
+
+8999 = Blocks/Pushes Something
+
+9000 = Shaking that ass
+
+9001 = Backwards walking like an ape
+
+9002 = Backwards walking like an ape
+
+9003 = Sidestepping
+
+9004 = Holding something while running
+
+9005 = Crippled
+
+9006 = Crippled
+
+9007 = Crippled
+
+9008 = Crippled
+
+9009 = Crippled
+
+9010 = Lmao, head slowly moves in a circle
+
+9011 = Crippled
+
+9012 = Breaking teleport glass then fading away
+
+9013 = Fade in
+
+9014 = Crippled
+
+9015 = Crippled
+
+9016 = Panting as if out of energy then fading away
+
+9017 = Crippled
+
+9018 = Fading in the panting as if out of energy
+
+9019 = Crippled
+
+9020 = Crippled
+
+9021 = Hold up a sickle with an emerald in (Myrgue Part llll)
+
+9022 = Hold up Rod of Ivandis (Myregue Part llll)
+
+9023 = Sneaking around (Kennith's Concerns)
+
+9024 = On ground, get up
+
+9025 = On ground as if examining something closely
+
+9026 = Your head slowly comes towards you lmao
+
+9027 = Head slowly goes away from you
+
+9028 = Rise up out of the ground in a Crippled fasion
+
+9029 = LMFAO, see for yourself
+
+9030 = Same as above but slightly different
+
+9031 = Sawing
+
+9032 = Kicking something with saw in hand
+
+9033 = Crippled
+
+9034 = Crippled
+
+9035 = Crippled
+
+9036 = Crippled
+
+9037 = Crippled
+
+9038 = Crippled
+
+9039 = Walking like a zombie
+
+9040 = Stood up asleep
+
+9041 = Nothing
+
+9042 = Nothing
+
+9043 = Nothing
+
+9044 = Opening a draw
+
+9045 = Same as above
+
+9046 = Crippled
+
+9047 = Attacking with Rod of Ivandis
+
+9048 = Blocking with Rod of Ivandis
+
+9049 = Hands by sides, as if angry
+
+9050 = Running
+
+9051 = Gay walk
+
+9052 = Gay walk, then looks to side
+
+9053 = Sidestepping while looking like holding a gun
+
+9054 = Same as 9053
+
+9055 = Dying!!!
+
+9056 = Crippled
+
+9057 = Slayer Skillcape emote
+
+9058 = Nodding
+
+9059 = Telling them what to do (TokTz=Ket=Dill)
+
+9060 = Looking round corner (SPY STYLE)
+
+9061 = Same as above, but always looking round
+
+9062 = Stops looking round
+
+9063 = Looks side to side
+
+9064 = Picking something up with Silver Sickle in hand
+
+9065 = Same as above, but yanking it
+
+9066 = Crippled
+
+9067 = Crippled
+
+9068 = Looks like lighting a fire
+
+9069 = Holding balls and tilting head side to side
+
+9070 = Looks like walking as a zombie
+
+9071 = Laughing heartily ho ho ho
+
+9072 = Same as 9071
+
+9073 = Scratching head, as if confused
+
+9074 = Same as above
+
+9075 = Crippled
+
+9076 = Crippled
+
+9077 = Crippled
+
+9078 = Crippled
+
+9079 = Crippled
+
+9080 = Crippled
+
+9081 = Crippled
+
+9082 = Crippled
+
+9083 = Crippled
+
+9084 = Crippled
+
+9085 = Crippled
+
+9086 = Crippled
+
+9087 = Gathering stuff up
+
+9088 = Dead Crippled
+
+9089 = Same as above
+
+9090 = Same as above
+
+9091 = Bending down while walking
+
+9092 = Bending down while walking
+
+9093 = Crippled
+
+9094 = Crippled
+
+9095 = Woah! Karate
+
+9096 = Something else with Rod of Ivandis...
+
+9097 = Same as above
+
+9098 = Holding Rod of Ivandis above head as if chanting
+
+9099 = I give in, don't kill me (Fremmenik Trials)
+
+9100 = Crouches down
+
+9101 = Head fades away
+
+9102 = Crippled
+
+9103 = Crippled
+
+9104 = Holding hands up with a sickle
+
+9105 = Knocking/Angry
+
+9109 = Thinks
+
+9110 = Nods head fast lol
+
+9111 = Claps
+
+10000 = Standing still
+
+10001 = Mining with Bronze
+
+10002 = Mining with Iron
+
+10003 = Mining with Steel
+
+10004 = Mining with Mith
+
+10005 = Mining with Adamant
+
+10006 = Mining with Rune
+
+10007 = Mining with Bronze again
+
+10008 = Saluting
+
+10009 = Crayfish fishing
+
+10010 = Beckon
+
+10011 = Lighting fire
+
+10012 = Kneeling down bending head over as if defeated
+
+10013 = Old clap emote
+
+10015 = Crawling
+
+10016 = Kneeling down then standing up
+
+10017 = Stomping
+
+10018 = Turkey emote!
+
+10019 = Running
+
+10020 = Arms go futher out, only just
+
+10021 = Walking
+
+10022 = Running
+
+10023 = Crippled
+
+10024 = Crippled
+
+10025 = Crippled
+
+10100 = Fading out, looks cool.
+
+10101 = Looks side to side then fades out
+
+10102 = Hammering
+
+10103 = No idea
+
+10104 = Tired? Injured? Not sure
+
+10105 = Plays with a toy then does random emotes
+
+10106 = Walking sad
+
+10107 = Farming?
+
+10108 = Walking strangely
+
+10109 = No idea...
+
+10110 = No idea...
+
+10111 = No idea...
+
+10115 = Thinking then nodding then pointing
+
+10116 = Nothing
+
+10117 = No idea... + Cripple :o
+
+10118 = Nothing
+
+10119 = No idea (Might be herblore, looks like a good emote for cleaning herbs)
+
+10120 = Cripple
+
+10121 = Cripple
+
+10122 = Cripple
+
+10123 = Cripple
+
+10124 = Cripple
+
+10125 = Cripple
+
+10126 = Cripple
+
+10127 = Cripple
+
+10128 = Cripple
+
+10129 = Cripple
+
+10130 = Cripple
+
+10131 = Cripple
+
+10132 = Cripple
+
+10135 = Cripple
+
+10136 = Cripple
+
+10137 = Cripple
+
+10138 = Cripple
+
+10139 = Cripple
+
+10140 = Cripple
+
+10141 = Cripple
+
+10142 = Cripple
+
+10143 = Cripple
+
+10144 = Cripple
+
+10145 = Cripple
+
+10146 = Cripple
+
+10147 = Cripple
+
+10148 = Cripple
+
+10149 = Cripple
+
+10150 = Cripple
+
+10151 = Cripple
+
+10152 = Cripple
+
+10153 = Cripple
+
+10154 = Cripple
+
+10155 = Cripple
+
+10156 = Cripple
+
+10157 = Cripple
+
+10158 = Cripple
+
+10159 = Cripple
+
+10160 = Cripple
+
+10161 = Cripple
+
+10162 = Cripple
+
+10163 = Cripple
+
+10164 = Cripple
+
+10165 = Cripple
+
+10166 = Cripple
+
+10167 = Cripple
+
+10168 = Cripple
+
+10169 = Cripple
+
+10170 = Cripple
+
+10171 = Nothing
+
+10172 = Cripple
+
+10173 = Cripple
+
+10174 = Cripple
+
+10175 = Cripple
+
+10176 = Cripple
+
+10177 = Cripple
+
+10178 = Cripple
+
+10179 = Cripple
+
+10180 = Raises hands in the air the fades out
+
+10181 = Cripple
+
+10182 = Fades in then raises hands in the air
+
+10183 = Cripple
+
+10184 = Throws something I suppose
+
+10185 = Cripple
+
+10186 = Catches something?
+
+10187 = Cripple
+
+10188 = Cripple
+
+10189 = Cripple
+
+10190 = Cripple
+
+10191 = Nothing
+
+10192 = Cripple
+
+10193 = Cripple
+
+10194 = Nothing
+
+10195 = Cripple
+
+10196 = Cripple
+
+10197 = Cripple
+
+10198 = Cripple
+
+10199 = Cripple
+
+10200 = Cripple
+
+402 - Dragon Dagger stab emote
+403 - Block with shield defensive emote
+404 - Block no shield defensive emote
+405 - Dragon spear special
+406 - 2h crush style emote
+407 - 2h slash style emote
+408 - Scythe 'REAP' attack style
+410 - Defensive block when 2h weapon equiped
+412 - Stab
+422 - PUNCH
+423 - KICK
+424 - Fore-arm block
+440 - Halberd "Slash" attack style
+451 - Slash attack style (longsword, shortsword, ect.)
+1060 - drag mace spec
+1658 - Whip attack
+1659 - Whip block
+1660 - Whip walk
+1661 - Whip run
+1662 - Granite Maul stand
+1663 - Granite Maul walk
+1664 - Granite Maul run
+1665 - Granite maul attack
+1666 - Granite Maul block
+1667 - Granite Maul special
+1833 - drag baxe attack
+2316 - standing holding toad shooter (fixed defice)
+2318 - walking holding toad shooter
+2323 - kick attack while wielding fixed device
+2876 - DRAG AXE SPEC!!
+2890 - DARKLIGHT SPEC!
+2910 - spinning something and then throwing it
+2927 - twirling weapon then hitting something
+3157 - Dragon 2h special
+2060 - veracs walk
+2061 - veracs standing
+2062 - veracs attack!!
+2063 - veracs block
+2064 - dharoks walk
+2065 - dharoks standing
+2066 - dharoks crush
+2067 - dharoks slash
+2068 - torags attack
+2074 - karils holding bow
+2075 - karils shooting
+2076 - karils walking
+2077 - karils running
+2078 - ahrims attack non-magic
+2079 - ahrims block
+2080 - guthans 'poke'?
+2081 - guthans slash
+2082 - guthans crush

@@ -1,0 +1,11 @@
+id=8328
+name=Elite Black Knight
+description=He appears to be guarding the ladder.
+xp=462.6
+animations={}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=["Black Knights' catacombs"]
+aggressive=false
+members=false

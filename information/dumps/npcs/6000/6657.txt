@@ -1,0 +1,17 @@
+id=6657
+name=Miner ancestor
+description=An ancient spirit has made itself at home within this suit of armour.
+size=1
+xp=69.6
+lifepoints=1600
+level=44
+attack=32
+defence=32
+ranged=1
+magic=1
+animations={death:48,attack:47}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=false

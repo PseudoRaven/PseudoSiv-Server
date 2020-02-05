@@ -1,0 +1,17 @@
+id=11115
+name=Brave bloodrager
+description=Trained from birth to tear and rend. (Tier 5)
+size=1
+xp=301.9
+lifepoints=6875
+level=77
+attack=55
+defence=55
+ranged=55
+magic=55
+animations={death:13683,attack:13617}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

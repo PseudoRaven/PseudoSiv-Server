@@ -1,0 +1,10 @@
+id=3912
+name=Flippa
+description=He looks flipping mad.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Pinball"]
+aggressive=false
+members=false

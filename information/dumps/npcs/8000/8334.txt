@@ -1,0 +1,17 @@
+id=8334
+name=Mercenary axeman
+description=An axe-wielding mercenary who works for the highest bidder.
+size=1
+xp=327.9
+lifepoints=3250
+level=91
+attack=65
+defence=65
+ranged=1
+magic=1
+animations={death:10977,attack:10793}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=true

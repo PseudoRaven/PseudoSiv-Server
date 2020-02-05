@@ -1,0 +1,10 @@
+id=8228
+name=Rewards mystic
+description=A little more worldly than the other mystics.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Asgarnian Ice Dungeon"]
+aggressive=false
+members=false

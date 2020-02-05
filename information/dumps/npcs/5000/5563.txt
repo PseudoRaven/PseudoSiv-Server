@@ -1,0 +1,10 @@
+id=5563
+name=Del-Monty
+description=Loves living in an orchard.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Sorceress' garden"]
+aggressive=false
+members=true

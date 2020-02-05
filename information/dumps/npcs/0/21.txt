@@ -1,0 +1,17 @@
+id=21
+name=Hero
+description=Heroic!
+size=1
+xp=86.7
+lifepoints=1850
+level=51
+attack=37
+defence=37
+ranged=1
+magic=1
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["RuneScape Surface"]
+aggressive=false

@@ -1,0 +1,10 @@
+id=1918
+name=Archaeologist
+description=Hardened by the cutthroat world of archaeology.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

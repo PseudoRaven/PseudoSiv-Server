@@ -1,0 +1,10 @@
+id=5952
+name=Workman
+description=Looks hard at work.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

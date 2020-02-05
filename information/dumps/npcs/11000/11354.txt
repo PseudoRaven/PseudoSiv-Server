@@ -1,0 +1,17 @@
+id=11354
+name=Ivory Bre'egth (cursed)
+description=A cursed ivory version of General Breegth.
+size=2
+xp=244.8
+lifepoints=2950
+level=82
+attack=1
+defence=59
+ranged=1
+magic=59
+animations={death:13923,attack:13926}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=["Orks Rift"]
+aggressive=true

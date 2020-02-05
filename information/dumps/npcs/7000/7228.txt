@@ -1,0 +1,10 @@
+id=7228
+name=Baby monkey
+description=It's a tiny, cheeky monkey!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

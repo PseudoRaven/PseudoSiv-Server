@@ -1,0 +1,17 @@
+id=1885
+name=Bandit champion
+description=A very tough-looking bandit.
+size=1
+xp=95.4
+lifepoints=1950
+level=54
+attack=39
+defence=39
+ranged=0
+magic=0
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

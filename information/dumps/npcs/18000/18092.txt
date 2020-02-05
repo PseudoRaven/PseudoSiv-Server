@@ -1,0 +1,17 @@
+id=18092
+name=Skeleton warrior
+description=The animated bones of a long-dead Saradominist, controlled by the Wand of Resurrection.
+size=1
+xp=5
+lifepoints=10000
+level=0
+attack=50
+defence=50
+ranged=1
+magic=1
+animations={death:17932,attack:17930}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

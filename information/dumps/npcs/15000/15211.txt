@@ -1,0 +1,17 @@
+id=15211
+name=Har-Aken
+description=This is the huge head of Har-Aken. Who knows how it ended up here?
+size=5
+xp=4475.2
+lifepoints=48000
+level=800
+attack=80
+defence=80
+ranged=80
+magic=80
+animations={death:16235}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

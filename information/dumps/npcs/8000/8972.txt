@@ -1,0 +1,10 @@
+id=8972
+name=Spider Courtier
+description=A member of the Spider Queen's court.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Halloween 2009"]
+aggressive=false
+members=false

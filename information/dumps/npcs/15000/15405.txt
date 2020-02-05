@@ -1,0 +1,10 @@
+id=15405
+name=Water essling
+description=An essling imbued with water energy.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["The Runespan"]
+aggressive=false
+members=false

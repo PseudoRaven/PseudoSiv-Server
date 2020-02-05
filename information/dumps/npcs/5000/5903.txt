@@ -1,0 +1,17 @@
+id=5903
+name=The Everlasting
+description=Can you endure long enough?
+size=3
+xp=542.2
+lifepoints=6700
+level=93
+attack=67
+defence=67
+ranged=67
+magic=67
+animations={death:6347,attack:6345}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

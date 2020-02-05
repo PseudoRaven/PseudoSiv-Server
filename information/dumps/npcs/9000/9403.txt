@@ -1,0 +1,10 @@
+id=9403
+name=Jack Frost
+description=The Queen of Snow's rebellious teenage son.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Xmas 2009"]
+aggressive=false
+members=false

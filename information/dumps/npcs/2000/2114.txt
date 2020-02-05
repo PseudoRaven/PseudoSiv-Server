@@ -1,0 +1,10 @@
+id=2114
+name=Trader
+description=A trader for the Yellow Fortune mining company.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

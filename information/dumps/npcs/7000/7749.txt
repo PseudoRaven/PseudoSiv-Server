@@ -1,0 +1,10 @@
+id=7749
+name=TzHaar-Ket-Grol
+description=It is guarding a crack in the wall.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["TzHaar City","Tzhaar Caves"]
+aggressive=false
+members=true

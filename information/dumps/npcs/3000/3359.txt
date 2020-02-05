@@ -1,0 +1,17 @@
+id=3359
+name=Zanik
+description=The Chosen Commander.
+size=1
+xp=207.4
+lifepoints=4700
+level=65
+attack=47
+defence=47
+ranged=47
+magic=47
+animations={attack:11306}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

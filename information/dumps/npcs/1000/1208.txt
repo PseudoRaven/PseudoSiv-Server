@@ -1,0 +1,10 @@
+id=1208
+name=Quartermaster
+description=Responsible for the food and equipment of the troops.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=2946
+name=Grimesquit
+description=Cracking personality.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Misthalin Underground"]
+aggressive=false
+members=true

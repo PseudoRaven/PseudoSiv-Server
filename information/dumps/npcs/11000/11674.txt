@@ -1,0 +1,10 @@
+id=11674
+name=Shopkeeper Kofi
+description=He clearly takes pride in his appearance.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

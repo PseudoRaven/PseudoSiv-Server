@@ -1,0 +1,17 @@
+id=17227
+name=Chaos Grimsson
+description=That's one mean-looking chaos dwarf the Red Axe has employed.
+size=1
+xp=5508
+lifepoints=60000
+level=111
+attack=85
+defence=75
+ranged=85
+magic=1
+animations={range:21446,death:25419,attack:21341}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

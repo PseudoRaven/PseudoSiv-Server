@@ -1,0 +1,17 @@
+id=6795
+name=Spirit terrorbird
+description=A bird. Literally terrifying.
+size=2
+xp=179.5
+lifepoints=6200
+level=62
+attack=47
+defence=42
+ranged=47
+magic=47
+animations={death:1013,attack:1010}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

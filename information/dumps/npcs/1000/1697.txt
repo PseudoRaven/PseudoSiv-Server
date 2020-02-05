@@ -1,0 +1,10 @@
+id=1697
+name=Ghost villager
+description=A spooky ghost villager.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

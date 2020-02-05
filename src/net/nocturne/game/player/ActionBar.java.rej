@@ -1,0 +1,9 @@
+diff a/src/net/nocturne/game/player/ActionBar.java b/src/net/nocturne/game/player/ActionBar.java	(rejected hunks)
+@@ -1675,7 +1675,6 @@
+ 		if (player.getEquipment().getRingId() == 19669) {
+ 			if (bookId == ActionBar.MAGIC_ABILITY_SHORTCUT) {
+ 				if (abilityId == 10 || abilityId == 164) {
+-					player.getCombatDefinitions().increaseSpecialAttack(10);
+ 					player.getCombatDefinitions().increaseSpecialAttack(100);
+ 				}
+ 			} else if (bookId == ActionBar.RANGED_ABILITY_SHORTCUT) {

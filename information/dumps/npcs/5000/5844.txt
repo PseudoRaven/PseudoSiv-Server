@@ -1,0 +1,17 @@
+id=5844
+name=Outlaw
+description=A mean looking outlaw. Don't get too close!
+size=1
+xp=48.9
+lifepoints=1150
+level=32
+attack=23
+defence=23
+ranged=0
+magic=0
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface"]
+aggressive=false

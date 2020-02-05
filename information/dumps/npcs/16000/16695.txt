@@ -1,0 +1,17 @@
+id=16695
+name=Zamorakian warlock
+description=He kills in the name of Zamorak.
+size=1
+xp=361.5
+lifepoints=3350
+level=93
+attack=1
+defence=67
+ranged=1
+magic=67
+animations={range:811,death:836}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=true

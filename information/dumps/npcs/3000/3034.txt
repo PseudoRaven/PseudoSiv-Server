@@ -1,0 +1,10 @@
+id=3034
+name=Habibah
+description=A citizen of Nardah.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

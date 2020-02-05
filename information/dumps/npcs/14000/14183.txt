@@ -1,0 +1,17 @@
+id=14183
+name=Bloodveld leecher
+description=A bloodveld summoned by Vanstrom to heal him in battle.
+size=1
+xp=0.5
+lifepoints=1200
+level=35
+attack=25
+defence=25
+ranged=1
+magic=1
+animations={death:9685,attack:9675}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

@@ -1,0 +1,17 @@
+id=1991
+name=Possessed Priest
+description=He has a dangerous glint in his eye.
+size=1
+xp=99.3
+lifepoints=2000
+level=56
+attack=30
+defence=40
+ranged=40
+magic=0
+animations={death:836,attack:429}
+attackable=true
+poisonous=false
+weakness="Slashing"
+areas=[]
+aggressive=false

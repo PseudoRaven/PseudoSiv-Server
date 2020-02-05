@@ -1,0 +1,17 @@
+id=11201
+name=Wise worldbearer
+description=Trained from birth to relieve you of your burdens. (Tier 8)
+size=1
+xp=628.6
+lifepoints=8750
+level=98
+attack=70
+defence=70
+ranged=70
+magic=70
+animations={range:13617,death:13683,attack:13617}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

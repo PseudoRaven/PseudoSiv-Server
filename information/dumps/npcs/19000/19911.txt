@@ -1,0 +1,10 @@
+id=19911
+name=Grand Exchange clerk
+description=There to help me make my bids.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Prifddinas"]
+aggressive=false
+members=false

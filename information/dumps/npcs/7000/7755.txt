@@ -1,0 +1,10 @@
+id=7755
+name=TzHaar-Xil
+description=It's probably just looking at the pictures.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Tzhaar Caves"]
+aggressive=false
+members=true

@@ -1,0 +1,10 @@
+id=17571
+name=Saradomin devotee
+description=Trusts in the wisdom of Saradomin to guide mankind to a new age of peace and prosperity.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

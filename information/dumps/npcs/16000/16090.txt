@@ -1,0 +1,17 @@
+id=16090
+name=Skeletal archer
+description=Looks like he's had better days.
+size=1
+xp=0
+lifepoints=350
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={range:17937,death:17932}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

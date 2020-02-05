@@ -1,0 +1,10 @@
+id=15015
+name=Herbalist
+description=Smells very strongly of guam.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=11264
+name=Ravenous vampyre
+description=Where did that come from?
+size=1
+xp=327.9
+lifepoints=3250
+level=91
+attack=1
+defence=65
+ranged=65
+magic=1
+animations={death:6031,attack:6016}
+attackable=true
+poisonous=false
+weakness="Slashing"
+areas=[]
+aggressive=false

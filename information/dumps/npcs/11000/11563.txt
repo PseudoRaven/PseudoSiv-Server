@@ -1,0 +1,17 @@
+id=11563
+name=Pit ogre
+description=It's not very smart, but it knows how to fight.
+size=2
+xp=0
+lifepoints=3650
+level=102
+attack=73
+defence=73
+ranged=1
+magic=1
+animations={death:8576,attack:8577}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=true

@@ -1,0 +1,17 @@
+id=19357
+name=Yelps
+description=Voted the most worthy goblin champion. Somehow.
+size=1
+xp=8602.8
+lifepoints=200000
+level=84
+attack=60
+defence=60
+ranged=1
+magic=1
+animations={attack:23714}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

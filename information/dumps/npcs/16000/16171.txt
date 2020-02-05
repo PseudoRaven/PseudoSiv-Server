@@ -1,0 +1,10 @@
+id=16171
+name=Rune guardian
+description=An ancient magical guardian.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Old Tower Shrine Room"]
+aggressive=false
+members=false

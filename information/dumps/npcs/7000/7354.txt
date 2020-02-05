@@ -1,0 +1,17 @@
+id=7354
+name=Giant chinchompa
+description=Looks a little...volatile.
+size=1
+xp=103.8
+lifepoints=3900
+level=35
+attack=27
+defence=24
+ranged=27
+magic=27
+animations={death:7758,attack:7755}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

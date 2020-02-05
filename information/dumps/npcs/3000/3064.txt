@@ -1,0 +1,17 @@
+id=3064
+name=Lesser Demon Champion
+description=Champion of the lesser demons.
+size=2
+xp=723.6
+lifepoints=4050
+level=113
+attack=1
+defence=81
+ranged=1
+magic=81
+animations={death:4677,attack:4629}
+attackable=true
+poisonous=false
+weakness="Thrown"
+areas=[]
+aggressive=false

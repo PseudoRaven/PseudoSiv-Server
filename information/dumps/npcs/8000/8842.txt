@@ -1,0 +1,10 @@
+id=8842
+name=Rocktail shoal
+description=It looks like there are fish swimming in the water.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Living Rock Caverns"]
+aggressive=false
+members=false

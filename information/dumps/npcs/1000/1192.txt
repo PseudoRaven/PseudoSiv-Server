@@ -1,0 +1,17 @@
+id=1192
+name=Rabbit
+description=A cute bunny rabbit.
+size=1
+xp=24.9
+lifepoints=50
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:6092,attack:6090}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface","Air Rune Temple"]
+aggressive=false

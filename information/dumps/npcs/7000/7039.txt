@@ -1,0 +1,10 @@
+id=7039
+name=Diseased kebbit
+description=A shy creature with a toxic bite.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=true
+members=false

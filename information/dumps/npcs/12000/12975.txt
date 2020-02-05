@@ -1,0 +1,17 @@
+id=12975
+name=Mercenary leader
+description=The leader of a long-forgotten band of mercenaries.
+size=1
+xp=95.2
+lifepoints=4000
+level=23
+attack=1
+defence=17
+ranged=1
+magic=17
+animations={range:711,death:836}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=[]
+aggressive=true

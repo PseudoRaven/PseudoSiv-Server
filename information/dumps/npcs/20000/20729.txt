@@ -1,0 +1,17 @@
+id=20729
+name=Enakhra apparition
+description=A ghostly shadow clone of Enakhra.
+size=1
+xp=5289
+lifepoints=250000
+level=0
+attack=60
+defence=1
+ranged=60
+magic=60
+animations={range:11375,attack:11375}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

@@ -1,0 +1,17 @@
+id=11203
+name=Adept worldbearer
+description=Trained from birth to relieve you of your burdens. (Tier 9)
+size=1
+xp=693.9
+lifepoints=9000
+level=100
+attack=72
+defence=72
+ranged=72
+magic=72
+animations={range:13617,death:13683,attack:13617}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

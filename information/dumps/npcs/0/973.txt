@@ -1,0 +1,10 @@
+id=973
+name=Koftik
+description=The cave guide.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Underground path"]
+aggressive=false
+members=false

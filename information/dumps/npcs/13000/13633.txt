@@ -1,0 +1,10 @@
+id=13633
+name=Captain of the Guard
+description=This perky officer seems to be on clan cloak duty.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=10128
+name=Bal'lak the Pummeller
+description=A soldier of a demon army.
+size=5
+xp=655.8
+lifepoints=10000
+level=91
+attack=65
+defence=65
+ranged=65
+magic=65
+animations={range:19566,death:19574}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

@@ -1,0 +1,17 @@
+id=20896
+name=Armoured zombie
+description=This is a rotten one.
+size=1
+xp=0
+lifepoints=3000
+level=42
+attack=30
+defence=30
+ranged=0
+magic=0
+animations={death:26142,attack:26135}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=true

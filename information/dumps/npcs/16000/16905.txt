@@ -1,0 +1,17 @@
+id=16905
+name=Automaton Generator
+description=Generates magical energy for use in battle.
+size=2
+xp=385.2
+lifepoints=7500
+level=84
+attack=1
+defence=60
+ranged=1
+magic=60
+animations={range:19819,death:19811}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

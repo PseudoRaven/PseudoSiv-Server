@@ -1,0 +1,17 @@
+id=19553
+name=Dark Lord
+description=A deathly horror through which no light can pass.
+size=3
+xp=1778.4
+lifepoints=19250
+level=107
+attack=77
+defence=77
+ranged=1
+magic=77
+animations={range:24237,death:24240,attack:24224}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=true

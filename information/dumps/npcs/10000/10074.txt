@@ -1,0 +1,17 @@
+id=10074
+name=Bulwark beast
+description=Its armour is made of a hard stone.
+size=5
+xp=141.9
+lifepoints=2500
+level=7
+attack=5
+defence=5
+ranged=5
+magic=5
+animations={death:13005,attack:13001}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

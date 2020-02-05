@@ -1,0 +1,17 @@
+id=3742
+name=Ravager
+description=Worse than termites!
+size=1
+xp=81
+lifepoints=2600
+level=36
+attack=26
+defence=26
+ranged=1
+magic=1
+animations={death:3917,attack:3915}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=true

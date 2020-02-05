@@ -1,0 +1,10 @@
+id=2177
+name=Inn Keeper
+description=A rich landlord, fat and jolly.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

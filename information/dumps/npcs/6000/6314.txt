@@ -1,0 +1,10 @@
+id=6314
+name=Guard no. 21
+description=She looks bored.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Arposandran underground","Sewer"]
+aggressive=false
+members=false

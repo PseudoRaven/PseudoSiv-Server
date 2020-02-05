@@ -1,0 +1,10 @@
+id=2178
+name=Barmaid
+description=These Dwarf ladies are so attractive!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

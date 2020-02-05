@@ -1,0 +1,10 @@
+id=4553
+name='Betty' B.Boppin
+description=He never stops talking about Betty...
+xp=0.4
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

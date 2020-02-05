@@ -1,0 +1,17 @@
+id=1019
+name=Fire elemental
+description=A fire elemental.
+size=1
+xp=69.6
+lifepoints=1600
+level=44
+attack=24
+defence=32
+ranged=0
+magic=32
+animations={death:1031,attack:1029}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=["Elemental Workshop","Smoke Dungeon","Chaos tunnels"]
+aggressive=false

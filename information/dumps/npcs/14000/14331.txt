@@ -1,0 +1,10 @@
+id=14331
+name=Undead broav
+description=An evil, horrific pig.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=true
+members=true

@@ -1,0 +1,17 @@
+id=18540
+name=Dharok the Wretched
+description=A vengeful spirit corrupted by dark magic.
+size=1
+xp=6800.4
+lifepoints=50000
+level=650
+attack=90
+defence=90
+ranged=1
+magic=1
+animations={death:836,attack:18236}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

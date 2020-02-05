@@ -1,0 +1,10 @@
+id=15416
+name=Soul esswraith
+description=An esswraith imbued with soul energy.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["The Runespan"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=905
+name=Kolodion
+description=He runs the mage arena.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Wilderness Dungeons"]
+aggressive=false
+members=true

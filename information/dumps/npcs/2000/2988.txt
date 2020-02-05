@@ -1,0 +1,10 @@
+id=2988
+name=Mittens
+description=A fully grown feline.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Rat Pit"]
+aggressive=true
+members=true

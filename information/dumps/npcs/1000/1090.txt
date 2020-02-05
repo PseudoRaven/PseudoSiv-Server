@@ -1,0 +1,10 @@
+id=1090
+name=Hild
+description=A pretty young woman with an air of mystery around her.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

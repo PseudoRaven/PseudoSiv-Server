@@ -1,0 +1,10 @@
+id=6525
+name=Murky Matt (runes)
+description=You can never miss a pirate in disguise.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

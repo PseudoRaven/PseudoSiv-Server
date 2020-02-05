@@ -1,0 +1,17 @@
+id=19620
+name=Mourner
+description=A mourner.
+size=1
+xp=221.7
+lifepoints=2850
+level=79
+attack=57
+defence=57
+ranged=1
+magic=1
+animations={death:836}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

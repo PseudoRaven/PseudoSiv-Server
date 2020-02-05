@@ -1,0 +1,17 @@
+id=164
+name=Gnome guard
+description=A tree gnome guard.
+size=1
+xp=90.9
+lifepoints=1900
+level=53
+attack=38
+defence=38
+ranged=1
+magic=1
+animations={death:196,attack:192}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface"]
+aggressive=false

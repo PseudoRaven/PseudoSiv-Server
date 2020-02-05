@@ -1,0 +1,10 @@
+id=3293
+name=Banker
+description=She'll store my items for me.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Varrock","RuneScape Surface"]
+aggressive=false
+members=false

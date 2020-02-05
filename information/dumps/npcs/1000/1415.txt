@@ -1,0 +1,10 @@
+id=1415
+name=Bunkdo
+description=A seasoned looking Gnome foot soldier.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

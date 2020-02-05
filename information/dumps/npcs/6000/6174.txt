@@ -1,0 +1,17 @@
+id=6174
+name=Bandit
+description=Tough-looking.
+size=1
+xp=75.9
+lifepoints=1700
+level=47
+attack=34
+defence=34
+ranged=0
+magic=0
+animations={death:836,attack:395}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

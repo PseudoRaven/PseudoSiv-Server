@@ -1,0 +1,10 @@
+id=5803
+name=Young 'un
+description=A goblin baby.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dorgesh-Kaan"]
+aggressive=false
+members=true

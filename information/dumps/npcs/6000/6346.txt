@@ -1,0 +1,17 @@
+id=6346
+name=Pirate
+description=Avast ye scurvy land lubbers!
+size=1
+xp=44.4
+lifepoints=1050
+level=29
+attack=21
+defence=21
+ranged=1
+magic=1
+animations={death:7185,attack:7181}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=["RuneScape Surface"]
+aggressive=false

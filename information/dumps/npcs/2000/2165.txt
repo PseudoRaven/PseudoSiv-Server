@@ -1,0 +1,10 @@
+id=2165
+name=Librarian
+description=He takes care of the library and its many books.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

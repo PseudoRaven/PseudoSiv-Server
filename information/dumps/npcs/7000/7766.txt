@@ -1,0 +1,10 @@
+id=7766
+name=TzHaar-Hur-Klag
+description=A senior citizen TzHaar-Hur.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Tzhaar Caves"]
+aggressive=false
+members=true

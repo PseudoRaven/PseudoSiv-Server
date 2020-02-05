@@ -1,0 +1,10 @@
+id=9714
+name=Estrith
+description=She is finding it hard to hide her boredom.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

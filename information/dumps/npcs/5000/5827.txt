@@ -1,0 +1,10 @@
+id=5827
+name=Moths
+description=Annoying little flappy things.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dorgesh-Kaan"]
+aggressive=true
+members=true

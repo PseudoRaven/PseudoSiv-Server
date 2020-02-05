@@ -1,0 +1,16 @@
+id=2779
+name=Ranger
+description=A Ranger of the Temple Knights.
+size=1
+xp=186.7
+lifepoints=700
+level=0
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:836,attack:426}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

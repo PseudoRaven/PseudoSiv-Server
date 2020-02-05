@@ -1,0 +1,17 @@
+id=3263
+name=Barbarian
+description=Sieglinde, a muscular barbarian warrior.
+size=1
+xp=42.6
+lifepoints=1000
+level=28
+attack=20
+defence=20
+ranged=1
+magic=1
+animations={death:836,attack:428}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=["RuneScape Surface"]
+aggressive=false

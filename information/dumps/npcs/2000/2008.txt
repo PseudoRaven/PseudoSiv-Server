@@ -1,0 +1,17 @@
+id=2008
+name=Apmeken
+description=Body of a woman, face of a monkey.
+size=1
+xp=99.3
+lifepoints=2000
+level=56
+attack=30
+defence=40
+ranged=0
+magic=40
+animations={death:836,attack:429}
+attackable=true
+poisonous=false
+weakness="Bolt"
+areas=[]
+aggressive=false

@@ -1,0 +1,10 @@
+id=15408
+name=Body esshound
+description=An esshound imbued with body energy.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["The Runespan"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=5944
+name=Teacher and pupil
+description=A teacher and one of his pupils.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Varrock Museum"]
+aggressive=false
+members=false

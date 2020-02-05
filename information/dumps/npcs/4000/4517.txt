@@ -1,0 +1,10 @@
+id=4517
+name=Selene
+description=In a world of her own.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

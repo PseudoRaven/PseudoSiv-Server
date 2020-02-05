@@ -1,0 +1,10 @@
+id=1694
+name=Robin
+description=A master bowman.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

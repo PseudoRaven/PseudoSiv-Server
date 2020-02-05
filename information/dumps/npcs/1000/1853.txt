@@ -1,0 +1,17 @@
+id=1853
+name=Arzinian Avatar of Ranging
+description=It is the avatar of the Arzinian Being of Bordanzan, representing ranging.
+size=1
+xp=148.9
+lifepoints=4000
+level=56
+attack=30
+defence=40
+ranged=40
+magic=0
+animations={range:1843,death:1841,attack:1843}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=[]
+aggressive=true

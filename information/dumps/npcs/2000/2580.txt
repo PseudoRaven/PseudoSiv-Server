@@ -1,0 +1,10 @@
+id=2580
+name=Bernald
+description=The guardian of Burthorpe's lost horticultural heritage.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

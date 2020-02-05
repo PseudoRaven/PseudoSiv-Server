@@ -1,0 +1,10 @@
+id=343
+name=Guidor
+description=He's not that ill.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

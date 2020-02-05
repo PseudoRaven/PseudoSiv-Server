@@ -1,0 +1,10 @@
+id=3705
+name=Max
+description=He's mastered the many skills of RuneScape.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

@@ -1,0 +1,10 @@
+id=14731
+name=Isidor
+description=Thinks with portals.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Xmas 2011"]
+aggressive=false
+members=false

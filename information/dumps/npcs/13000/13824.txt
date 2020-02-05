@@ -1,0 +1,10 @@
+id=13824
+name=Maverick
+description=Everything you'd expect from a seasoned, hardened, mercenary adventurer.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

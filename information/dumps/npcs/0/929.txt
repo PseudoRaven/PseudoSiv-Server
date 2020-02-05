@@ -1,0 +1,11 @@
+id=929
+name=Ungadulu
+description=The Kharazi tribe's elusive shaman.
+xp=24.9
+animations={}
+attackable=true
+poisonous=false
+weakness="None"
+areas=["Kharazi caves"]
+aggressive=false
+members=false

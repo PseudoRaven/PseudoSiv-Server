@@ -1,0 +1,10 @@
+id=5886
+name=Ticket dwarf
+description=He sells tickets to Dorgesh-Kaan.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim Station"]
+aggressive=false
+members=true

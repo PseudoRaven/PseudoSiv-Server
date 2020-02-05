@@ -1,0 +1,11 @@
+id=18616
+name=Gudrik
+description=An old but sturdy dwarf.
+xp=77.4
+animations={}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

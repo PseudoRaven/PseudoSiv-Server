@@ -1,0 +1,11 @@
+id=1266
+name=Rocks
+description=A rocky outcrop.
+xp=166.8
+animations={}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["RuneScape Surface","Waterbirth Island Dungeon"]
+aggressive=true
+members=false

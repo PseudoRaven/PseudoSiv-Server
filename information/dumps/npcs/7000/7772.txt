@@ -1,0 +1,17 @@
+id=7772
+name=Lava monster
+description=A monster made of magma.
+size=1
+xp=90.9
+lifepoints=1900
+level=53
+attack=28
+defence=38
+ranged=38
+magic=0
+animations={death:9340,attack:9337}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=["Collapsing cave"]
+aggressive=false

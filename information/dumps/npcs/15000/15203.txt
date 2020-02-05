@@ -1,0 +1,17 @@
+id=15203
+name=TokHaar-Mej
+description=A potent combination of magical prowess and honed obsidian.
+size=2
+xp=486
+lifepoints=5475
+level=160
+attack=54
+defence=73
+ranged=0
+magic=73
+animations={death:16123,attack:16127}
+attackable=true
+poisonous=false
+weakness="Bolt"
+areas=[]
+aggressive=true

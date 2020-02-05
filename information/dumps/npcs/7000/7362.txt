@@ -1,0 +1,17 @@
+id=7362
+name=Spirit Tz-Kih
+description=This bat burned down the belfry.
+size=1
+xp=81.6
+lifepoints=3200
+level=26
+attack=20
+defence=18
+ranged=20
+magic=20
+animations={death:8258,attack:8257}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

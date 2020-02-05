@@ -1,0 +1,17 @@
+id=19332
+name=Agoroth
+description=A huge, aquatic monster.
+size=3
+xp=10
+lifepoints=10000
+level=0
+attack=15
+defence=30
+ranged=1
+magic=1
+animations={}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

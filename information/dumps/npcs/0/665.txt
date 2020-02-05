@@ -1,0 +1,10 @@
+id=665
+name=Boot
+description=A short and angry dwarf.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dwarven mines"]
+aggressive=false
+members=false

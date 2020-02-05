@@ -1,0 +1,17 @@
+id=8559
+name=Greater reborn warrior
+description=A mighty warrior that died and was reborn through the phoenix's power.
+size=2
+xp=244.8
+lifepoints=2950
+level=82
+attack=59
+defence=59
+ranged=0
+magic=0
+animations={death:11120,attack:11116}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=true

@@ -1,0 +1,11 @@
+id=1099
+name=Dung
+description=Human is his speciality.
+xp=256.8
+animations={}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=["RuneScape Surface"]
+aggressive=true
+members=false

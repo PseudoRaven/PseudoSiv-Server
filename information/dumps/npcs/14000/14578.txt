@@ -1,0 +1,17 @@
+id=14578
+name=Delrith
+description=A powerful demon, here to destroy Varrock!
+size=2
+xp=96.7
+lifepoints=3000
+level=42
+attack=30
+defence=30
+ranged=30
+magic=30
+animations={death:20281,attack:19600}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

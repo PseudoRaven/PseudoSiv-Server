@@ -1,0 +1,17 @@
+id=205
+name=Salarin the Twisted
+description=A crazy, evil druid.
+size=1
+xp=2
+lifepoints=2000
+level=77
+attack=55
+defence=55
+ranged=1
+magic=55
+animations={death:836,attack:811}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["Yanille Dungeon"]
+aggressive=false

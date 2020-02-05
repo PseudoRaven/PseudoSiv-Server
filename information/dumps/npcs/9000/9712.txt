@@ -1,0 +1,10 @@
+id=9712
+name=Dungeoneering tutor
+description=Your contact for forming parties in Daemonheim.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

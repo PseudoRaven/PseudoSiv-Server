@@ -1,0 +1,17 @@
+id=3647
+name=Angry giant rat
+description=He looks a little on the cross side!
+size=2
+xp=51.9
+lifepoints=1250
+level=45
+attack=25
+defence=25
+ranged=0
+magic=0
+animations={death:4935,attack:4933}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

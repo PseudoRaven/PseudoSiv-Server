@@ -1,0 +1,17 @@
+id=5398
+name=Zombie
+description=A shambling pile of rotten flesh.
+size=1
+xp=201.3
+lifepoints=2750
+level=77
+attack=55
+defence=55
+ranged=1
+magic=1
+animations={death:5580,attack:5578}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["Lair of Tarn Razorlor"]
+aggressive=true

@@ -1,0 +1,10 @@
+id=2984
+name=Pusskins
+description=Not a soft touch.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Rat pits"]
+aggressive=true
+members=true

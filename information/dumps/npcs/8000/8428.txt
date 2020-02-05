@@ -1,0 +1,10 @@
+id=8428
+name=Khazard launderer
+description=He's carefully folding clothes.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

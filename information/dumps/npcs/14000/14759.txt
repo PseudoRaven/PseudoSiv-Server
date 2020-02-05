@@ -1,0 +1,10 @@
+id=14759
+name=Wizard Mizgog
+description=An old wizard.
+xp=0.3
+animations={}
+attackable=true
+poisonous=false
+areas=["Xmas 2011"]
+aggressive=false
+members=false

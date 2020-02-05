@@ -1,0 +1,17 @@
+id=10744
+name=Animated book
+description=The book appears to be alive.
+size=1
+xp=37.3
+lifepoints=200
+level=2
+attack=1
+defence=2
+ranged=1
+magic=2
+animations={range:13480,death:13481,attack:13479}
+attackable=true
+poisonous=false
+weakness="Thrown"
+areas=[]
+aggressive=true

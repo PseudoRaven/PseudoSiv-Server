@@ -1,0 +1,10 @@
+id=9488
+name=Hydra
+description=A very split personality.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Spirit Plane"]
+aggressive=true
+members=true

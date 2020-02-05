@@ -1,0 +1,10 @@
+id=17167
+name=Villager
+description=She is watching the portal with anxiety.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

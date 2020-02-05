@@ -1,0 +1,16 @@
+id=15392
+name=Mage
+description=His magic tricks won't save him now.
+size=1
+xp=0
+lifepoints=600
+level=21
+attack=15
+defence=15
+ranged=15
+magic=15
+animations={range:711,death:836}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

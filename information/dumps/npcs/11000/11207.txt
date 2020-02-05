@@ -1,0 +1,17 @@
+id=11207
+name=Cub deathslinger
+description=Trained from birth to lead the hunt. (Tier 1)
+size=1
+xp=54.9
+lifepoints=1875
+level=21
+attack=15
+defence=15
+ranged=15
+magic=15
+animations={range:13615,death:13669,attack:13615}
+attackable=true
+poisonous=false
+weakness="Slashing"
+areas=[]
+aggressive=false

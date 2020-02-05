@@ -1,0 +1,10 @@
+id=14874
+name=Martin Steelweaver
+description=Works metal as though it were but air.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

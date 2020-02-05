@@ -1,0 +1,17 @@
+id=20727
+name=Moia apparition
+description=A ghostly shadow clone of Moia.
+size=1
+xp=5289
+lifepoints=250000
+level=0
+attack=60
+defence=1
+ranged=60
+magic=60
+animations={range:18249,attack:18249}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

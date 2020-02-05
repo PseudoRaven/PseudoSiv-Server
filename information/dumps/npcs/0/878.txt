@@ -1,0 +1,17 @@
+id=878
+name=Colonel Radick
+description=A military man.
+size=1
+xp=95.2
+lifepoints=3400
+level=23
+attack=17
+defence=17
+ranged=0
+magic=0
+animations={death:836,attack:395}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["Yanille","RuneScape Surface"]
+aggressive=false

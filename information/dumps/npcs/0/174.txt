@@ -1,0 +1,17 @@
+id=174
+name=Dark wizard
+description=He works evil magic.
+size=1
+xp=50.4
+lifepoints=1200
+level=33
+attack=1
+defence=24
+ranged=1
+magic=24
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Bolt"
+areas=["RuneScape Surface"]
+aggressive=false

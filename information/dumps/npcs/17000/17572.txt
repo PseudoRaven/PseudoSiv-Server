@@ -1,0 +1,10 @@
+id=17572
+name=Saradomin follower
+description=She has taken a vow of silence, but thinks whistling is probably fine.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

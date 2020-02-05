@@ -1,0 +1,10 @@
+id=6663
+name=Aksel
+description=An excited dwarf.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

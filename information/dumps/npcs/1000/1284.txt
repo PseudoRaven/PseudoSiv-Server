@@ -1,0 +1,10 @@
+id=1284
+name=Bjorn
+description=Looks like he's having fun!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

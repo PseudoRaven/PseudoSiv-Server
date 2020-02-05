@@ -1,0 +1,17 @@
+id=7829
+name=Giant crab
+description=Nice claw.
+size=1
+xp=159.3
+lifepoints=2500
+level=70
+attack=50
+defence=50
+ranged=0
+magic=0
+animations={death:3430,attack:3428}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=["Dragontooth shipwreck"]
+aggressive=false

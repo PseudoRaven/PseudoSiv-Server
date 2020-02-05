@@ -1,0 +1,10 @@
+id=17176
+name=Worried H.A.M. cultist
+description=He has a look of impending doom.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

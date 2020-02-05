@@ -1,0 +1,17 @@
+id=3594
+name=Rocnar
+description=It's full of pent-up aggression.
+size=2
+xp=0
+lifepoints=4850
+level=70
+attack=50
+defence=50
+ranged=1
+magic=1
+animations={death:3711,attack:3709}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=true

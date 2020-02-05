@@ -1,0 +1,10 @@
+id=846
+name=Kangai Mau
+description=A happening kind of guy!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

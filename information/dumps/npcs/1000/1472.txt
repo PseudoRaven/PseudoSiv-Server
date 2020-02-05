@@ -1,0 +1,17 @@
+id=1472
+name=Jungle demon
+description=A Greater Jungle demon. A magical aura emanates from its hide.
+size=3
+xp=557.5
+lifepoints=15000
+level=70
+attack=50
+defence=50
+ranged=50
+magic=50
+animations={death:17461,attack:17462}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

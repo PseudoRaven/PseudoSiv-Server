@@ -1,0 +1,10 @@
+id=2084
+name=Mistag
+description=He looks like he's in charge of the miners.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Misthalin Underground"]
+aggressive=false
+members=false

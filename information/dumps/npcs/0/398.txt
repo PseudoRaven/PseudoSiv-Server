@@ -1,0 +1,10 @@
+id=398
+name=Legends guard
+description=A Legends Guild guard; he protects the entrance to the Legends Guild.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

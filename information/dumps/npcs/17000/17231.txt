@@ -1,0 +1,17 @@
+id=17231
+name=Chaos Hreidmar
+description=Hreidmar has transformed into a magic-using chaos dwarf!
+size=1
+xp=5508
+lifepoints=60000
+level=111
+attack=85
+defence=75
+ranged=1
+magic=85
+animations={range:21550,death:25419,attack:21341}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

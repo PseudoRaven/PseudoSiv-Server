@@ -1,0 +1,10 @@
+id=9715
+name=Sonje
+description=I wouldn't pick a fight with her.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

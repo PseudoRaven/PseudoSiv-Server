@@ -1,0 +1,17 @@
+id=15177
+name=TzHaar-Ket (Hardened)
+description=This brute is a regular in the Fight Pit.
+size=2
+xp=419.1
+lifepoints=3500
+level=98
+attack=70
+defence=70
+ranged=70
+magic=70
+animations={death:16092,attack:16090}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

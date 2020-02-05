@@ -1,0 +1,17 @@
+id=9052
+name=Ice demon
+description=A demon made of ice.
+size=2
+xp=419.1
+lifepoints=5250
+level=98
+attack=70
+defence=70
+ranged=70
+magic=70
+animations={death:2980,attack:2975}
+attackable=true
+poisonous=false
+weakness="None"
+areas=["Ghorrock Fortress Dungeon"]
+aggressive=true

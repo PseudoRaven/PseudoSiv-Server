@@ -1,0 +1,10 @@
+id=5113
+name=Hunting expert
+description=With all the furs, I almost mistook her for a wild animal.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

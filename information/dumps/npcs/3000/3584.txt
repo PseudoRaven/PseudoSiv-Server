@@ -1,0 +1,17 @@
+id=3584
+name=Troll
+description=A pet Troll.
+size=1
+xp=0
+lifepoints=4500
+level=98
+attack=70
+defence=70
+ranged=1
+magic=1
+animations={death:13785,attack:13791}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=true

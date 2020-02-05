@@ -1,0 +1,17 @@
+id=7005
+name=Big wolf
+description=Must be the pack leader.
+size=2
+xp=2.6
+lifepoints=740
+level=85
+attack=60
+defence=62
+ranged=1
+magic=1
+animations={death:6558,attack:6559}
+attackable=true
+poisonous=false
+slayercat=Wolves
+areas=[]
+aggressive=false

@@ -1,0 +1,10 @@
+id=15926
+name=Skulls mercenary
+description=Well and truly...
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["The Skullery"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=798
+name=Velrak the explorer
+description=He looks cold and hungry.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Taverley Dungeon"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=1367
+name=Skraeling
+description=A warrior of Etceteria.
+size=1
+xp=25.5
+lifepoints=200
+level=5
+attack=4
+defence=4
+ranged=0
+magic=0
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface"]
+aggressive=false

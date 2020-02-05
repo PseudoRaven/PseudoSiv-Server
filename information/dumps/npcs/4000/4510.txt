@@ -1,0 +1,17 @@
+id=4510
+name=Me
+description=It's like looking in the mirror.
+size=1
+xp=385.2
+lifepoints=6000
+level=84
+attack=60
+defence=60
+ranged=60
+magic=60
+animations={death:836,attack:414}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

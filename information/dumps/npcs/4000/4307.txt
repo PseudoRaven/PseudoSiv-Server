@@ -1,0 +1,16 @@
+id=4307
+name=Guard
+description=A guard for the humans against monster group.
+size=1
+xp=0.3
+lifepoints=300
+level=19
+attack=16
+defence=12
+ranged=1
+magic=1
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+areas=["H.A.M. store rooms"]
+aggressive=false

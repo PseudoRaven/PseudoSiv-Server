@@ -1,0 +1,10 @@
+id=1658
+name=Robe Store owner
+description=A Supplier of Magical robes.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

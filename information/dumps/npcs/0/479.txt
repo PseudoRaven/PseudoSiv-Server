@@ -1,0 +1,17 @@
+id=479
+name=Gnome troop
+description=It's a tree gnome trooper.
+size=1
+xp=69.6
+lifepoints=1600
+level=44
+attack=24
+defence=32
+ranged=32
+magic=0
+animations={death:196,attack:190}
+attackable=true
+poisonous=false
+weakness="Slashing"
+areas=["RuneScape Surface"]
+aggressive=false

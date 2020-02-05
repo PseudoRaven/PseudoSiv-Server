@@ -1,0 +1,17 @@
+id=5861
+name=Gobby demon
+description=No match for Thok. Silly demon.
+size=5
+xp=0
+lifepoints=2500
+level=119
+attack=85
+defence=85
+ranged=85
+magic=85
+animations={range:16990,death:16988,attack:19567}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

@@ -1,0 +1,10 @@
+id=7143
+name=Professor Henry
+description=A buttoned-down examiner.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

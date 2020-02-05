@@ -1,0 +1,10 @@
+id=18197
+name=Faizan Augour
+description=He seems deep in thought.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

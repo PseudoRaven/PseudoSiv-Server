@@ -1,0 +1,17 @@
+id=12903
+name=Reborn mage
+description=A mage who died and was reborn thanks to the strange power.
+size=2
+xp=92.2
+lifepoints=3900
+level=40
+attack=1
+defence=20
+ranged=1
+magic=39
+animations={range:11111,death:11112}
+attackable=true
+poisonous=false
+weakness="Thrown"
+areas=[]
+aggressive=true

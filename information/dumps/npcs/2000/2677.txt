@@ -1,0 +1,17 @@
+id=2677
+name=Highwayman
+description=He holds up passers by.
+size=1
+xp=28.2
+lifepoints=400
+level=11
+attack=8
+defence=8
+ranged=1
+magic=1
+animations={death:836,attack:386}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["RuneScape Surface"]
+aggressive=false

@@ -1,0 +1,10 @@
+id=5571
+name=Sin Seer
+description=She's honest about the things you aren't.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

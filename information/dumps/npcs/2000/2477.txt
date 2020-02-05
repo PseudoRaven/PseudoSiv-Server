@@ -1,0 +1,10 @@
+id=2477
+name=Quiz Master
+description=Apparently a master of quizzes!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Quiz master"]
+aggressive=false
+members=false

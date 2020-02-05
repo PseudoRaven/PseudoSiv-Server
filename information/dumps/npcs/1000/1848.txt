@@ -1,0 +1,10 @@
+id=1848
+name=Dernu
+description=He seems deeply engaged in conversation with his fellow boatmen.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

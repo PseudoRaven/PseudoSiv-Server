@@ -1,0 +1,10 @@
+id=530
+name=Shopkeeper
+description=Has an interesting assortment of items for sale.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

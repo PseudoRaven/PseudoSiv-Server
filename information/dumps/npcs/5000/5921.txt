@@ -1,0 +1,10 @@
+id=5921
+name=Trainee Guard
+description=He's studying to be a guard.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Varrock","RuneScape Surface"]
+aggressive=true
+members=false

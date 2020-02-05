@@ -1,0 +1,17 @@
+id=19672
+name=King spawn
+description=What's it looking at?
+size=1
+xp=0
+lifepoints=250
+level=69
+attack=60
+defence=41
+ranged=1
+magic=1
+animations={death:24327,attack:24325}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

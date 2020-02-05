@@ -1,0 +1,17 @@
+id=2452
+name=Giant Rock Crab
+description=No one likes crabs... especially really big ones!
+size=2
+xp=379.8
+lifepoints=3400
+level=95
+attack=68
+defence=68
+ranged=1
+magic=1
+animations={death:1314,attack:2368}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=true

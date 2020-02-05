@@ -1,0 +1,17 @@
+id=237
+name=Renegade Knight
+description=He isn't very friendly.
+size=1
+xp=54.9
+lifepoints=1500
+level=21
+attack=15
+defence=15
+ranged=0
+magic=0
+animations={death:6490,attack:6489}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["RuneScape Surface"]
+aggressive=false

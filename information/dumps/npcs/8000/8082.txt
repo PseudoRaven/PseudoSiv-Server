@@ -1,0 +1,10 @@
+id=8082
+name=Agility assistant
+description=Here to help.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Circus"]
+aggressive=false
+members=true

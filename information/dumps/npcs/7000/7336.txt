@@ -1,0 +1,17 @@
+id=7336
+name=Forge regent
+description=This one will burn right through the net!
+size=1
+xp=491.8
+lifepoints=8600
+level=90
+attack=69
+defence=61
+ranged=69
+magic=69
+animations={death:7864,attack:7863}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

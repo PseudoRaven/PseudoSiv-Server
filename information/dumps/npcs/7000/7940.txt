@@ -1,0 +1,17 @@
+id=7940
+name=Carn
+description=A bandit leader and beastmaster.
+size=1
+xp=0
+lifepoints=900
+level=38
+attack=30
+defence=20
+ranged=36
+magic=30
+animations={range:23943,death:2261,attack:23943}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

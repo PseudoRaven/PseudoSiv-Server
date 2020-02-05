@@ -1,0 +1,17 @@
+id=5188
+name=Nial Swiftfling
+description=It's Nial, turned into a yeti.
+size=3
+xp=349.6
+lifepoints=5800
+level=81
+attack=58
+defence=58
+ranged=58
+magic=58
+animations={death:8948,attack:8946}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

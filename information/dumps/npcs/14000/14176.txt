@@ -1,0 +1,17 @@
+id=14176
+name=Vanstrom Klause
+description=He doesn't look so tough.
+size=1
+xp=2514.6
+lifepoints=40000
+level=98
+attack=70
+defence=70
+ranged=70
+magic=70
+animations={death:836,attack:8591}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

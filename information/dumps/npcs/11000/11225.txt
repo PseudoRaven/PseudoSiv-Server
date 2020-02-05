@@ -1,0 +1,17 @@
+id=11225
+name=Sachem deathslinger
+description=Trained from birth to lead the hunt. (Tier 10)
+size=1
+xp=1032.7
+lifepoints=10000
+level=112
+attack=80
+defence=80
+ranged=80
+magic=80
+animations={range:13615,death:13669,attack:13615}
+attackable=true
+poisonous=false
+weakness="Slashing"
+areas=[]
+aggressive=false

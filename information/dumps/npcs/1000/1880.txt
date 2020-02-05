@@ -1,0 +1,17 @@
+id=1880
+name=Bandit
+description=A vicious thief.
+size=1
+xp=90.9
+lifepoints=1900
+level=53
+attack=38
+defence=38
+ranged=0
+magic=0
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

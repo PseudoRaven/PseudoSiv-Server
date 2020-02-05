@@ -1,0 +1,16 @@
+id=1524
+name=Undead Lumberjack
+description=He is one, but he's not alright.
+size=1
+xp=1
+lifepoints=100
+level=54
+attack=73
+defence=10
+ranged=1
+magic=1
+animations={death:5972,attack:5970}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

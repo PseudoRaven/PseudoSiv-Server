@@ -1,0 +1,10 @@
+id=231
+name=Forester
+description=He likes to cut down trees.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=8241
+name=Clay familiar (class 1)
+description=A sacred familiar made of very low quality clay.
+size=2
+xp=24.9
+lifepoints=50
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:10597,attack:10591}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

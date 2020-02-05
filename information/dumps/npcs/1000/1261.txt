@@ -1,0 +1,17 @@
+id=1261
+name=Afflicted
+description=A local villager of Mort'ton.
+size=1
+xp=125.7
+lifepoints=2250
+level=63
+attack=45
+defence=45
+ranged=0
+magic=0
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=["RuneScape Surface"]
+aggressive=false

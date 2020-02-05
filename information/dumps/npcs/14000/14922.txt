@@ -1,0 +1,10 @@
+id=14922
+name=Corporal Boothe
+description=Provides personal combat gear.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Abandoned Burthorpe mine"]
+aggressive=false
+members=false

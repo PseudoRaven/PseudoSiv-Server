@@ -1,0 +1,10 @@
+id=5082
+name=Black warlock
+description=A black warlock. The air seems to distort wherever it passes.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

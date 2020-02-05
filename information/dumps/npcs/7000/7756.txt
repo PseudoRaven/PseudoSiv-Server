@@ -1,0 +1,10 @@
+id=7756
+name=Library assistant
+description=A TzHaar-Hur stamping stone tablets.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Tzhaar Caves"]
+aggressive=false
+members=false

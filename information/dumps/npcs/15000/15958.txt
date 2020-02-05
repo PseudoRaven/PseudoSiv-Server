@@ -1,0 +1,17 @@
+id=15958
+name=Hollowtoof
+description=Oh no, now he's angry!
+size=1
+xp=0.2
+lifepoints=140
+level=4
+attack=1
+defence=5
+ranged=1
+magic=1
+animations={death:6182,attack:6185}
+attackable=true
+poisonous=false
+slayercat=Goblins
+areas=[]
+aggressive=false

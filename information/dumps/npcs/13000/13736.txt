@@ -1,0 +1,11 @@
+id=13736
+name=Ezekial
+description=An unlikely saviour.
+xp=129
+animations={}
+attackable=true
+poisonous=false
+weakness="Slashing"
+areas=["Daemonheim","Slug Citadel"]
+aggressive=false
+members=true

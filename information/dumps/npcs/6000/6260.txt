@@ -1,0 +1,17 @@
+id=6260
+name=General Graardor
+description=A huge war chief.
+size=3
+xp=2951.8
+lifepoints=40000
+level=624
+attack=75
+defence=75
+ranged=75
+magic=1
+animations={death:17392,attack:17389}
+attackable=true
+poisonous=false
+weakness="None"
+areas=["God Wars Dungeon"]
+aggressive=true

@@ -1,0 +1,10 @@
+id=579
+name=Drogo dwarf
+description=He runs a Mining store.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dwarven mines"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=17600
+name=Zamorakian champion
+description=A demonic champion of chaos.
+size=2
+xp=1377
+lifepoints=12500
+level=0
+attack=1
+defence=80
+ranged=1
+magic=80
+animations={death:19617,attack:19614}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

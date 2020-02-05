@@ -1,0 +1,17 @@
+id=2265
+name=Abyssal walker
+description=Apparently walks the abyss.
+size=1
+xp=201.3
+lifepoints=2750
+level=77
+attack=55
+defence=55
+ranged=1
+magic=1
+animations={death:2194,attack:2192}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=["The Abyss"]
+aggressive=false

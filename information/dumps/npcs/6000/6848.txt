@@ -1,0 +1,17 @@
+id=6848
+name=Albino rat
+description=The big cheese.
+size=2
+xp=85.2
+lifepoints=3300
+level=27
+attack=21
+defence=19
+ranged=21
+magic=21
+animations={death:14860,attack:14859}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

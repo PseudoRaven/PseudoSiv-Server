@@ -1,0 +1,10 @@
+id=9703
+name=Anemone
+description=Looks like she'd gladly beat anyone to a pulp.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Mermaid Island"]
+aggressive=false
+members=true

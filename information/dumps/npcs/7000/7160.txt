@@ -1,0 +1,17 @@
+id=7160
+name=Cockroach soldier
+description=Euww! A giant bug.
+size=3
+xp=54
+lifepoints=1300
+level=36
+attack=26
+defence=26
+ranged=1
+magic=1
+animations={death:8789,attack:8786}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=["Stronghold of Safety"]
+aggressive=false

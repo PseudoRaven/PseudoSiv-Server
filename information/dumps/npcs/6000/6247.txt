@@ -1,0 +1,17 @@
+id=6247
+name=Commander Zilyana
+description=Commander of Saradomin's forces.
+size=2
+xp=4561.9
+lifepoints=60000
+level=596
+attack=75
+defence=75
+ranged=1
+magic=75
+animations={death:6965,attack:6964}
+attackable=true
+poisonous=false
+weakness="None"
+areas=["God Wars Dungeon"]
+aggressive=true

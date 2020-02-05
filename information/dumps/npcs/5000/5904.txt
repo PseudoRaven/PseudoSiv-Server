@@ -1,0 +1,17 @@
+id=5904
+name=The Untouchable
+description=Can you bring yourself to hurt another?
+size=2
+xp=419.1
+lifepoints=3500
+level=98
+attack=65
+defence=75
+ranged=65
+magic=65
+animations={death:6331,attack:6329}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

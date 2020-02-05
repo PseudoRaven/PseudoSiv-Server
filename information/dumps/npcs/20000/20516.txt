@@ -1,0 +1,17 @@
+id=20516
+name=Dwarven Challenge Barrel
+description=This can be used to show off your combat prowess.
+size=1
+xp=0
+lifepoints=100000
+level=0
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

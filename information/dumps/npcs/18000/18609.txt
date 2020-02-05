@@ -1,0 +1,10 @@
+id=18609
+name=Magda
+description=A mysterious old hermit.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

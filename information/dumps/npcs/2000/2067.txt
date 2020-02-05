@@ -1,0 +1,10 @@
+id=2067
+name=Fishing spot
+description=I can see fish swimming in the water.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Misthalin Underground"]
+aggressive=false
+members=false

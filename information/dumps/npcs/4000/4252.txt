@@ -1,0 +1,10 @@
+id=4252
+name=Macaroni Penguin
+description=Beak areful with this one, he looks shifty!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

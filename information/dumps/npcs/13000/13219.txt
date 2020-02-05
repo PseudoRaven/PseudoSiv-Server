@@ -1,0 +1,17 @@
+id=13219
+name=Ayuni
+description=A mysterious, godlike creature whose deep eyes bore into your soul.
+size=3
+xp=256.8
+lifepoints=3000
+level=84
+attack=60
+defence=60
+ranged=60
+magic=60
+animations={range:15042,death:15063,attack:15046}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

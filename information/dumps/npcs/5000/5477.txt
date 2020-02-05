@@ -1,0 +1,10 @@
+id=5477
+name=Bork Sigmundson
+description=Physician to Neitiznot's militia.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Miscellania Underground"]
+aggressive=false
+members=false

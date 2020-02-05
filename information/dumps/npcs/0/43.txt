@@ -1,0 +1,10 @@
+id=43
+name=Sheep
+description=White and fluffy.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface","Fisher Realm"]
+aggressive=false
+members=false

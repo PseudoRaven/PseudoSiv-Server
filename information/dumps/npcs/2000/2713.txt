@@ -1,0 +1,10 @@
+id=2713
+name=Malignius Mortifer
+description=A master of necromancy!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

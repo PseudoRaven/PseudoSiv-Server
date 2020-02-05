@@ -1,0 +1,17 @@
+id=3732
+name=Shifter
+description=Nippy little thing!
+size=1
+xp=136.3
+lifepoints=3800
+level=53
+attack=38
+defence=38
+ranged=1
+magic=1
+animations={death:3903,attack:3901}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=true

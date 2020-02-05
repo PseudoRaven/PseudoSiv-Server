@@ -1,0 +1,10 @@
+id=1799
+name=Tindel Marchant
+description=He seems quietly enthusiastic about his profession.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

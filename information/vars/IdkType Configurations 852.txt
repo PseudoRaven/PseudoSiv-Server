@@ -1,0 +1,4970 @@
+
+case 0:
+	idkType.headModels = new int[] { 39799, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 230 };
+	break;
+
+case 1:
+	idkType.headModels = new int[] { 39905, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 210 };
+	break;
+
+case 2:
+	idkType.headModels = new int[] { 39949, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 214 };
+	break;
+
+case 3:
+	idkType.headModels = new int[] { 39877, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 217 };
+	break;
+
+case 4:
+	idkType.headModels = new int[] { 39943, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 223 };
+	break;
+
+case 5:
+	idkType.headModels = new int[] { 39836, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 215 };
+	break;
+
+case 6:
+	idkType.headModels = new int[] { 39723, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 235 };
+	break;
+
+case 7:
+	idkType.headModels = new int[] { 39989, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 206 };
+	break;
+
+case 8:
+	idkType.headModels = new int[] { 39883, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 203 };
+	break;
+
+case 9:
+	idkType.bodyModelIds = new int[] { 60050 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 10:
+	idkType.headModels = new int[] { 39254, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 249 };
+	idkType.bodyPartId = 1;
+	break;
+
+case 11:
+	idkType.headModels = new int[] { 38642, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 250 };
+	idkType.bodyPartId = 1;
+	break;
+
+case 12:
+	idkType.headModels = new int[] { 38096, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 251 };
+	idkType.bodyPartId = 1;
+	break;
+
+case 13:
+	idkType.headModels = new int[] { 39256, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 247 };
+	idkType.bodyPartId = 1;
+	break;
+
+case 14:
+	idkType.headModels = new int[] { 39223, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 246 };
+	idkType.bodyPartId = 1;
+	break;
+
+case 15:
+	idkType.headModels = new int[] { 39275, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 248 };
+	idkType.bodyPartId = 1;
+	break;
+
+case 16:
+	idkType.headModels = new int[] { 39227, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 253 };
+	idkType.bodyPartId = 1;
+	break;
+
+case 17:
+	idkType.headModels = new int[] { 39213, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 252 };
+	idkType.bodyPartId = 1;
+	break;
+
+case 18:
+	idkType.bodyModelIds = new int[] { 292 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 19:
+	idkType.bodyModelIds = new int[] { 292, 322 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 20:
+	idkType.bodyModelIds = new int[] { 292, 326 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 21:
+	idkType.bodyModelIds = new int[] { 292, 320 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 22:
+	idkType.bodyModelIds = new int[] { 292, 327 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 23:
+	idkType.bodyModelIds = new int[] { 292, 324 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 24:
+	idkType.bodyModelIds = new int[] { 310 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 25:
+	idkType.bodyModelIds = new int[] { 40202 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 26:
+	idkType.bodyModelIds = new int[] { 151 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 27:
+	idkType.bodyModelIds = new int[] { 167 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 28:
+	idkType.bodyModelIds = new int[] { 170 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 29:
+	idkType.bodyModelIds = new int[] { 162 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 30:
+	idkType.bodyModelIds = new int[] { 163 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 31:
+	idkType.bodyModelIds = new int[] { 158 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 32:
+	idkType.bodyModelIds = new int[] { 158 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 33:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 34:
+	idkType.bodyModelIds = new int[] { 10218 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 35:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 36:
+	idkType.bodyModelIds = new int[] { 40250 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 37:
+	idkType.bodyModelIds = new int[] { 40252 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 38:
+	idkType.bodyModelIds = new int[] { 40265 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 39:
+	idkType.bodyModelIds = new int[] { 40257 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 40:
+	idkType.bodyModelIds = new int[] { 275 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 41:
+	idkType.bodyModelIds = new int[] { 275 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 42:
+	idkType.bodyModelIds = new int[] { 181 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 43:
+	idkType.bodyModelIds = new int[] { 183 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 44:
+	idkType.bodyModelIds = new int[] { 183 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 45:
+	idkType.headModels = new int[] { 39170, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 403 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 46:
+	idkType.headModels = new int[] { 39046, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 378 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 47:
+	idkType.headModels = new int[] { 38904, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 387 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 48:
+	idkType.headModels = new int[] { 38920, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 390 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 49:
+	idkType.headModels = new int[] { 39154, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 393 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 50:
+	idkType.headModels = new int[] { 39089, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 399 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 51:
+	idkType.headModels = new int[] { 39014, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 391 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 52:
+	idkType.headModels = new int[] { 38913, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 408 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 53:
+	idkType.headModels = new int[] { 38971, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 382 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 54:
+	idkType.headModels = new int[] { 39002, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 379 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 55:
+	idkType.headModels = new int[] { 39002, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 379 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 56:
+	idkType.bodyModelIds = new int[] { 456 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 57:
+	idkType.bodyModelIds = new int[] { 469 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 58:
+	idkType.bodyModelIds = new int[] { 470 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 59:
+	idkType.bodyModelIds = new int[] { 471 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 60:
+	idkType.bodyModelIds = new int[] { 40419 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 61:
+	idkType.bodyModelIds = new int[] { 332 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 62:
+	idkType.bodyModelIds = new int[] { 40401 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 63:
+	idkType.bodyModelIds = new int[] { 346 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 64:
+	idkType.bodyModelIds = new int[] { 348 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 65:
+	idkType.bodyModelIds = new int[] { 343 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 66:
+	idkType.bodyModelIds = new int[] { 343 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 67:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 68:
+	idkType.bodyModelIds = new int[] { 10218 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 69:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 70:
+	idkType.bodyModelIds = new int[] { 40489 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 71:
+	idkType.bodyModelIds = new int[] { 433 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 72:
+	idkType.bodyModelIds = new int[] { 40488 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 73:
+	idkType.bodyModelIds = new int[] { 428 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 74:
+	idkType.bodyModelIds = new int[] { 421 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 75:
+	idkType.bodyModelIds = new int[] { 438 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 76:
+	idkType.bodyModelIds = new int[] { 40478 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 77:
+	idkType.bodyModelIds = new int[] { 429 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 78:
+	idkType.bodyModelIds = new int[] { 429 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 79:
+	idkType.bodyModelIds = new int[] { 358 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 80:
+	idkType.bodyModelIds = new int[] { 360 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 81:
+	idkType.bodyModelIds = new int[] { 360 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 82:
+	idkType.bodyModelIds = new int[] { 7117 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 83:
+	idkType.bodyModelIds = new int[] { 7118 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 84:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.recolorSrc = new short[] { -22464 };
+	idkType.recolorDst = new short[] { 6575 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 85:
+	idkType.bodyModelIds = new int[] { 40251 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 86:
+	idkType.bodyModelIds = new int[] { 27623 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 87:
+	idkType.bodyModelIds = new int[] { 40263 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 88:
+	idkType.bodyModelIds = new int[] { 40266 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 89:
+	idkType.bodyModelIds = new int[] { 27622 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 90:
+	idkType.bodyModelIds = new int[] { 27625 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 91:
+	idkType.headModels = new int[] { 39668, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 27633 };
+	break;
+
+case 92:
+	idkType.headModels = new int[] { 40030, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 27627 };
+	break;
+
+case 93:
+	idkType.headModels = new int[] { 39817, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 27630 };
+	break;
+
+case 94:
+	idkType.headModels = new int[] { 39909, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 27628 };
+	break;
+
+case 95:
+	idkType.headModels = new int[] { 39777, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 27631 };
+	break;
+
+case 96:
+	idkType.headModels = new int[] { 39638, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 27629 };
+	break;
+
+case 97:
+	idkType.headModels = new int[] { 39679, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 27632 };
+	break;
+
+case 98:
+	idkType.headModels = new int[] { 39271, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 27645 };
+	idkType.bodyPartId = 1;
+	break;
+
+case 99:
+	idkType.headModels = new int[] { 39191, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 27644 };
+	idkType.bodyPartId = 1;
+	break;
+
+case 100:
+	idkType.headModels = new int[] { 39220, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 27646 };
+	idkType.bodyPartId = 1;
+	break;
+
+case 101:
+	idkType.headModels = new int[] { 39264, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 27642 };
+	idkType.bodyPartId = 1;
+	break;
+
+case 102:
+	idkType.headModels = new int[] { 39225, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 27640 };
+	idkType.bodyPartId = 1;
+	break;
+
+case 103:
+	idkType.headModels = new int[] { 39221, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 27643 };
+	idkType.bodyPartId = 1;
+	break;
+
+case 104:
+	idkType.headModels = new int[] { 39277, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 27641 };
+	idkType.bodyPartId = 1;
+	break;
+
+case 105:
+	idkType.bodyModelIds = new int[] { 27634 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 106:
+	idkType.bodyModelIds = new int[] { 27635 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 107:
+	idkType.bodyModelIds = new int[] { 27638 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 108:
+	idkType.bodyModelIds = new int[] { 27639 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 109:
+	idkType.bodyModelIds = new int[] { 27636 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 110:
+	idkType.bodyModelIds = new int[] { 27637 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 111:
+	idkType.bodyModelIds = new int[] { 27648 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 112:
+	idkType.bodyModelIds = new int[] { 27563 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 113:
+	idkType.bodyModelIds = new int[] { 27647 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 114:
+	idkType.bodyModelIds = new int[] { 25864 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 115:
+	idkType.bodyModelIds = new int[] { 27650 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 116:
+	idkType.bodyModelIds = new int[] { 27649 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 117:
+	idkType.bodyModelIds = new int[] { 24553 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 118:
+	idkType.bodyModelIds = new int[] { 24553 };
+	idkType.recolorSrc = new short[] { -22464 };
+	idkType.recolorDst = new short[] { 6575 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 119:
+	idkType.bodyModelIds = new int[] { 24554 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 120:
+	idkType.bodyModelIds = new int[] { 24554 };
+	idkType.recolorSrc = new short[] { -22464 };
+	idkType.recolorDst = new short[] { 6575 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 121:
+	idkType.bodyModelIds = new int[] { 24555 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 122:
+	idkType.bodyModelIds = new int[] { 24555 };
+	idkType.recolorSrc = new short[] { -22464, -22483 };
+	idkType.recolorDst = new short[] { 6575, 6565 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 123:
+	idkType.bodyModelIds = new int[] { 24556 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 124:
+	idkType.bodyModelIds = new int[] { 24556 };
+	idkType.recolorSrc = new short[] { -22464, -22483 };
+	idkType.recolorDst = new short[] { 6575, 6565 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 125:
+	idkType.bodyModelIds = new int[] { 24557 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 126:
+	idkType.bodyModelIds = new int[] { 24557 };
+	idkType.recolorSrc = new short[] { -22464, -22483 };
+	idkType.recolorDst = new short[] { 6575, 6565 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 127:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 128:
+	idkType.bodyModelIds = new int[] { 40487 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 129:
+	idkType.bodyModelIds = new int[] { 40475 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 130:
+	idkType.bodyModelIds = new int[] { 40484 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 131:
+	idkType.bodyModelIds = new int[] { 27653 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 132:
+	idkType.bodyModelIds = new int[] { 40481 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 133:
+	idkType.bodyModelIds = new int[] { 27651 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 134:
+	idkType.bodyModelIds = new int[] { 27652 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 135:
+	idkType.headModels = new int[] { 39049, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 16458 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 136:
+	idkType.headModels = new int[] { 38909, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 16453 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 137:
+	idkType.headModels = new int[] { 38918, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 16460 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 138:
+	idkType.headModels = new int[] { 39158, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 16457 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 139:
+	idkType.headModels = new int[] { 39161, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 27664 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 140:
+	idkType.headModels = new int[] { 39072, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 27660 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 141:
+	idkType.headModels = new int[] { 38935, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 27662 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 142:
+	idkType.headModels = new int[] { 39056, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 16454 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 143:
+	idkType.headModels = new int[] { 38949, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 27663 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 144:
+	idkType.headModels = new int[] { 39071, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 27661 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 145:
+	idkType.headModels = new int[] { 39030, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 27658 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 146:
+	idkType.headModels = new int[] { 39062, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 27659 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 147:
+	idkType.bodyModelIds = new int[] { 27670 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 148:
+	idkType.bodyModelIds = new int[] { 27666 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 149:
+	idkType.bodyModelIds = new int[] { 27665 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 150:
+	idkType.bodyModelIds = new int[] { 27668 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 151:
+	idkType.bodyModelIds = new int[] { 27669 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 152:
+	idkType.bodyModelIds = new int[] { 27667 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 153:
+	idkType.bodyModelIds = new int[] { 27673 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 154:
+	idkType.bodyModelIds = new int[] { 27675 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 155:
+	idkType.bodyModelIds = new int[] { 27672 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 156:
+	idkType.bodyModelIds = new int[] { 27674 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 157:
+	idkType.bodyModelIds = new int[] { 27671 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 158:
+	idkType.bodyModelIds = new int[] { 27676 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 159:
+	idkType.bodyModelIds = new int[] { 24553 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 160:
+	idkType.bodyModelIds = new int[] { 24553 };
+	idkType.recolorSrc = new short[] { -22464 };
+	idkType.recolorDst = new short[] { 6575 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 161:
+	idkType.bodyModelIds = new int[] { 24554 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 162:
+	idkType.bodyModelIds = new int[] { 24554 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 163:
+	idkType.bodyModelIds = new int[] { 24555 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 164:
+	idkType.bodyModelIds = new int[] { 24555 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 165:
+	idkType.bodyModelIds = new int[] { 24556 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 166:
+	idkType.bodyModelIds = new int[] { 24556 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 167:
+	idkType.bodyModelIds = new int[] { 24557 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 168:
+	idkType.bodyModelIds = new int[] { 24557 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 169:
+	idkType.headModels = new int[] { 40032, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40240 };
+	break;
+
+case 170:
+	idkType.headModels = new int[] { 40036, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40235 };
+	break;
+
+case 171:
+	idkType.headModels = new int[] { 39669, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 214 };
+	break;
+
+case 172:
+	idkType.headModels = new int[] { 39652, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 214 };
+	break;
+
+case 173:
+	idkType.headModels = new int[] { 39576, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 217 };
+	break;
+
+case 174:
+	idkType.headModels = new int[] { 39908, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 217 };
+	break;
+
+case 175:
+	idkType.headModels = new int[] { 40010, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 223 };
+	break;
+
+case 176:
+	idkType.headModels = new int[] { 39681, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 223 };
+	break;
+
+case 177:
+	idkType.headModels = new int[] { 39836, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 215 };
+	break;
+
+case 178:
+	idkType.headModels = new int[] { 39822, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 215 };
+	break;
+
+case 179:
+	idkType.headModels = new int[] { 39694, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 235 };
+	break;
+
+case 180:
+	idkType.headModels = new int[] { 39672, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 235 };
+	break;
+
+case 181:
+	idkType.headModels = new int[] { 40039, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40230 };
+	break;
+
+case 182:
+	idkType.headModels = new int[] { 39711, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40227 };
+	break;
+
+case 183:
+	idkType.headModels = new int[] { 39959, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40230 };
+	break;
+
+case 184:
+	idkType.headModels = new int[] { 40028, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40231 };
+	break;
+
+case 185:
+	idkType.headModels = new int[] { 39950, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40221 };
+	break;
+
+case 186:
+	idkType.headModels = new int[] { 39625, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40232 };
+	break;
+
+case 187:
+	idkType.headModels = new int[] { 39709, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40233 };
+	break;
+
+case 188:
+	idkType.headModels = new int[] { 39860, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40223 };
+	break;
+
+case 189:
+	idkType.headModels = new int[] { 40050, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40222 };
+	break;
+
+case 190:
+	idkType.headModels = new int[] { 40027, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40239 };
+	break;
+
+case 191:
+	idkType.headModels = new int[] { 40021, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 43525 };
+	break;
+
+case 192:
+	idkType.headModels = new int[] { 39968, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 27628 };
+	break;
+
+case 193:
+	idkType.headModels = new int[] { 40054, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40243 };
+	break;
+
+case 194:
+	idkType.headModels = new int[] { 39882, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40229 };
+	break;
+
+case 195:
+	idkType.headModels = new int[] { 39963, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40242 };
+	break;
+
+case 196:
+	idkType.headModels = new int[] { 39936, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40220 };
+	break;
+
+case 197:
+	idkType.headModels = new int[] { 39912, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40238 };
+	break;
+
+case 198:
+	idkType.headModels = new int[] { 39788, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40234 };
+	break;
+
+case 199:
+	idkType.headModels = new int[] { 38998, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40461 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 200:
+	idkType.headModels = new int[] { 39059, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40471 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 201:
+	idkType.headModels = new int[] { 39120, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40440 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 202:
+	idkType.headModels = new int[] { 39004, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 393 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 203:
+	idkType.headModels = new int[] { 39129, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40451 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 204:
+	idkType.headModels = new int[] { 39101, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 391 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 205:
+	idkType.headModels = new int[] { 38973, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 408 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 206:
+	idkType.headModels = new int[] { 39081, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40437 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 207:
+	idkType.headModels = new int[] { 38898, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40463 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 208:
+	idkType.headModels = new int[] { 38898, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40463 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 209:
+	idkType.headModels = new int[] { 39153, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40444 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 210:
+	idkType.headModels = new int[] { 38965, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40468 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 211:
+	idkType.headModels = new int[] { 38897, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40457 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 212:
+	idkType.headModels = new int[] { 39097, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40466 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 213:
+	idkType.headModels = new int[] { 39121, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40449 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 214:
+	idkType.headModels = new int[] { 38943, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40459 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 215:
+	idkType.headModels = new int[] { 39113, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40465 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 216:
+	idkType.headModels = new int[] { 38924, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 16454 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 217:
+	idkType.headModels = new int[] { 38993, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40467 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 218:
+	idkType.headModels = new int[] { 38990, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40452 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 219:
+	idkType.headModels = new int[] { 39132, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40455 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 220:
+	idkType.headModels = new int[] { 39119, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40438 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 221:
+	idkType.headModels = new int[] { 39079, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 378 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 222:
+	idkType.headModels = new int[] { 38901, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40450 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 223:
+	idkType.headModels = new int[] { 39012, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40447 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 224:
+	idkType.headModels = new int[] { 39003, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 393 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 225:
+	idkType.headModels = new int[] { 39096, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40453 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 226:
+	idkType.headModels = new int[] { 39160, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 391 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 227:
+	idkType.headModels = new int[] { 39070, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 408 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 228:
+	idkType.headModels = new int[] { 39064, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40448 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 229:
+	idkType.headModels = new int[] { 38947, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40442 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 230:
+	idkType.headModels = new int[] { 38947, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40442 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 231:
+	idkType.headModels = new int[] { 38914, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40446 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 232:
+	idkType.headModels = new int[] { 38989, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 16453 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 233:
+	idkType.headModels = new int[] { 38972, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40470 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 234:
+	idkType.headModels = new int[] { 39038, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40458 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 235:
+	idkType.headModels = new int[] { 38933, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 27664 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 236:
+	idkType.headModels = new int[] { 39104, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40460 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 237:
+	idkType.headModels = new int[] { 39171, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40445 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 238:
+	idkType.headModels = new int[] { 39140, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40441 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 239:
+	idkType.headModels = new int[] { 38984, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40469 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 240:
+	idkType.headModels = new int[] { 38919, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40443 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 241:
+	idkType.headModels = new int[] { 38903, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 40472 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 242:
+	idkType.headModels = new int[] { 38952, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 27659 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 243:
+	idkType.headModels = new int[] { 39170, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 403 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 244:
+	idkType.headModels = new int[] { 39170, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 403 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 245:
+	idkType.headModels = new int[] { 39836, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 215 };
+	break;
+
+case 246:
+	idkType.headModels = new int[] { 45006, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44908 };
+	break;
+
+case 247:
+	idkType.headModels = new int[] { 45021, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44926 };
+	break;
+
+case 248:
+	idkType.headModels = new int[] { 39836, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44917 };
+	break;
+
+case 249:
+	idkType.headModels = new int[] { 45016, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44918 };
+	break;
+
+case 250:
+	idkType.headModels = new int[] { 45020, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44913 };
+	break;
+
+case 251:
+	idkType.headModels = new int[] { 45007, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44915 };
+	break;
+
+case 252:
+	idkType.headModels = new int[] { 45013, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44921 };
+	break;
+
+case 253:
+	idkType.headModels = new int[] { 45022, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44923 };
+	break;
+
+case 254:
+	idkType.headModels = new int[] { 45019, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44906 };
+	break;
+
+case 255:
+	idkType.headModels = new int[] { 45011, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44923 };
+	break;
+
+case 256:
+	idkType.headModels = new int[] { 45014, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44916 };
+	break;
+
+case 257:
+	idkType.headModels = new int[] { 45009, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44910 };
+	break;
+
+case 258:
+	idkType.headModels = new int[] { 45004, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44909 };
+	break;
+
+case 259:
+	idkType.headModels = new int[] { 45005, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44912 };
+	break;
+
+case 260:
+	idkType.headModels = new int[] { 45008, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44924 };
+	break;
+
+case 261:
+	idkType.headModels = new int[] { 45015, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44914 };
+	break;
+
+case 262:
+	idkType.headModels = new int[] { 45018, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44911 };
+	break;
+
+case 263:
+	idkType.headModels = new int[] { 45002, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44919 };
+	break;
+
+case 264:
+	idkType.headModels = new int[] { 45028, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44920 };
+	break;
+
+case 265:
+	idkType.headModels = new int[] { 45003, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44922 };
+	break;
+
+case 266:
+	idkType.headModels = new int[] { 45012, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44907 };
+	break;
+
+case 267:
+	idkType.headModels = new int[] { 45023, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44925 };
+	break;
+
+case 268:
+	idkType.headModels = new int[] { 45010, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44927 };
+	break;
+
+case 269:
+	idkType.headModels = new int[] { 44979, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44958 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 270:
+	idkType.headModels = new int[] { 44966, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44946 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 271:
+	idkType.headModels = new int[] { 44987, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44953 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 272:
+	idkType.headModels = new int[] { 44972, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44950 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 273:
+	idkType.headModels = new int[] { 44981, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44930 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 274:
+	idkType.headModels = new int[] { 44992, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44959 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 275:
+	idkType.headModels = new int[] { 44990, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44937 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 276:
+	idkType.headModels = new int[] { 44988, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44940 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 277:
+	idkType.headModels = new int[] { 44991, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44949 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 278:
+	idkType.headModels = new int[] { 44998, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44952 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 279:
+	idkType.headModels = new int[] { 44976, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44964 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 280:
+	idkType.headModels = new int[] { 44983, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44963 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 281:
+	idkType.headModels = new int[] { 44973, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44935 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 282:
+	idkType.headModels = new int[] { 44984, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44942 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 283:
+	idkType.headModels = new int[] { 44989, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44961 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 284:
+	idkType.headModels = new int[] { 45000, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44947 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 285:
+	idkType.headModels = new int[] { 44971, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44951 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 286:
+	idkType.headModels = new int[] { 44994, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44931 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 287:
+	idkType.headModels = new int[] { 44995, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44953 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 288:
+	idkType.headModels = new int[] { 44968, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44956 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 289:
+	idkType.headModels = new int[] { 44980, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44934 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 290:
+	idkType.headModels = new int[] { 44985, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44945 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 291:
+	idkType.headModels = new int[] { 44977, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44929 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 292:
+	idkType.headModels = new int[] { 44969, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44939 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 293:
+	idkType.headModels = new int[] { 44996, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44960 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 294:
+	idkType.headModels = new int[] { 44982, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44944 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 295:
+	idkType.headModels = new int[] { 44993, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44957 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 296:
+	idkType.headModels = new int[] { 45001, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44954 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 297:
+	idkType.headModels = new int[] { 44967, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44936 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 298:
+	idkType.headModels = new int[] { 44978, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44932 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 299:
+	idkType.headModels = new int[] { 44997, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44948 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 300:
+	idkType.headModels = new int[] { 44974, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44965 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 301:
+	idkType.headModels = new int[] { 44986, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44955 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 302:
+	idkType.headModels = new int[] { 44975, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44941 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 303:
+	idkType.headModels = new int[] { 44970, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44962 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 304:
+	idkType.headModels = new int[] { 44999, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 44943 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 305:
+	idkType.headModels = new int[] { 45024, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 45032 };
+	idkType.bodyPartId = 1;
+	break;
+
+case 306:
+	idkType.headModels = new int[] { 45027, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 45031 };
+	idkType.bodyPartId = 1;
+	break;
+
+case 307:
+	idkType.headModels = new int[] { 45025, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 45029 };
+	idkType.bodyPartId = 1;
+	break;
+
+case 308:
+	idkType.headModels = new int[] { 45026, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 45030 };
+	idkType.bodyPartId = 1;
+	break;
+
+case 309:
+	idkType.headModels = new int[] { 46431, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46344 };
+	break;
+
+case 310:
+	idkType.headModels = new int[] { 46442, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46358 };
+	break;
+
+case 311:
+	idkType.headModels = new int[] { 46439, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46353 };
+	break;
+
+case 312:
+	idkType.headModels = new int[] { 46444, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46347 };
+	break;
+
+case 313:
+	idkType.headModels = new int[] { 46445, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46367 };
+	break;
+
+case 314:
+	idkType.headModels = new int[] { 46430, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46348 };
+	break;
+
+case 315:
+	idkType.headModels = new int[] { 46443, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46364 };
+	break;
+
+case 316:
+	idkType.headModels = new int[] { 46433, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46356 };
+	break;
+
+case 317:
+	idkType.headModels = new int[] { 46400, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46369 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 318:
+	idkType.headModels = new int[] { 46419, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46368 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 319:
+	idkType.headModels = new int[] { 46417, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46385 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 320:
+	idkType.headModels = new int[] { 46404, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46381 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 321:
+	idkType.headModels = new int[] { 46397, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46370 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 322:
+	idkType.headModels = new int[] { 46407, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46379 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 323:
+	idkType.headModels = new int[] { 46414, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46383 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 324:
+	idkType.headModels = new int[] { 46399, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46389 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 325:
+	idkType.headModels = new int[] { 46408, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46390 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 326:
+	idkType.headModels = new int[] { 46413, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46380 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 327:
+	idkType.headModels = new int[] { 46432, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46361 };
+	break;
+
+case 328:
+	idkType.headModels = new int[] { 46434, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46350 };
+	break;
+
+case 329:
+	idkType.headModels = new int[] { 46440, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46351 };
+	break;
+
+case 330:
+	idkType.headModels = new int[] { 46436, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46365 };
+	break;
+
+case 331:
+	idkType.headModels = new int[] { 46435, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46366 };
+	break;
+
+case 332:
+	idkType.headModels = new int[] { 46438, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46357 };
+	break;
+
+case 333:
+	idkType.headModels = new int[] { 46448, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46355 };
+	break;
+
+case 334:
+	idkType.headModels = new int[] { 46449, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46359 };
+	break;
+
+case 335:
+	idkType.headModels = new int[] { 46398, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46376 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 336:
+	idkType.headModels = new int[] { 46424, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46374 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 337:
+	idkType.headModels = new int[] { 46406, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46388 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 338:
+	idkType.headModels = new int[] { 46418, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46373 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 339:
+	idkType.headModels = new int[] { 46420, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46386 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 340:
+	idkType.headModels = new int[] { 46416, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46387 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 341:
+	idkType.headModels = new int[] { 46412, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46382 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 342:
+	idkType.headModels = new int[] { 46423, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46372 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 343:
+	idkType.headModels = new int[] { 46405, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46377 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 344:
+	idkType.headModels = new int[] { 46411, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46384 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 345:
+	idkType.headModels = new int[] { 46437, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46345 };
+	break;
+
+case 346:
+	idkType.headModels = new int[] { 46429, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46360 };
+	break;
+
+case 347:
+	idkType.headModels = new int[] { 46428, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46352 };
+	break;
+
+case 348:
+	idkType.headModels = new int[] { 46427, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46354 };
+	break;
+
+case 349:
+	idkType.headModels = new int[] { 46447, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46346 };
+	break;
+
+case 350:
+	idkType.headModels = new int[] { 46446, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46362 };
+	break;
+
+case 351:
+	idkType.headModels = new int[] { 46441, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46363 };
+	break;
+
+case 352:
+	idkType.headModels = new int[] { 46450, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46349 };
+	break;
+
+case 353:
+	idkType.headModels = new int[] { 46415, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46369 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 354:
+	idkType.headModels = new int[] { 46425, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46368 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 355:
+	idkType.headModels = new int[] { 46409, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46391 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 356:
+	idkType.headModels = new int[] { 46403, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46378 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 357:
+	idkType.headModels = new int[] { 46397, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46370 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 358:
+	idkType.headModels = new int[] { 46421, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46379 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 359:
+	idkType.headModels = new int[] { 46401, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46375 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 360:
+	idkType.headModels = new int[] { 46410, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46389 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 361:
+	idkType.headModels = new int[] { 46402, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46371 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 362:
+	idkType.headModels = new int[] { 46422, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 46392 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 363:
+	idkType.bodyModelIds = new int[] { 46451 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 364:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 365:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 366:
+	idkType.bodyModelIds = new int[] { 60063 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 367:
+	idkType.bodyModelIds = new int[] { 60067 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 368:
+	idkType.bodyModelIds = new int[] { 60059 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 369:
+	idkType.bodyModelIds = new int[] { 60049 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 370:
+	idkType.bodyModelIds = new int[] { 60055 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 371:
+	idkType.bodyModelIds = new int[] { 60060 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 372:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 373:
+	idkType.bodyModelIds = new int[] { 60058 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 374:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 375:
+	idkType.bodyModelIds = new int[] { 60056 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 376:
+	idkType.bodyModelIds = new int[] { 60065 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 377:
+	idkType.bodyModelIds = new int[] { 60051 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 378:
+	idkType.bodyModelIds = new int[] { 60062 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 379:
+	idkType.bodyModelIds = new int[] { 60048 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 380:
+	idkType.bodyModelIds = new int[] { 60057 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 381:
+	idkType.bodyModelIds = new int[] { 60070 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 382:
+	idkType.bodyModelIds = new int[] { 60068 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 383:
+	idkType.bodyModelIds = new int[] { 60052 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 384:
+	idkType.bodyModelIds = new int[] { 60066 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 385:
+	idkType.bodyModelIds = new int[] { 60064 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 386:
+	idkType.bodyModelIds = new int[] { 60061 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 387:
+	idkType.bodyModelIds = new int[] { 60053 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 388:
+	idkType.bodyModelIds = new int[] { 60069 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 389:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 390:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 391:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 392:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 393:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 394:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 395:
+	idkType.bodyModelIds = new int[] { 60194 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 396:
+	idkType.bodyModelIds = new int[] { 60185 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 397:
+	idkType.bodyModelIds = new int[] { 60170 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 398:
+	idkType.bodyModelIds = new int[] { 60186 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 399:
+	idkType.bodyModelIds = new int[] { 60189 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 400:
+	idkType.bodyModelIds = new int[] { 60178 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 401:
+	idkType.bodyModelIds = new int[] { 60184 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 402:
+	idkType.bodyModelIds = new int[] { 60174 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 403:
+	idkType.bodyModelIds = new int[] { 60179 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 404:
+	idkType.bodyModelIds = new int[] { 60187 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 405:
+	idkType.bodyModelIds = new int[] { 60167 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 406:
+	idkType.bodyModelIds = new int[] { 60169 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 407:
+	idkType.bodyModelIds = new int[] { 60190 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 408:
+	idkType.bodyModelIds = new int[] { 60181 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 409:
+	idkType.bodyModelIds = new int[] { 60191 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 410:
+	idkType.bodyModelIds = new int[] { 60182 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 411:
+	idkType.bodyModelIds = new int[] { 60196 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 412:
+	idkType.bodyModelIds = new int[] { 60175 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 413:
+	idkType.bodyModelIds = new int[] { 60188 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 414:
+	idkType.bodyModelIds = new int[] { 60192 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 415:
+	idkType.bodyModelIds = new int[] { 60183 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 416:
+	idkType.bodyModelIds = new int[] { 60195 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 417:
+	idkType.bodyModelIds = new int[] { 60177 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 418:
+	idkType.bodyModelIds = new int[] { 60171 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 419:
+	idkType.bodyModelIds = new int[] { 60197 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 420:
+	idkType.bodyModelIds = new int[] { 60193 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 421:
+	idkType.bodyModelIds = new int[] { 60166 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 422:
+	idkType.bodyModelIds = new int[] { 60172 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 423:
+	idkType.bodyModelIds = new int[] { 60173 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 424:
+	idkType.bodyModelIds = new int[] { 60180 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 425:
+	idkType.bodyModelIds = new int[] { 60168 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 426:
+	idkType.bodyModelIds = new int[] { 60176 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 427:
+	idkType.bodyModelIds = new int[] { 60032 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 428:
+	idkType.bodyModelIds = new int[] { 60042 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 429:
+	idkType.bodyModelIds = new int[] { 60041 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 430:
+	idkType.bodyModelIds = new int[] { 60036 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 431:
+	idkType.bodyModelIds = new int[] { 60040 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 432:
+	idkType.bodyModelIds = new int[] { 60034 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 433:
+	idkType.bodyModelIds = new int[] { 60044 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 434:
+	idkType.bodyModelIds = new int[] { 60046 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 435:
+	idkType.bodyModelIds = new int[] { 60045 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 436:
+	idkType.bodyModelIds = new int[] { 60033 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 437:
+	idkType.bodyModelIds = new int[] { 60037 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 438:
+	idkType.bodyModelIds = new int[] { 60047 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 439:
+	idkType.bodyModelIds = new int[] { 60035 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 440:
+	idkType.bodyModelIds = new int[] { 60039 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 441:
+	idkType.bodyModelIds = new int[] { 60038 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 442:
+	idkType.bodyModelIds = new int[] { 60043 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 443:
+	idkType.bodyModelIds = new int[] { 60129 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 444:
+	idkType.bodyModelIds = new int[] { 60135 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 445:
+	idkType.bodyModelIds = new int[] { 60131 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 446:
+	idkType.bodyModelIds = new int[] { 60132 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 447:
+	idkType.bodyModelIds = new int[] { 60134 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 448:
+	idkType.bodyModelIds = new int[] { 60133 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 449:
+	idkType.bodyModelIds = new int[] { 60127 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 450:
+	idkType.bodyModelIds = new int[] { 60125 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 451:
+	idkType.bodyModelIds = new int[] { 60128 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 452:
+	idkType.bodyModelIds = new int[] { 60130 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 453:
+	idkType.bodyModelIds = new int[] { 60334 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 454:
+	idkType.bodyModelIds = new int[] { 60126 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 455:
+	idkType.bodyModelIds = new int[] { 60124 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 456:
+	idkType.bodyModelIds = new int[] { 60123 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 457:
+	idkType.bodyModelIds = new int[] { 60109 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 458:
+	idkType.bodyModelIds = new int[] { 60122 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 459:
+	idkType.bodyModelIds = new int[] { 60105 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 460:
+	idkType.bodyModelIds = new int[] { 60108 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 461:
+	idkType.bodyModelIds = new int[] { 60113 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 462:
+	idkType.bodyModelIds = new int[] { 60117 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 463:
+	idkType.bodyModelIds = new int[] { 60110 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 464:
+	idkType.bodyModelIds = new int[] { 60119 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 465:
+	idkType.bodyModelIds = new int[] { 60116 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 466:
+	idkType.bodyModelIds = new int[] { 60112 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 467:
+	idkType.bodyModelIds = new int[] { 60121 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 468:
+	idkType.bodyModelIds = new int[] { 60106 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 469:
+	idkType.bodyModelIds = new int[] { 60107 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 470:
+	idkType.bodyModelIds = new int[] { 60115 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 471:
+	idkType.bodyModelIds = new int[] { 60120 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 472:
+	idkType.bodyModelIds = new int[] { 60111 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 473:
+	idkType.bodyModelIds = new int[] { 60114 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 474:
+	idkType.bodyModelIds = new int[] { 60118 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 475:
+	idkType.bodyModelIds = new int[] { 60250 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 476:
+	idkType.bodyModelIds = new int[] { 60256 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 477:
+	idkType.bodyModelIds = new int[] { 60255 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 478:
+	idkType.bodyModelIds = new int[] { 60241 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 479:
+	idkType.bodyModelIds = new int[] { 60261 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 480:
+	idkType.bodyModelIds = new int[] { 60272 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 481:
+	idkType.bodyModelIds = new int[] { 60269 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 482:
+	idkType.bodyModelIds = new int[] { 60258 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 483:
+	idkType.bodyModelIds = new int[] { 60264 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 484:
+	idkType.bodyModelIds = new int[] { 60259 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 485:
+	idkType.bodyModelIds = new int[] { 60262 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 486:
+	idkType.bodyModelIds = new int[] { 60267 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 487:
+	idkType.bodyModelIds = new int[] { 60263 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 488:
+	idkType.bodyModelIds = new int[] { 60254 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 489:
+	idkType.bodyModelIds = new int[] { 60268 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 490:
+	idkType.bodyModelIds = new int[] { 60249 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 491:
+	idkType.bodyModelIds = new int[] { 60245 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 492:
+	idkType.bodyModelIds = new int[] { 60244 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 493:
+	idkType.bodyModelIds = new int[] { 60271 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 494:
+	idkType.bodyModelIds = new int[] { 60251 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 495:
+	idkType.bodyModelIds = new int[] { 60270 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 496:
+	idkType.bodyModelIds = new int[] { 60266 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 497:
+	idkType.bodyModelIds = new int[] { 60246 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 498:
+	idkType.bodyModelIds = new int[] { 60252 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 499:
+	idkType.bodyModelIds = new int[] { 60260 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 500:
+	idkType.bodyModelIds = new int[] { 60257 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 501:
+	idkType.bodyModelIds = new int[] { 60247 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 502:
+	idkType.bodyModelIds = new int[] { 60248 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 503:
+	idkType.bodyModelIds = new int[] { 60243 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 504:
+	idkType.bodyModelIds = new int[] { 60265 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 505:
+	idkType.bodyModelIds = new int[] { 60253 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 506:
+	idkType.bodyModelIds = new int[] { 60242 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 507:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 508:
+	idkType.bodyModelIds = new int[] { 73077 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 509:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 510:
+	idkType.bodyModelIds = new int[] { 60067 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 511:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 512:
+	idkType.bodyModelIds = new int[] { 60049 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 513:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 514:
+	idkType.bodyModelIds = new int[] { 60060 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 515:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 516:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 517:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 518:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 519:
+	idkType.bodyModelIds = new int[] { 60065 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 520:
+	idkType.bodyModelIds = new int[] { 60051 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 521:
+	idkType.bodyModelIds = new int[] { 60062 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 522:
+	idkType.bodyModelIds = new int[] { 60048 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 523:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 524:
+	idkType.bodyModelIds = new int[] { 60070 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 525:
+	idkType.bodyModelIds = new int[] { 60068 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 526:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 527:
+	idkType.bodyModelIds = new int[] { 60066 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 528:
+	idkType.bodyModelIds = new int[] { 60064 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 529:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 530:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 531:
+	idkType.bodyModelIds = new int[] { 60069 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 532:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 533:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 534:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 535:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 536:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 537:
+	idkType.bodyModelIds = new int[] { 176 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 538:
+	idkType.bodyModelIds = new int[] { 60050 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 539:
+	idkType.bodyModelIds = new int[] { 60201 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 540:
+	idkType.bodyModelIds = new int[] { 60213 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 541:
+	idkType.bodyModelIds = new int[] { 60209 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 542:
+	idkType.bodyModelIds = new int[] { 60214 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 543:
+	idkType.bodyModelIds = new int[] { 60211 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 544:
+	idkType.bodyModelIds = new int[] { 60207 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 545:
+	idkType.bodyModelIds = new int[] { 60199 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 546:
+	idkType.bodyModelIds = new int[] { 60203 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 547:
+	idkType.bodyModelIds = new int[] { 60206 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 548:
+	idkType.bodyModelIds = new int[] { 60210 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 549:
+	idkType.bodyModelIds = new int[] { 60202 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 550:
+	idkType.bodyModelIds = new int[] { 60200 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 551:
+	idkType.bodyModelIds = new int[] { 60205 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 552:
+	idkType.bodyModelIds = new int[] { 60212 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 553:
+	idkType.bodyModelIds = new int[] { 60208 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 554:
+	idkType.bodyModelIds = new int[] { 60204 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 555:
+	idkType.bodyModelIds = new int[] { 60198 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 556:
+	idkType.bodyModelIds = new int[] { 60298 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 557:
+	idkType.bodyModelIds = new int[] { 60296 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 558:
+	idkType.bodyModelIds = new int[] { 60299 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 559:
+	idkType.bodyModelIds = new int[] { 60301 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 560:
+	idkType.bodyModelIds = new int[] { 60302 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 561:
+	idkType.bodyModelIds = new int[] { 60297 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 562:
+	idkType.bodyModelIds = new int[] { 60300 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 563:
+	idkType.bodyModelIds = new int[] { 60303 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 564:
+	idkType.bodyModelIds = new int[] { 60335 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 565:
+	idkType.bodyModelIds = new int[] { 60291 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 566:
+	idkType.bodyModelIds = new int[] { 60288 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 567:
+	idkType.bodyModelIds = new int[] { 60290 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 568:
+	idkType.bodyModelIds = new int[] { 60278 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 569:
+	idkType.bodyModelIds = new int[] { 60280 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 570:
+	idkType.bodyModelIds = new int[] { 60294 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 571:
+	idkType.bodyModelIds = new int[] { 60275 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 572:
+	idkType.bodyModelIds = new int[] { 60283 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 573:
+	idkType.bodyModelIds = new int[] { 60289 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 574:
+	idkType.bodyModelIds = new int[] { 60277 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 575:
+	idkType.bodyModelIds = new int[] { 60293 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 576:
+	idkType.bodyModelIds = new int[] { 60286 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 577:
+	idkType.bodyModelIds = new int[] { 60292 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 578:
+	idkType.bodyModelIds = new int[] { 60282 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 579:
+	idkType.bodyModelIds = new int[] { 60274 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 580:
+	idkType.bodyModelIds = new int[] { 60273 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 581:
+	idkType.bodyModelIds = new int[] { 60281 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 582:
+	idkType.bodyModelIds = new int[] { 60276 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 583:
+	idkType.bodyModelIds = new int[] { 60279 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 584:
+	idkType.bodyModelIds = new int[] { 60285 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 585:
+	idkType.bodyModelIds = new int[] { 60284 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 586:
+	idkType.bodyModelIds = new int[] { 60287 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 587:
+	idkType.bodyModelIds = new int[] { 60295 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 588:
+	idkType.bodyModelIds = new int[] { 60000 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 589:
+	idkType.bodyModelIds = new int[] { 60009 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 590:
+	idkType.bodyModelIds = new int[] { 60016 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 591:
+	idkType.bodyModelIds = new int[] { 60012 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 592:
+	idkType.bodyModelIds = new int[] { 60025 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 593:
+	idkType.bodyModelIds = new int[] { 60003 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 594:
+	idkType.bodyModelIds = new int[] { 60006 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 595:
+	idkType.bodyModelIds = new int[] { 60007 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 596:
+	idkType.bodyModelIds = new int[] { 60028 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 597:
+	idkType.bodyModelIds = new int[] { 60021 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 598:
+	idkType.bodyModelIds = new int[] { 60008 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 599:
+	idkType.bodyModelIds = new int[] { 60005 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 600:
+	idkType.bodyModelIds = new int[] { 60030 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 601:
+	idkType.bodyModelIds = new int[] { 60010 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 602:
+	idkType.bodyModelIds = new int[] { 60011 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 603:
+	idkType.bodyModelIds = new int[] { 60014 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 604:
+	idkType.bodyModelIds = new int[] { 60004 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 605:
+	idkType.bodyModelIds = new int[] { 60023 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 606:
+	idkType.bodyModelIds = new int[] { 60027 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 607:
+	idkType.bodyModelIds = new int[] { 60022 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 608:
+	idkType.bodyModelIds = new int[] { 60031 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 609:
+	idkType.bodyModelIds = new int[] { 60026 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 610:
+	idkType.bodyModelIds = new int[] { 60019 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 611:
+	idkType.bodyModelIds = new int[] { 60015 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 612:
+	idkType.bodyModelIds = new int[] { 60002 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 613:
+	idkType.bodyModelIds = new int[] { 60001 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 614:
+	idkType.bodyModelIds = new int[] { 60018 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 615:
+	idkType.bodyModelIds = new int[] { 60013 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 616:
+	idkType.bodyModelIds = new int[] { 60024 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 617:
+	idkType.bodyModelIds = new int[] { 60017 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 618:
+	idkType.bodyModelIds = new int[] { 60029 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 619:
+	idkType.bodyModelIds = new int[] { 60020 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 620:
+	idkType.bodyModelIds = new int[] { 60096 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 621:
+	idkType.bodyModelIds = new int[] { 60076 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 622:
+	idkType.bodyModelIds = new int[] { 60095 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 623:
+	idkType.bodyModelIds = new int[] { 60103 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 624:
+	idkType.bodyModelIds = new int[] { 60104 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 625:
+	idkType.bodyModelIds = new int[] { 60100 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 626:
+	idkType.bodyModelIds = new int[] { 60101 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 627:
+	idkType.bodyModelIds = new int[] { 60094 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 628:
+	idkType.bodyModelIds = new int[] { 60099 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 629:
+	idkType.bodyModelIds = new int[] { 60090 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 630:
+	idkType.bodyModelIds = new int[] { 60078 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 631:
+	idkType.bodyModelIds = new int[] { 60088 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 632:
+	idkType.bodyModelIds = new int[] { 60098 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 633:
+	idkType.bodyModelIds = new int[] { 60093 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 634:
+	idkType.bodyModelIds = new int[] { 60085 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 635:
+	idkType.bodyModelIds = new int[] { 60084 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 636:
+	idkType.bodyModelIds = new int[] { 60333 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 637:
+	idkType.bodyModelIds = new int[] { 60089 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 638:
+	idkType.bodyModelIds = new int[] { 60082 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 639:
+	idkType.bodyModelIds = new int[] { 60080 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 640:
+	idkType.bodyModelIds = new int[] { 60079 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 641:
+	idkType.bodyModelIds = new int[] { 60075 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 642:
+	idkType.bodyModelIds = new int[] { 60091 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 643:
+	idkType.bodyModelIds = new int[] { 60097 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 644:
+	idkType.bodyModelIds = new int[] { 60077 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 645:
+	idkType.bodyModelIds = new int[] { 60102 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 646:
+	idkType.bodyModelIds = new int[] { 60087 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 647:
+	idkType.bodyModelIds = new int[] { 60092 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 648:
+	idkType.bodyModelIds = new int[] { 60074 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 649:
+	idkType.bodyModelIds = new int[] { 60081 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 650:
+	idkType.bodyModelIds = new int[] { 60086 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 651:
+	idkType.bodyModelIds = new int[] { 60083 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 652:
+	idkType.headModels = new int[] { 76995, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77122 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 653:
+	idkType.headModels = new int[] { 77009, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77121 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 654:
+	idkType.headModels = new int[] { 77014, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77127 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 655:
+	idkType.headModels = new int[] { 77000, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77113 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 656:
+	idkType.headModels = new int[] { 77005, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77117 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 657:
+	idkType.headModels = new int[] { 76989, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77120 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 658:
+	idkType.headModels = new int[] { 77007, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77125 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 659:
+	idkType.headModels = new int[] { 77042, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77058 };
+	break;
+
+case 660:
+	idkType.headModels = new int[] { 77033, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77066 };
+	break;
+
+case 661:
+	idkType.headModels = new int[] { 77023, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77072 };
+	break;
+
+case 662:
+	idkType.headModels = new int[] { 77026, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77063 };
+	break;
+
+case 663:
+	idkType.headModels = new int[] { 77031, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77075 };
+	break;
+
+case 664:
+	idkType.headModels = new int[] { 77046, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77070 };
+	break;
+
+case 665:
+	idkType.headModels = new int[] { 77032, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77081 };
+	break;
+
+case 666:
+	idkType.headModels = new int[] { 77049, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77083 };
+	idkType.bodyPartId = 1;
+	break;
+
+case 667:
+	idkType.headModels = new int[] { 77050, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77084 };
+	idkType.bodyPartId = 1;
+	break;
+
+case 668:
+	idkType.headModels = new int[] { 77027, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77065 };
+	break;
+
+case 669:
+	idkType.headModels = new int[] { 77028, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77082 };
+	break;
+
+case 670:
+	idkType.headModels = new int[] { 77043, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77073 };
+	break;
+
+case 671:
+	idkType.headModels = new int[] { 77039, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77061 };
+	break;
+
+case 672:
+	idkType.headModels = new int[] { 77048, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77062 };
+	break;
+
+case 673:
+	idkType.headModels = new int[] { 77035, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77068 };
+	break;
+
+case 674:
+	idkType.headModels = new int[] { 77041, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77064 };
+	break;
+
+case 675:
+	idkType.headModels = new int[] { 77044, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77079 };
+	break;
+
+case 676:
+	idkType.headModels = new int[] { 77034, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77080 };
+	break;
+
+case 677:
+	idkType.headModels = new int[] { 77024, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77055 };
+	break;
+
+case 678:
+	idkType.headModels = new int[] { 77038, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77071 };
+	break;
+
+case 679:
+	idkType.headModels = new int[] { 77037, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77067 };
+	break;
+
+case 680:
+	idkType.headModels = new int[] { 77030, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77078 };
+	break;
+
+case 681:
+	idkType.headModels = new int[] { 77047, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77059 };
+	break;
+
+case 682:
+	idkType.headModels = new int[] { 77025, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77069 };
+	break;
+
+case 683:
+	idkType.headModels = new int[] { 77021, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77077 };
+	break;
+
+case 684:
+	idkType.headModels = new int[] { 77040, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77057 };
+	break;
+
+case 685:
+	idkType.headModels = new int[] { 77020, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77056 };
+	break;
+
+case 686:
+	idkType.headModels = new int[] { 77036, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77076 };
+	break;
+
+case 687:
+	idkType.headModels = new int[] { 77045, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77060 };
+	break;
+
+case 688:
+	idkType.headModels = new int[] { 77022, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77074 };
+	break;
+
+case 689:
+	idkType.headModels = new int[] { 76988, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77118 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 690:
+	idkType.headModels = new int[] { 77002, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77108 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 691:
+	idkType.headModels = new int[] { 77004, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77109 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 692:
+	idkType.headModels = new int[] { 76990, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77123 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 693:
+	idkType.headModels = new int[] { 77013, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77132 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 694:
+	idkType.headModels = new int[] { 77016, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77114 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 695:
+	idkType.headModels = new int[] { 76997, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77111 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 696:
+	idkType.headModels = new int[] { 77001, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77116 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 697:
+	idkType.headModels = new int[] { 76996, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77129 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 698:
+	idkType.headModels = new int[] { 76991, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77106 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 699:
+	idkType.headModels = new int[] { 77017, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77119 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 700:
+	idkType.headModels = new int[] { 76993, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77134 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 701:
+	idkType.headModels = new int[] { 77010, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77110 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 702:
+	idkType.headModels = new int[] { 77006, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77115 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 703:
+	idkType.headModels = new int[] { 77003, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77126 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 704:
+	idkType.headModels = new int[] { 76992, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77130 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 705:
+	idkType.headModels = new int[] { 76998, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77107 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 706:
+	idkType.headModels = new int[] { 77011, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77133 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 707:
+	idkType.headModels = new int[] { 77008, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77131 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 708:
+	idkType.headModels = new int[] { 76999, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77135 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 709:
+	idkType.headModels = new int[] { 76994, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77124 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 710:
+	idkType.headModels = new int[] { 77012, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77128 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 711:
+	idkType.headModels = new int[] { 77015, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 77112 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 712:
+	idkType.headModels = new int[] { 78573, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 78614 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 713:
+	idkType.headModels = new int[] { 78572, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 78615 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 714:
+	idkType.headModels = new int[] { 78579, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 78590 };
+	break;
+
+case 715:
+	idkType.headModels = new int[] { 78581, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 78587 };
+	break;
+
+case 716:
+	idkType.headModels = new int[] { 78575, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 78588 };
+	break;
+
+case 717:
+	idkType.headModels = new int[] { 78580, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 78587 };
+	break;
+
+case 718:
+	idkType.headModels = new int[] { 78576, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 78589 };
+	break;
+
+case 719:
+	idkType.headModels = new int[] { 78582, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 78587 };
+	break;
+
+case 720:
+	idkType.headModels = new int[] { 78571, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 78616 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 721:
+	idkType.headModels = new int[] { 78570, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 78619 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 722:
+	idkType.headModels = new int[] { 78573, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 78613 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 723:
+	idkType.headModels = new int[] { 78574, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 78618 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 724:
+	idkType.headModels = new int[] { 79524, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 79526 };
+	break;
+
+case 725:
+	idkType.headModels = new int[] { 79523, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 79535 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 726:
+	idkType.headModels = new int[] { 80474, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 80502 };
+	break;
+
+case 727:
+	idkType.headModels = new int[] { 80471, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 80503 };
+	break;
+
+case 728:
+	idkType.headModels = new int[] { 80448, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 80574 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 729:
+	idkType.headModels = new int[] { 80452, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 80575 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 730:
+	idkType.headModels = new int[] { 80451, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 80577 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 731:
+	idkType.headModels = new int[] { 80450, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 80578 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 732:
+	idkType.headModels = new int[] { 80473, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 80505 };
+	break;
+
+case 733:
+	idkType.headModels = new int[] { 80476, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 80506 };
+	break;
+
+case 734:
+	idkType.headModels = new int[] { 80448, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 80576 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 735:
+	idkType.headModels = new int[] { 80449, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 80573 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 736:
+	idkType.headModels = new int[] { 80475, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 80507 };
+	break;
+
+case 737:
+	idkType.headModels = new int[] { 80472, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 80504 };
+	break;
+
+case 738:
+	idkType.headModels = new int[] { 81075, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 81145 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 739:
+	idkType.headModels = new int[] { 81088, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 81112 };
+	break;
+
+case 740:
+	idkType.headModels = new int[] { 82501, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 82510 };
+	idkType.bodyPartId = 1;
+	break;
+
+case 741:
+	idkType.headModels = new int[] { 82502, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 82509 };
+	idkType.bodyPartId = 1;
+	break;
+
+case 742:
+	idkType.headModels = new int[] { 81088, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 81113 };
+	break;
+
+case 743:
+	idkType.headModels = new int[] { 81090, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 81114 };
+	break;
+
+case 744:
+	idkType.headModels = new int[] { 81081, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 81148 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 745:
+	idkType.headModels = new int[] { 81082, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 81147 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 746:
+	idkType.headModels = new int[] { 81076, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 81144 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 747:
+	idkType.headModels = new int[] { 81079, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 81151 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 748:
+	idkType.headModels = new int[] { 81080, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 81146 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 749:
+	idkType.headModels = new int[] { 81078, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 81150 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 750:
+	idkType.headModels = new int[] { 89175, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 89238 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 751:
+	idkType.headModels = new int[] { 89176, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 89237 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 752:
+	idkType.headModels = new int[] { 89180, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 89191 };
+	break;
+
+case 753:
+	idkType.headModels = new int[] { 89183, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 89195 };
+	break;
+
+case 754:
+	idkType.headModels = new int[] { 89185, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 89196 };
+	break;
+
+case 755:
+	idkType.headModels = new int[] { 89182, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 89193 };
+	break;
+
+case 756:
+	idkType.headModels = new int[] { 89181, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 89194 };
+	break;
+
+case 757:
+	idkType.headModels = new int[] { 89184, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 89192 };
+	break;
+
+case 758:
+	idkType.headModels = new int[] { 89173, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 89236 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 759:
+	idkType.headModels = new int[] { 89177, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 89233 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 760:
+	idkType.headModels = new int[] { 89178, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 89235 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 761:
+	idkType.headModels = new int[] { 89174, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 89234 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 762:
+	idkType.headModels = new int[] { 94678, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 94752 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 763:
+	idkType.headModels = new int[] { 94679, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 94761 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 764:
+	idkType.headModels = new int[] { 94677, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 94753 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 765:
+	idkType.headModels = new int[] { 94671, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 94758 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 766:
+	idkType.headModels = new int[] { 94686, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 94711 };
+	break;
+
+case 767:
+	idkType.headModels = new int[] { 94691, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 94710 };
+	break;
+
+case 768:
+	idkType.headModels = new int[] { 80474, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 80502 };
+	break;
+
+case 769:
+	idkType.headModels = new int[] { 80471, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 80503 };
+	break;
+
+case 770:
+	idkType.headModels = new int[] { 94690, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 94708 };
+	break;
+
+case 771:
+	idkType.headModels = new int[] { 94683, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 94705 };
+	break;
+
+case 772:
+	idkType.headModels = new int[] { 94681, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 94701 };
+	break;
+
+case 773:
+	idkType.headModels = new int[] { 94685, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 94709 };
+	break;
+
+case 774:
+	idkType.headModels = new int[] { 94688, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 94704 };
+	break;
+
+case 775:
+	idkType.headModels = new int[] { 94687, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 94712 };
+	break;
+
+case 776:
+	idkType.headModels = new int[] { 94682, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 94707 };
+	break;
+
+case 777:
+	idkType.headModels = new int[] { 94692, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 94702 };
+	break;
+
+case 778:
+	idkType.headModels = new int[] { 94674, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 94757 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 779:
+	idkType.headModels = new int[] { 94673, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 94759 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 780:
+	idkType.headModels = new int[] { 94675, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 94754 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 781:
+	idkType.headModels = new int[] { 94669, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 94760 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 782:
+	idkType.headModels = new int[] { 94676, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 94756 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 783:
+	idkType.headModels = new int[] { 94672, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 94755 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 784:
+	idkType.headModels = new int[] { 94670, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 94751 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 785:
+	idkType.headModels = new int[] { 94675, -1, -1, -1, -1 };
+	idkType.bodyModelIds = new int[] { 94762 };
+	idkType.bodyPartId = 7;
+	break;
+
+case 786:
+	idkType.bodyModelIds = new int[] { 95087 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 787:
+	idkType.bodyModelIds = new int[] { 95083 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 788:
+	idkType.bodyModelIds = new int[] { 95075 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 789:
+	idkType.bodyModelIds = new int[] { 95088 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 790:
+	idkType.bodyModelIds = new int[] { 95082 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 791:
+	idkType.bodyModelIds = new int[] { 95079 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 792:
+	idkType.bodyModelIds = new int[] { 95089 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 793:
+	idkType.bodyModelIds = new int[] { 95086 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 794:
+	idkType.bodyModelIds = new int[] { 95081 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 795:
+	idkType.bodyModelIds = new int[] { 95077 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 796:
+	idkType.bodyModelIds = new int[] { 95084 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 797:
+	idkType.bodyModelIds = new int[] { 95090 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 798:
+	idkType.bodyModelIds = new int[] { 95076 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 799:
+	idkType.bodyModelIds = new int[] { 95085 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 800:
+	idkType.bodyModelIds = new int[] { 95080 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 801:
+	idkType.bodyModelIds = new int[] { 95078 };
+	idkType.bodyPartId = 12;
+	break;
+
+case 802:
+	idkType.bodyModelIds = new int[] { 94946 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 803:
+	idkType.bodyModelIds = new int[] { 94935 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 804:
+	idkType.bodyModelIds = new int[] { 94948 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 805:
+	idkType.bodyModelIds = new int[] { 94942 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 806:
+	idkType.bodyModelIds = new int[] { 94950 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 807:
+	idkType.bodyModelIds = new int[] { 94945 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 808:
+	idkType.bodyModelIds = new int[] { 94938 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 809:
+	idkType.bodyModelIds = new int[] { 94943 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 810:
+	idkType.bodyModelIds = new int[] { 94940 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 811:
+	idkType.bodyModelIds = new int[] { 94939 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 812:
+	idkType.bodyModelIds = new int[] { 94949 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 813:
+	idkType.bodyModelIds = new int[] { 94936 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 814:
+	idkType.bodyModelIds = new int[] { 94937 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 815:
+	idkType.bodyModelIds = new int[] { 94941 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 816:
+	idkType.bodyModelIds = new int[] { 94947 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 817:
+	idkType.bodyModelIds = new int[] { 94944 };
+	idkType.bodyPartId = 4;
+	break;
+
+case 818:
+	idkType.bodyModelIds = new int[] { 94962 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 819:
+	idkType.bodyModelIds = new int[] { 94970 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 820:
+	idkType.bodyModelIds = new int[] { 94958 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 821:
+	idkType.bodyModelIds = new int[] { 94959 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 822:
+	idkType.bodyModelIds = new int[] { 94960 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 823:
+	idkType.bodyModelIds = new int[] { 94963 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 824:
+	idkType.bodyModelIds = new int[] { 94966 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 825:
+	idkType.bodyModelIds = new int[] { 94964 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 826:
+	idkType.bodyModelIds = new int[] { 94967 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 827:
+	idkType.bodyModelIds = new int[] { 94968 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 828:
+	idkType.bodyModelIds = new int[] { 94957 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 829:
+	idkType.bodyModelIds = new int[] { 94961 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 830:
+	idkType.bodyModelIds = new int[] { 94965 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 831:
+	idkType.bodyModelIds = new int[] { 94969 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 832:
+	idkType.bodyModelIds = new int[] { 94972 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 833:
+	idkType.bodyModelIds = new int[] { 94971 };
+	idkType.bodyPartId = 5;
+	break;
+
+case 834:
+	idkType.bodyModelIds = new int[] { 94930 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 835:
+	idkType.bodyModelIds = new int[] { 94927 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 836:
+	idkType.bodyModelIds = new int[] { 94917 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 837:
+	idkType.bodyModelIds = new int[] { 94919 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 838:
+	idkType.bodyModelIds = new int[] { 94924 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 839:
+	idkType.bodyModelIds = new int[] { 94923 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 840:
+	idkType.bodyModelIds = new int[] { 94920 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 841:
+	idkType.bodyModelIds = new int[] { 94929 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 842:
+	idkType.bodyModelIds = new int[] { 94928 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 843:
+	idkType.bodyModelIds = new int[] { 94926 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 844:
+	idkType.bodyModelIds = new int[] { 94918 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 845:
+	idkType.bodyModelIds = new int[] { 94925 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 846:
+	idkType.bodyModelIds = new int[] { 94916 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 847:
+	idkType.bodyModelIds = new int[] { 94921 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 848:
+	idkType.bodyModelIds = new int[] { 94931 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 849:
+	idkType.bodyModelIds = new int[] { 94922 };
+	idkType.bodyPartId = 6;
+	break;
+
+case 850:
+	idkType.bodyModelIds = new int[] { 95053 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 851:
+	idkType.bodyModelIds = new int[] { 95047 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 852:
+	idkType.bodyModelIds = new int[] { 95048 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 853:
+	idkType.bodyModelIds = new int[] { 95044 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 854:
+	idkType.bodyModelIds = new int[] { 95054 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 855:
+	idkType.bodyModelIds = new int[] { 95040 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 856:
+	idkType.bodyModelIds = new int[] { 95045 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 857:
+	idkType.bodyModelIds = new int[] { 95042 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 858:
+	idkType.bodyModelIds = new int[] { 95052 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 859:
+	idkType.bodyModelIds = new int[] { 95050 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 860:
+	idkType.bodyModelIds = new int[] { 95043 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 861:
+	idkType.bodyModelIds = new int[] { 95049 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 862:
+	idkType.bodyModelIds = new int[] { 95046 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 863:
+	idkType.bodyModelIds = new int[] { 95039 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 864:
+	idkType.bodyModelIds = new int[] { 95051 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 865:
+	idkType.bodyModelIds = new int[] { 95041 };
+	idkType.bodyPartId = 13;
+	break;
+
+case 866:
+	idkType.bodyModelIds = new int[] { 95010 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 867:
+	idkType.bodyModelIds = new int[] { 95000 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 868:
+	idkType.bodyModelIds = new int[] { 94995 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 869:
+	idkType.bodyModelIds = new int[] { 95009 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 870:
+	idkType.bodyModelIds = new int[] { 95004 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 871:
+	idkType.bodyModelIds = new int[] { 95002 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 872:
+	idkType.bodyModelIds = new int[] { 95006 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 873:
+	idkType.bodyModelIds = new int[] { 94998 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 874:
+	idkType.bodyModelIds = new int[] { 95005 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 875:
+	idkType.bodyModelIds = new int[] { 95001 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 876:
+	idkType.bodyModelIds = new int[] { 95007 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 877:
+	idkType.bodyModelIds = new int[] { 95003 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 878:
+	idkType.bodyModelIds = new int[] { 95008 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 879:
+	idkType.bodyModelIds = new int[] { 94997 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 880:
+	idkType.bodyModelIds = new int[] { 94996 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 881:
+	idkType.bodyModelIds = new int[] { 94999 };
+	idkType.bodyPartId = 2;
+	break;
+
+case 882:
+	idkType.bodyModelIds = new int[] { 95068 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 883:
+	idkType.bodyModelIds = new int[] { 95064 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 884:
+	idkType.bodyModelIds = new int[] { 95062 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 885:
+	idkType.bodyModelIds = new int[] { 95059 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 886:
+	idkType.bodyModelIds = new int[] { 95060 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 887:
+	idkType.bodyModelIds = new int[] { 95066 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 888:
+	idkType.bodyModelIds = new int[] { 95069 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 889:
+	idkType.bodyModelIds = new int[] { 95055 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 890:
+	idkType.bodyModelIds = new int[] { 95070 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 891:
+	idkType.bodyModelIds = new int[] { 95065 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 892:
+	idkType.bodyModelIds = new int[] { 95058 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 893:
+	idkType.bodyModelIds = new int[] { 95067 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 894:
+	idkType.bodyModelIds = new int[] { 95056 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 895:
+	idkType.bodyModelIds = new int[] { 95063 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 896:
+	idkType.bodyModelIds = new int[] { 95057 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 897:
+	idkType.bodyModelIds = new int[] { 95061 };
+	idkType.bodyPartId = 11;
+	break;
+
+case 898:
+	idkType.bodyModelIds = new int[] { 95114 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 899:
+	idkType.bodyModelIds = new int[] { 95112 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 900:
+	idkType.bodyModelIds = new int[] { 95110 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 901:
+	idkType.bodyModelIds = new int[] { 95113 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 902:
+	idkType.bodyModelIds = new int[] { 95102 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 903:
+	idkType.bodyModelIds = new int[] { 95099 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 904:
+	idkType.bodyModelIds = new int[] { 95104 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 905:
+	idkType.bodyModelIds = new int[] { 95107 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 906:
+	idkType.bodyModelIds = new int[] { 95103 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 907:
+	idkType.bodyModelIds = new int[] { 95100 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 908:
+	idkType.bodyModelIds = new int[] { 95101 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 909:
+	idkType.bodyModelIds = new int[] { 95108 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 910:
+	idkType.bodyModelIds = new int[] { 95109 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 911:
+	idkType.bodyModelIds = new int[] { 95105 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 912:
+	idkType.bodyModelIds = new int[] { 95111 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 913:
+	idkType.bodyModelIds = new int[] { 95106 };
+	idkType.bodyPartId = 9;
+	break;
+
+case 914:
+	idkType.bodyModelIds = new int[] { 95714 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 915:
+	idkType.bodyModelIds = new int[] { 95713 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 916:
+	idkType.bodyModelIds = new int[] { 95708 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 917:
+	idkType.bodyModelIds = new int[] { 95715 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 918:
+	idkType.bodyModelIds = new int[] { 95716 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 919:
+	idkType.bodyModelIds = new int[] { 95701 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 920:
+	idkType.bodyModelIds = new int[] { 95705 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 921:
+	idkType.bodyModelIds = new int[] { 95711 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 922:
+	idkType.bodyModelIds = new int[] { 95702 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 923:
+	idkType.bodyModelIds = new int[] { 95703 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 924:
+	idkType.bodyModelIds = new int[] { 95706 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 925:
+	idkType.bodyModelIds = new int[] { 95704 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 926:
+	idkType.bodyModelIds = new int[] { 95709 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 927:
+	idkType.bodyModelIds = new int[] { 95710 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 928:
+	idkType.bodyModelIds = new int[] { 95707 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 929:
+	idkType.bodyModelIds = new int[] { 95712 };
+	idkType.bodyPartId = 10;
+	break;
+
+case 930:
+	idkType.bodyModelIds = new int[] { 95692 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 931:
+	idkType.bodyModelIds = new int[] { 95700 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 932:
+	idkType.bodyModelIds = new int[] { 95687 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 933:
+	idkType.bodyModelIds = new int[] { 95698 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 934:
+	idkType.bodyModelIds = new int[] { 95696 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 935:
+	idkType.bodyModelIds = new int[] { 95695 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 936:
+	idkType.bodyModelIds = new int[] { 95688 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 937:
+	idkType.bodyModelIds = new int[] { 95691 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 938:
+	idkType.bodyModelIds = new int[] { 95694 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 939:
+	idkType.bodyModelIds = new int[] { 95685 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 940:
+	idkType.bodyModelIds = new int[] { 95697 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 941:
+	idkType.bodyModelIds = new int[] { 95699 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 942:
+	idkType.bodyModelIds = new int[] { 95690 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 943:
+	idkType.bodyModelIds = new int[] { 95689 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 944:
+	idkType.bodyModelIds = new int[] { 95693 };
+	idkType.bodyPartId = 3;
+	break;
+
+case 945:
+	idkType.bodyModelIds = new int[] { 95686 };
+	idkType.bodyPartId = 3;
+	break;

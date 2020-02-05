@@ -1,0 +1,10 @@
+id=4645
+name=Glouphrie the Untrusted
+description=A weasly, shifty-looking Gnome Mage.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Battlefield"]
+aggressive=false
+members=false

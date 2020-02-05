@@ -1,0 +1,16 @@
+id=4796
+name=Ramokee bloodrager
+description=Not as strong as Thok.
+size=1
+xp=0
+lifepoints=1000
+level=103
+attack=90
+defence=60
+ranged=1
+magic=1
+animations={death:13683,attack:13617}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=true

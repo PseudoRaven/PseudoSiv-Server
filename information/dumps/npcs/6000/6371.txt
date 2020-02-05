@@ -1,0 +1,17 @@
+id=6371
+name=Zamorak crafter
+description=A Z.M.I. runecrafter.
+size=1
+xp=40.8
+lifepoints=950
+level=26
+attack=19
+defence=19
+ranged=1
+magic=1
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["Ourania Altar"]
+aggressive=false

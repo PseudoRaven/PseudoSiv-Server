@@ -1,0 +1,10 @@
+id=13818
+name=Jadinko guard
+description=Protector of the Queen and her subjects.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Jadinko lair"]
+aggressive=false
+members=true

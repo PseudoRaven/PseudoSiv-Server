@@ -1,0 +1,17 @@
+id=1290
+name=Koschei the deathless
+description=Your challenge awaits!
+size=1
+xp=0.2
+lifepoints=250
+level=0
+attack=13
+defence=1
+ranged=0
+magic=0
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

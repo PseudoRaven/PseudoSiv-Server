@@ -1,0 +1,17 @@
+id=6812
+name=Hydra
+description=A very split personality.
+size=2
+xp=569.7
+lifepoints=9000
+level=94
+attack=72
+defence=64
+ranged=72
+magic=72
+animations={range:7934,death:7937,attack:7935}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

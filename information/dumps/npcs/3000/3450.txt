@@ -1,0 +1,17 @@
+id=3450
+name=Jogre
+description=An aggressive humanoid.
+size=2
+xp=155.7
+lifepoints=4100
+level=57
+attack=41
+defence=41
+ranged=1
+magic=1
+animations={death:17506,attack:17505}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["RuneScape Surface","Karamja Underground"]
+aggressive=false

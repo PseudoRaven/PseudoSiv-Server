@@ -1,0 +1,10 @@
+id=2096
+name=White Chisel Secretary
+description=The head secretary of the White Chisel mining company.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

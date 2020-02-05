@@ -1,0 +1,17 @@
+id=6772
+name=Scarab larva
+description=It's not quite small enough to stamp upon.
+size=1
+xp=39.6
+lifepoints=900
+level=25
+attack=18
+defence=18
+ranged=0
+magic=0
+animations={death:7656,attack:7657}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["Scabaras Dungeon"]
+aggressive=false

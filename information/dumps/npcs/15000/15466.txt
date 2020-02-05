@@ -1,0 +1,10 @@
+id=15466
+name=White knight
+description=He's wounded and his armour has been badly damaged... by acid?
+xp=0.5
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

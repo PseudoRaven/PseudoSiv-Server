@@ -1,0 +1,10 @@
+id=4573
+name=Timble
+description=An underpayed gnome!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

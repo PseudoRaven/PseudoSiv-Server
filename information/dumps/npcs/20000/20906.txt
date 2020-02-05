@@ -1,0 +1,17 @@
+id=20906
+name=Zemouregal
+description=The infamous enemy of Varrock.
+size=3
+xp=0
+lifepoints=35000
+level=98
+attack=70
+defence=70
+ranged=70
+magic=70
+animations={range:25985,death:25423}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

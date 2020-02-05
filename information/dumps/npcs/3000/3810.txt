@@ -1,0 +1,10 @@
+id=3810
+name=Captain Bleemadge
+description=Huzzah!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

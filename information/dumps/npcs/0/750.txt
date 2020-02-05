@@ -1,0 +1,17 @@
+id=750
+name=Enraged barbarian spirit
+description=He looks a tad upset.
+size=1
+xp=564.3
+lifepoints=3800
+level=106
+attack=76
+defence=76
+ranged=1
+magic=1
+animations={death:6727,attack:6726}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=["Ancient cavern"]
+aggressive=true

@@ -1,0 +1,17 @@
+id=1974
+name=Damis
+description=The warrior of darkness.
+size=1
+xp=283.2
+lifepoints=3100
+level=86
+attack=62
+defence=62
+ranged=62
+magic=62
+animations={death:836,attack:18245}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=[]
+aggressive=false

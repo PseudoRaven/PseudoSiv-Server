@@ -1,0 +1,17 @@
+id=7348
+name=Talon beast
+description=If a normal black cat is bad luck, what happens if this crosses your path?
+size=2
+xp=516.6
+lifepoints=8700
+level=92
+attack=70
+defence=62
+ranged=70
+magic=70
+animations={death:5990,attack:5989}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

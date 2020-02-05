@@ -1,0 +1,10 @@
+id=1567
+name=Cyreg Paddlehorn
+description=A tall and imposing man who's more than familiar with boating.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

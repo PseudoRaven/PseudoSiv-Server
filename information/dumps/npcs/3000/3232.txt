@@ -1,0 +1,17 @@
+id=3232
+name=Guard
+description=Keeping an eye out for threats to the city.
+size=1
+xp=35.7
+lifepoints=650
+level=18
+attack=1
+defence=13
+ranged=13
+magic=1
+animations={range:23943,death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=["RuneScape Surface"]
+aggressive=false

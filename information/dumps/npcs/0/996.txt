@@ -1,0 +1,10 @@
+id=996
+name=Kamen
+description=This dwarf looks intoxicated.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Beneath Iban's lair"]
+aggressive=false
+members=false

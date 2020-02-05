@@ -1,0 +1,17 @@
+id=5137
+name=Kebbit
+description=A little bigger than usual...
+size=1
+xp=30.9
+lifepoints=500
+level=14
+attack=10
+defence=10
+ranged=0
+magic=0
+animations={death:5303,attack:5304}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=false

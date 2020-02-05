@@ -1,0 +1,17 @@
+id=19115
+name=False User
+description=A shade of the god of chaos and destruction.
+size=1
+xp=0.2
+lifepoints=1
+level=7
+attack=1
+defence=5
+ranged=1
+magic=5
+animations={death:17991,attack:18284}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=[]
+aggressive=false

@@ -1,0 +1,17 @@
+id=6659
+name=Warrior ancestor
+description=An ancient spirit has made itself at home within this suit of armour.
+size=1
+xp=75.9
+lifepoints=1700
+level=47
+attack=34
+defence=34
+ranged=1
+magic=1
+animations={death:48,attack:47}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=false

@@ -1,0 +1,10 @@
+id=3555
+name=Teodor
+description=He tries to grow the crops in this area.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

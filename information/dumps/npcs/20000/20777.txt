@@ -1,0 +1,10 @@
+id=20777
+name=Aubury
+description=Runes are his passion.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["New Varrock"]
+aggressive=false
+members=false

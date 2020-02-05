@@ -1,0 +1,10 @@
+id=1833
+name=Cave bug larva
+description=A little, slimy beetle-thing.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Misthalin Underground"]
+aggressive=false
+members=false

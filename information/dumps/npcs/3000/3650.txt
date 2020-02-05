@@ -1,0 +1,17 @@
+id=3650
+name=Confusion beast
+description=What on RuneScape is that?!?
+size=2
+xp=58.5
+lifepoints=1400
+level=39
+attack=28
+defence=28
+ranged=0
+magic=0
+animations={death:3821,attack:3818}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

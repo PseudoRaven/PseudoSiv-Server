@@ -1,0 +1,10 @@
+id=12159
+name=Ferret
+description=An intelligent little critter.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dungeoneering"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=10576
+name=Forgotten mage
+description=One of many dark mages inhabiting the dungeons.
+size=1
+xp=148.9
+lifepoints=4000
+level=56
+attack=1
+defence=40
+ranged=1
+magic=40
+animations={range:711,death:836}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=[]
+aggressive=true

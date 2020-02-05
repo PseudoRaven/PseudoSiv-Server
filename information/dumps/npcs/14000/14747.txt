@@ -1,0 +1,10 @@
+id=14747
+name=Thormac
+description=Haven't seen a scorpion around here have you?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Xmas 2011"]
+aggressive=false
+members=false

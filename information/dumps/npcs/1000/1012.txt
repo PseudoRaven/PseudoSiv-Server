@@ -1,0 +1,10 @@
+id=1012
+name=Bugs
+description=This must be Rantz's son.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Rantz's house"]
+aggressive=false
+members=false

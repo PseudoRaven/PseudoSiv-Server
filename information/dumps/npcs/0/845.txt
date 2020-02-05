@@ -1,0 +1,10 @@
+id=845
+name=Horacio
+description=Could do with losing a few pounds.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

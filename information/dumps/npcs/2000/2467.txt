@@ -1,0 +1,10 @@
+id=2467
+name=Merchant Zakia
+description=She sells 'exotic' ingredients to the cave goblins.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dorgesh-Kaan"]
+aggressive=false
+members=true

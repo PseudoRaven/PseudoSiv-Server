@@ -1,0 +1,10 @@
+id=18198
+name=May Stormbrewer
+description=It looks like she's cataloguing data.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

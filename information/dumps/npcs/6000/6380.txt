@@ -1,0 +1,17 @@
+id=6380
+name=Giant ant soldier
+description=Gi-ant-ant-ant-ant...
+size=1
+xp=159.3
+lifepoints=2500
+level=70
+attack=50
+defence=50
+ranged=0
+magic=0
+animations={death:7238,attack:7237}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface","Chaos tunnels"]
+aggressive=true

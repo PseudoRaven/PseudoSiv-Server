@@ -1,0 +1,10 @@
+id=970
+name=Diango
+description=A toy-seller who looks after people's toys for them.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface","Draynor"]
+aggressive=false
+members=false

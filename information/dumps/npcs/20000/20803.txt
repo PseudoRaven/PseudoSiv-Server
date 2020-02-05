@@ -1,0 +1,17 @@
+id=20803
+name=Jonny the Beard
+description=Looks kind of hostile...
+size=1
+xp=37.3
+lifepoints=100
+level=0
+attack=1
+defence=1
+ranged=0
+magic=0
+animations={attack:18221}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

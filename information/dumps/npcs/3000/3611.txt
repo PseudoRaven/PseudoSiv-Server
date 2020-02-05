@@ -1,0 +1,10 @@
+id=3611
+name=Boris Barrington
+description=It looks like the original musician died long ago.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

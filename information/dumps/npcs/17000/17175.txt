@@ -1,0 +1,10 @@
+id=17175
+name=Worried H.A.M. cultist
+description=She has a nervous appearance.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=true

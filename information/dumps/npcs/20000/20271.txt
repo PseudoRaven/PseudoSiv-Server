@@ -1,0 +1,10 @@
+id=20271
+name=Hefin monk
+description=A caretaker of the Hefin Cathedral.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Prifddinas"]
+aggressive=false
+members=false

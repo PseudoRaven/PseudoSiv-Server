@@ -1,0 +1,17 @@
+id=6102
+name=Lost barbarian
+description=His face is expressionless.
+size=1
+xp=256.8
+lifepoints=3000
+level=84
+attack=60
+defence=60
+ranged=1
+magic=1
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["Ancient cavern"]
+aggressive=false

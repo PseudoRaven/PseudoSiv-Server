@@ -1,0 +1,11 @@
+id=1001
+name=Dark mage
+description=A user of dark magic.
+xp=69.6
+animations={}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

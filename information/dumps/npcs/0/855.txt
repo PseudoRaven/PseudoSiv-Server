@@ -1,0 +1,11 @@
+id=855
+name=Toban
+description=Ogre-ish.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+slayercat=Ogres
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

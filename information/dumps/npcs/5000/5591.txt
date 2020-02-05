@@ -1,0 +1,10 @@
+id=5591
+name='Gummy'
+description=He wishes he had teeth.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

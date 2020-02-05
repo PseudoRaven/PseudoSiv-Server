@@ -1,0 +1,10 @@
+id=585
+name=Rommik
+description=If Crafting's your thing, he's your man.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

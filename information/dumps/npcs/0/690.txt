@@ -1,0 +1,17 @@
+id=690
+name=Tower Archer
+description=Defender of the south tower.
+size=1
+xp=64.5
+lifepoints=1500
+level=42
+attack=22
+defence=30
+ranged=30
+magic=0
+animations={range:23943,death:836,attack:23943}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=[]
+aggressive=true

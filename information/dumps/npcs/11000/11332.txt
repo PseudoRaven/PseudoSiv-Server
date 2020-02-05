@@ -1,0 +1,17 @@
+id=11332
+name=General Bre'egth
+description=General Bre'egth - a tough, spellcasting ork.
+size=2
+xp=269.4
+lifepoints=3050
+level=85
+attack=61
+defence=61
+ranged=61
+magic=61
+animations={death:13923,attack:13926}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

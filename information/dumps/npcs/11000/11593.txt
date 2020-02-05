@@ -1,0 +1,17 @@
+id=11593
+name=Pit black demon
+description=A big, scary, jet-black demon.
+size=3
+xp=256.8
+lifepoints=3000
+level=84
+attack=60
+defence=60
+ranged=0
+magic=0
+animations={death:17461,attack:17462}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

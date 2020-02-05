@@ -1,0 +1,10 @@
+id=1008
+name=Hamid
+description=A holy man.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

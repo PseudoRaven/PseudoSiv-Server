@@ -1,0 +1,10 @@
+id=5509
+name=Jofridr Mordstatter
+description=Mistress of the stores.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

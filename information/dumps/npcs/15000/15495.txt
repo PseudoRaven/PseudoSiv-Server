@@ -1,0 +1,17 @@
+id=15495
+name=Grotworm
+description=A huge, repulsive maggot.
+size=1
+xp=24.9
+lifepoints=50
+level=1
+attack=0
+defence=1
+ranged=0
+magic=1
+animations={death:16778,attack:16777}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=["Queen Black Dragon's stomach"]
+aggressive=true

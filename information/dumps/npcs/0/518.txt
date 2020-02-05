@@ -1,0 +1,10 @@
+id=518
+name=Captain Shanks
+description=He's the Captain of the 'Lady of the Waves'.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

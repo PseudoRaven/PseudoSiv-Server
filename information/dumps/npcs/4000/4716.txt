@@ -1,0 +1,10 @@
+id=4716
+name=Trader Sven
+description=A flea-infested black market trader.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

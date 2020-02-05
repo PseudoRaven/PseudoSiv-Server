@@ -1,0 +1,10 @@
+id=14707
+name=Emerald Benedict
+description=A rich banker man... Some say too rich.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Rogues' Den"]
+aggressive=false
+members=true

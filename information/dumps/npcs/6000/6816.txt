@@ -1,0 +1,17 @@
+id=6816
+name=War tortoise
+description=Definitely not teenaged, although the jury is out on its ninja skills.
+size=2
+xp=332.5
+lifepoints=7700
+level=80
+attack=61
+defence=54
+ranged=61
+magic=61
+animations={death:25583,attack:25582}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

@@ -1,0 +1,10 @@
+id=5915
+name=Scribe
+description=This prim-looking fellow is a useful contact for anyone interested in clans.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

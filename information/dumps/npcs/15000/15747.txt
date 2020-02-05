@@ -1,0 +1,17 @@
+id=15747
+name=Clan avatar
+description=The magical, living essence of the floating island.
+size=1
+xp=1532.7
+lifepoints=20000
+level=0
+attack=50
+defence=99
+ranged=1
+magic=1
+animations={}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

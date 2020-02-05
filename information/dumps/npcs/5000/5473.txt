@@ -1,0 +1,17 @@
+id=5473
+name=Ice troll runt
+description=An ice troll youngling.
+size=1
+xp=90.9
+lifepoints=1900
+level=53
+attack=38
+defence=38
+ranged=0
+magic=0
+animations={death:13785,attack:13786}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["Miscellania Underground"]
+aggressive=true

@@ -1,0 +1,17 @@
+id=17340
+name=Giant roc
+description=A very, very large mountain-dwelling bird.
+size=5
+xp=603.9
+lifepoints=15000
+level=77
+attack=55
+defence=55
+ranged=55
+magic=55
+animations={range:5025,death:5027,attack:5024}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

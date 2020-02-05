@@ -1,0 +1,10 @@
+id=14378
+name=Frank
+description=One of The Horsemen's five founders.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["halloween 2011"]
+aggressive=false
+members=false

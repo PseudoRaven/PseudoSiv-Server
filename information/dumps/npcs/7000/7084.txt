@@ -1,0 +1,17 @@
+id=7084
+name=Ork statue
+description=Dead stone defending a dead throne room.
+size=1
+xp=250.2
+lifepoints=5100
+level=71
+attack=51
+defence=51
+ranged=0
+magic=0
+animations={death:11400,attack:11402}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=false

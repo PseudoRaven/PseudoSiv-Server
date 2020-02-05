@@ -1,0 +1,17 @@
+id=20614
+name=Lesser demon executioner
+description=Smaller in stature, but just as angry.
+size=1
+xp=628.6
+lifepoints=9000
+level=97
+attack=74
+defence=66
+ranged=74
+magic=74
+animations={range:25720,death:25718,attack:25721}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

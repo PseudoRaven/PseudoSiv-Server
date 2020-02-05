@@ -1,0 +1,1 @@
+javac -d bin -cp $(echo lib/*.jar | tr ' ' ':') -sourcepath src */*/*/*.java */*/*/*/*.java */*/*/*/*/*.java */*/*/*/*/*/*.java */*/*/*/*/*/*/*.java */*/*/*/*/*/*/*/*.java */*/*/*/*/*/*/*/*/*.java

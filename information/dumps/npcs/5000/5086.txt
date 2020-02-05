@@ -1,0 +1,10 @@
+id=5086
+name=Prickly kebbit
+description=Curls up into a ball to protect itself from attack.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

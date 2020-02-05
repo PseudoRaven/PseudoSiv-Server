@@ -1,0 +1,17 @@
+id=6658
+name=Smith ancestor
+description=An ancient spirit has made itself at home within this suit of armour.
+size=1
+xp=72.6
+lifepoints=1650
+level=46
+attack=33
+defence=33
+ranged=1
+magic=1
+animations={death:48,attack:47}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=false

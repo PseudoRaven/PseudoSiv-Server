@@ -1,0 +1,17 @@
+id=17185
+name=Scopulus
+description=Keep him away from his twin!
+size=2
+xp=5000
+lifepoints=150000
+level=200
+attack=90
+defence=90
+ranged=90
+magic=90
+animations={death:20341,attack:20342}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

@@ -1,0 +1,17 @@
+id=837
+name=Shantay guard
+description=He patrols the Shantay Pass.
+size=1
+xp=32.1
+lifepoints=550
+level=15
+attack=11
+defence=11
+ranged=0
+magic=0
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface"]
+aggressive=false

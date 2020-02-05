@@ -1,0 +1,17 @@
+id=1219
+name=Leech
+description=Yuck! It's all slimy!
+size=1
+xp=108.9
+lifepoints=2100
+level=58
+attack=42
+defence=42
+ranged=1
+magic=1
+animations={death:1272,attack:1273}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface","Chaos tunnels"]
+aggressive=false

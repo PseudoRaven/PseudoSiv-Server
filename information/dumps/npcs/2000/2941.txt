@@ -1,0 +1,10 @@
+id=2941
+name=The Beast
+description=Who ate all the rats?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

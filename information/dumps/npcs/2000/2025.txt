@@ -1,0 +1,17 @@
+id=2025
+name=Ahrim the Blighted
+description=A vengeful spirit corrupted by dark magic.
+size=1
+xp=838.2
+lifepoints=12000
+level=150
+attack=1
+defence=70
+ranged=1
+magic=70
+animations={death:836,attack:2078}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=[]
+aggressive=true

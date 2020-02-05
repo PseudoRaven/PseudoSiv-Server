@@ -1,0 +1,10 @@
+id=1163
+name=Tiadeche
+description=A rather depressed looking fisherman.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Karamja jungle"]
+aggressive=false
+members=false

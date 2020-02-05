@@ -1,0 +1,10 @@
+id=13101
+name=Zombie farmer
+description=Papa Mambo's undead minion.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

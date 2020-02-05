@@ -1,0 +1,17 @@
+id=2263
+name=Abyssal leech
+description=A blood-drinking denizen of the abyss.
+size=1
+xp=174.9
+lifepoints=2600
+level=72
+attack=1
+defence=52
+ranged=52
+magic=1
+animations={death:2183,attack:2181}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=["The Abyss"]
+aggressive=false

@@ -1,0 +1,10 @@
+id=9491
+name=Pack yak
+description=Bulk haulage never smelled so bad.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Spirit Plane"]
+aggressive=true
+members=true

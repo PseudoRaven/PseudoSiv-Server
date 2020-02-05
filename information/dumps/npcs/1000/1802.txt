@@ -1,0 +1,17 @@
+id=1802
+name=Slagilith
+description=This monster totally rocks!
+size=2
+xp=251.4
+lifepoints=7500
+level=63
+attack=45
+defence=45
+ranged=0
+magic=0
+animations={death:1752,attack:1750}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=false

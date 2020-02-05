@@ -1,0 +1,17 @@
+id=3816
+name=Gnome Mage
+description=A battle mage of the gnomish variety.
+size=1
+xp=75.9
+lifepoints=1700
+level=47
+attack=1
+defence=34
+ranged=1
+magic=34
+animations={death:196,attack:3968}
+attackable=true
+poisonous=false
+weakness="Thrown"
+areas=[]
+aggressive=false

@@ -1,0 +1,17 @@
+id=3583
+name=Hobgoblin
+description=He doesn't look very welcoming.
+size=1
+xp=0
+lifepoints=3900
+level=84
+attack=60
+defence=60
+ranged=1
+magic=1
+animations={death:4784,attack:12405}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=true

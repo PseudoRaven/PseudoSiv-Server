@@ -1,0 +1,10 @@
+id=1859
+name=Arzinian Being of Bordanzan
+description=It's the Arzinian Being, whatever that is, that comes from Bordanzan, wherever that is.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Arzinian Gold Mine"]
+aggressive=false
+members=false

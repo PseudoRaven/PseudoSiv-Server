@@ -1,0 +1,17 @@
+id=8549
+name=Phoenix
+description=Goodness, gracious, great bird of fire!
+size=4
+xp=513.6
+lifepoints=10000
+level=84
+attack=60
+defence=60
+ranged=60
+magic=60
+animations={range:11076,death:11081}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=[]
+aggressive=true

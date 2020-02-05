@@ -1,0 +1,17 @@
+id=17157
+name=Vitalis
+description=Fast and dangerous!
+size=1
+xp=1000
+lifepoints=20000
+level=130
+attack=90
+defence=75
+ranged=90
+magic=90
+animations={death:20379,attack:20384}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

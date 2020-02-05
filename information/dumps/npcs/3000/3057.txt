@@ -1,0 +1,17 @@
+id=3057
+name=Earth Warrior Champion
+description=Champion of the earth warriors.
+size=1
+xp=166.8
+lifepoints=2550
+level=71
+attack=51
+defence=51
+ranged=1
+magic=1
+animations={death:23834,attack:23833}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=false

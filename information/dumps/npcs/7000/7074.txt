@@ -1,0 +1,10 @@
+id=7074
+name=Chomp
+description=A little nipper.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Oo'glog"]
+aggressive=false
+members=false

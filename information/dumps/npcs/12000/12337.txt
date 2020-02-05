@@ -1,0 +1,10 @@
+id=12337
+name=Yaktwee Swinmari Cianta
+description=A gnome mage and hunter with a somewhat enthusiastic swagger.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

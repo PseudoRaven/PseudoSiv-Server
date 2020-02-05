@@ -1,0 +1,17 @@
+id=11736
+name=Skeletal minion
+description=A skeleton, reanimated by a necrolord!
+size=1
+xp=1775.7
+lifepoints=4950
+level=138
+attack=99
+defence=99
+ranged=99
+magic=99
+animations={death:17932,attack:17929}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

@@ -1,0 +1,17 @@
+id=3422
+name=Mudskipper
+description=Not the most beautiful fish in the sea.
+size=1
+xp=50.4
+lifepoints=1200
+level=33
+attack=24
+defence=24
+ranged=0
+magic=0
+animations={death:3435,attack:3433}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["Underwater cave"]
+aggressive=false

@@ -1,0 +1,17 @@
+id=3062
+name=Imp Champion
+description=Champion of the imps.
+size=1
+xp=27.6
+lifepoints=350
+level=9
+attack=7
+defence=7
+ranged=7
+magic=1
+animations={death:172,attack:5285}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=false

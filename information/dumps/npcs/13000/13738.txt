@@ -1,0 +1,11 @@
+id=13738
+name=Eva
+description=She's the reason for the phrase 'Beaten by a girl'.
+xp=129
+animations={}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["Daemonheim","Slug Citadel"]
+aggressive=false
+members=true

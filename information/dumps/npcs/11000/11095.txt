@@ -1,0 +1,16 @@
+id=11095
+name=Tyrannomastyx
+description=A big, slow creature with a tough leathery hide. (Tier 10)
+size=3
+xp=35.7
+lifepoints=730
+level=18
+attack=10
+defence=16
+ranged=1
+magic=1
+animations={death:13262,attack:13255}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

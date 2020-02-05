@@ -1,0 +1,10 @@
+id=2169
+name=Dromund
+description=What an eccentric little fellow!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

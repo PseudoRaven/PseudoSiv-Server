@@ -1,0 +1,17 @@
+id=5923
+name=Man
+description=One of RuneScape's many citizens.
+size=1
+xp=24.9
+lifepoints=150
+level=4
+attack=3
+defence=3
+ranged=1
+magic=1
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["Varrock","RuneScape Surface"]
+aggressive=false

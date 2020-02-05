@@ -1,0 +1,10 @@
+id=13645
+name=Queen of Snow
+description=Her lack of body heat is unsettling.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Easter 2011"]
+aggressive=false
+members=false

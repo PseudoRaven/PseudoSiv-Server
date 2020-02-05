@@ -1,0 +1,17 @@
+id=2702
+name=Guard
+description=A prison guard.
+size=1
+xp=35.7
+lifepoints=650
+level=18
+attack=13
+defence=13
+ranged=1
+magic=1
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["RuneScape Surface"]
+aggressive=false

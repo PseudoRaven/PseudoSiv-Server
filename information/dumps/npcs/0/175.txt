@@ -1,0 +1,17 @@
+id=175
+name=Mugger
+description=He jumps out and attacks people.
+size=1
+xp=32.1
+lifepoints=550
+level=15
+attack=11
+defence=11
+ranged=1
+magic=1
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["Asgarnian Ice Dungeon","RuneScape Surface"]
+aggressive=true

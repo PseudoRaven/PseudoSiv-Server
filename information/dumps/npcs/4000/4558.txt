@@ -1,0 +1,10 @@
+id=4558
+name=Hirko
+description=A seller of crossbow parts.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

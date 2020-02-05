@@ -1,0 +1,10 @@
+id=670
+name=King Narnode Shareen
+description=An important looking gnome.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface","Grand Tree mine"]
+aggressive=false
+members=false

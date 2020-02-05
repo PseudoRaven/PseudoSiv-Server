@@ -1,0 +1,10 @@
+id=4288
+name=Ajjat
+description=Used to be a black knight.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

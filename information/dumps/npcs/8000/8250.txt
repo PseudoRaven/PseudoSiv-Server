@@ -1,0 +1,16 @@
+id=8250
+name=Grindxplox
+description=A player.
+size=1
+xp=17.7
+lifepoints=990
+level=104
+attack=99
+defence=99
+ranged=99
+magic=99
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

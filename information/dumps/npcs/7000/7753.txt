@@ -1,0 +1,10 @@
+id=7753
+name=TzHaar-Mej
+description=It's busy reading.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Tzhaar Caves"]
+aggressive=false
+members=false

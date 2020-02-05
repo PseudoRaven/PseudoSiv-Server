@@ -1,0 +1,10 @@
+id=2691
+name=Longbow Ben
+description=A strange man with a strange name. Probably a strange past, too.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=4500
+name=Scarab swarm
+description=I think they're some kind of beetle.
+size=1
+xp=125.7
+lifepoints=2500
+level=112
+attack=90
+defence=1
+ranged=1
+magic=1
+animations={death:26098,attack:26096}
+attackable=true
+poisonous=true
+slayercat=Scabarites
+areas=[]
+aggressive=false

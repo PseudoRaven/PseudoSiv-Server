@@ -1,0 +1,17 @@
+id=17248
+name=Skeleton mage
+description=The animated bones of a long-dead Saradominist, controlled by the Wand of Resurrection.
+size=1
+xp=0.9
+lifepoints=1000
+level=56
+attack=1
+defence=40
+ranged=1
+magic=40
+animations={range:17938,death:17932}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

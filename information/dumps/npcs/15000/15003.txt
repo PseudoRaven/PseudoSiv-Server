@@ -1,0 +1,10 @@
+id=15003
+name=Shady Character
+description=May well answer to the name 'Knuckles'.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

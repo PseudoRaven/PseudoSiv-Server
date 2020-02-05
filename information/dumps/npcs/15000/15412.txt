@@ -1,0 +1,10 @@
+id=15412
+name=Nature esshound
+description=An esshound imbued with nature energy.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["The Runespan"]
+aggressive=false
+members=false

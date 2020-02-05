@@ -1,0 +1,996 @@
+
+case 0:
+	cursorType.graphic = 168;
+	break;
+
+case 1:
+	cursorType.graphic = 904;
+	break;
+
+case 2:
+	cursorType.graphic = 898;
+	break;
+
+case 3:
+	cursorType.graphic = 905;
+	break;
+
+case 4:
+	cursorType.graphic = 899;
+	break;
+
+case 5:
+	cursorType.graphic = 906;
+	break;
+
+case 6:
+	cursorType.graphic = 900;
+	break;
+
+case 7:
+	cursorType.graphic = 907;
+	break;
+
+case 8:
+	cursorType.graphic = 901;
+	break;
+
+case 9:
+	cursorType.graphic = 908;
+	break;
+
+case 10:
+	cursorType.graphic = 903;
+	break;
+
+case 11:
+	cursorType.graphic = 910;
+	break;
+
+case 12:
+	cursorType.graphic = 902;
+	break;
+
+case 13:
+	cursorType.graphic = 909;
+	break;
+
+case 14:
+	cursorType.graphic = 1241;
+	break;
+
+case 15:
+	cursorType.graphic = 1856;
+	break;
+
+case 16:
+	cursorType.graphic = 1242;
+	break;
+
+case 17:
+	cursorType.graphic = 1857;
+	break;
+
+case 18:
+	cursorType.graphic = 1477;
+	break;
+
+case 19:
+	cursorType.graphic = 1858;
+	break;
+
+case 20:
+	cursorType.graphic = 1707;
+	break;
+
+case 21:
+	cursorType.graphic = 1859;
+	break;
+
+case 22:
+	cursorType.graphic = 1849;
+	break;
+
+case 23:
+	cursorType.graphic = 1860;
+	break;
+
+case 24:
+	cursorType.graphic = 1850;
+	break;
+
+case 25:
+	cursorType.graphic = 1861;
+	break;
+
+case 26:
+	cursorType.graphic = 1851;
+	break;
+
+case 27:
+	cursorType.graphic = 1862;
+	break;
+
+case 28:
+	cursorType.graphic = 1852;
+	break;
+
+case 29:
+	cursorType.graphic = 1863;
+	break;
+
+case 30:
+	cursorType.graphic = 1853;
+	break;
+
+case 31:
+	cursorType.graphic = 1864;
+	break;
+
+case 32:
+	cursorType.graphic = 1854;
+	break;
+
+case 33:
+	cursorType.graphic = 1865;
+	break;
+
+case 34:
+	cursorType.graphic = 1855;
+	break;
+
+case 35:
+	cursorType.graphic = 1866;
+	break;
+
+case 36:
+	cursorType.graphic = 2047;
+	cursorType.hotspotx = 5;
+	break;
+
+case 37:
+	cursorType.graphic = 2131;
+	cursorType.hotspotx = 5;
+	break;
+
+case 38:
+	cursorType.graphic = 2132;
+	cursorType.hotspotx = 5;
+	break;
+
+case 39:
+	cursorType.graphic = 2160;
+	cursorType.hotspotx = 5;
+	break;
+
+case 40:
+	cursorType.graphic = 2161;
+	cursorType.hotspotx = 5;
+	break;
+
+case 41:
+	cursorType.graphic = 2049;
+	cursorType.hotspotx = 5;
+	break;
+
+case 42:
+	cursorType.graphic = 3829;
+	cursorType.hotspotx = 5;
+	break;
+
+case 43:
+	cursorType.graphic = 3822;
+	cursorType.hotspotx = 5;
+	break;
+
+case 44:
+	cursorType.graphic = 3986;
+	cursorType.hotspotx = 5;
+	break;
+
+case 45:
+	cursorType.graphic = 3989;
+	cursorType.hotspotx = 5;
+	break;
+
+case 46:
+	cursorType.graphic = 3995;
+	cursorType.hotspotx = 5;
+	break;
+
+case 47:
+	cursorType.graphic = 3985;
+	cursorType.hotspotx = 5;
+	break;
+
+case 48:
+	cursorType.graphic = 3984;
+	cursorType.hotspotx = 5;
+	break;
+
+case 49:
+	cursorType.graphic = 3996;
+	cursorType.hotspotx = 5;
+	break;
+
+case 50:
+	cursorType.graphic = 3991;
+	cursorType.hotspotx = 5;
+	break;
+
+case 51:
+	cursorType.graphic = 4027;
+	cursorType.hotspotx = 5;
+	break;
+
+case 52:
+	cursorType.graphic = 4002;
+	cursorType.hotspotx = 5;
+	break;
+
+case 53:
+	cursorType.graphic = 4001;
+	cursorType.hotspotx = 5;
+	break;
+
+case 54:
+	cursorType.graphic = 3844;
+	cursorType.hotspotx = 5;
+	break;
+
+case 55:
+	cursorType.graphic = 3999;
+	cursorType.hotspotx = 5;
+	break;
+
+case 56:
+	cursorType.graphic = 4003;
+	cursorType.hotspotx = 5;
+	break;
+
+case 57:
+	cursorType.graphic = 3990;
+	cursorType.hotspotx = 5;
+	break;
+
+case 58:
+	cursorType.graphic = 3847;
+	cursorType.hotspotx = 5;
+	break;
+
+case 59:
+	cursorType.graphic = 3843;
+	cursorType.hotspotx = 5;
+	break;
+
+case 60:
+	cursorType.graphic = 3837;
+	cursorType.hotspotx = 5;
+	break;
+
+case 61:
+	cursorType.graphic = 3838;
+	cursorType.hotspotx = 5;
+	break;
+
+case 62:
+	cursorType.graphic = 3850;
+	cursorType.hotspotx = 5;
+	break;
+
+case 63:
+	cursorType.graphic = 3846;
+	cursorType.hotspotx = 5;
+	break;
+
+case 64:
+	cursorType.graphic = 3823;
+	cursorType.hotspotx = 5;
+	break;
+
+case 65:
+	cursorType.graphic = 3856;
+	cursorType.hotspotx = 5;
+	break;
+
+case 66:
+	cursorType.graphic = 3826;
+	cursorType.hotspotx = 5;
+	break;
+
+case 67:
+	cursorType.graphic = 3922;
+	cursorType.hotspotx = 5;
+	break;
+
+case 68:
+	cursorType.graphic = 3914;
+	cursorType.hotspotx = 5;
+	break;
+
+case 69:
+	cursorType.graphic = 3980;
+	cursorType.hotspotx = 5;
+	break;
+
+case 70:
+	cursorType.graphic = 3913;
+	cursorType.hotspotx = 5;
+	break;
+
+case 71:
+	cursorType.graphic = 3916;
+	cursorType.hotspotx = 5;
+	break;
+
+case 72:
+	cursorType.graphic = 3917;
+	cursorType.hotspotx = 5;
+	break;
+
+case 73:
+	cursorType.graphic = 3915;
+	cursorType.hotspotx = 5;
+	break;
+
+case 74:
+	cursorType.graphic = 3918;
+	cursorType.hotspotx = 5;
+	break;
+
+case 75:
+	cursorType.graphic = 3925;
+	cursorType.hotspotx = 5;
+	break;
+
+case 76:
+	cursorType.graphic = 3926;
+	cursorType.hotspotx = 5;
+	break;
+
+case 77:
+	cursorType.graphic = 3927;
+	cursorType.hotspotx = 5;
+	break;
+
+case 78:
+	cursorType.graphic = 3928;
+	cursorType.hotspotx = 5;
+	break;
+
+case 79:
+	cursorType.graphic = 3942;
+	cursorType.hotspotx = 5;
+	break;
+
+case 80:
+	cursorType.graphic = 3931;
+	cursorType.hotspotx = 5;
+	break;
+
+case 81:
+	cursorType.graphic = 3930;
+	cursorType.hotspotx = 5;
+	break;
+
+case 82:
+	cursorType.graphic = 3929;
+	cursorType.hotspotx = 5;
+	break;
+
+case 83:
+	cursorType.graphic = 3904;
+	cursorType.hotspotx = 5;
+	break;
+
+case 84:
+	cursorType.graphic = 3905;
+	cursorType.hotspotx = 5;
+	break;
+
+case 85:
+	cursorType.graphic = 3906;
+	cursorType.hotspotx = 5;
+	break;
+
+case 86:
+	cursorType.graphic = 2067;
+	cursorType.hotspotx = 5;
+	break;
+
+case 87:
+	cursorType.graphic = 3936;
+	cursorType.hotspotx = 5;
+	break;
+
+case 88:
+	cursorType.graphic = 3911;
+	cursorType.hotspotx = 5;
+	break;
+
+case 89:
+	cursorType.graphic = 3924;
+	cursorType.hotspotx = 5;
+	break;
+
+case 90:
+	cursorType.graphic = 3921;
+	cursorType.hotspotx = 5;
+	break;
+
+case 91:
+	cursorType.graphic = 3970;
+	cursorType.hotspotx = 5;
+	break;
+
+case 92:
+	cursorType.graphic = 3920;
+	cursorType.hotspotx = 5;
+	break;
+
+case 93:
+	cursorType.graphic = 3908;
+	cursorType.hotspotx = 5;
+	break;
+
+case 94:
+	cursorType.graphic = 3909;
+	cursorType.hotspotx = 5;
+	break;
+
+case 95:
+	cursorType.graphic = 3919;
+	cursorType.hotspotx = 5;
+	break;
+
+case 96:
+	cursorType.graphic = 3923;
+	cursorType.hotspotx = 5;
+	break;
+
+case 97:
+	cursorType.graphic = 3910;
+	cursorType.hotspotx = 5;
+	break;
+
+case 98:
+	cursorType.graphic = 3932;
+	cursorType.hotspotx = 5;
+	break;
+
+case 99:
+	cursorType.graphic = 3993;
+	cursorType.hotspotx = 5;
+	break;
+
+case 100:
+	cursorType.graphic = 3934;
+	cursorType.hotspotx = 5;
+	break;
+
+case 101:
+	cursorType.graphic = 3933;
+	cursorType.hotspotx = 5;
+	break;
+
+case 102:
+	cursorType.graphic = 3972;
+	cursorType.hotspotx = 5;
+	break;
+
+case 103:
+	cursorType.graphic = 3981;
+	cursorType.hotspotx = 5;
+	break;
+
+case 104:
+	cursorType.graphic = 3965;
+	cursorType.hotspotx = 5;
+	break;
+
+case 105:
+	cursorType.graphic = 3967;
+	cursorType.hotspotx = 5;
+	break;
+
+case 106:
+	cursorType.graphic = 3963;
+	cursorType.hotspotx = 5;
+	break;
+
+case 107:
+	cursorType.graphic = 3964;
+	cursorType.hotspotx = 5;
+	break;
+
+case 108:
+	cursorType.graphic = 3966;
+	cursorType.hotspotx = 5;
+	break;
+
+case 109:
+	cursorType.graphic = 3968;
+	cursorType.hotspotx = 5;
+	break;
+
+case 110:
+	cursorType.graphic = 3969;
+	cursorType.hotspotx = 5;
+	break;
+
+case 111:
+	cursorType.graphic = 3935;
+	cursorType.hotspotx = 5;
+	break;
+
+case 112:
+	cursorType.graphic = 3978;
+	cursorType.hotspotx = 5;
+	break;
+
+case 113:
+	cursorType.graphic = 3979;
+	cursorType.hotspotx = 5;
+	break;
+
+case 114:
+	cursorType.graphic = 3977;
+	cursorType.hotspotx = 5;
+	break;
+
+case 115:
+	cursorType.graphic = 3903;
+	cursorType.hotspotx = 5;
+	break;
+
+case 116:
+	cursorType.graphic = 3946;
+	cursorType.hotspotx = 5;
+	break;
+
+case 117:
+	cursorType.graphic = 3947;
+	cursorType.hotspotx = 5;
+	break;
+
+case 118:
+	cursorType.graphic = 3948;
+	cursorType.hotspotx = 5;
+	break;
+
+case 119:
+	cursorType.graphic = 3949;
+	cursorType.hotspotx = 5;
+	break;
+
+case 120:
+	cursorType.graphic = 3950;
+	cursorType.hotspotx = 5;
+	break;
+
+case 121:
+	cursorType.graphic = 3951;
+	cursorType.hotspotx = 5;
+	break;
+
+case 122:
+	cursorType.graphic = 3962;
+	cursorType.hotspotx = 5;
+	break;
+
+case 123:
+	cursorType.graphic = 3983;
+	cursorType.hotspotx = 5;
+	break;
+
+case 124:
+	cursorType.graphic = 3953;
+	cursorType.hotspotx = 5;
+	break;
+
+case 125:
+	cursorType.graphic = 3954;
+	cursorType.hotspotx = 5;
+	break;
+
+case 126:
+	cursorType.graphic = 3955;
+	cursorType.hotspotx = 5;
+	break;
+
+case 127:
+	cursorType.graphic = 3956;
+	cursorType.hotspotx = 5;
+	break;
+
+case 128:
+	cursorType.graphic = 3957;
+	cursorType.hotspotx = 5;
+	break;
+
+case 129:
+	cursorType.graphic = 3958;
+	cursorType.hotspotx = 5;
+	break;
+
+case 130:
+	cursorType.graphic = 3959;
+	cursorType.hotspotx = 5;
+	break;
+
+case 131:
+	cursorType.graphic = 3960;
+	cursorType.hotspotx = 5;
+	break;
+
+case 132:
+	cursorType.graphic = 3939;
+	cursorType.hotspotx = 5;
+	break;
+
+case 133:
+	cursorType.graphic = 3940;
+	cursorType.hotspotx = 5;
+	break;
+
+case 134:
+	cursorType.graphic = 3938;
+	cursorType.hotspotx = 5;
+	break;
+
+case 135:
+	cursorType.graphic = 3937;
+	cursorType.hotspotx = 5;
+	break;
+
+case 136:
+	cursorType.graphic = 3944;
+	cursorType.hotspotx = 5;
+	break;
+
+case 137:
+	cursorType.graphic = 3945;
+	cursorType.hotspotx = 5;
+	break;
+
+case 138:
+	cursorType.graphic = 3988;
+	cursorType.hotspotx = 5;
+	break;
+
+case 139:
+	cursorType.graphic = 3971;
+	cursorType.hotspotx = 5;
+	break;
+
+case 140:
+	cursorType.graphic = 3961;
+	cursorType.hotspotx = 5;
+	break;
+
+case 141:
+	cursorType.graphic = 3943;
+	cursorType.hotspotx = 5;
+	break;
+
+case 142:
+	cursorType.graphic = 3982;
+	cursorType.hotspotx = 5;
+	break;
+
+case 143:
+	cursorType.graphic = 2130;
+	cursorType.hotspotx = 5;
+	break;
+
+case 144:
+	cursorType.graphic = 2160;
+	cursorType.hotspotx = 5;
+	break;
+
+case 145:
+	cursorType.graphic = 2162;
+	cursorType.hotspotx = 5;
+	break;
+
+case 146:
+	cursorType.graphic = 2159;
+	cursorType.hotspotx = 6;
+	break;
+
+case 147:
+	cursorType.graphic = 2161;
+	cursorType.hotspotx = 5;
+	break;
+
+case 148:
+	cursorType.graphic = 4028;
+	cursorType.hotspotx = 5;
+	break;
+
+case 149:
+	cursorType.graphic = 2314;
+	cursorType.hotspotx = 11;
+	cursorType.hotspoty = 4;
+	break;
+
+case 150:
+	cursorType.graphic = 2151;
+	cursorType.hotspotx = 5;
+	break;
+
+case 151:
+	cursorType.graphic = 3912;
+	cursorType.hotspotx = 5;
+	break;
+
+case 152:
+	cursorType.graphic = 3973;
+	cursorType.hotspotx = 5;
+	break;
+
+case 153:
+	cursorType.graphic = 3974;
+	cursorType.hotspotx = 5;
+	break;
+
+case 154:
+	cursorType.graphic = 3975;
+	cursorType.hotspotx = 5;
+	break;
+
+case 155:
+	cursorType.graphic = 3994;
+	cursorType.hotspotx = 5;
+	break;
+
+case 156:
+	cursorType.graphic = 3834;
+	cursorType.hotspotx = 5;
+	break;
+
+case 157:
+	cursorType.graphic = 2065;
+	cursorType.hotspotx = 5;
+	break;
+
+case 158:
+	cursorType.graphic = 2066;
+	cursorType.hotspotx = 5;
+	break;
+
+case 159:
+	cursorType.graphic = 3294;
+	cursorType.hotspotx = 5;
+	break;
+
+case 160:
+	cursorType.graphic = 3295;
+	cursorType.hotspotx = 5;
+	break;
+
+case 161:
+	cursorType.graphic = 3296;
+	cursorType.hotspotx = 5;
+	break;
+
+case 162:
+	cursorType.graphic = 3297;
+	cursorType.hotspotx = 5;
+	break;
+
+case 163:
+	cursorType.graphic = 3298;
+	cursorType.hotspotx = 5;
+	break;
+
+case 164:
+	cursorType.graphic = 3299;
+	cursorType.hotspotx = 5;
+	break;
+
+case 165:
+	cursorType.graphic = 3300;
+	cursorType.hotspotx = 5;
+	break;
+
+case 166:
+	cursorType.graphic = 3301;
+	cursorType.hotspotx = 5;
+	break;
+
+case 167:
+	cursorType.graphic = 3855;
+	cursorType.hotspotx = 5;
+	break;
+
+case 168:
+	cursorType.graphic = 3851;
+	cursorType.hotspotx = 5;
+	break;
+
+case 169:
+	cursorType.graphic = 3841;
+	cursorType.hotspotx = 5;
+	break;
+
+case 170:
+	cursorType.graphic = 3833;
+	cursorType.hotspotx = 5;
+	break;
+
+case 171:
+	cursorType.graphic = 3852;
+	cursorType.hotspotx = 5;
+	break;
+
+case 172:
+	cursorType.graphic = 4017;
+	cursorType.hotspotx = 5;
+	break;
+
+case 173:
+	cursorType.graphic = 4006;
+	cursorType.hotspotx = 5;
+	break;
+
+case 174:
+	cursorType.graphic = 3853;
+	cursorType.hotspotx = 5;
+	break;
+
+case 175:
+	cursorType.graphic = 2159;
+	cursorType.hotspotx = 6;
+	break;
+
+case 176:
+	cursorType.graphic = 6539;
+	cursorType.hotspotx = 6;
+	break;
+
+case 177:
+	cursorType.graphic = 3849;
+	cursorType.hotspotx = 5;
+	break;
+
+case 178:
+	cursorType.graphic = 7607;
+	cursorType.hotspotx = 6;
+	break;
+
+case 179:
+	cursorType.graphic = 7608;
+	cursorType.hotspotx = 6;
+	break;
+
+case 180:
+	cursorType.graphic = 7609;
+	cursorType.hotspotx = 6;
+	break;
+
+case 181:
+	cursorType.graphic = 3820;
+	cursorType.hotspotx = 5;
+	break;
+
+case 182:
+	cursorType.graphic = 9130;
+	cursorType.hotspotx = 5;
+	break;
+
+case 183:
+	cursorType.graphic = 4014;
+	cursorType.hotspotx = 5;
+	break;
+
+case 184:
+	cursorType.graphic = 12114;
+	cursorType.hotspotx = 5;
+	break;
+
+case 185:
+	cursorType.graphic = 14926;
+	cursorType.hotspotx = 5;
+	break;
+
+case 186:
+	cursorType.graphic = 19738;
+	break;
+
+case 187:
+	cursorType.graphic = 19737;
+	break;
+
+case 188:
+	cursorType.graphic = 19741;
+	break;
+
+case 189:
+	cursorType.graphic = 19740;
+	break;
+
+case 190:
+	cursorType.graphic = 18409;
+	cursorType.hotspotx = 12;
+	cursorType.hotspoty = 12;
+	break;
+
+case 191:
+	cursorType.graphic = 18410;
+	cursorType.hotspotx = 12;
+	cursorType.hotspoty = 12;
+	break;
+
+case 192:
+	cursorType.graphic = 18413;
+	cursorType.hotspotx = 12;
+	cursorType.hotspoty = 12;
+	break;
+
+case 193:
+	cursorType.graphic = 18412;
+	cursorType.hotspotx = 12;
+	cursorType.hotspoty = 12;
+	break;
+
+case 194:
+	cursorType.graphic = 18411;
+	cursorType.hotspotx = 12;
+	cursorType.hotspoty = 12;
+	break;
+
+case 195:
+	cursorType.graphic = 4009;
+	cursorType.hotspotx = 5;
+	break;
+
+case 196:
+	cursorType.graphic = 4018;
+	cursorType.hotspotx = 5;
+	break;
+
+case 197:
+	cursorType.graphic = 4023;
+	cursorType.hotspotx = 5;
+	break;
+
+case 198:
+	cursorType.graphic = 4030;
+	cursorType.hotspotx = 5;
+	break;
+
+case 199:
+	cursorType.graphic = 2099;
+	cursorType.hotspotx = 5;
+	break;
+
+case 200:
+	cursorType.graphic = 20419;
+	cursorType.hotspotx = 5;
+	break;
+
+case 201:
+	cursorType.graphic = 21152;
+	cursorType.hotspotx = 5;
+	break;
+
+case 202:
+	cursorType.graphic = 21153;
+	cursorType.hotspotx = 5;
+	break;
+
+case 203:
+	cursorType.graphic = 21154;
+	cursorType.hotspotx = 5;
+	break;
+
+case 204:
+	cursorType.graphic = 4012;
+	cursorType.hotspotx = 5;
+	break;
+
+case 205:
+	cursorType.graphic = 3832;
+	cursorType.hotspotx = 5;
+	break;

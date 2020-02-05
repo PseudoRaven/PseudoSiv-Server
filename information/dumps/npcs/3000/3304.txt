@@ -1,0 +1,10 @@
+id=3304
+name=Fairy Godfather
+description=I'm gonna make him an offer he can't refuse.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Orks Rift entrance"]
+aggressive=false
+members=true

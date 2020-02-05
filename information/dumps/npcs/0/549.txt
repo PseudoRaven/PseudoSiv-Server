@@ -1,0 +1,10 @@
+id=549
+name=Horvik
+description=The man with the armour.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Varrock","RuneScape Surface"]
+aggressive=false
+members=false

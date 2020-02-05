@@ -1,0 +1,10 @@
+id=5884
+name=Dwarf
+description=A dwarf from Keldagrim.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim Station"]
+aggressive=false
+members=true

@@ -1,0 +1,17 @@
+id=17026
+name=Enakhra
+description=A dangerous and vindictive Mahjarrat.
+size=2
+xp=2724.1
+lifepoints=45000
+level=98
+attack=70
+defence=70
+ranged=70
+magic=70
+animations={range:19977}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

@@ -1,0 +1,17 @@
+id=14416
+name=Vorago
+description=A powerful entity that is one with the earth.
+size=5
+xp=20000
+lifepoints=250000
+level=10000
+attack=90
+defence=90
+ranged=90
+magic=90
+animations={range:25435,death:20365,attack:25435}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

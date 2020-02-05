@@ -1,0 +1,10 @@
+id=16851
+name=Evil Bob
+description=Hey, it's Bob the Cat! Or is it?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Island"]
+aggressive=false
+members=false

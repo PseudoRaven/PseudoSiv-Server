@@ -1,0 +1,10 @@
+id=7825
+name=50 Ships Mufassah
+description=How novel - a pirate with a leg injury that does not involve a wooden peg.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

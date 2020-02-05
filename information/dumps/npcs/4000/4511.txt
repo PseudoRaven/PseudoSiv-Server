@@ -1,0 +1,10 @@
+id=4511
+name=Oneiromancer
+description=Spiritual leader of the Moonclan.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

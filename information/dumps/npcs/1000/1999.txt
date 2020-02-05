@@ -1,0 +1,12 @@
+id=1999
+name=Plague cow
+description=I don't fancy eating any part of this.
+size=2
+xp=37.3
+animations={}
+attackable=true
+poisonous=false
+weakness="Air"
+slayercat=Cows
+areas=["RuneScape Surface"]
+aggressive=false

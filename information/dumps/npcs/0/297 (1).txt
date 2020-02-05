@@ -1,0 +1,17 @@
+id=297
+name=Guard
+description=He tries to keep order around here.
+size=1
+xp=51.9
+lifepoints=1250
+level=35
+attack=25
+defence=25
+ranged=1
+magic=1
+animations={death:7220,attack:7218}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["RuneScape Surface"]
+aggressive=false

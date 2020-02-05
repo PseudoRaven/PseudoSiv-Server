@@ -1,0 +1,10 @@
+id=20788
+name=Meg
+description=For the first four years of her life, her parents thought she was a housecat.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["New Varrock"]
+aggressive=false
+members=false

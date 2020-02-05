@@ -1,0 +1,10 @@
+id=994
+name=Niloof
+description=A strong and hardy dwarf.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Beneath Iban's lair"]
+aggressive=false
+members=false

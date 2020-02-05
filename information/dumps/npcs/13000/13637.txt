@@ -1,0 +1,10 @@
+id=13637
+name=Snowman
+description=A traditional snowman.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Easter 2011"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=6268
+name=Jogre
+description=Green and aggressive.
+size=2
+xp=566.4
+lifepoints=9300
+level=86
+attack=62
+defence=62
+ranged=1
+magic=1
+animations={death:17506,attack:17505}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=["God Wars Dungeon"]
+aggressive=true

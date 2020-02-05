@@ -1,0 +1,10 @@
+id=1360
+name=Banker
+description=He seems happy to see you.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

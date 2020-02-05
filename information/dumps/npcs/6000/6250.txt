@@ -1,0 +1,17 @@
+id=6250
+name=Growler
+description=Defender of the faithful.
+size=3
+xp=729
+lifepoints=7500
+level=102
+attack=1
+defence=73
+ranged=1
+magic=73
+animations={death:17421,attack:17420}
+attackable=true
+poisonous=false
+weakness="Bolt"
+areas=[]
+aggressive=true

@@ -1,0 +1,17 @@
+id=199
+name=Gunthor the Brave
+description=A mighty warrior!
+size=1
+xp=61.5
+lifepoints=1450
+level=40
+attack=29
+defence=29
+ranged=1
+magic=1
+animations={death:836,attack:395}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=[]
+aggressive=false

@@ -1,0 +1,17 @@
+id=13595
+name=Sado-machinist
+description=You'll have to fight him off now!
+size=1
+xp=125.7
+lifepoints=2250
+level=63
+attack=45
+defence=45
+ranged=0
+magic=0
+animations={death:5658,attack:5643}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=true

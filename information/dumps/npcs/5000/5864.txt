@@ -1,0 +1,10 @@
+id=5864
+name=Builder
+description=A worker on the train link.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dorgesh-Kaan Station construction site"]
+aggressive=false
+members=true

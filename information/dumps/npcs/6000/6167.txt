@@ -1,0 +1,10 @@
+id=6167
+name=Sir Gawain
+description=One of the Knights of the Round Table.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Jail"]
+aggressive=false
+members=true

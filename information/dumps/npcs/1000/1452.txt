@@ -1,0 +1,10 @@
+id=1452
+name=Monkey Child
+description=An adorable little monkey child.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

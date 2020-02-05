@@ -1,0 +1,17 @@
+id=12812
+name=Kal'Ger the Warmonger
+description=The leader and namesake of the Kal'Ger.
+size=5
+xp=1700.1
+lifepoints=12000
+level=126
+attack=90
+defence=90
+ranged=90
+magic=90
+animations={death:16988,attack:19568}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

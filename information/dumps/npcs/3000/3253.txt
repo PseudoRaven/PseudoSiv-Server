@@ -1,0 +1,17 @@
+id=3253
+name=Barbarian
+description=Minarch, a barbarian who likes his beer.
+size=1
+xp=46.5
+lifepoints=1100
+level=30
+attack=22
+defence=22
+ranged=1
+magic=1
+animations={death:836,attack:401}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=["RuneScape Surface"]
+aggressive=false

@@ -1,0 +1,17 @@
+id=12508
+name=World-gorger Shukarhazh
+description=The gaze of this seeker dissolves your innards.
+size=5
+xp=1700.1
+lifepoints=12000
+level=126
+attack=90
+defence=90
+ranged=1
+magic=90
+animations={range:14893,death:14891,attack:14892}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

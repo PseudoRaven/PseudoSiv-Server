@@ -1,0 +1,10 @@
+id=5037
+name=Major Defend
+description=A barbarian army teacher.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Barbarian Assault"]
+aggressive=false
+members=true

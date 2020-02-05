@@ -1,0 +1,10 @@
+id=14862
+name=Alfred Stonemason
+description=Keeping a roof over Burthorpe's head.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

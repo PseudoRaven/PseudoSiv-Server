@@ -1,0 +1,16 @@
+id=20746
+name=Elite Wight
+description=Armed, and nowhere near as dead as it should be.
+size=1
+xp=3551.4
+lifepoints=15000
+level=138
+attack=99
+defence=99
+ranged=1
+magic=1
+animations={death:25958,attack:18241}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

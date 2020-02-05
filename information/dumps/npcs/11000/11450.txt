@@ -1,0 +1,16 @@
+id=11450
+name=Ballista
+description=Fires deadly projectiles.
+size=2
+xp=834.1
+lifepoints=10000
+level=0
+attack=1
+defence=5
+ranged=1
+magic=1
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=true

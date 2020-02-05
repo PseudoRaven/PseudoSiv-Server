@@ -1,0 +1,10 @@
+id=15411
+name=Astral esshound
+description=An esshound imbued with astral energy.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["The Runespan"]
+aggressive=false
+members=false

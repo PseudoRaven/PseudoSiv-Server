@@ -1,0 +1,17 @@
+id=5666
+name=Barrelchest
+description=It's trying to mash you flat! Less examine, more fight!
+size=3
+xp=349.8
+lifepoints=10000
+level=72
+attack=52
+defence=52
+ranged=52
+magic=52
+animations={death:5898,attack:5895}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

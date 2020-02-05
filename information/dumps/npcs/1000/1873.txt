@@ -1,0 +1,10 @@
+id=1873
+name=Ali the Camel
+description=A foul tempered ugly lumpy yellow horse prone to spitting.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

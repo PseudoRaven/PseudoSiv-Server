@@ -1,0 +1,10 @@
+id=2949
+name=Jimmy Dazzler
+description=Looks rich like an actor of sorts.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

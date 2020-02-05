@@ -1,0 +1,17 @@
+id=10196
+name=Necromancer
+description=A seemingly crazy necromancer.
+size=1
+xp=111
+lifepoints=4200
+level=29
+attack=1
+defence=21
+ranged=1
+magic=21
+animations={range:711,death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=[]
+aggressive=true

@@ -1,0 +1,10 @@
+id=5759
+name=Cave goblin
+description=One of the many citizens of Dorgesh-Kaan.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dorgesh-Kaan"]
+aggressive=true
+members=true

@@ -1,0 +1,11 @@
+id=1015
+name=Iron pickaxe
+description=Useful for hitting rocks.
+xp=79.8
+animations={}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["Haunted mine"]
+aggressive=true
+members=false

@@ -1,0 +1,10 @@
+id=5781
+name=Miltog
+description=Sells lamps to light your way in dark caves.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dorgesh-Kaan"]
+aggressive=true
+members=true

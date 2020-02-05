@@ -1,0 +1,17 @@
+id=6143
+name=Portal
+description=Not somewhere I want to go...
+size=3
+xp=1064.2
+lifepoints=50000
+level=0
+attack=1
+defence=60
+ranged=0
+magic=1
+animations={death:3930}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=false

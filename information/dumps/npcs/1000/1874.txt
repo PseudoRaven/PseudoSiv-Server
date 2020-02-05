@@ -1,0 +1,17 @@
+id=1874
+name=Desert snake
+description=A slithering serpent.
+size=1
+xp=26.7
+lifepoints=300
+level=8
+attack=4
+defence=6
+ranged=6
+magic=0
+animations={death:278,attack:275}
+attackable=true
+poisonous=false
+weakness="Slashing"
+areas=["RuneScape Surface","Genie's Cave"]
+aggressive=false

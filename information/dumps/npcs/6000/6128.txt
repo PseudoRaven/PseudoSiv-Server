@@ -1,0 +1,10 @@
+id=6128
+name=Smellytoes
+description=Likes drink a little too much.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

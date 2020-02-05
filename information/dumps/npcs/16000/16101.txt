@@ -1,0 +1,10 @@
+id=16101
+name=Will Dee
+description=Has slain many an adventurer in his forays into the Wilderness.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

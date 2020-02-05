@@ -1,0 +1,10 @@
+id=2618
+name=TzHaar-Mej-Kah
+description=This TzHaar-Mej runs the Fight Pit.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["TzHaar City"]
+aggressive=false
+members=false

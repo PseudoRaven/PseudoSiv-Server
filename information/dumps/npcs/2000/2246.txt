@@ -1,0 +1,17 @@
+id=2246
+name=Khazard trooper
+description=It's one of General Khazard's warriors.
+size=1
+xp=69.6
+lifepoints=1600
+level=44
+attack=32
+defence=32
+ranged=1
+magic=1
+animations={death:836,attack:429}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=["RuneScape Surface"]
+aggressive=false

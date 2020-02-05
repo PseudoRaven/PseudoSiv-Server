@@ -1,0 +1,17 @@
+id=2015
+name=Mummy
+description=This mummy looks like it means business!
+size=1
+xp=159.3
+lifepoints=2500
+level=70
+attack=50
+defence=50
+ranged=0
+magic=0
+animations={death:26109,attack:26108}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["Pyramid"]
+aggressive=true

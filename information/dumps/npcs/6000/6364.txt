@@ -1,0 +1,17 @@
+id=6364
+name=Zamorak warrior
+description=A warrior of Zamorak.
+size=1
+xp=138.3
+lifepoints=2350
+level=65
+attack=47
+defence=47
+ranged=1
+magic=1
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["Ourania Altar","Chaos tunnels"]
+aggressive=true

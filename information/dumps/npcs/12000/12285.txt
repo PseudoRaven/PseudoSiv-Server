@@ -1,0 +1,10 @@
+id=12285
+name=Valluta
+description=The fabled Valluta?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Valluta's den"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=2830
+name=Captain Donnie
+description=I wonder if it was all the 'rum' that pickled him.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Braindeath Island"]
+aggressive=false
+members=true

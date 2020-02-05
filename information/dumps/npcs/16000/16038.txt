@@ -1,0 +1,17 @@
+id=16038
+name=Ranged training dummy
+description=Weak against stabbing.
+size=1
+xp=2502.4
+lifepoints=10000
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={attack:15802}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=[]
+aggressive=false

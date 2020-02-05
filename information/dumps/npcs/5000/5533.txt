@@ -1,0 +1,10 @@
+id=5533
+name=Autumn Elemental
+description=An autumn elemental.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Sorceress' garden"]
+aggressive=true
+members=false

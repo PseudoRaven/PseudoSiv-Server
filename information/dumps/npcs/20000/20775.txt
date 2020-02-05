@@ -1,0 +1,10 @@
+id=20775
+name=Zaff
+description=Sells superior magical weapons and armour.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["New Varrock"]
+aggressive=false
+members=false

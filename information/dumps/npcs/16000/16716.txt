@@ -1,0 +1,17 @@
+id=16716
+name=Mourner
+description=A mourner, or plague healer.
+size=1
+xp=50.4
+lifepoints=1200
+level=33
+attack=24
+defence=24
+ranged=0
+magic=0
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=true

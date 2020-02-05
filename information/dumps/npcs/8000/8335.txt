@@ -1,0 +1,17 @@
+id=8335
+name=Mercenary mage
+description=A spellcasting mercenary who works for the highest bidder.
+size=1
+xp=159.3
+lifepoints=2500
+level=70
+attack=1
+defence=50
+ranged=1
+magic=50
+animations={death:10800,attack:10795}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=[]
+aggressive=true

@@ -1,0 +1,10 @@
+id=5798
+name=Lurgon
+description=Oversees the market.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dorgesh-Kaan"]
+aggressive=true
+members=true

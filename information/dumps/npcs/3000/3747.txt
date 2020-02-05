@@ -1,0 +1,17 @@
+id=3747
+name=Spinner
+description=Ew!
+size=1
+xp=96.7
+lifepoints=3000
+level=42
+attack=30
+defence=30
+ranged=1
+magic=1
+animations={death:3910,attack:3908}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=true

@@ -1,0 +1,17 @@
+id=5928
+name=Thief
+description=Known for her light-fingered qualities.
+size=1
+xp=42.3
+lifepoints=850
+level=11
+attack=9
+defence=8
+ranged=0
+magic=0
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["Varrock","RuneScape Surface","Misthalin Underground"]
+aggressive=false

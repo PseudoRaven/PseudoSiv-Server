@@ -1,0 +1,10 @@
+id=483
+name=Tracker gnome 3
+description=It's a gnome who specialises in covert operations.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

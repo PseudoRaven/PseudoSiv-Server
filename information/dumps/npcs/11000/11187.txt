@@ -1,0 +1,17 @@
+id=11187
+name=Cub worldbearer
+description=Trained from birth to relieve you of your burdens. (Tier 1)
+size=1
+xp=54.9
+lifepoints=1875
+level=21
+attack=15
+defence=15
+ranged=15
+magic=15
+animations={range:13617,death:13683,attack:13617}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

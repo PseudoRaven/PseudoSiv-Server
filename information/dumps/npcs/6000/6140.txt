@@ -1,0 +1,10 @@
+id=6140
+name=Squire (Intermediate)
+description=A squire of balance.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=2991
+name=Rauborn
+description=Barman.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Rat pit"]
+aggressive=false
+members=true

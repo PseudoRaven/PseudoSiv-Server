@@ -1,0 +1,17 @@
+id=1828
+name=Giant frog
+description=It didn't get that big eating flies.
+size=1
+xp=69.6
+lifepoints=1600
+level=44
+attack=1
+defence=32
+ranged=32
+magic=1
+animations={death:1795,attack:1793}
+attackable=true
+poisonous=false
+weakness="Slashing"
+areas=["Misthalin Underground"]
+aggressive=false

@@ -1,0 +1,10 @@
+id=4611
+name=Pig
+description=Swine.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Draynor"]
+aggressive=false
+members=false

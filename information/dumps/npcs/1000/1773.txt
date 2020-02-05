@@ -1,0 +1,10 @@
+id=1773
+name=Frog
+description=A frog.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Cave"]
+aggressive=false
+members=false

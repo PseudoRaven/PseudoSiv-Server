@@ -1,0 +1,10 @@
+id=284
+name=Doric
+description=A dwarf smith. Quite handy with a hammer.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

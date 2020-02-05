@@ -1,0 +1,17 @@
+id=478
+name=Khazard commander
+description=It's one of General Khazard's commanders.
+size=1
+xp=79.8
+lifepoints=1750
+level=49
+attack=35
+defence=35
+ranged=0
+magic=0
+animations={death:836,attack:428}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=["RuneScape Surface"]
+aggressive=false

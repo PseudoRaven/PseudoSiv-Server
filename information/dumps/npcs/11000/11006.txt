@@ -1,0 +1,10 @@
+id=11006
+name=Magic construct
+description=Created to perform menial tasks.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dungeoneering"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=8646
+name=River troll
+description=Likes fish...hates people.
+size=1
+xp=3.2
+lifepoints=1700
+level=0
+attack=1
+defence=130
+ranged=1
+magic=1
+animations={death:13785,attack:13791}
+attackable=true
+poisonous=false
+slayercat=Trolls
+areas=[]
+aggressive=false

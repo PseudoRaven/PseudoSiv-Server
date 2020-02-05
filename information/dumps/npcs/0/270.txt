@@ -1,0 +1,17 @@
+id=270
+name=Khazard ogre
+description=Khazard's strongest ogre warrior.
+size=2
+xp=132
+lifepoints=2300
+level=64
+attack=46
+defence=46
+ranged=0
+magic=0
+animations={death:8576,attack:2100}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=true

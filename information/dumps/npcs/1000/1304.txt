@@ -1,0 +1,10 @@
+id=1304
+name=Sailor
+description=He's strong to the finish, because he eats cabbage.
+xp=0.9
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

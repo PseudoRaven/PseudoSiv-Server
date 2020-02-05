@@ -1,0 +1,17 @@
+id=16686
+name=Saradominist initiate
+description=A mace-wielding headache all around.
+size=1
+xp=69.6
+lifepoints=1600
+level=44
+attack=32
+defence=32
+ranged=1
+magic=1
+animations={death:836,attack:401}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=true

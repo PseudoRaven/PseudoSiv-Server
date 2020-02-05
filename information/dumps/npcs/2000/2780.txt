@@ -1,0 +1,17 @@
+id=2780
+name=Solus Dellagar
+description=A powerful warrior mage.
+size=1
+xp=95.2
+lifepoints=3400
+level=0
+attack=17
+defence=17
+ranged=0
+magic=0
+animations={death:836,attack:414}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=false

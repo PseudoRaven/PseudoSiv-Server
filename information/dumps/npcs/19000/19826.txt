@@ -1,0 +1,10 @@
+id=19826
+name=Cadarn ranger
+description=An elven archer.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Prifddinas"]
+aggressive=false
+members=false

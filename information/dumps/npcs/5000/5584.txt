@@ -1,0 +1,17 @@
+id=5584
+name=Bulky warrior
+description=Strong, but not as strong as Thok.
+size=2
+xp=0
+lifepoints=3000
+level=114
+attack=95
+defence=70
+ranged=95
+magic=95
+animations={death:13702,attack:13703}
+attackable=true
+poisonous=false
+weakness="None"
+areas=["Dungeon"]
+aggressive=true

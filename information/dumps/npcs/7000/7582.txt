@@ -1,0 +1,10 @@
+id=7582
+name=KGP Interrogator
+description=He likes inflicting pain.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Miscellania Underground"]
+aggressive=false
+members=false

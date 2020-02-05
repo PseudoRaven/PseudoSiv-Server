@@ -1,0 +1,17 @@
+id=9965
+name=Astea Frostweb
+description=A summoner using a form of ancient magic.
+size=1
+xp=136.9
+lifepoints=500
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={range:711,death:836,attack:414}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

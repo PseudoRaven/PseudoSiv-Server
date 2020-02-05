@@ -1,0 +1,17 @@
+id=6381
+name=Giant wasp
+description=That stinger has to hurt...
+size=1
+xp=256.8
+lifepoints=3000
+level=84
+attack=60
+defence=60
+ranged=0
+magic=0
+animations={death:7244,attack:7242}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface"]
+aggressive=true

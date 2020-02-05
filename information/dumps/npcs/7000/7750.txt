@@ -1,0 +1,10 @@
+id=7750
+name=TzHaar-Ket-Rok
+description=It guards the mine entrance.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["TzHaar City","Tzhaar Caves"]
+aggressive=false
+members=true

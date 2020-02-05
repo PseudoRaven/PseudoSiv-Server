@@ -1,0 +1,10 @@
+id=2809
+name=Al the Camel
+description=A camel who has the soul of a poet.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

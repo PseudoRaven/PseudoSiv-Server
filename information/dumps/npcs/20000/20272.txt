@@ -1,0 +1,10 @@
+id=20272
+name=Lady Hefin
+description=This elf has an aura of serenity.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Prifddinas"]
+aggressive=false
+members=false

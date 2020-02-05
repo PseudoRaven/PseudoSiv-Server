@@ -1,0 +1,10 @@
+id=7131
+name=Farmer Blinkin
+description=The head farmer, apparently.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Field"]
+aggressive=false
+members=true

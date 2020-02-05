@@ -1,0 +1,17 @@
+id=16696
+name=Bandosian shaman
+description=He is expounding the word of the Big High War God.
+size=1
+xp=361.5
+lifepoints=3350
+level=93
+attack=1
+defence=67
+ranged=1
+magic=67
+animations={range:17358,death:6182}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=true

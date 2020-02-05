@@ -1,0 +1,17 @@
+id=2712
+name=Air wizard
+description=At least he looks solid enough to fight.
+size=1
+xp=33.9
+lifepoints=600
+level=16
+attack=1
+defence=12
+ranged=1
+magic=12
+animations={death:2553,attack:414}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=["RuneScape Surface"]
+aggressive=false

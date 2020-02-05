@@ -1,0 +1,10 @@
+id=3823
+name=Franklin Caranos
+description=Engineer for the Piscatoris Fishing Colony.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

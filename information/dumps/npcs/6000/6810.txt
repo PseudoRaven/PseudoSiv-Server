@@ -1,0 +1,17 @@
+id=6810
+name=Karam. overlord
+description=Kneel before squid!
+size=1
+xp=238.9
+lifepoints=6800
+level=69
+attack=53
+defence=47
+ranged=53
+magic=53
+animations={range:7972,death:7964,attack:7963}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

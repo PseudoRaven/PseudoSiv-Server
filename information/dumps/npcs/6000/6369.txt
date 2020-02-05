@@ -1,0 +1,17 @@
+id=6369
+name=Cave lizard
+description=A cave dweller.
+size=1
+xp=138.3
+lifepoints=2350
+level=65
+attack=1
+defence=47
+ranged=47
+magic=1
+animations={death:7205,attack:7207}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=["Ourania Altar"]
+aggressive=false

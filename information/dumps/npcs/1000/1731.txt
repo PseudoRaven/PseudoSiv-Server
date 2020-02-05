@@ -1,0 +1,17 @@
+id=1731
+name=Sigmund
+description=Former adviser to the Duke of Lumbridge.
+size=1
+xp=207.4
+lifepoints=4700
+level=65
+attack=47
+defence=47
+ranged=47
+magic=47
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

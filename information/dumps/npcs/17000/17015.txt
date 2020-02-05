@@ -1,0 +1,17 @@
+id=17015
+name=Decaying portal
+description=The stench coming from this is over-powering.
+size=1
+xp=36.6
+lifepoints=1500
+level=0
+attack=1
+defence=30
+ranged=1
+magic=1
+animations={}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

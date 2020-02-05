@@ -1,0 +1,17 @@
+id=11564
+name=Pit rock protector
+description=A being of ore and minerals.
+size=2
+xp=0
+lifepoints=3950
+level=110
+attack=79
+defence=79
+ranged=1
+magic=1
+animations={death:8844,attack:8843}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=true

@@ -1,0 +1,17 @@
+id=16268
+name=Tz-Kil
+description=This scavenger rides the lava flow to take its prey by surprise.
+size=1
+xp=510.9
+lifepoints=3700
+level=103
+attack=55
+defence=74
+ranged=0
+magic=74
+animations={death:16142}
+attackable=true
+poisonous=false
+weakness="Bolt"
+areas=[]
+aggressive=true

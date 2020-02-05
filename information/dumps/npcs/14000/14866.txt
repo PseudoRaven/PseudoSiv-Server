@@ -1,0 +1,10 @@
+id=14866
+name=Magestix
+description=Has unmatched affinity with the spirits.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

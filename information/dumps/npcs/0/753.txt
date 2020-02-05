@@ -1,0 +1,17 @@
+id=753
+name=Melzar the Mad
+description=He looks totally insane!
+size=1
+xp=58.5
+lifepoints=1400
+level=39
+attack=28
+defence=28
+ranged=28
+magic=28
+animations={death:836,attack:423}
+attackable=true
+poisonous=false
+weakness="None"
+areas=["Melzar's Maze"]
+aggressive=false

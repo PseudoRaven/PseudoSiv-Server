@@ -1,0 +1,10 @@
+id=15002
+name=Farmer
+description=Completely ignoring the hosepipe ban.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

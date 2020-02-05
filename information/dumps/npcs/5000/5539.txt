@@ -1,0 +1,10 @@
+id=5539
+name=Spring Elemental
+description=A spring elemental.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Sorceress' garden"]
+aggressive=true
+members=false

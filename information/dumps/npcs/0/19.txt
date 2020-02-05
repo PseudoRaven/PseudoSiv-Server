@@ -1,0 +1,17 @@
+id=19
+name=White Knight
+description=Shiny armour!
+size=1
+xp=51.9
+lifepoints=1250
+level=35
+attack=25
+defence=25
+ranged=1
+magic=1
+animations={death:836,attack:7042}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["RuneScape Surface"]
+aggressive=false

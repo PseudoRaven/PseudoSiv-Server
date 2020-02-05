@@ -1,0 +1,10 @@
+id=18482
+name=Akthanakos
+description=A Zarosian Mahjarrat of the desert.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Armadyl's Citadel"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=13457
+name=Ancient ranger
+description=A dangerous ranger.
+size=1
+xp=510.9
+lifepoints=3700
+level=103
+attack=1
+defence=74
+ranged=74
+magic=1
+animations={range:14608,death:14607,attack:14608}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=["God Wars Dungeon"]
+aggressive=true

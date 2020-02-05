@@ -1,0 +1,10 @@
+id=1713
+name=H.A.M. Deacon
+description=A deacon in the Humans Against Monsters group. A rather enthusiastic chap.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Misthalin Underground"]
+aggressive=false
+members=false

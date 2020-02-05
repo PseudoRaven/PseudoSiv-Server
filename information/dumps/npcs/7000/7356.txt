@@ -1,0 +1,17 @@
+id=7356
+name=Fire titan
+description=Scorching!
+size=2
+xp=569.7
+lifepoints=8900
+level=94
+attack=72
+defence=64
+ranged=72
+magic=72
+animations={death:7833,attack:7834}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

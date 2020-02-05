@@ -1,0 +1,11 @@
+id=8485
+name=Hazelmere
+description=An ancient-looking gnome.
+xp=536.7
+animations={}
+attackable=true
+poisonous=false
+weakness="None"
+areas=["Wilderness"]
+aggressive=false
+members=false

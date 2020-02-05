@@ -1,0 +1,10 @@
+id=19573
+name=Delivery gnome
+description=He loads and unloads the boxes. Some day, he hopes to fly the gnomecopter himself.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

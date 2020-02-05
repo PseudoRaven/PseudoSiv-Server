@@ -1,0 +1,17 @@
+id=14248
+name=Elite Khazard guard
+description=An elite Khazard warrior, well trained in melee combat.
+size=1
+xp=256.8
+lifepoints=3000
+level=84
+attack=60
+defence=60
+ranged=60
+magic=60
+animations={death:836,attack:395}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

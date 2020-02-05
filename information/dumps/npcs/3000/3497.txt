@@ -1,0 +1,17 @@
+id=3497
+name=Gelatinnoth Mother
+description=Deadly AND fruity!
+size=3
+xp=327.9
+lifepoints=4875
+level=91
+attack=48
+defence=65
+ranged=0
+magic=65
+animations={death:1342,attack:1341}
+attackable=true
+poisonous=false
+weakness="Thrown"
+areas=[]
+aggressive=true

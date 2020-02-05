@@ -1,0 +1,17 @@
+id=1906
+name=Tough Guy
+description=Tough looking Menaphite.
+size=1
+xp=143.1
+lifepoints=4000
+level=54
+attack=39
+defence=39
+ranged=0
+magic=0
+animations={death:836,attack:395}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

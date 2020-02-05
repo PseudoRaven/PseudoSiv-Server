@@ -1,0 +1,10 @@
+id=13696
+name=Wall guard
+description=A sergeant of the Imperial Guard.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

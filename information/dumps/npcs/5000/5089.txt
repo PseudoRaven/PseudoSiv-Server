@@ -1,0 +1,10 @@
+id=5089
+name=Wild kebbit
+description=That's a mean looking set of claws.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

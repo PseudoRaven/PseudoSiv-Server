@@ -1,0 +1,10 @@
+id=20796
+name=Charlie the Tramp
+description=Looks down on his luck.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["New Varrock"]
+aggressive=false
+members=false

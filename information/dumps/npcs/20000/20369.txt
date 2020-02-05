@@ -1,0 +1,17 @@
+id=20369
+name=BikKra's attendant
+description=A creature born of elemental fury.
+size=1
+xp=77.8
+lifepoints=2500
+level=35
+attack=25
+defence=25
+ranged=1
+magic=1
+animations={death:17860,attack:17862}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=true

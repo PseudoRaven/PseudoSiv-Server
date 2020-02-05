@@ -1,0 +1,11 @@
+id=6188
+name=Renegade knight
+description=He isn't very friendly.
+xp=64.5
+animations={}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=["Jail","Keep Le Faye"]
+aggressive=true
+members=true

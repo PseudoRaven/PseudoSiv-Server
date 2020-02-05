@@ -1,0 +1,17 @@
+id=3421
+name=Crab
+description=Nice claw!
+size=2
+xp=46.5
+lifepoints=1100
+level=30
+attack=22
+defence=22
+ranged=0
+magic=0
+animations={death:3430,attack:3428}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["Underwater cave"]
+aggressive=false

@@ -1,0 +1,17 @@
+id=1053
+name=Ghast
+description=Arrghhh... A Ghast.
+size=2
+xp=77.8
+lifepoints=2500
+level=35
+attack=25
+defence=25
+ranged=0
+magic=0
+animations={death:9467,attack:12519}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

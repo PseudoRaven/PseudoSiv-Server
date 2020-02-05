@@ -1,0 +1,10 @@
+id=3934
+name=Fullangr
+description=A dwarf who's currently living in Miscellania.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Miscellania Underground"]
+aggressive=false
+members=false

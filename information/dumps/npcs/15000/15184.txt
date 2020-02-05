@@ -1,0 +1,17 @@
+id=15184
+name=TokHaar-Xil
+description=Its razor-sharp obsidian edges will slice through the flesh of its foes.
+size=2
+xp=486
+lifepoints=5475
+level=140
+attack=54
+defence=73
+ranged=73
+magic=0
+animations={death:16145,attack:16147}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=true

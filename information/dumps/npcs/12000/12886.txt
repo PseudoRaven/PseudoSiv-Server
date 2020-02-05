@@ -1,0 +1,17 @@
+id=12886
+name=Hope devourer
+description=A dark behemoth that feeds on hope.
+size=5
+xp=513.6
+lifepoints=10000
+level=84
+attack=60
+defence=60
+ranged=60
+magic=60
+animations={death:14455,attack:14457}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

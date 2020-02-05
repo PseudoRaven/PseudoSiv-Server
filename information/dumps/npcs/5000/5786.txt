@@ -1,0 +1,10 @@
+id=5786
+name=Goblin scribe
+description=Good at shorthand.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dorgesh-Kaan"]
+aggressive=true
+members=true

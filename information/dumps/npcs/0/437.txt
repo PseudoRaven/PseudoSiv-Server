@@ -1,0 +1,10 @@
+id=437
+name=Cap'n Izzy No-Beard
+description=Entrance clerk for the Brimhaven Agility Arena.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

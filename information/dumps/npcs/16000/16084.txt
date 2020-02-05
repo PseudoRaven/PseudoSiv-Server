@@ -1,0 +1,17 @@
+id=16084
+name=Skeletal juggernaut
+description=Teachin' you abilities.
+size=1
+xp=0
+lifepoints=12500
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:17932,attack:17930}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

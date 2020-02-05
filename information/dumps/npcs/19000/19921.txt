@@ -1,0 +1,10 @@
+id=19921
+name=Ianto
+description=A toy-seller who looks after people's toys for them.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Prifddinas"]
+aggressive=false
+members=false

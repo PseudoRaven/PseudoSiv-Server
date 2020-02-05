@@ -1,0 +1,10 @@
+id=13762
+name=Caustic gazer
+description=The venomous spawn of the Seeker of Truth.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Daemonheim"]
+aggressive=false
+members=true

@@ -1,0 +1,10 @@
+id=17563
+name=Zamorak devotee
+description=She strongly believes in the teachings of Zamorak.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

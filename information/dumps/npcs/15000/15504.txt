@@ -1,0 +1,16 @@
+id=15504
+name=Zombie monkey
+description=A recently deceased monkey. Its flesh seems to be worse for the wear.
+size=1
+xp=2.5
+lifepoints=600
+level=84
+attack=50
+defence=60
+ranged=1
+magic=60
+animations={death:1384,attack:1383}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

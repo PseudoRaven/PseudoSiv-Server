@@ -1,0 +1,17 @@
+id=2710
+name=Water wizard
+description=Hydro-power!
+size=1
+xp=35.7
+lifepoints=700
+level=19
+attack=1
+defence=14
+ranged=1
+magic=14
+animations={death:2553,attack:414}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=["RuneScape Surface"]
+aggressive=false

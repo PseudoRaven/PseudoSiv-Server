@@ -1,0 +1,17 @@
+id=6819
+name=Abyssal parasite
+description=It's an extra-planar little blood hoover.
+size=1
+xp=198
+lifepoints=6400
+level=64
+attack=49
+defence=44
+ranged=49
+magic=49
+animations={death:7671,attack:8910}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

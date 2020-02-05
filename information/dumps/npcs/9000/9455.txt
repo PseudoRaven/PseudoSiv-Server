@@ -1,0 +1,17 @@
+id=9455
+name=Corruption beast
+description=A tainted creature of the corruption.
+size=2
+xp=125.7
+lifepoints=2250
+level=63
+attack=45
+defence=45
+ranged=45
+magic=45
+animations={death:9514,attack:9501}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

@@ -1,0 +1,10 @@
+id=11272
+name=Registrar
+description=The Registrar of Guilds.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

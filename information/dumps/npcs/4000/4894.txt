@@ -1,0 +1,10 @@
+id=4894
+name=Sea slug
+description=A rather nasty looking crustacean.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Witchaven Dungeon"]
+aggressive=false
+members=false

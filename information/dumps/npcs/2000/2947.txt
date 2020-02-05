@@ -1,0 +1,10 @@
+id=2947
+name=Phingspet
+description=Lovely girl, shame about the smell.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Misthalin Underground"]
+aggressive=false
+members=true

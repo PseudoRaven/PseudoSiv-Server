@@ -1,0 +1,17 @@
+id=7828
+name=Giant lobster
+description=An extremely vicious lobster.
+size=2
+xp=159.3
+lifepoints=2500
+level=70
+attack=50
+defence=50
+ranged=0
+magic=0
+animations={death:6267,attack:6265}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=["Dragontooth shipwreck"]
+aggressive=true

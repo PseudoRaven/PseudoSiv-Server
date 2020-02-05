@@ -1,0 +1,10 @@
+id=6509
+name=Marshall of the Teeming Horde
+description=The head of the Spider Queen's army.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Halloween 2009"]
+aggressive=false
+members=false

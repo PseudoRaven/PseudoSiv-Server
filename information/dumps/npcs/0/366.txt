@@ -1,0 +1,10 @@
+id=366
+name=Jerico
+description=He looks friendly enough.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

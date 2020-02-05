@@ -1,0 +1,10 @@
+id=200
+name=Lord Daquarius
+description=Wears a stylish suit of armour.
+xp=3.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Taverley Dungeon"]
+aggressive=false
+members=true

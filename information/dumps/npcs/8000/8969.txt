@@ -1,0 +1,10 @@
+id=8969
+name=Junior Cadet Mina
+description=She knows what's going on.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Island"]
+aggressive=false
+members=true

@@ -1,0 +1,10 @@
+id=11269
+name=Market guard
+description=On guard for thieves and ne'erdowells.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Varrock","RuneScape Surface"]
+aggressive=false
+members=false

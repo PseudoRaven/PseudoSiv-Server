@@ -1,0 +1,10 @@
+id=2197
+name=Myndill
+description=A dwarf, wandering the streets of Keldagrim.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

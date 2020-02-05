@@ -1,0 +1,17 @@
+id=1760
+name=Farmer
+description=He grows the crops in this area.
+size=1
+xp=25.8
+lifepoints=250
+level=7
+attack=5
+defence=5
+ranged=1
+magic=1
+animations={death:7185,attack:7181}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

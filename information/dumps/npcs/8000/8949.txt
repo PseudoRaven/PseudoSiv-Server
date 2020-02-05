@@ -1,0 +1,10 @@
+id=8949
+name=Operator Jen
+description=There to ensure everyone gets to battle.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Waiting room"]
+aggressive=false
+members=true

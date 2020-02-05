@@ -1,0 +1,10 @@
+id=276
+name=Winelda
+description=A witch.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Temple of Ikov"]
+aggressive=false
+members=false
