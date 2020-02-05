@@ -1,1 +1,0 @@
-java -d64 -Xss50m -cp bin:lib/* net.nocturne.LoginEngine true true
