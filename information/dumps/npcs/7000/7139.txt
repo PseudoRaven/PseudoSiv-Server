@@ -1,0 +1,16 @@
+id=7139
+name=Dagon'hai Monk
+description=A monk of the Dagon'hai.
+size=1
+xp=2
+lifepoints=2500
+level=77
+attack=55
+defence=55
+ranged=1
+magic=55
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+areas=["Chaos tunnels"]
+aggressive=false

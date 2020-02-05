@@ -1,0 +1,17 @@
+id=8438
+name=Elite Khazard guard
+description=A well-trained Khazard warrior, on orders to guard this area.
+size=1
+xp=201.3
+lifepoints=2750
+level=77
+attack=55
+defence=55
+ranged=1
+magic=1
+animations={death:836,attack:395}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["Movario's base"]
+aggressive=false

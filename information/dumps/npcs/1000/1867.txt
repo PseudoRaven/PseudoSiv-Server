@@ -1,0 +1,10 @@
+id=1867
+name=Ali the Camel Man
+description=Ali the discount animal seller.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

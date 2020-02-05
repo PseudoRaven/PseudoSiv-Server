@@ -1,0 +1,10 @@
+id=13641
+name=Antipodean squirrel
+description=He looks like he's come a long way to be here.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Easter 2011"]
+aggressive=false
+members=false

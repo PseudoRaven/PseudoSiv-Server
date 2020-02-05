@@ -1,0 +1,10 @@
+id=379
+name=Luthas
+description=The owner of the banana plantation.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

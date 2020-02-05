@@ -1,0 +1,10 @@
+id=15806
+name=Heru
+description=As dangerous as he is stupid and ugly (i.e. very).
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

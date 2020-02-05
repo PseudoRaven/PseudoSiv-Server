@@ -1,0 +1,17 @@
+id=3658
+name=Tolna
+description=Is that really Tolna?
+size=3
+xp=87.7
+lifepoints=2800
+level=39
+attack=28
+defence=28
+ranged=28
+magic=28
+animations={death:3833,attack:3829}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

@@ -1,0 +1,10 @@
+id=652
+name=Wizard
+description=He looks kind of puny...
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

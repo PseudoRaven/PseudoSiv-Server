@@ -1,0 +1,17 @@
+id=10344
+name=Forgotten ranger
+description=He seems to have gone mad.
+size=1
+xp=385.2
+lifepoints=6000
+level=84
+attack=1
+defence=60
+ranged=60
+magic=1
+animations={range:23943,death:836,attack:23943}
+attackable=true
+poisonous=false
+weakness="Slashing"
+areas=[]
+aggressive=true

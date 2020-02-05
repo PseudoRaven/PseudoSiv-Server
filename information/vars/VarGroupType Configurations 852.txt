@@ -1,0 +1,84 @@
+
+case 0:
+	varGroupType.dataType = INT;
+	break;
+
+case 1:
+	varGroupType.dataType = INT;
+	break;
+
+case 2:
+	varGroupType.dataType = INT;
+	break;
+
+case 3:
+	varGroupType.dataType = INT;
+	break;
+
+case 4:
+	varGroupType.dataType = INT;
+	break;
+
+case 5:
+	varGroupType.dataType = INT;
+	break;
+
+case 6:
+	varGroupType.dataType = INT;
+	break;
+
+case 7:
+	varGroupType.dataType = INT;
+	break;
+
+case 8:
+	varGroupType.dataType = INT;
+	break;
+
+case 9:
+	varGroupType.dataType = INT;
+	break;
+
+case 10:
+	varGroupType.dataType = INT;
+	break;
+
+case 11:
+	varGroupType.dataType = INT;
+	break;
+
+case 12:
+	varGroupType.dataType = INT;
+	break;
+
+case 13:
+	varGroupType.dataType = INT;
+	break;
+
+case 14:
+	varGroupType.dataType = INT;
+	break;
+
+case 15:
+	varGroupType.dataType = INT;
+	break;
+
+case 16:
+	varGroupType.dataType = INT;
+	break;
+
+case 17:
+	varGroupType.dataType = INT;
+	break;
+
+case 18:
+	varGroupType.dataType = INT;
+	break;
+
+case 19:
+	varGroupType.dataType = INT;
+	break;
+
+case 20:
+	varGroupType.dataType = INT;
+	break;

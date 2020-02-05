@@ -1,0 +1,10 @@
+id=4472
+name=Bogrog
+description=Ugly and bad-tempered.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

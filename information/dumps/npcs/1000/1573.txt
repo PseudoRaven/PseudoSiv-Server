@@ -1,0 +1,10 @@
+id=1573
+name=Polmafi Ferdygris
+description=A member of the Myreque and intellectual assistant to Veliaf.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Cellar","Myreque Hideout"]
+aggressive=false
+members=true

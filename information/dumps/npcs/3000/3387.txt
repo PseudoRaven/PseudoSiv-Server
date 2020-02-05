@@ -1,0 +1,10 @@
+id=3387
+name=Culinaromancer
+description=A demented evil wizard who specialises in food spells.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Lumbridge"]
+aggressive=false
+members=true

@@ -1,0 +1,10 @@
+id=20598
+name=Lady Niya
+description=Niya, looking as lovely as ever.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

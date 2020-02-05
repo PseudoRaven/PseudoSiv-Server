@@ -1,0 +1,10 @@
+id=16973
+name=Guthixian High Druid
+description=He is leading the activities in Guthix's shrine.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Guthixian ruins"]
+aggressive=false
+members=false

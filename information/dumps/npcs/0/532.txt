@@ -1,0 +1,17 @@
+id=532
+name=Gravecreeper
+description=Like a grave keeper, but creepy.
+size=1
+xp=513.6
+lifepoints=10000
+level=84
+attack=60
+defence=60
+ranged=60
+magic=60
+animations={death:14500,attack:14503}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

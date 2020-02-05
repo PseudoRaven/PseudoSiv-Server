@@ -1,0 +1,17 @@
+id=453
+name=Suit of armour
+description=Aargh! It's alive!
+size=1
+xp=25.8
+lifepoints=250
+level=7
+attack=5
+defence=5
+ranged=0
+magic=0
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=false

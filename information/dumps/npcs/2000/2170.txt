@@ -1,0 +1,10 @@
+id=2170
+name=Rind the gardener
+description=He tends to the plants in the palace garden.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

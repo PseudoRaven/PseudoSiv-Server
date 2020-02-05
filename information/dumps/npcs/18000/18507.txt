@@ -1,0 +1,10 @@
+id=18507
+name=Saradomin
+description=The god of order and wisdom.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Armadyl's Citadel"]
+aggressive=false
+members=false

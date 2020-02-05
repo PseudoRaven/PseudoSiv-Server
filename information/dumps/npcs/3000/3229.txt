@@ -1,0 +1,17 @@
+id=3229
+name=Guard
+description=He tries to keep order around here.
+size=1
+xp=35.7
+lifepoints=650
+level=18
+attack=1
+defence=13
+ranged=13
+magic=1
+animations={range:2075,death:836}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=["RuneScape Surface"]
+aggressive=false

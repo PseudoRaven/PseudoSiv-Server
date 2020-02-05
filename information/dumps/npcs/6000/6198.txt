@@ -1,0 +1,17 @@
+id=6198
+name=Stomp
+description=The name isn't just for show.
+size=4
+xp=0
+lifepoints=3000
+level=77
+attack=55
+defence=55
+ranged=55
+magic=55
+animations={death:13459,attack:13448}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

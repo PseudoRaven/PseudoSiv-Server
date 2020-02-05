@@ -1,0 +1,17 @@
+id=1614
+name=Death spawn
+description=An evil death spawn.
+size=1
+xp=3.7
+lifepoints=500
+level=95
+attack=1
+defence=68
+ranged=1
+magic=68
+animations={death:9460,attack:9459}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=false

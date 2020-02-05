@@ -1,0 +1,17 @@
+id=2457
+name=Wallasalki
+description=A fearsome magical water creature.
+size=1
+xp=491.8
+lifepoints=8125
+level=91
+attack=1
+defence=65
+ranged=1
+magic=65
+animations={death:2367,attack:2365}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=["Waterbirth Island Dungeon"]
+aggressive=true

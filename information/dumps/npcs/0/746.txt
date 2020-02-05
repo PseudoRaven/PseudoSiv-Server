@@ -1,0 +1,10 @@
+id=746
+name=Oracle
+description=A mystical fount of knowledge.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

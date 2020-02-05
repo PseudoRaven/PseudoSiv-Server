@@ -1,0 +1,17 @@
+id=2285
+name=Sir Leye
+description=A warrior blessed by Saradomin.
+size=1
+xp=38.7
+lifepoints=500
+level=7
+attack=5
+defence=5
+ranged=0
+magic=0
+animations={death:836,attack:428}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

@@ -1,0 +1,17 @@
+id=20928
+name=Zombie cow
+description=A recently deceased bovine.
+size=2
+xp=62.2
+lifepoints=200
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:22126,attack:22123}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=["New Varrock"]
+aggressive=false

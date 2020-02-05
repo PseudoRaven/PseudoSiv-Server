@@ -1,0 +1,10 @@
+id=3235
+name=Apprentice workman
+description=He's learning a trade.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

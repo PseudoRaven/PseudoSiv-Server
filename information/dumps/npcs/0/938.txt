@@ -1,0 +1,17 @@
+id=938
+name=Ranalph Devere
+description=The spirit of a long-dead warrior.
+size=1
+xp=125.7
+lifepoints=3375
+level=63
+attack=45
+defence=45
+ranged=0
+magic=0
+animations={death:17932,attack:17931}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=["Kharazi caves"]
+aggressive=true

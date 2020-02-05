@@ -1,0 +1,10 @@
+id=15784
+name=The Botfinder General
+description=The mysterious Botfinder General. Who can say what goes on inside his mind?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

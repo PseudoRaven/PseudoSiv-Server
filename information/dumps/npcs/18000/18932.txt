@@ -1,0 +1,17 @@
+id=18932
+name=Giant mole
+description=Holy mole-y!
+size=3
+xp=2918.8
+lifepoints=78000
+level=230
+attack=65
+defence=45
+ranged=1
+magic=65
+animations={death:22620,attack:22610}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

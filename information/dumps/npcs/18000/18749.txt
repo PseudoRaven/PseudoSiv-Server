@@ -1,0 +1,17 @@
+id=18749
+name=Bandosian golem
+description=A huge construct built to smite the foes of Bandos.
+size=2
+xp=199.2
+lifepoints=100000
+level=0
+attack=132
+defence=132
+ranged=132
+magic=132
+animations={death:22393,attack:22392}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

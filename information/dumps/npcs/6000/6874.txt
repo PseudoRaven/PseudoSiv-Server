@@ -1,0 +1,17 @@
+id=6874
+name=Pack yak
+description=Bulk haulage never smelled so bad.
+size=2
+xp=1141.2
+lifepoints=10600
+level=114
+attack=87
+defence=77
+ranged=87
+magic=87
+animations={death:852,attack:853}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

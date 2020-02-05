@@ -1,0 +1,10 @@
+id=554
+name=Fancy-dress shop owner
+description=For the interesting clothing items you just can't find elsewhere.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

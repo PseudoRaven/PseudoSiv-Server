@@ -1,0 +1,17 @@
+id=89
+name=Unicorn
+description=Horse with a horn.
+size=2
+xp=32.1
+lifepoints=550
+level=15
+attack=1
+defence=11
+ranged=1
+magic=11
+animations={death:6377,attack:6376}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=["RuneScape Surface"]
+aggressive=false

@@ -1,0 +1,17 @@
+id=15996
+name=Troll runt
+description=Gets up close and personal.
+size=1
+xp=0
+lifepoints=150
+level=2
+attack=1
+defence=2
+ranged=1
+magic=1
+animations={death:13785,attack:13786}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

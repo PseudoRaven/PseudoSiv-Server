@@ -1,0 +1,10 @@
+id=557
+name=Wydin
+description=Likes his food to be kept fresh.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=4455
+name=Fairy Fixit
+description=Fairy ring maintenance division.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Zanaris"]
+aggressive=false
+members=false

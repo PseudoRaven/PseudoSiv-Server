@@ -1,0 +1,10 @@
+id=401
+name=Jungle forester
+description=He deals in exotic types of wood.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

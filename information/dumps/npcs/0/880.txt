@@ -1,0 +1,10 @@
+id=880
+name=Eadgar
+description=A rather mad-looking hermit.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Eadgar's cave"]
+aggressive=false
+members=true

@@ -1,0 +1,16 @@
+id=11089
+name=Archaemastyx
+description=A big, slow creature with a tough leathery hide. (Tier 4)
+size=3
+xp=0.2
+lifepoints=200
+level=7
+attack=4
+defence=7
+ranged=1
+magic=1
+animations={death:13262,attack:13255}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

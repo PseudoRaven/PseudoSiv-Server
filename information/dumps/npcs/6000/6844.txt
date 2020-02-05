@@ -1,0 +1,17 @@
+id=6844
+name=Bloated leech
+description=It's like a little suction pump with eyes.
+size=1
+xp=163.3
+lifepoints=5900
+level=59
+attack=45
+defence=40
+ranged=45
+magic=45
+animations={death:7656,attack:7657}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

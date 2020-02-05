@@ -1,0 +1,10 @@
+id=17162
+name=Vorago
+description=A powerful entity that is one with the earth.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Borehole entrance"]
+aggressive=false
+members=true

@@ -1,0 +1,17 @@
+id=15954
+name=Lumpnose
+description=A goblin that can annoy at a distance. Just what was needed.
+size=1
+xp=0.2
+lifepoints=120
+level=5
+attack=1
+defence=5
+ranged=2
+magic=1
+animations={range:17359,death:6182,attack:6185}
+attackable=true
+poisonous=false
+slayercat=Goblins
+areas=[]
+aggressive=false

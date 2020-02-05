@@ -1,0 +1,11 @@
+id=5879
+name=Ticket goblin
+description=He sells tickets to Keldagrim.
+xp=37.3
+animations={}
+attackable=true
+poisonous=false
+slayercat=Goblins
+areas=["Dorgesh-Kaan Station"]
+aggressive=false
+members=true

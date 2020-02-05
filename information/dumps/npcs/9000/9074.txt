@@ -1,0 +1,17 @@
+id=9074
+name=Ican Haz
+description=Has difficulty talking.
+size=1
+xp=0
+lifepoints=750
+level=105
+attack=75
+defence=75
+ranged=75
+magic=75
+animations={range:711,death:836}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

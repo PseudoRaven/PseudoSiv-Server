@@ -1,0 +1,10 @@
+id=4946
+name=Ignatius Vulcan
+description=The Master of Fire!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

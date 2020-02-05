@@ -1,0 +1,17 @@
+id=3090
+name=Haakon the Champion
+description=A mighty warrior, Haakon is powerfully concerned for his tribe.
+size=1
+xp=48.9
+lifepoints=1500
+level=32
+attack=23
+defence=23
+ranged=0
+magic=0
+animations={death:836,attack:7048}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=["RuneScape Surface"]
+aggressive=false

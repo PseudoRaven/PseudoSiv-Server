@@ -1,0 +1,17 @@
+id=247
+name=Sir Mordred
+description=Leader of the Renegade Knights.
+size=1
+xp=57.1
+lifepoints=1700
+level=23
+attack=17
+defence=17
+ranged=0
+magic=0
+animations={death:6490,attack:6489}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["RuneScape Surface","Keep Le Faye"]
+aggressive=false

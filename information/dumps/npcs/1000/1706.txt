@@ -1,0 +1,10 @@
+id=1706
+name=Ghost guard
+description=This ghost guards the gates of Port Phasmatys.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

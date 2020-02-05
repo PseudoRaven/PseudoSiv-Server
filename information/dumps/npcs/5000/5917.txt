@@ -1,0 +1,10 @@
+id=5917
+name=Stray dog
+description=A mangy mutt.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Varrock"]
+aggressive=true
+members=false

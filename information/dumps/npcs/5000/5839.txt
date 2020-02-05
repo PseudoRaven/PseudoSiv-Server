@@ -1,0 +1,10 @@
+id=5839
+name=Mishkal'un Dorn
+description=A monk of the Dagon'hai Order.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Tunnel of Chaos"]
+aggressive=false
+members=false

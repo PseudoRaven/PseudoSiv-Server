@@ -1,0 +1,10 @@
+id=1429
+name=Dugopul
+description=A large hairy monkey with a spade.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=true
+members=false

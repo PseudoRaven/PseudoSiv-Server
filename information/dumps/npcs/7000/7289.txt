@@ -1,0 +1,10 @@
+id=7289
+name=Gecko
+description=How cute!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

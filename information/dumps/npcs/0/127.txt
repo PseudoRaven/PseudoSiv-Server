@@ -1,0 +1,17 @@
+id=127
+name=Magic axe
+description=A magic axe with a mind of its own.
+size=1
+xp=183
+lifepoints=2650
+level=74
+attack=53
+defence=53
+ranged=1
+magic=1
+animations={death:23840,attack:23839}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=["RuneScape Surface","Taverley Dungeon"]
+aggressive=false

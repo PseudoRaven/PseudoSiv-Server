@@ -1,0 +1,10 @@
+id=5776
+name=Banker
+description=Looks after cave goblin money.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dorgesh-Kaan"]
+aggressive=false
+members=true

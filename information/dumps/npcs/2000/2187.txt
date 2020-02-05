@@ -1,0 +1,10 @@
+id=2187
+name=Rowdy dwarf
+description=A loud, drunk and generally obnoxious dwarf.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=true
+members=true

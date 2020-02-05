@@ -1,0 +1,17 @@
+id=13850
+name=Warrior
+description=A warrior with no alignment.
+size=1
+xp=0
+lifepoints=750
+level=20
+attack=20
+defence=10
+ranged=1
+magic=1
+animations={death:4605,attack:4604}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=true

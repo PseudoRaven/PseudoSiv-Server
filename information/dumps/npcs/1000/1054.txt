@@ -1,0 +1,10 @@
+id=1054
+name=Ulizius
+description=A slightly nervous guard.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

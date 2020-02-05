@@ -1,0 +1,17 @@
+id=4658
+name=Mega Duck
+description=Has been dangerously overfed!
+size=1
+xp=10
+lifepoints=100000
+level=0
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:750,attack:747}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

@@ -1,0 +1,10 @@
+id=1358
+name=Rachael
+description=Pretty barmaid.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Games Room"]
+aggressive=false
+members=true

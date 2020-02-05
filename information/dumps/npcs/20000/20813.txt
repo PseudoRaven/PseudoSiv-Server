@@ -1,0 +1,10 @@
+id=20813
+name=Skeleton clerk
+description=The west vault's employees have been downsized to a skeleton staff.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["New Varrock"]
+aggressive=false
+members=false

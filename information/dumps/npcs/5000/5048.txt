@@ -1,0 +1,17 @@
+id=5048
+name=Weaker than Thok
+description=Not as strong as Thok.
+size=1
+xp=0
+lifepoints=800
+level=82
+attack=80
+defence=40
+ranged=80
+magic=80
+animations={death:836,attack:401}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

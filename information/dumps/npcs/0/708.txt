@@ -1,0 +1,17 @@
+id=708
+name=Imp
+description=A cheeky little imp.
+size=1
+xp=25.5
+lifepoints=200
+level=5
+attack=4
+defence=4
+ranged=0
+magic=0
+animations={death:172,attack:169}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["Varrock","Karamja Volcano","RuneScape Surface","Draynor"]
+aggressive=false

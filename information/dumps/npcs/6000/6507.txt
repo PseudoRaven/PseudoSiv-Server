@@ -1,0 +1,10 @@
+id=6507
+name=Knight of the Eight-Fold Seal
+description=A very noble spider and attendant to the Queen.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Halloween 2009"]
+aggressive=false
+members=false

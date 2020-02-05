@@ -1,0 +1,17 @@
+id=15307
+name=Pitiful zombie
+description=Smell almost as bad as Marm's socks.
+size=1
+xp=0
+lifepoints=4000
+level=56
+attack=40
+defence=40
+ranged=40
+magic=40
+animations={death:5569,attack:5568}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

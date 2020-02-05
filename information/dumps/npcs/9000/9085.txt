@@ -1,0 +1,10 @@
+id=9085
+name=Kuradal
+description=She looks incredibly strong.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dragon forge","Ancient cavern"]
+aggressive=false
+members=true

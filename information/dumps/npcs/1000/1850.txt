@@ -1,0 +1,17 @@
+id=1850
+name=Arzinian Avatar of Strength
+description=It is the avatar of the Arzinian Being of Bordanzan, representing strength.
+size=1
+xp=148.9
+lifepoints=4000
+level=56
+attack=40
+defence=40
+ranged=0
+magic=0
+animations={death:1841,attack:1840}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=false

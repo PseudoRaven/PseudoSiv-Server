@@ -1,0 +1,16 @@
+id=11093
+name=Stegomastyx
+description=A big, slow creature with a tough leathery hide. (Tier 8)
+size=3
+xp=30.9
+lifepoints=500
+level=14
+attack=7
+defence=13
+ranged=1
+magic=1
+animations={death:13262,attack:13255}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

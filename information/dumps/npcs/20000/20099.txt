@@ -1,0 +1,17 @@
+id=20099
+name=Trahaearn automaton mk IV
+description=An elven automaton.
+size=1
+xp=361.5
+lifepoints=3350
+level=93
+attack=1
+defence=67
+ranged=1
+magic=67
+animations={range:18364,death:17985,attack:18224}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=true

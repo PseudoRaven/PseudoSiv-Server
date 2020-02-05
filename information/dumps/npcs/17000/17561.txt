@@ -1,0 +1,10 @@
+id=17561
+name=Zamorak devotee
+description=A struggling artist who has turned to divine inspiration.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

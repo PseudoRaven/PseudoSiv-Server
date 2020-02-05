@@ -1,0 +1,10 @@
+id=4457
+name=Banker
+description=He works in the bank.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface","Draynor"]
+aggressive=false
+members=false

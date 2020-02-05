@@ -1,0 +1,10 @@
+id=7572
+name=Monkey minder
+description=He looks like the type of guy who would mind monkeys.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

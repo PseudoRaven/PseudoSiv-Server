@@ -1,0 +1,10 @@
+id=2733
+name=Master Crafter
+description=He wanders around the Crafting Guild pretending to be working.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

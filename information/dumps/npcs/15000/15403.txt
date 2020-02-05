@@ -1,0 +1,10 @@
+id=15403
+name=Air essling
+description=An essling imbued with air energy.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["The Runespan"]
+aggressive=false
+members=false

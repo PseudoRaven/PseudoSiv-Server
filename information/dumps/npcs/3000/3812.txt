@@ -1,0 +1,10 @@
+id=3812
+name=Captain Klemfoodle
+description=Up up and away!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

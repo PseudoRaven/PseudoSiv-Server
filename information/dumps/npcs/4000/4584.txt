@@ -1,0 +1,10 @@
+id=4584
+name=Damwin
+description=Bubbly cheerleader!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

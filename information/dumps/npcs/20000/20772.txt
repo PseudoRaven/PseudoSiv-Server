@@ -1,0 +1,10 @@
+id=20772
+name=Benny
+description=Newspaper seller.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["New Varrock"]
+aggressive=false
+members=false

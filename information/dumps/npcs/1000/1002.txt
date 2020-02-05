@@ -1,0 +1,17 @@
+id=1002
+name=Disciple of Iban
+description=A dark magic user.
+size=1
+xp=69.6
+lifepoints=1600
+level=44
+attack=24
+defence=32
+ranged=0
+magic=32
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=["Iban's Lair"]
+aggressive=false

@@ -1,0 +1,10 @@
+id=4439
+name=Centaur
+description=Half horse, half woman.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Enchanted valley"]
+aggressive=false
+members=false

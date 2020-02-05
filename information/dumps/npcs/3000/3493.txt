@@ -1,0 +1,17 @@
+id=3493
+name=Agrith-Na-Na
+description=Big, scary, angry and a good source of energy.
+size=3
+xp=312.3
+lifepoints=4800
+level=89
+attack=48
+defence=64
+ranged=0
+magic=64
+animations={death:3503,attack:3501}
+attackable=true
+poisonous=false
+weakness="Bolt"
+areas=[]
+aggressive=true

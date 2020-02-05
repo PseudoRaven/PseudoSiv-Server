@@ -1,0 +1,10 @@
+id=1316
+name=Fur trader
+description=I wonder what he does with all that fur?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=3061
+name=Hobgoblin Champion
+description=Champion of the hobgoblins.
+size=1
+xp=58.5
+lifepoints=1400
+level=39
+attack=14
+defence=28
+ranged=28
+magic=1
+animations={death:2958,attack:12408}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=[]
+aggressive=false

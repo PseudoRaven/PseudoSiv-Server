@@ -1,0 +1,10 @@
+id=789
+name=Grubor
+description=A rough looking thief.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

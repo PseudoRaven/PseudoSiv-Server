@@ -1,0 +1,17 @@
+id=7378
+name=Pyrelord
+description=Where did I put the marshmallows?
+size=1
+xp=143.1
+lifepoints=5600
+level=55
+attack=42
+defence=37
+ranged=42
+magic=42
+animations={death:17491,attack:17492}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

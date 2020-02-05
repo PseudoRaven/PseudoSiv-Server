@@ -1,0 +1,17 @@
+id=4280
+name=Animated Steel Armour
+description=Animated steel armour.
+size=1
+xp=58.5
+lifepoints=1400
+level=39
+attack=28
+defence=28
+ranged=1
+magic=1
+animations={death:4167,attack:386}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=false

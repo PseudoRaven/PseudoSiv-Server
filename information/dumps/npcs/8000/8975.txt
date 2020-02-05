@@ -1,0 +1,10 @@
+id=8975
+name=Spider Queen
+description=Would scare anyone off their tuffet.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Halloween 2009"]
+aggressive=false
+members=false

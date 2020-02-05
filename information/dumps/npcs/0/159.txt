@@ -1,0 +1,17 @@
+id=159
+name=Gnome child
+description=Small, even by gnome standards.
+size=1
+xp=24.9
+lifepoints=50
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:196,attack:191}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface"]
+aggressive=false

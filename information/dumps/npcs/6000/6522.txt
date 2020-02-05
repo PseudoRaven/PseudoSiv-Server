@@ -1,0 +1,10 @@
+id=6522
+name=Brugsen Bursen
+description=Knows all about the Grand Exchange.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

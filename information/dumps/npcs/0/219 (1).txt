@@ -1,0 +1,10 @@
+id=219
+name=Fisherman
+description=It's a fisherman.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Fisher Realm"]
+aggressive=false
+members=false

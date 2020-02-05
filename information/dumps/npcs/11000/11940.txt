@@ -1,0 +1,17 @@
+id=11940
+name=Skeletal warrior
+description=A former adventurer, slain and resurrected by a necrolord.
+size=1
+xp=655.8
+lifepoints=10000
+level=91
+attack=65
+defence=65
+ranged=65
+magic=65
+animations={death:836,attack:13052}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

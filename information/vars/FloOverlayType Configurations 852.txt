@@ -1,0 +1,2210 @@
+
+case 0:
+	floOverlayType.color = 10259;
+	floOverlayType.texture = 1858;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 23;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 2631719;
+	break;
+
+case 1:
+	floOverlayType.color = 34;
+	floOverlayType.texture = 1882;
+	floOverlayType.anInt7557 = 23;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 4473924;
+	break;
+
+case 2:
+	floOverlayType.color = 51;
+	floOverlayType.texture = 1858;
+	floOverlayType.anInt7557 = 24;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 6710886;
+	break;
+
+case 3:
+	floOverlayType.color = 68;
+	floOverlayType.texture = 1882;
+	floOverlayType.anInt7557 = 25;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 8947848;
+	break;
+
+case 4:
+	floOverlayType.color = 4511;
+	floOverlayType.texture = 1823;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 5979170;
+	break;
+
+case 5:
+	floOverlayType.color = 39102;
+	floOverlayType.texture = 38;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.unknown = true;
+	floOverlayType.colorRGB = 6321818;
+	break;
+
+case 6:
+	floOverlayType.color = 27948;
+	floOverlayType.texture = 2119;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 3701601;
+	break;
+
+case 7:
+	floOverlayType.color = 8464;
+	floOverlayType.texture = 1823;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 2893847;
+	break;
+
+case 8:
+	floOverlayType.color = 10365;
+	floOverlayType.texture = 1836;
+	floOverlayType.anInt7555 = 768;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 16777205;
+	break;
+
+case 9:
+	floOverlayType.color = 40;
+	floOverlayType.texture = 1810;
+	floOverlayType.anInt7555 = 768;
+	floOverlayType.anInt7557 = 77;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5263440;
+	break;
+
+case 10:
+	floOverlayType.color = 17;
+	floOverlayType.texture = 1834;
+	floOverlayType.anInt7555 = 640;
+	floOverlayType.anInt7557 = 72;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 2236962;
+	break;
+
+case 11:
+	floOverlayType.color = 3119;
+	floOverlayType.texture = 1785;
+	floOverlayType.anInt7557 = 38;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 6708568;
+	break;
+
+case 12:
+	floOverlayType.color = 563;
+	floOverlayType.texture = 1789;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 10040115;
+	break;
+
+case 13:
+	floOverlayType.color = 6802;
+	floOverlayType.texture = 1831;
+	floOverlayType.anInt7557 = 49;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 4008715;
+	break;
+
+case 14:
+	floOverlayType.color = 6802;
+	floOverlayType.texture = 1830;
+	floOverlayType.anInt7557 = 49;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 4008715;
+	break;
+
+case 15:
+	floOverlayType.color = 6041;
+	floOverlayType.texture = 1850;
+	floOverlayType.anInt7557 = 50;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 6697728;
+	break;
+
+case 16:
+	floOverlayType.color = 6041;
+	floOverlayType.texture = 1850;
+	floOverlayType.anInt7557 = 50;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 6697728;
+	break;
+
+case 17:
+	floOverlayType.color = 43955;
+	floOverlayType.texture = 1794;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 204;
+	break;
+
+case 18:
+	floOverlayType.color = 6089;
+	floOverlayType.texture = 2301;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 16027952;
+	break;
+
+case 19:
+	floOverlayType.color = 57;
+	floOverlayType.texture = 48;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 7631731;
+	break;
+
+case 20:
+	floOverlayType.color = 8102;
+	floOverlayType.texture = 1880;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 51;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 10053120;
+	break;
+
+case 21:
+	floOverlayType.color = 7590;
+	floOverlayType.texture = 1843;
+	floOverlayType.anInt7557 = 52;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 7166763;
+	break;
+
+case 22:
+	floOverlayType.color = 7590;
+	floOverlayType.texture = 1843;
+	floOverlayType.anInt7557 = 53;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 7166763;
+	break;
+
+case 23:
+	floOverlayType.color = 7510;
+	floOverlayType.texture = 75;
+	floOverlayType.anInt7557 = 26;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 13023635;
+	break;
+
+case 24:
+	floOverlayType.color = 8656;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1810;
+	floOverlayType.anInt7557 = 52;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 13351542;
+	break;
+
+case 25:
+	floOverlayType.color = 9521;
+	floOverlayType.texture = 1817;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 26;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 8550724;
+	break;
+
+case 26:
+	floOverlayType.color = 12471;
+	floOverlayType.texture = 2928;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 7962209;
+	break;
+
+case 27:
+	floOverlayType.color = 7216;
+	floOverlayType.texture = 39;
+	floOverlayType.anInt7557 = 79;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 6644315;
+	break;
+
+case 28:
+	floOverlayType.color = 17183;
+	floOverlayType.texture = 1740;
+	floOverlayType.anInt7557 = 63;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 3502602;
+	break;
+
+case 29:
+	floOverlayType.color = 43124;
+	floOverlayType.texture = 1892;
+	floOverlayType.anInt7557 = 99;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 15132395;
+	break;
+
+case 30:
+	floOverlayType.color = 911;
+	floOverlayType.texture = 1769;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 3932160;
+	break;
+
+case 31:
+	floOverlayType.color = 3113;
+	floOverlayType.texture = 46;
+	floOverlayType.anInt7557 = 27;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5853774;
+	break;
+
+case 32:
+	floOverlayType.color = 33905;
+	floOverlayType.texture = 1890;
+	floOverlayType.anInt7557 = 98;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 13170175;
+	break;
+
+case 33:
+	floOverlayType.color = 911;
+	floOverlayType.texture = 1417;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 3932160;
+	break;
+
+case 34:
+	floOverlayType.color = 4511;
+	floOverlayType.texture = 1823;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 5979170;
+	break;
+
+case 35:
+	floOverlayType.color = 5403;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1823;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 4798502;
+	break;
+
+case 36:
+	floOverlayType.anInt7557 = 9;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 65793;
+	break;
+
+case 37:
+	floOverlayType.color = 38203;
+	floOverlayType.texture = 1769;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 5601177;
+	break;
+
+case 38:
+	floOverlayType.texture = 50;
+	floOverlayType.anInt7557 = 127;
+	break;
+
+case 39:
+	floOverlayType.color = 43450;
+	floOverlayType.texture = 1769;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 4671907;
+	break;
+
+case 40:
+	floOverlayType.color = 38192;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 4153729;
+	break;
+
+case 41:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 42:
+	floOverlayType.color = -1;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 43:
+	floOverlayType.color = 40;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 5263440;
+	break;
+
+case 44:
+	floOverlayType.color = 5530;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 40;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 5125149;
+	break;
+
+case 45:
+	floOverlayType.color = 8463;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 55;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 2696211;
+	break;
+
+case 46:
+	floOverlayType.color = 7216;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 39;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 6644315;
+	break;
+
+case 47:
+	floOverlayType.color = 10258;
+	floOverlayType.texture = 1845;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 58;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.detailedColor = 0;
+	floOverlayType.colorRGB = 2631712;
+	break;
+
+case 48:
+	floOverlayType.color = 10258;
+	floOverlayType.texture = 1817;
+	floOverlayType.anInt7557 = 31;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 2631712;
+	break;
+
+case 49:
+	floOverlayType.color = 148;
+	floOverlayType.texture = 1874;
+	floOverlayType.anInt7557 = 30;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 3153952;
+	break;
+
+case 50:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 9521;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 51:
+	floOverlayType.anInt7557 = 5;
+	floOverlayType.aBool7558 = true;
+	break;
+
+case 52:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 8644;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 53:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 6471;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 54:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 10286;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 55:
+	floOverlayType.color = 10286;
+	floOverlayType.texture = 1789;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 6316120;
+	break;
+
+case 56:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 34259;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 57:
+	floOverlayType.color = 6802;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1780;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 10365;
+	floOverlayType.colorRGB = 4008715;
+	break;
+
+case 58:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 10258;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 59:
+	floOverlayType.color = 7846;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1842;
+	floOverlayType.anInt7557 = 84;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 8544278;
+	break;
+
+case 60:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 6802;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 61:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 33670;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 62:
+	floOverlayType.color = 33678;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1861;
+	floOverlayType.anInt7557 = 58;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 14392;
+	break;
+
+case 63:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 8404;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 64:
+	floOverlayType.color = 32786;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1827;
+	floOverlayType.anInt7557 = 65;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 2107432;
+	break;
+
+case 65:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 10392;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 66:
+	floOverlayType.color = 7700;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1882;
+	floOverlayType.anInt7557 = 31;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.detailedColor = 7700;
+	floOverlayType.colorRGB = 4206608;
+	break;
+
+case 67:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 7474;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 68:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 5400;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 69:
+	floOverlayType.color = 4538;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1842;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 31;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 10514504;
+	break;
+
+case 70:
+	floOverlayType.color = 4537;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1789;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 10512711;
+	break;
+
+case 71:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 27942;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 72:
+	floOverlayType.color = 5660;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1868;
+	floOverlayType.anInt7557 = 32;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5781528;
+	break;
+
+case 73:
+	floOverlayType.color = 13892;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 11063360;
+	break;
+
+case 74:
+	floOverlayType.color = 34;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1780;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 4473924;
+	break;
+
+case 75:
+	floOverlayType.color = 8644;
+	floOverlayType.texture = 1803;
+	floOverlayType.anInt7557 = 58;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 12889166;
+	break;
+
+case 76:
+	floOverlayType.color = 6471;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1852;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 27;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 12031847;
+	break;
+
+case 77:
+	floOverlayType.color = 6802;
+	floOverlayType.texture = 1828;
+	floOverlayType.anInt7557 = 60;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 4008715;
+	break;
+
+case 78:
+	floOverlayType.color = 8505;
+	floOverlayType.colorRGB = 9930575;
+	break;
+
+case 79:
+	floOverlayType.color = 6570;
+	floOverlayType.texture = 1880;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 47;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 8215339;
+	break;
+
+case 80:
+	floOverlayType.color = 7580;
+	floOverlayType.texture = 1859;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 48;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5259296;
+	break;
+
+case 81:
+	floOverlayType.color = 7336;
+	floOverlayType.texture = 1868;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 28;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 6050884;
+	break;
+
+case 82:
+	floOverlayType.color = 7326;
+	floOverlayType.texture = 1868;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 27;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 4603956;
+	break;
+
+case 83:
+	floOverlayType.color = 7481;
+	floOverlayType.texture = 66;
+	floOverlayType.anInt7557 = 78;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 9666642;
+	break;
+
+case 84:
+	floOverlayType.color = 14486;
+	floOverlayType.texture = 2116;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 3159333;
+	break;
+
+case 85:
+	floOverlayType.color = 911;
+	floOverlayType.texture = 1769;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 3932160;
+	break;
+
+case 86:
+	floOverlayType.color = 44332;
+	floOverlayType.texture = 1858;
+	floOverlayType.anInt7557 = 28;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 4341619;
+	break;
+
+case 87:
+	floOverlayType.color = 8354;
+	floOverlayType.texture = 1843;
+	floOverlayType.anInt7557 = 55;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5524791;
+	break;
+
+case 88:
+	floOverlayType.color = 6686;
+	floOverlayType.texture = 1885;
+	floOverlayType.anInt7557 = 56;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 6178332;
+	break;
+
+case 89:
+	floOverlayType.color = 6291;
+	floOverlayType.texture = 1861;
+	floOverlayType.anInt7557 = 29;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 3025184;
+	break;
+
+case 90:
+	floOverlayType.color = 7580;
+	floOverlayType.texture = 1785;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 5259296;
+	break;
+
+case 91:
+	floOverlayType.color = 110;
+	floOverlayType.texture = 1789;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 14540253;
+	break;
+
+case 92:
+	floOverlayType.color = 6041;
+	floOverlayType.texture = 1809;
+	floOverlayType.anInt7557 = 30;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 6697728;
+	break;
+
+case 93:
+	floOverlayType.color = 7580;
+	floOverlayType.texture = 1787;
+	floOverlayType.anInt7555 = 768;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 5259296;
+	break;
+
+case 94:
+	floOverlayType.color = 7711;
+	floOverlayType.texture = 1823;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 6639128;
+	break;
+
+case 95:
+	floOverlayType.color = 6578;
+	floOverlayType.texture = 1768;
+	floOverlayType.anInt7557 = 6;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 9203260;
+	break;
+
+case 96:
+	floOverlayType.color = 6686;
+	floOverlayType.texture = 1832;
+	floOverlayType.anInt7557 = 60;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 6178332;
+	break;
+
+case 97:
+	floOverlayType.color = 7590;
+	floOverlayType.texture = 1787;
+	floOverlayType.anInt7555 = 768;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 7166763;
+	break;
+
+case 98:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 549;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 99:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 1442;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 100:
+	floOverlayType.color = 7706;
+	floOverlayType.texture = 1852;
+	floOverlayType.anInt7557 = 80;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5521943;
+	break;
+
+case 101:
+	floOverlayType.color = 14486;
+	floOverlayType.texture = 1844;
+	floOverlayType.anInt7557 = 81;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 3159333;
+	break;
+
+case 102:
+	floOverlayType.color = 7222;
+	floOverlayType.texture = 1785;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 7893088;
+	break;
+
+case 103:
+	floOverlayType.color = 34259;
+	floOverlayType.texture = 2118;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 8635338;
+	break;
+
+case 104:
+	floOverlayType.color = 51;
+	floOverlayType.texture = 1874;
+	floOverlayType.anInt7557 = 25;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 6710886;
+	break;
+
+case 105:
+	floOverlayType.color = 7464;
+	floOverlayType.texture = 1789;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 6707515;
+	break;
+
+case 106:
+	floOverlayType.color = 18592;
+	floOverlayType.texture = 1809;
+	floOverlayType.anInt7555 = 768;
+	floOverlayType.anInt7557 = 80;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 3820341;
+	break;
+
+case 107:
+	floOverlayType.color = 7700;
+	floOverlayType.texture = 1833;
+	floOverlayType.anInt7557 = 55;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 4206608;
+	break;
+
+case 108:
+	floOverlayType.color = 6802;
+	floOverlayType.texture = 1831;
+	floOverlayType.anInt7557 = 49;
+	floOverlayType.colorRGB = 4008715;
+	break;
+
+case 109:
+	floOverlayType.color = 10518;
+	floOverlayType.texture = 1871;
+	floOverlayType.anInt7557 = 65;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 3684384;
+	break;
+
+case 110:
+	floOverlayType.color = 6093;
+	floOverlayType.texture = 1410;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 16490810;
+	break;
+
+case 111:
+	floOverlayType.color = 39102;
+	floOverlayType.texture = 2157;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 6321818;
+	break;
+
+case 112:
+	floOverlayType.color = 6471;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1789;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 12098407;
+	break;
+
+case 113:
+	floOverlayType.color = 28075;
+	floOverlayType.anInt7553 = 24;
+	floOverlayType.texture = 2155;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.anInt7559 = 1517595;
+	floOverlayType.colorRGB = 3504222;
+	break;
+
+case 114:
+	floOverlayType.color = 3119;
+	floOverlayType.texture = 1785;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 6708568;
+	break;
+
+case 115:
+	floOverlayType.color = 14486;
+	floOverlayType.texture = 1844;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 3159333;
+	break;
+
+case 116:
+	floOverlayType.color = 39;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1799;
+	floOverlayType.anInt7557 = 56;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5197647;
+	break;
+
+case 117:
+	floOverlayType.color = 7580;
+	floOverlayType.texture = 1787;
+	floOverlayType.anInt7555 = 768;
+	floOverlayType.anInt7557 = 64;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5259296;
+	break;
+
+case 118:
+	floOverlayType.color = 8358;
+	floOverlayType.texture = 1845;
+	floOverlayType.anInt7557 = 55;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 6050876;
+	break;
+
+case 119:
+	floOverlayType.color = 8339;
+	floOverlayType.texture = 1845;
+	floOverlayType.anInt7557 = 56;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.detailedColor = 7190;
+	floOverlayType.colorRGB = 3091231;
+	break;
+
+case 120:
+	floOverlayType.color = 7340;
+	floOverlayType.texture = 1860;
+	floOverlayType.anInt7557 = 83;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 6708811;
+	break;
+
+case 121:
+	floOverlayType.color = 7455;
+	floOverlayType.texture = 1822;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 5260845;
+	break;
+
+case 122:
+	floOverlayType.color = 8404;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1800;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 12103832;
+	break;
+
+case 123:
+	floOverlayType.color = 14486;
+	floOverlayType.texture = 1821;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 3159333;
+	break;
+
+case 124:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 7230;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 125:
+	floOverlayType.color = 4552;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1852;
+	floOverlayType.anInt7557 = 25;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 12291432;
+	break;
+
+case 126:
+	floOverlayType.color = 10270;
+	floOverlayType.texture = 1845;
+	floOverlayType.anInt7557 = 57;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 4210744;
+	break;
+
+case 127:
+	floOverlayType.color = 24775;
+	floOverlayType.texture = 322;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 7841669;
+	break;
+
+case 128:
+	floOverlayType.color = 33990;
+	floOverlayType.anInt7553 = 96;
+	floOverlayType.texture = 2151;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.anInt7559 = 9029071;
+	floOverlayType.colorRGB = 7447210;
+	break;
+
+case 129:
+	floOverlayType.color = 31057;
+	floOverlayType.texture = 322;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 8570040;
+	break;
+
+case 130:
+	floOverlayType.color = 10637;
+	floOverlayType.texture = 1843;
+	floOverlayType.anInt7557 = 57;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 2565904;
+	break;
+
+case 131:
+	floOverlayType.color = 6296;
+	floOverlayType.texture = 1860;
+	floOverlayType.anInt7557 = 80;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 3617321;
+	break;
+
+case 132:
+	floOverlayType.color = 16536;
+	floOverlayType.texture = 1874;
+	floOverlayType.anInt7557 = 30;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 3160104;
+	break;
+
+case 133:
+	floOverlayType.color = 43041;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1789;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 33690;
+	floOverlayType.colorRGB = 4210756;
+	break;
+
+case 134:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 119;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 135:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 40258;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 136:
+	floOverlayType.color = 7343;
+	floOverlayType.texture = 1788;
+	floOverlayType.anInt7555 = 508;
+	floOverlayType.anInt7557 = 81;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 7629129;
+	break;
+
+case 137:
+	floOverlayType.color = 537;
+	floOverlayType.texture = 2156;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.anInt7559 = 3610648;
+	floOverlayType.colorRGB = 4987161;
+	break;
+
+case 138:
+	floOverlayType.color = 9366;
+	floOverlayType.texture = 1887;
+	floOverlayType.anInt7557 = 51;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 3617826;
+	break;
+
+case 139:
+	floOverlayType.color = 7590;
+	floOverlayType.texture = 1843;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 7166763;
+	break;
+
+case 140:
+	floOverlayType.color = 43124;
+	floOverlayType.texture = 1621;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 15132395;
+	break;
+
+case 141:
+	floOverlayType.color = 33905;
+	floOverlayType.texture = 1890;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 13170175;
+	break;
+
+case 142:
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 65793;
+	break;
+
+case 143:
+	floOverlayType.color = 6471;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1852;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 12031847;
+	break;
+
+case 144:
+	floOverlayType.color = 6686;
+	floOverlayType.texture = 1885;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 6178332;
+	break;
+
+case 145:
+	floOverlayType.color = 18592;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 3820341;
+	break;
+
+case 146:
+	floOverlayType.color = 31057;
+	floOverlayType.texture = 1621;
+	floOverlayType.anInt7557 = 112;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 8570040;
+	break;
+
+case 147:
+	floOverlayType.color = 7208;
+	floOverlayType.texture = 1854;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 5657162;
+	break;
+
+case 148:
+	floOverlayType.color = 54368;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1621;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 54372;
+	floOverlayType.colorRGB = 14526173;
+	break;
+
+case 149:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 28;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 150:
+	floOverlayType.color = 38218;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 7509687;
+	break;
+
+case 151:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 9153;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 152:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 8354;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 153:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 17183;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 154:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 8656;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 155:
+	floOverlayType.color = 27955;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 4491374;
+	break;
+
+case 156:
+	floOverlayType.color = 8140;
+	floOverlayType.texture = 1410;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 16430903;
+	break;
+
+case 157:
+	floOverlayType.color = 37308;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 4293295;
+	break;
+
+case 158:
+	floOverlayType.color = 2327;
+	floOverlayType.texture = 1837;
+	floOverlayType.anInt7557 = 58;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 3942435;
+	break;
+
+case 159:
+	floOverlayType.color = 54368;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1621;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 54372;
+	floOverlayType.colorRGB = 14526173;
+	break;
+
+case 160:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 7964;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 161:
+	floOverlayType.color = 20645;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1769;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 20645;
+	floOverlayType.colorRGB = 4412737;
+	break;
+
+case 162:
+	floOverlayType.color = 2471;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1769;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 2471;
+	floOverlayType.colorRGB = 7224879;
+	break;
+
+case 163:
+	floOverlayType.color = 7700;
+	floOverlayType.texture = 1833;
+	floOverlayType.anInt7557 = 55;
+	floOverlayType.colorRGB = 4206608;
+	break;
+
+case 164:
+	floOverlayType.color = 34;
+	floOverlayType.texture = 1852;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 33;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 4473924;
+	break;
+
+case 165:
+	floOverlayType.color = 8102;
+	floOverlayType.texture = 1772;
+	floOverlayType.anInt7555 = 400;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 10053120;
+	break;
+
+case 166:
+	floOverlayType.color = 8102;
+	floOverlayType.texture = 1772;
+	floOverlayType.anInt7555 = 400;
+	floOverlayType.anInt7557 = 52;
+	floOverlayType.colorRGB = 10053120;
+	break;
+
+case 167:
+	floOverlayType.color = 44332;
+	floOverlayType.texture = 1858;
+	floOverlayType.anInt7557 = 50;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 4341619;
+	break;
+
+case 168:
+	floOverlayType.color = 36979;
+	floOverlayType.anInt7553 = 200;
+	floOverlayType.texture = 2149;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.anInt7559 = 13231594;
+	floOverlayType.colorRGB = 14084857;
+	break;
+
+case 169:
+	floOverlayType.color = 7706;
+	floOverlayType.texture = 1854;
+	floOverlayType.anInt7557 = 33;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5521943;
+	break;
+
+case 170:
+	floOverlayType.color = 7222;
+	floOverlayType.texture = 1785;
+	floOverlayType.anInt7557 = 81;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 7893088;
+	break;
+
+case 171:
+	floOverlayType.color = 7346;
+	floOverlayType.texture = 1842;
+	floOverlayType.anInt7557 = 83;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 7891794;
+	break;
+
+case 172:
+	floOverlayType.color = 7472;
+	floOverlayType.texture = 1842;
+	floOverlayType.anInt7555 = 560;
+	floOverlayType.anInt7557 = 82;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 7891016;
+	break;
+
+case 173:
+	floOverlayType.color = 10286;
+	floOverlayType.texture = 1794;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 6316120;
+	break;
+
+case 174:
+	floOverlayType.color = 7455;
+	floOverlayType.texture = 1822;
+	floOverlayType.anInt7557 = 5;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5260845;
+	break;
+
+case 175:
+	floOverlayType.color = 7721;
+	floOverlayType.texture = 1824;
+	floOverlayType.anInt7555 = 256;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 8414502;
+	break;
+
+case 176:
+	floOverlayType.color = 6296;
+	floOverlayType.texture = 1860;
+	floOverlayType.anInt7557 = 65;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 3617321;
+	break;
+
+case 177:
+	floOverlayType.color = 8233;
+	floOverlayType.texture = 1780;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 5723469;
+	break;
+
+case 178:
+	floOverlayType.color = 6323;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1788;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 7957076;
+	break;
+
+case 179:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 6323;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 180:
+	floOverlayType.color = 7230;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1780;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 8683381;
+	break;
+
+case 181:
+	floOverlayType.color = 563;
+	floOverlayType.texture = 322;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 10040115;
+	break;
+
+case 182:
+	floOverlayType.texture = 1785;
+	floOverlayType.anInt7557 = 90;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 65793;
+	break;
+
+case 183:
+	floOverlayType.color = 38192;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 4153729;
+	break;
+
+case 184:
+	floOverlayType.color = -1;
+	floOverlayType.anInt7557 = 81;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 185:
+	floOverlayType.color = 7208;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1780;
+	floOverlayType.anInt7557 = 65;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5657162;
+	break;
+
+case 186:
+	floOverlayType.color = 2330;
+	floOverlayType.texture = 1823;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 38096;
+	floOverlayType.colorRGB = 4599077;
+	break;
+
+case 187:
+	floOverlayType.color = 7453;
+	floOverlayType.texture = 1848;
+	floOverlayType.anInt7555 = 560;
+	floOverlayType.anInt7557 = 81;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5129001;
+	break;
+
+case 188:
+	floOverlayType.color = 39102;
+	floOverlayType.texture = 2157;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 6321818;
+	break;
+
+case 189:
+	floOverlayType.color = 5403;
+	floOverlayType.texture = 1823;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 4798502;
+	break;
+
+case 190:
+	floOverlayType.color = 5166;
+	floOverlayType.texture = 1810;
+	floOverlayType.anInt7555 = 768;
+	floOverlayType.anInt7557 = 81;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 6512216;
+	break;
+
+case 191:
+	floOverlayType.color = 49;
+	floOverlayType.texture = 1823;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 6970973;
+	break;
+
+case 192:
+	floOverlayType.color = 7328;
+	floOverlayType.texture = 1819;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5130037;
+	break;
+
+case 193:
+	floOverlayType.color = 7461;
+	floOverlayType.texture = 1842;
+	floOverlayType.anInt7555 = 560;
+	floOverlayType.anInt7557 = 81;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 6509876;
+	break;
+
+case 194:
+	floOverlayType.color = -1;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.detailedColor = 0;
+	floOverlayType.colorRGB = 16711935;
+	break;
+
+case 195:
+	floOverlayType.color = 33990;
+	floOverlayType.anInt7553 = 40;
+	floOverlayType.texture = 2151;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.anInt7559 = 3629417;
+	floOverlayType.colorRGB = 7447210;
+	break;
+
+case 196:
+	floOverlayType.color = 33975;
+	floOverlayType.texture = 1911;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 6388606;
+	break;
+
+case 197:
+	floOverlayType.color = 33975;
+	floOverlayType.texture = 1908;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 6388606;
+	break;
+
+case 198:
+	floOverlayType.color = 33975;
+	floOverlayType.texture = 1924;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 6388606;
+	break;
+
+case 199:
+	floOverlayType.color = 36979;
+	floOverlayType.anInt7553 = 200;
+	floOverlayType.texture = 38;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.anInt7559 = 13231594;
+	floOverlayType.colorRGB = 14084857;
+	break;
+
+case 200:
+	floOverlayType.color = 36979;
+	floOverlayType.anInt7553 = 200;
+	floOverlayType.texture = 38;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.anInt7559 = 13231594;
+	floOverlayType.colorRGB = 14084857;
+	break;
+
+case 201:
+	floOverlayType.color = 12471;
+	floOverlayType.texture = 1909;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 7962209;
+	break;
+
+case 202:
+	floOverlayType.color = 12471;
+	floOverlayType.texture = 1915;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 7962209;
+	break;
+
+case 203:
+	floOverlayType.color = 12471;
+	floOverlayType.texture = 1917;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 7962209;
+	break;
+
+case 204:
+	floOverlayType.color = 7210;
+	floOverlayType.texture = 1906;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5986384;
+	break;
+
+case 205:
+	floOverlayType.color = 7210;
+	floOverlayType.texture = 1904;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5986384;
+	break;
+
+case 206:
+	floOverlayType.color = 7210;
+	floOverlayType.texture = 1898;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5986384;
+	break;
+
+case 207:
+	floOverlayType.color = 35865;
+	floOverlayType.texture = 1922;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 3159351;
+	break;
+
+case 208:
+	floOverlayType.color = 35865;
+	floOverlayType.texture = 1918;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 3159351;
+	break;
+
+case 209:
+	floOverlayType.color = 35865;
+	floOverlayType.texture = 1919;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 3159351;
+	break;
+
+case 210:
+	floOverlayType.color = 35874;
+	floOverlayType.texture = 1911;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 4278090;
+	break;
+
+case 211:
+	floOverlayType.color = 35874;
+	floOverlayType.texture = 1908;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 4278090;
+	break;
+
+case 212:
+	floOverlayType.color = 35874;
+	floOverlayType.texture = 1924;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 4278090;
+	break;
+
+case 213:
+	floOverlayType.color = 39102;
+	floOverlayType.anInt7553 = 120;
+	floOverlayType.texture = 38;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.anInt7559 = 729916;
+	floOverlayType.anInt7561 = 127;
+	floOverlayType.detailedColor = 39327;
+	floOverlayType.colorRGB = 6321818;
+	break;
+
+case 214:
+	floOverlayType.color = 32929;
+	floOverlayType.anInt7553 = 8;
+	floOverlayType.texture = 38;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.anInt7559 = 1517595;
+	floOverlayType.anInt7561 = 100;
+	floOverlayType.detailedColor = 31901;
+	floOverlayType.colorRGB = 3427920;
+	break;
+
+case 215:
+	floOverlayType.color = 38177;
+	floOverlayType.anInt7553 = 32;
+	floOverlayType.texture = 38;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.anInt7559 = 1186862;
+	floOverlayType.anInt7561 = 160;
+	floOverlayType.detailedColor = 38173;
+	floOverlayType.colorRGB = 2834780;
+	break;
+
+case 216:
+	floOverlayType.color = 24605;
+	floOverlayType.aBool7552 = false;
+	floOverlayType.texture = 1857;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 3685433;
+	break;
+
+case 217:
+	floOverlayType.color = 32787;
+	floOverlayType.texture = 2759;
+	floOverlayType.anInt7557 = 128;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 2435626;
+	break;
+
+case 218:
+	floOverlayType.color = 36893;
+	floOverlayType.texture = 2746;
+	floOverlayType.anInt7557 = 124;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 3750974;
+	break;
+
+case 219:
+	floOverlayType.color = 36893;
+	floOverlayType.texture = 2763;
+	floOverlayType.anInt7557 = 124;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 3750974;
+	break;
+
+case 220:
+	floOverlayType.color = 36893;
+	floOverlayType.texture = 2752;
+	floOverlayType.anInt7557 = 125;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 3750974;
+	break;
+
+case 221:
+	floOverlayType.color = 36893;
+	floOverlayType.texture = 2745;
+	floOverlayType.anInt7557 = 125;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 3750974;
+	break;
+
+case 222:
+	floOverlayType.color = 36893;
+	floOverlayType.texture = 2760;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.colorRGB = 3750974;
+	break;
+
+case 223:
+	floOverlayType.color = 36893;
+	floOverlayType.texture = 2750;
+	floOverlayType.anInt7557 = 128;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 3750974;
+	break;
+
+case 224:
+	floOverlayType.color = 36893;
+	floOverlayType.texture = 2744;
+	floOverlayType.anInt7557 = 128;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 3750974;
+	break;
+
+case 225:
+	floOverlayType.color = 36893;
+	floOverlayType.texture = 2758;
+	floOverlayType.anInt7557 = 128;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 3750974;
+	break;
+
+case 226:
+	floOverlayType.color = 7381;
+	floOverlayType.texture = 1785;
+	floOverlayType.anInt7555 = 384;
+	floOverlayType.anInt7557 = 81;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 12300956;
+	break;
+
+case 227:
+	floOverlayType.color = 7210;
+	floOverlayType.texture = 1916;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5986384;
+	break;
+
+case 228:
+	floOverlayType.color = 7210;
+	floOverlayType.texture = 1923;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5986384;
+	break;
+
+case 229:
+	floOverlayType.color = 7210;
+	floOverlayType.texture = 1903;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5986384;
+	break;
+
+case 230:
+	floOverlayType.color = 53520;
+	floOverlayType.anInt7553 = 32;
+	floOverlayType.texture = 38;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.anInt7559 = 917774;
+	floOverlayType.anInt7561 = 80;
+	floOverlayType.detailedColor = 54670;
+	floOverlayType.colorRGB = 2757931;
+	break;
+
+case 231:
+	floOverlayType.color = 7331;
+	floOverlayType.texture = 1921;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5590330;
+	break;
+
+case 232:
+	floOverlayType.color = 7331;
+	floOverlayType.texture = 1910;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5590330;
+	break;
+
+case 233:
+	floOverlayType.color = 7331;
+	floOverlayType.texture = 1912;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5590330;
+	break;
+
+case 234:
+	floOverlayType.color = 782;
+	floOverlayType.anInt7553 = 60;
+	floOverlayType.texture = 38;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.anInt7559 = 2491905;
+	floOverlayType.anInt7561 = 100;
+	floOverlayType.detailedColor = 907;
+	floOverlayType.colorRGB = 3409414;
+	break;
+
+case 235:
+	floOverlayType.color = 4120;
+	floOverlayType.texture = 1835;
+	floOverlayType.anInt7555 = 560;
+	floOverlayType.anInt7557 = 81;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.detailedColor = 10265;
+	floOverlayType.colorRGB = 3485741;
+	break;
+
+case 236:
+	floOverlayType.color = 4120;
+	floOverlayType.texture = 1853;
+	floOverlayType.anInt7555 = 560;
+	floOverlayType.anInt7557 = 81;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.detailedColor = 10265;
+	floOverlayType.colorRGB = 3485741;
+	break;
+
+case 237:
+	floOverlayType.color = 4120;
+	floOverlayType.texture = 1835;
+	floOverlayType.anInt7555 = 400;
+	floOverlayType.anInt7557 = 81;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.detailedColor = 10265;
+	floOverlayType.colorRGB = 3485741;
+	break;
+
+case 238:
+	floOverlayType.color = 6419;
+	floOverlayType.texture = 1853;
+	floOverlayType.anInt7555 = 560;
+	floOverlayType.anInt7557 = 81;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.detailedColor = 7445;
+	floOverlayType.colorRGB = 3484186;
+	break;
+
+case 239:
+	floOverlayType.color = 6419;
+	floOverlayType.texture = 1835;
+	floOverlayType.anInt7555 = 560;
+	floOverlayType.anInt7557 = 81;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.detailedColor = 7445;
+	floOverlayType.colorRGB = 3484186;
+	break;
+
+case 240:
+	floOverlayType.color = 12471;
+	floOverlayType.texture = 2927;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 7962209;
+	break;
+
+case 241:
+	floOverlayType.color = 5768;
+	floOverlayType.texture = 1823;
+	floOverlayType.anInt7555 = 784;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 1773573;
+	break;
+
+case 242:
+	floOverlayType.color = 5333;
+	floOverlayType.texture = 1989;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 47;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.detailedColor = 7230;
+	floOverlayType.colorRGB = 12299420;
+	break;
+
+case 243:
+	floOverlayType.color = 112;
+	floOverlayType.texture = 1993;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.detailedColor = 7230;
+	floOverlayType.colorRGB = 14868961;
+	break;
+
+case 244:
+	floOverlayType.color = 7566;
+	floOverlayType.texture = 1885;
+	floOverlayType.anInt7557 = 56;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 2827024;
+	break;
+
+case 245:
+	floOverlayType.color = 6089;
+	floOverlayType.texture = 2307;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 16027952;
+	break;
+
+case 246:
+	floOverlayType.color = 32874;
+	floOverlayType.texture = 1864;
+	floOverlayType.anInt7555 = 560;
+	floOverlayType.anInt7557 = 81;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 12904167;
+	break;
+
+case 247:
+	floOverlayType.color = 39102;
+	floOverlayType.texture = 1135;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 6321818;
+	break;
+
+case 248:
+	floOverlayType.color = 7254;
+	floOverlayType.texture = 2432;
+	floOverlayType.anInt7557 = 81;
+	floOverlayType.colorRGB = 11841703;
+	break;
+
+case 249:
+	floOverlayType.color = 7254;
+	floOverlayType.texture = 2468;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 11841703;
+	break;
+
+case 250:
+	floOverlayType.color = 32874;
+	floOverlayType.texture = 3166;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 81;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 12904167;
+	break;
+
+case 251:
+	floOverlayType.color = 6445;
+	floOverlayType.texture = 2980;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 7889471;
+	break;
+
+case 252:
+	floOverlayType.color = 6442;
+	floOverlayType.texture = 3494;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 7363387;
+	break;
+
+case 253:
+	floOverlayType.color = 7331;
+	floOverlayType.texture = 3517;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5590330;
+	break;
+
+case 254:
+	floOverlayType.color = 7331;
+	floOverlayType.texture = 3529;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5590330;
+	break;
+
+case 255:
+	floOverlayType.color = 7331;
+	floOverlayType.texture = 3516;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5590330;
+	break;
+
+case 256:
+	floOverlayType.color = 7331;
+	floOverlayType.texture = 3516;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5590330;
+	break;
+
+case 257:
+	floOverlayType.color = 7331;
+	floOverlayType.texture = 3529;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5590330;
+	break;
+
+case 258:
+	floOverlayType.color = 7210;
+	floOverlayType.texture = 1898;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.colorRGB = 5986384;
+	break;
+
+case 259:
+	floOverlayType.color = 4511;
+	floOverlayType.texture = 3682;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.colorRGB = 5979170;
+	break;
+
+case 260:
+	floOverlayType.color = 4511;
+	floOverlayType.texture = 3682;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5979170;
+	break;
+
+case 261:
+	floOverlayType.color = 4511;
+	floOverlayType.texture = 3681;
+	floOverlayType.anInt7557 = 125;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5979170;
+	break;
+
+case 262:
+	floOverlayType.color = 4511;
+	floOverlayType.texture = 3683;
+	floOverlayType.anInt7557 = 125;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5979170;
+	break;
+
+case 263:
+	floOverlayType.color = 4511;
+	floOverlayType.texture = 3684;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 5979170;
+	break;
+
+case 264:
+	floOverlayType.color = 35893;
+	floOverlayType.texture = 4064;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 6516339;
+	break;
+
+case 265:
+	floOverlayType.color = 127;
+	floOverlayType.texture = 4106;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 16777215;
+	break;
+
+case 266:
+	floOverlayType.color = 38092;
+	floOverlayType.texture = 4059;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 8821164;
+	break;
+
+case 267:
+	floOverlayType.color = 5210;
+	floOverlayType.texture = 4073;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 12039345;
+	break;
+
+case 268:
+	floOverlayType.color = 127;
+	floOverlayType.texture = 2157;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 16777215;
+	break;
+
+case 269:
+	floOverlayType.color = 38092;
+	floOverlayType.texture = 4059;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 8821164;
+	break;
+
+case 270:
+	floOverlayType.color = 34383;
+	floOverlayType.texture = 4804;
+	floOverlayType.anInt7555 = 1024;
+	floOverlayType.anInt7557 = 127;
+	floOverlayType.colorRGB = 6802136;
+	break;
+
+case 271:
+	floOverlayType.color = 4534;
+	floOverlayType.texture = 5206;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.colorRGB = 10380861;
+	break;
+
+case 272:
+	floOverlayType.color = 4534;
+	floOverlayType.texture = 5207;
+	floOverlayType.anInt7557 = 126;
+	floOverlayType.colorRGB = 10380861;
+	break;
+
+case 273:
+	floOverlayType.color = 33905;
+	floOverlayType.texture = 5331;
+	floOverlayType.anInt7555 = 3040;
+	floOverlayType.anInt7557 = 98;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 13170175;
+	break;
+
+case 274:
+	floOverlayType.color = 17183;
+	floOverlayType.texture = 6004;
+	floOverlayType.anInt7557 = 63;
+	floOverlayType.aBool7558 = true;
+	floOverlayType.colorRGB = 3502602;
+	break;

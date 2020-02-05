@@ -1,0 +1,10 @@
+id=2689
+name=Frog
+description=Didn't the mage say this procedure was totally safe?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

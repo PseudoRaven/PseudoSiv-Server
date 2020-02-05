@@ -1,0 +1,17 @@
+id=11135
+name=Brave stormbringer
+description=Trained from birth to light the skies with magic. (Tier 5)
+size=1
+xp=301.9
+lifepoints=6875
+level=77
+attack=55
+defence=55
+ranged=55
+magic=55
+animations={range:13620,death:13675,attack:13620}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=[]
+aggressive=false

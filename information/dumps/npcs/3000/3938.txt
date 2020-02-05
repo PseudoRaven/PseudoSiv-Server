@@ -1,0 +1,10 @@
+id=3938
+name=Donal
+description=A rather scared-looking dwarf. He doesn't seem all that drunk.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Miscellania Underground"]
+aggressive=false
+members=false

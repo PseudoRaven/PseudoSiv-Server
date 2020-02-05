@@ -1,0 +1,10 @@
+id=1569
+name=Veliaf Hurtz
+description=Looks like the leader of the Myreque.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Myreque Hideout"]
+aggressive=false
+members=true

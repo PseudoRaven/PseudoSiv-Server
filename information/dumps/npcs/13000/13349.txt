@@ -1,0 +1,10 @@
+id=13349
+name=Chaos dwarf
+description=A dwarf gone bad.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Tunnels Near Keldagrim"]
+aggressive=false
+members=false

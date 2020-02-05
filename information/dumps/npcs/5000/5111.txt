@@ -1,0 +1,10 @@
+id=5111
+name=Leon
+description=He seems to be making odd sucking noises with his teeth.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

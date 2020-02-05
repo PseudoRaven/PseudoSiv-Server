@@ -1,0 +1,17 @@
+id=7770
+name=TokTz-Ket-Dill
+description=A big, angry, stone armadillo.
+size=3
+xp=132
+lifepoints=2300
+level=64
+attack=46
+defence=46
+ranged=46
+magic=46
+animations={death:16197,attack:16159}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=true

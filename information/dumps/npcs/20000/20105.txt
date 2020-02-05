@@ -1,0 +1,10 @@
+id=20105
+name=Estate agent
+description=An elf businesswoman with her foot on the property ladder.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Prifddinas"]
+aggressive=false
+members=false

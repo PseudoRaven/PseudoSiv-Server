@@ -1,0 +1,10 @@
+id=15718
+name=Ping
+description='Berg bard.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Iceburg"]
+aggressive=false
+members=false

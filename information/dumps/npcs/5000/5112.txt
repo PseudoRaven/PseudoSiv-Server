@@ -1,0 +1,10 @@
+id=5112
+name=Hunting expert
+description=He must be good at hunting; even his hair blends in with the surroundings.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

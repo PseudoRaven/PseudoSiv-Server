@@ -1,0 +1,11 @@
+id=4773
+name=Juvinate guard
+description=An initiate juvenile vampyre; a guard for the mining area.
+xp=119.7
+animations={}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=["Meiyerditch mine","Meiyerditch Mine"]
+aggressive=false
+members=true

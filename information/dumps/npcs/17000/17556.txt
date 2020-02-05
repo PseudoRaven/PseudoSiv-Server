@@ -1,0 +1,10 @@
+id=17556
+name=Kara-Meir
+description=A tough-looking woman, observing the battlefield.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

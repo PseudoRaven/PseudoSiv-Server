@@ -1,0 +1,17 @@
+id=1328
+name=Unicorn Foal
+description=Horned Horsey.
+size=2
+xp=26.7
+lifepoints=300
+level=8
+attack=6
+defence=6
+ranged=0
+magic=0
+animations={death:6377,attack:6376}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["RuneScape Surface"]
+aggressive=false

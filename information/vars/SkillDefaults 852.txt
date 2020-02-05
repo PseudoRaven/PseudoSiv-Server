@@ -1,0 +1,129 @@
+skills[0].maxP2pLevel = 99
+skills[0].p2pOnly = false
+skills[0].maxF2pExperience = -1
+skills[0].maxP2pLevel = 99
+
+skills[1].maxP2pLevel = 99
+skills[1].p2pOnly = false
+skills[1].maxF2pExperience = -1
+skills[1].maxP2pLevel = 99
+
+skills[2].maxP2pLevel = 99
+skills[2].p2pOnly = false
+skills[2].maxF2pExperience = -1
+skills[2].maxP2pLevel = 99
+
+skills[3].maxP2pLevel = 99
+skills[3].p2pOnly = false
+skills[3].maxF2pExperience = -1
+skills[3].maxP2pLevel = 99
+
+skills[4].maxP2pLevel = 99
+skills[4].p2pOnly = false
+skills[4].maxF2pExperience = -1
+skills[4].maxP2pLevel = 99
+
+skills[5].maxP2pLevel = 99
+skills[5].p2pOnly = false
+skills[5].maxF2pExperience = -1
+skills[5].maxP2pLevel = 99
+
+skills[6].maxP2pLevel = 99
+skills[6].p2pOnly = false
+skills[6].maxF2pExperience = -1
+skills[6].maxP2pLevel = 99
+
+skills[7].maxP2pLevel = 99
+skills[7].p2pOnly = false
+skills[7].maxF2pExperience = -1
+skills[7].maxP2pLevel = 99
+
+skills[8].maxP2pLevel = 99
+skills[8].p2pOnly = false
+skills[8].maxF2pExperience = -1
+skills[8].maxP2pLevel = 99
+
+skills[9].maxP2pLevel = 99
+skills[9].p2pOnly = true
+skills[9].maxF2pExperience = 3880
+skills[9].maxP2pLevel = 99
+
+skills[10].maxP2pLevel = 99
+skills[10].p2pOnly = false
+skills[10].maxF2pExperience = -1
+skills[10].maxP2pLevel = 99
+
+skills[11].maxP2pLevel = 99
+skills[11].p2pOnly = false
+skills[11].maxF2pExperience = -1
+skills[11].maxP2pLevel = 99
+
+skills[12].maxP2pLevel = 99
+skills[12].p2pOnly = false
+skills[12].maxF2pExperience = -1
+skills[12].maxP2pLevel = 99
+
+skills[13].maxP2pLevel = 99
+skills[13].p2pOnly = false
+skills[13].maxF2pExperience = -1
+skills[13].maxP2pLevel = 99
+
+skills[14].maxP2pLevel = 99
+skills[14].p2pOnly = false
+skills[14].maxF2pExperience = -1
+skills[14].maxP2pLevel = 99
+
+skills[15].maxP2pLevel = 99
+skills[15].p2pOnly = true
+skills[15].maxF2pExperience = 3880
+skills[15].maxP2pLevel = 99
+
+skills[16].maxP2pLevel = 99
+skills[16].p2pOnly = true
+skills[16].maxF2pExperience = 3880
+skills[16].maxP2pLevel = 99
+
+skills[17].maxP2pLevel = 99
+skills[17].p2pOnly = true
+skills[17].maxF2pExperience = 3880
+skills[17].maxP2pLevel = 99
+
+skills[18].maxP2pLevel = 99
+skills[18].p2pOnly = true
+skills[18].maxF2pExperience = 3880
+skills[18].maxP2pLevel = 99
+
+skills[19].maxP2pLevel = 99
+skills[19].p2pOnly = true
+skills[19].maxF2pExperience = 3880
+skills[19].maxP2pLevel = 99
+
+skills[20].maxP2pLevel = 99
+skills[20].p2pOnly = false
+skills[20].maxF2pExperience = -1
+skills[20].maxP2pLevel = 99
+
+skills[21].maxP2pLevel = 99
+skills[21].p2pOnly = true
+skills[21].maxF2pExperience = 3880
+skills[21].maxP2pLevel = 99
+
+skills[22].maxP2pLevel = 99
+skills[22].p2pOnly = true
+skills[22].maxF2pExperience = 3880
+skills[22].maxP2pLevel = 99
+
+skills[23].maxP2pLevel = 99
+skills[23].p2pOnly = true
+skills[23].maxF2pExperience = 3880
+skills[23].maxP2pLevel = 99
+
+skills[24].maxP2pLevel = 120
+skills[24].p2pOnly = false
+skills[24].maxF2pExperience = -1
+skills[24].maxP2pLevel = 120
+
+skills[25].maxP2pLevel = 99
+skills[25].p2pOnly = true
+skills[25].maxF2pExperience = 3880
+skills[25].maxP2pLevel = 99

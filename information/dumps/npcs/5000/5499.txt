@@ -1,0 +1,10 @@
+id=5499
+name=Eric
+description=A bedraggled-looking tramp.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

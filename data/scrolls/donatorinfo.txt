@@ -1,0 +1,105 @@
+<img=9><col=00FF00><shad=000000>Donator Information<img=9>
+ 
+<col=0000FF>Prices for ranks below, each rank includes features from the lower ranks!
+<col=0000FF>Contact an administrator for RSGP/OSGP donations.
+<col=0000FF>If you would like to donate, use the command ::donate.
+<col=0000FF>Keep in mind, RS3 and OSRS donations do not benefit from the donation bonuses. 
+
+<img=9><col=A50B00>Regular Donator - $10/ 40M RS3/ 10M 07
+<img=9><col=006600>Extreme Donator - $15/ 60M RS3/ 15M 07
+<img=9><col=0000FF>Legendary Donator - $25/ 100M RS3/ 25M 07
+<img=9><col=FFA34C>Supreme Donator - $50/ 200M RS3/ 50M 07
+<img=9><col=6C21ED>Divine Donator - $100/ 400M RS3/ 100M 07
+<img=9><col=ffffff>Angelic Donator - $200/ 800M RS3/ 200M 07
+<img=9><col=000000>Demonic Donator - $400/ 1.6B RS3/ 400M 07
+<img=9><col=65E0D5>Heroic Donator - $800/ 3.2B RS3/ 800M 07
+ 
+<img=9><col=A50B00>Regular Donator Features<img=9>
+<col=A50B00>Access to a dragon keepsake key.
+<col=A50B00>Increased divine location creating from 1 to 2.
+<col=A50B00>Increased exp bonus in member areas (multiplied as rank increases).
+<col=A50B00>Maximum reaper tasks per day increased from 1 to 2.
+<col=A50B00>Ability to use the ::yell command.
+<col=A50B00>Ability to change skin color using ::blueskin / ::greenskin
+<col=A50B00>Ability to use the cosmetics system, limited.
+<col=A50B00>Decreased difficulty in daily tasks.
+<col=A50B00>Increased grand exchange slots from 4 to 6.
+ 
+<img=9><col=006600><shad=000000>Extreme Donator Features<img=9>
+<col=006600>Access to a second dragon keepsake key.
+<col=006600>Ability to create 25 rooms in a house.
+<col=006600>Increased lottery ticket maximum of 6.
+<col=006600>Faster running energy restore rate (increases with each rank).
+<col=006600>Extra daily treasure hunter keys of 2.
+ 
+<img=9><col=0000FF><shad=000000>Legendary Donator Features<img=9>
+<col=0000FF>Access to a third dragon keepsake key.
+<col=0000FF>Discount of 10% to create instanced boss rooms.
+<col=0000FF>Major increase to bank space.
+<col=0000FF>Ability to create custom chat titles.
+<col=0000FF>Ability to create 27 rooms in a house.
+<col=0000FF>Receive 1.1x bonus exp when completing dungeons.
+<col=0000FF>Increased lottery ticket maximum of 7.
+ 
+<img=9><col=ffa34c><shad=000000>Supreme Donator Features<img=9>
+<col=ffa34c>Ability to use the ::bank command.
+<col=ffa34c>Access to a fourth dragon keepsake key.
+<col=ffa34c>Ability to use ::title to create chat/yell titles.
+<col=ffa34c>Customization to edit title colors/shades/text.
+<col=ffa34c>Discount of 20% to create instanced boss rooms.
+<col=ffa34c>Ability to create 30 rooms in a house.
+<col=ffa34c>Increased lottery ticket maximum of 8.
+<col=ffa34c>Decreased god wars killcount requirement to 30.
+<col=ffa34c>Stardust reward multiplier of 12.
+<col=ffa34c>Access to every feature in the cosmetics system.
+ 
+<img=9><col=6C21ED><shad=000000>Divine Donator Features<img=9>
+<col=6C21ED>Access to a second bank using ::bank2.
+<col=6C21ED>Ability to buy legendary pets: Blaze Hound and Rory the Reindeer.
+<col=6C21ED>Access to a fifth dragon keepsake key.
+<col=6C21ED>Discount of 30% to create instanced boss rooms.
+<col=6C21ED>Access to the ::divinezone with shops and content.
+<col=6C21ED>Increased divine location creating from 1 to 3.
+<col=6C21ED>Major bank space increase from legendary.
+<col=6C21ED>Ability to create 35 rooms in a house.
+<col=6C21ED>Increased amounts of redstone ore while mining.
+<col=6C21ED>Increased lottery ticket maximum of 9.
+<col=6C21ED>Decreased god wars killcount requirement to 20.
+<col=6C21ED>Extra daily treasure hunter keys of 3.
+ 
+<img=9><col=ffffff><shad=000000>Angelic Donator Features<img=9>
+<col=ffffff>Ability to buy legendary pets: Blood Pouncer and Sky Pouncer.
+<col=ffffff>Reduced legendary pet cooldown and execution time from divine.
+<col=ffffff>Access to a sixth dragon keepsake key.
+<col=ffffff>Discount of 40% to create instanced boss rooms.
+<col=ffffff>Access to the ::angeliczone with shops and content.
+<col=ffffff>Increased divine location creating from 1 to 4.
+<col=ffffff>Access to the command ::remote (render id).
+<col=ffffff>Ability to create 40 rooms in a house.
+<col=ffffff>Increased lottery ticket maximum of 10.
+<col=ffffff>Decreased god wars killcount requirement to 10.
+<col=ffffff>Unlimited run energy.
+ 
+<img=9><col=000000><shad=000000>Demonic Donator Features<img=9>
+Ability to buy legendary pets: Dragon Wolf.
+Reduced legendary pet cooldown and execution time from angelic.
+Access to a seventh dragon keepsake key.
+Discount of 50% to create instanced boss rooms.
+Access to the ::demoniczone with shops and content.
+Increased divine location creating from 1 to 5.
+Ability to bypass the toll upon death.
+Increased lottery ticket maximum of 11.
+Decreased god wars killcount requirement to 5.
+Extra daily treasure hunter keys of 4.
+ 
+<img=9><col=65E0D5><shad=000000>Heroic Donator Features<img=9>
+<col=65E0D5>Ability to buy legendary pets: Warborn Behemoth and Prototype Colossus.
+<col=65E0D5>Reduced legendary pet cooldown and execution time from demonic.
+<col=65E0D5>Access to an eighth dragon keepsake key.
+<col=65E0D5>Discount of 60% to create instanced boss rooms.
+<col=65E0D5>Access to the ::heroiczone with shops and content.
+<col=65E0D5>Increased divine location creating from 1 to 6.
+<col=65E0D5>Maximum bank capacity ingame.
+<col=65E0D5>Increased lottery ticket maximum of 12.
+<col=65E0D5>No god wars killcount requirement.
+<col=65E0D5>Extra daily treasure hunter keys of 5.

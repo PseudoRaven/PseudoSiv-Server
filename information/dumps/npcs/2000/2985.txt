@@ -1,0 +1,10 @@
+id=2985
+name=Loki
+description=A tricky bag of troublesome fluff.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Rat pit"]
+aggressive=true
+members=true

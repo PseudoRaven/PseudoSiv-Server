@@ -1,0 +1,10 @@
+id=6003
+name=Winkin
+description=Like a mini man!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Cellar"]
+aggressive=false
+members=false

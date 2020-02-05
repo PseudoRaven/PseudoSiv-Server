@@ -1,0 +1,11 @@
+id=5517
+name=Honour guard
+description=One of your militia.
+xp=159.3
+animations={}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["Miscellania Underground"]
+aggressive=true
+members=false

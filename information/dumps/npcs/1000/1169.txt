@@ -1,0 +1,10 @@
+id=1169
+name=Tamayu
+description=A hunter who long ago succumbed to blood lust.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Karamja jungle"]
+aggressive=false
+members=false

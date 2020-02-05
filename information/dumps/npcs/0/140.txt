@@ -1,0 +1,17 @@
+id=140
+name=Soulless
+description=A servant to Iban.
+size=1
+xp=72.6
+lifepoints=1650
+level=46
+attack=33
+defence=33
+ranged=1
+magic=1
+animations={death:340,attack:338}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["Beneath Iban's lair","Iban's Lair"]
+aggressive=false

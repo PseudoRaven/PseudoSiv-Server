@@ -1,0 +1,17 @@
+id=19545
+name=Sir Hugo
+description=A holy warrior.
+size=1
+xp=1482
+lifepoints=18750
+level=107
+attack=77
+defence=77
+ranged=1
+magic=1
+animations={death:836,attack:18241}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=false

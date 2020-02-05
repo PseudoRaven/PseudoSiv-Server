@@ -1,0 +1,16 @@
+id=11092
+name=Gallimastyx
+description=A big, slow creature with a tough leathery hide. (Tier 7)
+size=3
+xp=0.2
+lifepoints=420
+level=13
+attack=7
+defence=12
+ranged=1
+magic=1
+animations={death:13262,attack:13255}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

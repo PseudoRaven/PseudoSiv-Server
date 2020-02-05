@@ -1,0 +1,439 @@
+Interface 6 - Agility Arena Ticket Exchange
+Interface 13 - Enter Bank pin
+Interface 14 - Enter Bank Pin Setting <Continue, Cancel pin>
+Interface 17 - Items kept on death
+Interface 18 - Get Ready to respawn
+Interface 23 - Select a option <chat dialog>
+Interface 24 - Barrows ingame interface
+Interface 26 - Confirm Logout
+Interface 28 - Blast Furnace Bar Stock
+Interface 31 - Challenge Select Game
+Interface 32 - Checker Game
+Interface 36 - Rune Link
+Interface 40 - Another Game interface?
+Interface 51 - Choose your path
+Interface 52 - Log Creation <Canooe, Small boat, Med boat, Large Boat>
+Interface 53 - Please Select your Destination
+Interface 55 - Castle Wars total Wins This Season
+Interface 57 - Castle Wars waiting for players to join other team.
+Interface 58 - Castle Wars Ingame
+Interface 60 - Castle Wars Ticket Exchange
+Interface 63 - Congrats You defeated the champion!
+Interface 64 - New Character Name <When display name is deleted>
+Interface 86 - Library Interface
+Interface 88 - Choose a character
+Interface 90 - Divination Interface <Exp, energy, enhanced experience>
+Interface 91 - Memory Conversion
+Interface 92 - Wisp Colonies
+Interface 105 - Grand Exchange RS3
+Interface 106 - Grand Exchange Tutorial
+Interface 107 - Send Inventory with boxes
+Interface 109 - Collection Box Grand Exchange RS3
+Interface 110 - Grand Exchange Tutorial <Buy Offer>
+Interface 116 - Bound Items Setup Dungeoneering
+Interface 125 - Santa Naughty List
+Interface 131 - Another Memory Conversion
+Interface 133 - Cool Looking Interface <A, B, C Text>
+Interface 135 - Some kind of map compass
+Interface 136 - Chat Dialog <2 Faces, Text>
+Interface 149 - Sign Up Interface?
+Interface 157 - Quick Chat Help
+Interface 188 - Mime Event Questions
+Interface 190 - Old Quest tab Interface list
+Interface 200 - Rhino Awareness
+Interface 205 - Clan Cup
+Interface 206 - Price Checker
+Interface 216 - Choose your Chincompa's Name
+Interface 217 - Choose Next Boss
+Interface 218 - Pleaste Wait <Login Loading?>
+Interface 219 - Congratulations Interface
+Interface 222 - Valentine Hearts Interface
+Interface 223 - Penguin Emotes
+Interface 228 - Twitch Chat
+Interface 229 - Manage Bonds <Redeem bonds Aswell>
+Interface 230 - Manage Bonds <Convert Bonds>
+Interface 237 - Place Object
+Interface 241 - Books of the underworld
+Interface 242 - Investigator's Notebook
+Interface 245 - Bonds 14 days free membership <pay with gp>
+Interface 246 - Rebuildathon Rewards
+Interface 246 - Lumbridge Rebuildathon
+Interface 248 - Well of goodwill
+Interface 256 - Barbarian Assault Ingame layout
+Interface 260 - Cyrisus's Bank
+Interface 265 - Clan Wars Battle Ingame layout
+Interface 267 - Void Knight's Rewards Options
+Interface 271 - Thank You <Well of goodwill complete>
+Interface 275 - Confirm Donation <well of goodwill>
+Interface 276 - Rewards <fist of guthix>
+Interface 278 - Ranging Guild Ticket Exchange
+Interface 299 - You journey on the ship map
+Interface 301 - Assist System XP display
+Interface 309 - Hairdresser's Salon
+Interface 319 - Sound Effects
+Interface 326 - Guthixian Memorabilia
+Interface 334 - Confirm Trade
+Interface 335 - Trade Screen
+Interface 370 - Chompy Hunter Hats
+Interface 371 - Tutorial Bar - RS2 Bar
+Interface 373 - Current Champion <Fight Pits>
+Interface 374 - Viewing Orbs <Fight Pits>
+Interface 375 - Unmorph?
+Interface 382 - Warning Mesage
+Interface 383 - Pick A color
+Interface 387 - Some kind of different equipment tab?
+Interface 388 - Waiting on technician to select options
+Interface 389 - Grand Exchange Item Search
+Interface 392 - Resources Collected
+Interface 397 - Construction piece furniture build
+Interface 398 - House Options
+Interface 399 - Theres no place like home...
+Interface 402 - Room Creation Menu
+Interface 403 - Convert Wood to planks
+Interface 405 - Unsupported java warning
+Interface 406 - Face Directions
+Interface 407 - Pest Control Boat
+Interface 408 - Pest Control Ingame
+Interface 414 - Congratulations! your team won
+Interface 418 - Players Waiting <Some kind of minigame message>
+Interface 419 - Performance Equipment
+Interface 421 - Chat Dialog 12 lines
+Interface 438 - Recruit a friend?
+Interface 451 - Edit note
+Interface 468 - Some kind of blank Interface
+Interface 473 - Rewards Barbarian Assault
+Interface 475 - JMod Camera Mode
+Interface 484 - Horn of Glory Barbarian assault
+Interface 485 - Barbian Assault ingame
+Interface 486 - Barbian Assault ingame
+Interface 487 - Barbian Assault ingame
+Interface 488 - Barbian Assault ingame
+Interface 489 - Barbian Assault waiting room
+Interface 490 - Barbian Assault Roles
+Interface 492 - Team Over View
+Interface 493 - Select your role
+Interface 495 - Egg Cannon Barbian Assault
+Interface 496 - Barbarian Assault Tutorial progress
+Interface 497 - Barbarian Assault Wave Complete
+Interface 506 - Jester Controls
+Interface 519 - Send Inventory
+Interface 521 - Guidance System
+Interface 522 - Monster Name <4 lines>
+Interface 523 - Examine Player?
+Interface 527 - Hunting Interface?
+Interface 532 - Museum Kudos <Maybe good for event player counter>
+Interface 540 - Elnock's Exchange
+Interface 548 - Cut Scene
+Interface 549 - Photobooth
+Interface 553 - Book Title
+Interface 555 - Wall Design
+Interface 556 - Item Information?
+Interface 564 - Read Interface?
+Interface 565 - Some kind of pvp warning
+Interface 567 - Ribbon Setup
+Interface 569 - Some kind of colourful buttons
+Interface 570 - Possibly Circus Minigame?
+Interface 571 - Balthazar's big bonanza scoring
+Interface 572 - Mah's Nightmare
+Interface 574 - Action bar offer
+Interface 576 - Share Action Bar
+Interface 577 - Preset (Worn)
+Interface 578 - Rent/Buy Interface?
+Interface 579 - Bank Presets
+Interface 580 - Select a option
+Interface 581 - Congrats interface
+Interface 583 - Doomsayer
+Interface 591 - Bountyhunter ingame target
+Interface 592 - Elnock's Equipment Store
+Interface 593 - Report Selected Player
+Interface 594 - Report Name
+Interface 595 - Rebuilding The Mummy
+Interface 597 - Godwars kill counter
+Interface 600 - Congrats interface
+Interface 601 - Godwars kill count?
+Interface 619 - Pay bank charge with
+Interface 621 - Cool looking battle interface
+Interface 623 - Adventurer's Log Settings
+Interface 625 - Select your goblin
+Interface 627 - Preset (Backpack)
+Interface 628 - Mining Sites map
+Interface 629 - Familys Conflick
+Interface 631 - Select Challenge Skills
+Interface 632 - Halloween Reward Shop
+Interface 633 - Unmorph button
+Interface 635 - Games Necklace Teleports
+Interface 636 - Grave
+Interface 640 - Old EOC Action bar
+Interface 641 - New combat mesage
+Interface 643 - Grand exchange item history
+Interface 645 - Grand Exchange Item Sets
+Interface 646 - Grand Exchange Offer is running timelimit?
+Interface 647 - Drop Deposit Box for party room
+Interface 649 - Fight Pits Viewing Orbs
+Interface 650 - Seedicide settings
+Interface 651 - Cutscene
+Interface 652 - Gravestones <Possibly Select a custom gravestone?>
+Interface 653 - Investment Credit Exchange
+Interface 654 - Purchase Special Units <Invest Credits>
+Interface 655 - Scenario Selection
+Interface 657 - Scenario Investment Options
+Interface 658 - Select a Snowman Hat
+Interface 659 - Snow Globe
+Interface 661 - Written Note
+Interface 662 - Summoning Tab
+Interface 663 - Summoning Tab different layout
+Interface 664 - Free Axe Subscribing membership
+Interface 666 - Exit to port
+Interface 668 - Pick a puppy
+Interface 671 - Beast of Burden RS3
+Interface 672 - Event Completed?
+Interface 674 - Workshop interface?
+Interface 675 - Blank Interface But doesnt close on click unless X button.
+Interface 676 - Abilties <Passive Ability, Active Abilities>
+Interface 677 - Statistics RS3
+Interface 678 - Wheel Of fortune star selection?
+Interface 679 - Send Inventory
+Interface 680 - Picture Frame
+Interface 682 - Counterweight with direction
+Interface 683 - Some kind of interface with arrows
+Interface 685 - Farmer Blinkin's Vinesweeper Instructio
+Interface 686 - Mr Winkin's World of seeds
+Interface 689 - Some kind of points counter for a game
+Interface 694 - Player Safety Test
+Interface 700 - KGP Bureau of intelligence and  communication
+Interface 701 - Clan Noticeboard Broadcast
+Interface 702 - PVP Board - Would be good for PVP Usage in pvp worlds or combat beta.
+Interface 703 - Building Construction
+Interface 709 - Player Safety Exam 101
+Interface 711 - Requisitions
+Interface 715 - Favour Points
+Interface 716 - Chocatrice Summoning
+Interface 718 - Golem Construction RS3
+Interface 722 - Some kind of highlighted box
+Interface 723 - Ingame Interface <Not sure with one, fill this in if anyone knows>
+Interface 725 - Reinald's Smithing Emporium
+Interface 727 - A Map
+Interface 728 - YRSA's Shoe Changing
+Interface 729 - Thessalia's Makeover
+Interface 730 - Pick up a stone! Minigame interface?
+Interface 731 - Some Arena interface
+Interface 732 - Fist Of Guthix Reward Shop
+Interface 734 - Some kind of "teleport to this location" with some cool options
+Interface 735 - Clans in the area
+Interface 737 - Pick A Kitten
+Interface 738 - Tok-Xil-Im interface?
+Interface 739 - Tzhaar Numbers
+Interface 740 - Some kind of chat dialog
+Interface 741 - Pre-EOC Congratulations Interface
+Interface 742 - Ingame Setup Options
+Interface 743 - Audio Options
+Interface 744 - Login Screen
+Interface 747 - Faction Strategy Vote RS3
+Interface 748 - Place your vote
+Interface 749 - Saradomin vs Zamorak HP Bar
+Interface 751 - Select Item RS3
+Interface 752 - Current Produce: 0
+Interface 753 - Boss Information Rs3
+Interface 754 - Deaths Store
+Interface 755 - Recommended Task RS3
+Interface 756 - Draughts Options
+Interface 758 - You journey on the canoe
+Interface 759 - Bank Tab Button
+Interface 761 - Farming Store RS3
+Interface 762 - Bank of runescape RS3
+Interface 763 - Potion Store RS3
+Interface 764 - Some kind of Melee, magic, range, special select option?
+Interface 766 - Quick Task
+Interface 767 - Rules RS3
+Interface 769 - VS Game interface
+Interface 770 - Squad Recruitment
+Interface 772 - Controls
+Interface 779 - Runecrafting Guild Rewards
+Interface 780 - Runecrafting Alters
+Interface 781 - Waiting for players to join
+Interface 783 - Circus Agility Moves
+Interface 785 - Circus Rewards
+Interface 786 - Performance Equipment
+Interface 788 - Circus Performance Scoreboard
+Interface 791 - Clan Battles
+Interface 793 - Free-for-all safe
+Interface 797 - Theatre Backdrop
+Interface 798 - Cool looking warning interface <Be cool for an broadcast :)>
+Interface 801 - Quick Chat Restrictions
+Interface 802 - Game Score
+Interface 804 - Game Count <Combat lvl, skill lvl>
+Interface 805 - Legacy Trading Screen
+Interface 806 - Remaining Clay
+Interface 809 - Game Ending Remaining time
+Interface 810 - Your Valiant team takes the victory!
+Interface 811 - Stealing Creation Reward Shop
+Interface 812 - Clan Leader, Allied Leader?
+Interface 813 - Creation Kiln
+Interface 823 - Add Props? Possible J-Mod Object spawning objects?
+Interface 865 - Prefixes- some custom prefix changing widget
+Interface 868 - Quest Interface Old
+Interface 879 - Pet House
+Interface 890 - Santa Nice List
+Interface 892 - Scoreboard
+Interface 897 - Controls Tutorial widget
+Interface 900 - Gender/Skin Changing widget New
+Interface 914 - Report Player Widgnet New
+Interface 915 - Report Selection Widget
+Interface 933 - Dungeoneering Completion Widget
+Interface 938 - Skill Complexity Dungeoneering
+Interface 939 - Party Details
+Interface 940 - Daemonheim rewards dungeoneering
+Interface 945 - Ingame Dungeoneering Widget <Time, Death, Current Keys>
+Interface 947 - Select Floor Dungeoneering
+Interface 948 - Dungeon Journal
+Interface 949 - Party Invite Dungeoneering
+Interface 951 - Event Title Interface? Maybe useful.
+Interface 956 - Dungeoneering Shop ingame
+Interface 960 - Book Title
+Interface 975 - RuneScape 3 Playgame
+Interface 979 - Report Selected Player <Looks Old>
+Interface 993 - Ring Of Kinship Customizaton
+Interface 994 - Select AutoGrouping Floor
+Interface 996 - Start Room Modifications
+Interface 999 - Book Shop
+Interface 1004 - Start Reaction
+Interface 1006 - Herbicide Settings RS3
+Interface 1008 - Truce Offer
+Interface 1010 - Turn Options
+Interface 1011 - Commendation Rewards
+Interface 1012 - Troop Details
+Interface 1015 - Squad Selection
+Interface 1016 - Conquest Options
+Interface 1017 - Squad Formation
+Interface 1018 - Bigger NPC/Player Chat?
+Interface 1019 - Diplomacy
+Interface 1020 - Blank Dialog
+Interface 1021 - Confirm Options
+Interface 1022 - Conquest Options
+Interface 1023 - Confirm Options Conquest
+Interface 1024 - Commands in army Selection
+Interface 1026 - Select challenge Type conquest
+Interface 1028 - The Trader
+Interface 1029 - Poll Interface RS3
+Interface 1030 - Lucky Challenge RS3
+Interface 1031 - Blank Interface
+Interface 1032 - Dungeoneering Hard mode floors
+Interface 1033 - Valentine Interface
+Interface 1034 - Valentine Interface
+Interface 1035 - Rewards Shop RS3
+Interface 1036 - Welcome to the guards team <ok button>
+Interface 1037 - Players Waiting Guards/Robbers
+Interface 1038 - Game Over! The Robbers won
+Interface 1039 - Heist Perks
+Interface 1040 - Heist time left
+Interface 1041 - Wanted Noticeboard - RS3
+Interface 1043 - Rewards RS3
+Interface 1044 - Whats new? Barbarian assault improvements
+Interface 1047 - Mayhem Tasks RS3
+Interface 1048 - Some kind of Yes and No Box RS3
+Interface 1049 - Floor Settings Dungeoneering RS3
+Interface 1051 - Tournament Board
+Interface 1056 - Active Task RS3
+Interface 1068 - The Golden Joystick Award
+Interface 1070 - Ceremonial Sword
+Interface 1072 - Ship name creator
+Interface 1079 - Tutorial Controls
+Interface 1082 - Farming Patch Status
+Interface 1083 - Rewards
+Interface 1084 - Invite
+Interface 1085 - Invitation Interface <Good for teleporting someone :)>
+Interface 1086 - Rated Clan Wars Challenge Interface
+Interface 1087 - Rated Clan Wars Results
+Interface 1088 - Rated Clan Wars ingame interface
+Interface 1089 - Clan Flag Selection
+Interface 1090 - Request To join
+Interface 1091 - Clan List Setup
+Interface 1093 - Invitation to start a clan
+Interface 1094 - Enter Clan name
+Interface 1097 - Clan Keywords
+Interface 1098 - Edit Noticeboard Events
+Interface 1100 - Forum ThreadID
+Interface 1101 - Clan Voting
+Interface 1102 - Clan Vote
+Interface 1103 - Enter Clan Motto
+Interface 1113 - Clan Battlefield
+Interface 1114 - Clan Battlefield setup
+Interface 1115 - Clan Citadel Buying
+Interface 1116 - Clan Relationships
+Interface 1117 - Resource Cap
+Interface 1119 - Citadel Tent
+Interface 1121 - Clan Citadel Tier Data
+Interface 1138 - Equipment Bonuses Interface original?? This is awesome to see still in rs3
+Interface 1145 - Spirit Tree
+Interface 1152 - Skin Colour Customiser
+Interface 1159 - Cool Interface?
+Interface 1171 - Reward Chest
+Interface 1183 - Somesort of Chat dialog with options
+Interface 1188 - Chat Dialog - Select options
+Interface 1215 - XP tracker
+Interface 1237 - Hints Interface
+Interface 1243 - Quest Interface
+Interface 1242 - Quest Complete
+Interface 1245 - Quest List Interace
+Interface 1250 - Fireworks
+Interface 1251 - Cooking Action
+Interface 1254 - Logout Alert
+Interface 1255 - Please Wait
+Interface 1257 - Clan Member Resource Info
+Interface 1258 - Another Clan Citadel Building
+Interface 1259 - Addon to the 1258
+Interface 1260 - Addon to the 1258
+Interface 1261 - Addon to the 1258
+Interface 1262 - Warning Message <Danger Area>
+Interface 1263 - Skill Selection
+Interface 1283 - Recolour Gear Set
+Interface 1284 - Reward Chest
+Interface 1285 - QBD Ingame HP bar
+Interface 1292 - Another Warning Message
+Interface 1301 - 200m Accounts created
+Interface 1303 - Send items interface
+Interface 1304 - Treasure Chest
+Interface 1306 - Select a piece of furniture to build
+Interface 1308 - Slayer Shop and Information
+Interface 1309 - CO-op Slayer
+Interface 1310 - You been invited to a slayer group by name
+Interface 1314 - Ingame Hiscores?
+Interface 1318 - Count Down Interface
+Interface 1321 - Clan Avatar Customisation
+Interface 1332 - Clan Avatar Information
+Interface 1333 - Avatar Buff Select
+Interface 1334 - Avatar Buff Slots
+Interface 1364 - Last 50 Matches
+Interface 1362 - Duel Arena Overlay
+Interface 1365 - Duel Challenger Info
+Interface 1366 - Duel Interface Comfirm section screen
+Interface 1367 - Duel Interface
+Interface 1369 - Duel Challenge
+Interface 1387 - Diango Item Retrieval
+Interface 1401 - Members Only Content
+Interface 1402 - Teleport Offer
+Interface 1405 - Report a bug
+Interface 1406 - Report <Report Player, Report Bug>
+Interface 1428 - Change Character Name <Unavailable Time>
+Interface 1477 - Game Crash
+Interface 1487 - Change Character Name Input
+Interface 1492 - Vorago fire (hide in waterfall)
+Interface 1501 - Change Character Name Comfirm <Pay With Bond or wait for free>
+Interface 1502 - Some kind of camera settings Buttons?
+Interface 1508 - Show Time Button
+Interface 1509 - Redeem Bonds
+Interface 1510 - Not Enough Bonds
+Interface 1511 - RuneFest Packages
+Interface 1512 - Crystal Coins Package
+Interface 1514 - Araxxi Corpse Loot
+Interface 1521 - Has invited you to join a group
+Interface 1523 - Enter a player to invite
+Interface 1525 - Set Group Rank
+Interface 1526 - Set Team
+Interface 1527 - Group Ready <Click to teleport>
+Interface 1534 - Reward Chest
+Interface 1550 - Velocity priff agility
+Interface 1579 - Game Crash
+Interface 1592 - New Instance Interface
+Interface 1622 - Loot Interface
+Interface 1671 - Multi Actionbars

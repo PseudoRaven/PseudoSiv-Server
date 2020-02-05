@@ -1,0 +1,10 @@
+id=9095
+name=Silas
+description=Apparently, he keeps a lighthouse.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Silas's Dream"]
+aggressive=false
+members=false

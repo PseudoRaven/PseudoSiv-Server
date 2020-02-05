@@ -1,0 +1,17 @@
+id=19358
+name=Yelps's bodyguard
+description=He's just joining your fight, don't mind him.
+size=1
+xp=2065.5
+lifepoints=20000
+level=112
+attack=80
+defence=80
+ranged=1
+magic=1
+animations={death:6190,attack:6188}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

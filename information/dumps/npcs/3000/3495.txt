@@ -1,0 +1,17 @@
+id=3495
+name=Karamel
+description=Pure evil lightly whipped with a juicy cherry on top.
+size=1
+xp=312.3
+lifepoints=4800
+level=89
+attack=48
+defence=64
+ranged=64
+magic=0
+animations={death:836,attack:2075}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=true

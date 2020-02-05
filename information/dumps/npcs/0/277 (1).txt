@@ -1,0 +1,17 @@
+id=277
+name=Fire Warrior of Lesarkus
+description=Intimidating!
+size=1
+xp=201.3
+lifepoints=2750
+level=77
+attack=55
+defence=55
+ranged=0
+magic=55
+animations={death:836}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=[]
+aggressive=false

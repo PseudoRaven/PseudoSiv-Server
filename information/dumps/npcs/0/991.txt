@@ -1,0 +1,10 @@
+id=991
+name=Half-soulless
+description=A creature empty of emotion.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Iban's Lair"]
+aggressive=false
+members=false

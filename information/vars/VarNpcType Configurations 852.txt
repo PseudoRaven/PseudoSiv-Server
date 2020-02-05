@@ -1,0 +1,912 @@
+
+case 0:
+	varNpcType.dataType = USERHASH;
+	break;
+
+case 1:
+	varNpcType.dataType = TYPE_65;
+	break;
+
+case 2:
+	varNpcType.dataType = TYPE_65;
+	break;
+
+case 3:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 4:
+	varNpcType.dataType = INT;
+	break;
+
+case 5:
+	varNpcType.dataType = INT;
+	break;
+
+case 6:
+	varNpcType.dataType = INT;
+	break;
+
+case 7:
+	varNpcType.dataType = INT;
+	break;
+
+case 8:
+	varNpcType.dataType = INT;
+	break;
+
+case 9:
+	varNpcType.dataType = INT;
+	break;
+
+case 10:
+	varNpcType.dataType = INT;
+	break;
+
+case 11:
+	varNpcType.dataType = INT;
+	break;
+
+case 12:
+	varNpcType.dataType = INT;
+	break;
+
+case 13:
+	varNpcType.dataType = STRUCT;
+	break;
+
+case 14:
+	varNpcType.dataType = STRUCT;
+	break;
+
+case 15:
+	varNpcType.dataType = INT;
+	break;
+
+case 16:
+	varNpcType.dataType = TYPE_65;
+	break;
+
+case 17:
+	varNpcType.dataType = INT;
+	break;
+
+case 18:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 19:
+	varNpcType.dataType = TYPE_38;
+	break;
+
+case 20:
+	varNpcType.dataType = INT;
+	break;
+
+case 21:
+	varNpcType.dataType = INT;
+	break;
+
+case 22:
+	varNpcType.dataType = INT;
+	break;
+
+case 23:
+	varNpcType.dataType = TILE;
+	break;
+
+case 24:
+	varNpcType.dataType = INT;
+	break;
+
+case 25:
+	varNpcType.dataType = TILE;
+	break;
+
+case 26:
+	varNpcType.dataType = INT;
+	break;
+
+case 27:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 28:
+	varNpcType.dataType = INT;
+	break;
+
+case 29:
+	varNpcType.dataType = INT;
+	break;
+
+case 30:
+	varNpcType.dataType = INT;
+	break;
+
+case 31:
+	varNpcType.dataType = INT;
+	break;
+
+case 32:
+	varNpcType.dataType = TILE;
+	break;
+
+case 33:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 34:
+	varNpcType.dataType = TYPE_65;
+	break;
+
+case 35:
+	varNpcType.dataType = INT;
+	break;
+
+case 36:
+	varNpcType.dataType = INT;
+	break;
+
+case 37:
+	varNpcType.dataType = INT;
+	break;
+
+case 38:
+	varNpcType.dataType = INT;
+	break;
+
+case 39:
+	varNpcType.dataType = TYPE_49;
+	break;
+
+case 40:
+	varNpcType.dataType = TYPE_49;
+	break;
+
+case 41:
+	varNpcType.dataType = TILE;
+	break;
+
+case 42:
+	varNpcType.dataType = TILE;
+	break;
+
+case 43:
+	varNpcType.dataType = TILE;
+	break;
+
+case 44:
+	varNpcType.dataType = TILE;
+	break;
+
+case 45:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 46:
+	varNpcType.dataType = TYPE_38;
+	break;
+
+case 47:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 48:
+	varNpcType.dataType = TYPE_38;
+	break;
+
+case 49:
+	varNpcType.dataType = TYPE_38;
+	break;
+
+case 50:
+	varNpcType.dataType = TYPE_38;
+	break;
+
+case 51:
+	varNpcType.dataType = TYPE_38;
+	break;
+
+case 52:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 53:
+	varNpcType.dataType = INT;
+	break;
+
+case 54:
+	varNpcType.dataType = INT;
+	break;
+
+case 55:
+	varNpcType.dataType = INT;
+	break;
+
+case 56:
+	varNpcType.dataType = INT;
+	break;
+
+case 57:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 58:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 59:
+	varNpcType.dataType = INT;
+	break;
+
+case 60:
+	varNpcType.dataType = INT;
+	break;
+
+case 61:
+	varNpcType.dataType = INT;
+	break;
+
+case 62:
+	varNpcType.dataType = INT;
+	break;
+
+case 63:
+	varNpcType.dataType = INT;
+	break;
+
+case 64:
+	varNpcType.dataType = TYPE_65;
+	break;
+
+case 65:
+	varNpcType.dataType = TYPE_65;
+	break;
+
+case 66:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 67:
+	varNpcType.dataType = INT;
+	break;
+
+case 68:
+	varNpcType.dataType = INT;
+	break;
+
+case 69:
+	varNpcType.dataType = TYPE_38;
+	break;
+
+case 70:
+	varNpcType.dataType = TYPE_38;
+	break;
+
+case 71:
+	varNpcType.dataType = TYPE_38;
+	break;
+
+case 72:
+	varNpcType.dataType = TYPE_38;
+	break;
+
+case 73:
+	varNpcType.dataType = TYPE_65;
+	break;
+
+case 74:
+	varNpcType.dataType = INT;
+	break;
+
+case 75:
+	varNpcType.dataType = INT;
+	break;
+
+case 76:
+	varNpcType.dataType = TYPE_38;
+	break;
+
+case 77:
+	varNpcType.dataType = INT;
+	break;
+
+case 78:
+	varNpcType.dataType = TYPE_38;
+	break;
+
+case 79:
+	varNpcType.dataType = TYPE_38;
+	break;
+
+case 80:
+	varNpcType.dataType = TYPE_38;
+	break;
+
+case 81:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 82:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 83:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 84:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 85:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 86:
+	varNpcType.dataType = TYPE_65;
+	break;
+
+case 87:
+	varNpcType.dataType = INT;
+	break;
+
+case 88:
+	varNpcType.dataType = INT;
+	break;
+
+case 89:
+	varNpcType.dataType = INT;
+	break;
+
+case 90:
+	varNpcType.dataType = INT;
+	break;
+
+case 91:
+	varNpcType.dataType = INT;
+	break;
+
+case 92:
+	varNpcType.dataType = INT;
+	break;
+
+case 93:
+	varNpcType.dataType = INT;
+	break;
+
+case 94:
+	varNpcType.dataType = INT;
+	break;
+
+case 95:
+	varNpcType.dataType = INT;
+	break;
+
+case 96:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 97:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 98:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 99:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 100:
+	varNpcType.dataType = TYPE_38;
+	break;
+
+case 101:
+	varNpcType.dataType = TYPE_38;
+	break;
+
+case 102:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 103:
+	varNpcType.dataType = TYPE_65;
+	break;
+
+case 104:
+	varNpcType.dataType = INT;
+	break;
+
+case 105:
+	varNpcType.dataType = INT;
+	break;
+
+case 106:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 107:
+	varNpcType.dataType = INT;
+	break;
+
+case 108:
+	varNpcType.dataType = INT;
+	break;
+
+case 109:
+	varNpcType.dataType = INT;
+	break;
+
+case 110:
+	varNpcType.dataType = INT;
+	break;
+
+case 111:
+	varNpcType.dataType = INT;
+	break;
+
+case 112:
+	varNpcType.dataType = STRUCT;
+	break;
+
+case 113:
+	varNpcType.dataType = INT;
+	break;
+
+case 114:
+	varNpcType.dataType = INT;
+	break;
+
+case 115:
+	varNpcType.dataType = INT;
+	break;
+
+case 116:
+	varNpcType.dataType = TYPE_65;
+	break;
+
+case 117:
+	varNpcType.dataType = INT;
+	break;
+
+case 118:
+	varNpcType.dataType = INT;
+	break;
+
+case 119:
+	varNpcType.dataType = INT;
+	break;
+
+case 120:
+	varNpcType.dataType = INT;
+	break;
+
+case 121:
+	varNpcType.dataType = INT;
+	break;
+
+case 122:
+	varNpcType.dataType = TYPE_65;
+	break;
+
+case 123:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 124:
+	varNpcType.dataType = INT;
+	break;
+
+case 125:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 126:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 127:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 128:
+	varNpcType.dataType = INT;
+	break;
+
+case 129:
+	varNpcType.dataType = INT;
+	break;
+
+case 130:
+	varNpcType.dataType = INT;
+	break;
+
+case 131:
+	varNpcType.dataType = TYPE_65;
+	break;
+
+case 132:
+	varNpcType.dataType = TYPE_65;
+	break;
+
+case 133:
+	varNpcType.dataType = NPC;
+	break;
+
+case 134:
+	varNpcType.dataType = BOOLEAN;
+	break;
+
+case 135:
+	varNpcType.dataType = BOOLEAN;
+	break;
+
+case 136:
+	varNpcType.dataType = BOOLEAN;
+	break;
+
+case 137:
+	varNpcType.dataType = INT;
+	break;
+
+case 138:
+	varNpcType.dataType = INT;
+	break;
+
+case 139:
+	varNpcType.dataType = INT;
+	break;
+
+case 140:
+	varNpcType.dataType = INT;
+	break;
+
+case 141:
+	varNpcType.dataType = INT;
+	break;
+
+case 142:
+	varNpcType.dataType = INT;
+	break;
+
+case 143:
+	varNpcType.dataType = INT;
+	break;
+
+case 144:
+	varNpcType.dataType = INT;
+	break;
+
+case 145:
+	varNpcType.dataType = INT;
+	break;
+
+case 146:
+	varNpcType.dataType = INT;
+	break;
+
+case 147:
+	varNpcType.dataType = NPC;
+	break;
+
+case 148:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 149:
+	varNpcType.dataType = INT;
+	break;
+
+case 150:
+	varNpcType.dataType = INT;
+	break;
+
+case 151:
+	varNpcType.dataType = TILE;
+	break;
+
+case 152:
+	varNpcType.dataType = TYPE_38;
+	break;
+
+case 153:
+	varNpcType.dataType = TYPE_38;
+	break;
+
+case 154:
+	varNpcType.dataType = TYPE_38;
+	break;
+
+case 155:
+	varNpcType.dataType = TYPE_65;
+	break;
+
+case 156:
+	varNpcType.dataType = TYPE_65;
+	break;
+
+case 157:
+	varNpcType.dataType = USERHASH;
+	break;
+
+case 158:
+	varNpcType.dataType = BOOLEAN;
+	break;
+
+case 159:
+	varNpcType.dataType = INT;
+	break;
+
+case 160:
+	varNpcType.dataType = INT;
+	break;
+
+case 161:
+	varNpcType.dataType = OBJ;
+	break;
+
+case 162:
+	varNpcType.dataType = STRING;
+	break;
+
+case 163:
+	varNpcType.dataType = INT;
+	break;
+
+case 164:
+	varNpcType.dataType = INT;
+	break;
+
+case 165:
+	varNpcType.dataType = USERHASH;
+	break;
+
+case 166:
+	varNpcType.dataType = INT;
+	break;
+
+case 167:
+	varNpcType.dataType = INT;
+	break;
+
+case 168:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 169:
+	varNpcType.dataType = INT;
+	break;
+
+case 170:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 171:
+	varNpcType.dataType = ANIMATION;
+	break;
+
+case 172:
+	varNpcType.dataType = ANIMATION;
+	break;
+
+case 173:
+	varNpcType.dataType = ANIMATION;
+	break;
+
+case 174:
+	varNpcType.dataType = SPOT;
+	break;
+
+case 175:
+	varNpcType.dataType = ANIMATION;
+	break;
+
+case 176:
+	varNpcType.dataType = ANIMATION;
+	break;
+
+case 177:
+	varNpcType.dataType = ANIMATION;
+	break;
+
+case 178:
+	varNpcType.dataType = INT;
+	break;
+
+case 179:
+	varNpcType.dataType = INT;
+	break;
+
+case 180:
+	varNpcType.dataType = OBJ;
+	break;
+
+case 181:
+	varNpcType.dataType = OBJ;
+	break;
+
+case 182:
+	varNpcType.dataType = OBJ;
+	break;
+
+case 183:
+	varNpcType.dataType = INT;
+	break;
+
+case 184:
+	varNpcType.dataType = INT;
+	break;
+
+case 185:
+	varNpcType.dataType = INT;
+	break;
+
+case 186:
+	varNpcType.dataType = OBJ;
+	break;
+
+case 187:
+	varNpcType.dataType = INT;
+	break;
+
+case 188:
+	varNpcType.dataType = INT;
+	break;
+
+case 189:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 190:
+	varNpcType.dataType = INT;
+	break;
+
+case 191:
+	varNpcType.dataType = INT;
+	break;
+
+case 192:
+	varNpcType.dataType = INT;
+	break;
+
+case 193:
+	varNpcType.dataType = INT;
+	break;
+
+case 194:
+	varNpcType.dataType = INT;
+	break;
+
+case 195:
+	varNpcType.dataType = INT;
+	break;
+
+case 196:
+	varNpcType.dataType = INT;
+	break;
+
+case 197:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 198:
+	varNpcType.dataType = INT;
+	break;
+
+case 199:
+	varNpcType.dataType = INT;
+	break;
+
+case 200:
+	varNpcType.dataType = INT;
+	break;
+
+case 201:
+	varNpcType.dataType = INT;
+	break;
+
+case 202:
+	varNpcType.dataType = INT;
+	break;
+
+case 203:
+	varNpcType.dataType = INT;
+	break;
+
+case 204:
+	varNpcType.dataType = INT;
+	break;
+
+case 205:
+	varNpcType.dataType = INT;
+	break;
+
+case 206:
+	varNpcType.dataType = USERHASH;
+	break;
+
+case 207:
+	varNpcType.dataType = SPOT;
+	break;
+
+case 208:
+	varNpcType.dataType = TYPE_65;
+	break;
+
+case 209:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 210:
+	varNpcType.dataType = SKILL;
+	break;
+
+case 211:
+	varNpcType.dataType = INT;
+	break;
+
+case 212:
+	varNpcType.dataType = INT;
+	break;
+
+case 213:
+	varNpcType.dataType = INT;
+	break;
+
+case 214:
+	varNpcType.dataType = INT;
+	break;
+
+case 215:
+	varNpcType.dataType = INT;
+	break;
+
+case 216:
+	varNpcType.dataType = INT;
+	break;
+
+case 217:
+	varNpcType.dataType = INT;
+	break;
+
+case 218:
+	varNpcType.dataType = INT;
+	break;
+
+case 219:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 220:
+	varNpcType.dataType = INT;
+	break;
+
+case 221:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 222:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 223:
+	varNpcType.dataType = TYPE_65;
+	break;
+
+case 224:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 225:
+	varNpcType.dataType = PLAYER;
+	break;
+
+case 226:
+	varNpcType.dataType = INT;
+	break;
+
+case 227:
+	varNpcType.dataType = INT;
+	break;

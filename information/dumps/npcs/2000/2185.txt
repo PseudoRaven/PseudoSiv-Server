@@ -1,0 +1,10 @@
+id=2185
+name=Cart conductor
+description=Remember: don't drink and ride in mine carts.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["White Wolf Mountain underground"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=12368
+name=Lumbridge guard
+description=He tries to keep order around Lumbridge by killing rats.
+size=1
+xp=25.5
+lifepoints=200
+level=5
+attack=4
+defence=4
+ranged=1
+magic=1
+animations={death:836,attack:12310}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=true

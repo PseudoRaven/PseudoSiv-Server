@@ -1,0 +1,10 @@
+id=2164
+name=Banker
+description=A rather serious old fella.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

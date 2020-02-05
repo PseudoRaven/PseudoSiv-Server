@@ -1,0 +1,10 @@
+id=523
+name=Shop assistant
+description=Likes helping sell stuff.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Varrock","RuneScape Surface"]
+aggressive=false
+members=false

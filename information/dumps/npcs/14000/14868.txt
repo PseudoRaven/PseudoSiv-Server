@@ -1,0 +1,10 @@
+id=14868
+name=Jacquelyn Manslaughter
+description=An expert at slaying difficult opponents.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

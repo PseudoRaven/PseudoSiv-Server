@@ -1,0 +1,10 @@
+id=17565
+name=Saradomin devotee
+description=Has travelled all the way from Entrana to be here.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

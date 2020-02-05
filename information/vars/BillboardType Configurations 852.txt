@@ -1,0 +1,4394 @@
+
+case 0:
+	billboardType.textureTypeId = 3049;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 51;
+	billboardType.anInt3875 = 51;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 1:
+	billboardType.textureTypeId = 3019;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 421;
+	billboardType.anInt3875 = 651;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 2:
+	billboardType.textureTypeId = 3019;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 301;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 3:
+	billboardType.textureTypeId = 3019;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 4:
+	billboardType.textureTypeId = 3019;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 421;
+	billboardType.anInt3875 = 421;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 5:
+	billboardType.textureTypeId = 3019;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 46;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 6:
+	billboardType.textureTypeId = 3019;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 21;
+	billboardType.anInt3875 = 86;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 7:
+	billboardType.textureTypeId = 3019;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 46;
+	billboardType.anInt3875 = 56;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 8:
+	billboardType.textureTypeId = 3049;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 2;
+	billboardType.anInt3875 = 2;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 9:
+	billboardType.textureTypeId = 3049;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 4;
+	billboardType.anInt3875 = 4;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 10:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 13;
+	billboardType.anInt3875 = 13;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 11:
+	billboardType.textureTypeId = 3031;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 66;
+	billboardType.anInt3875 = 66;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 12:
+	billboardType.textureTypeId = 3031;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 17;
+	billboardType.anInt3875 = 17;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 13:
+	billboardType.textureTypeId = 3031;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 76;
+	billboardType.anInt3875 = 76;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 14:
+	billboardType.textureTypeId = 3026;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 51;
+	billboardType.anInt3875 = 51;
+	break;
+
+case 15:
+	billboardType.textureTypeId = 3026;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 71;
+	billboardType.anInt3875 = 71;
+	break;
+
+case 16:
+	billboardType.textureTypeId = 3026;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	break;
+
+case 17:
+	billboardType.textureTypeId = 3026;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 121;
+	billboardType.anInt3875 = 121;
+	break;
+
+case 18:
+	billboardType.textureTypeId = 3026;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 171;
+	billboardType.anInt3875 = 171;
+	break;
+
+case 19:
+	billboardType.textureTypeId = 3052;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	break;
+
+case 20:
+	billboardType.textureTypeId = 3052;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 3;
+	break;
+
+case 21:
+	billboardType.textureTypeId = 3038;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 51;
+	billboardType.anInt3875 = 51;
+	billboardType.aBool3878 = true;
+	break;
+
+case 22:
+	billboardType.textureTypeId = 3056;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 129;
+	billboardType.anInt3875 = 129;
+	break;
+
+case 23:
+	billboardType.textureTypeId = 3027;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 351;
+	billboardType.anInt3875 = 351;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 24:
+	billboardType.textureTypeId = 1056;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 129;
+	billboardType.anInt3875 = 129;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 25:
+	billboardType.textureTypeId = 1039;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 129;
+	billboardType.anInt3875 = 129;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 26:
+	billboardType.textureTypeId = 1046;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 129;
+	billboardType.anInt3875 = 129;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 27:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 151;
+	billboardType.anInt3875 = 151;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 28:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 301;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 29:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 301;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 30:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 301;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 31:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 32:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 66;
+	billboardType.anInt3875 = 66;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 33:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 21;
+	billboardType.anInt3875 = 21;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 34:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 21;
+	billboardType.anInt3875 = 21;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 35:
+	billboardType.textureTypeId = 986;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 36:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 49;
+	billboardType.anInt3875 = 49;
+	billboardType.colorSpaceType = 3;
+	billboardType.aBool3878 = true;
+	break;
+
+case 37:
+	billboardType.textureTypeId = 3038;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 51;
+	billboardType.anInt3875 = 51;
+	billboardType.aBool3878 = true;
+	break;
+
+case 38:
+	billboardType.textureTypeId = 3049;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 4;
+	billboardType.anInt3875 = 4;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 39:
+	billboardType.textureTypeId = 3041;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 40:
+	billboardType.textureTypeId = 3049;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 41:
+	billboardType.textureTypeId = 3041;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 42:
+	billboardType.textureTypeId = 3041;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 51;
+	billboardType.anInt3875 = 51;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 43:
+	billboardType.textureTypeId = 3066;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 44:
+	billboardType.textureTypeId = 1067;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 257;
+	billboardType.anInt3875 = 257;
+	billboardType.aBool3878 = true;
+	break;
+
+case 45:
+	billboardType.textureTypeId = 3049;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 211;
+	billboardType.anInt3875 = 211;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 46:
+	billboardType.textureTypeId = 1056;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 125;
+	billboardType.anInt3875 = 125;
+	billboardType.aBool3878 = true;
+	break;
+
+case 47:
+	billboardType.textureTypeId = 1039;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 125;
+	billboardType.anInt3875 = 125;
+	billboardType.aBool3878 = true;
+	break;
+
+case 48:
+	billboardType.textureTypeId = 1046;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 125;
+	billboardType.anInt3875 = 125;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 49:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 21;
+	billboardType.anInt3875 = 21;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 50:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 151;
+	billboardType.anInt3875 = 151;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 51:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 301;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 52:
+	billboardType.textureTypeId = 3052;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 53:
+	billboardType.textureTypeId = 3031;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 66;
+	billboardType.anInt3875 = 66;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 54:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 401;
+	billboardType.anInt3875 = 401;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 55:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 56:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 57:
+	billboardType.textureTypeId = 1059;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 151;
+	billboardType.anInt3875 = 151;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 58:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 151;
+	billboardType.anInt3875 = 151;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 59:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 21;
+	billboardType.anInt3875 = 21;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 60:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 301;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 61:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 151;
+	billboardType.anInt3875 = 151;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 62:
+	billboardType.textureTypeId = 3031;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 17;
+	billboardType.anInt3875 = 17;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 63:
+	billboardType.textureTypeId = 3041;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 33;
+	billboardType.anInt3875 = 33;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 64:
+	billboardType.textureTypeId = 3041;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 65:
+	billboardType.textureTypeId = 3041;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 51;
+	billboardType.anInt3875 = 51;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 66:
+	billboardType.textureTypeId = 3041;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 33;
+	billboardType.anInt3875 = 33;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 67:
+	billboardType.textureTypeId = 3041;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 68:
+	billboardType.textureTypeId = 3045;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 351;
+	billboardType.anInt3875 = 351;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 69:
+	billboardType.textureTypeId = 3072;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 351;
+	billboardType.anInt3875 = 351;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 70:
+	billboardType.textureTypeId = 3004;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 17;
+	billboardType.anInt3875 = 17;
+	billboardType.aBool3878 = true;
+	break;
+
+case 71:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 13;
+	billboardType.anInt3875 = 13;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 72:
+	billboardType.textureTypeId = 3049;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 31;
+	billboardType.anInt3875 = 31;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 73:
+	billboardType.textureTypeId = 3051;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 17;
+	billboardType.anInt3875 = 17;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 74:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 41;
+	billboardType.anInt3875 = 41;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 75:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 51;
+	billboardType.anInt3875 = 51;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 76:
+	billboardType.textureTypeId = 3063;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 171;
+	billboardType.anInt3875 = 171;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 77:
+	billboardType.textureTypeId = 3036;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 171;
+	billboardType.anInt3875 = 171;
+	billboardType.aBool3878 = true;
+	break;
+
+case 78:
+	billboardType.textureTypeId = 3039;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 171;
+	billboardType.anInt3875 = 171;
+	billboardType.aBool3878 = true;
+	break;
+
+case 79:
+	billboardType.textureTypeId = 3033;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 301;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 80:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 151;
+	billboardType.anInt3875 = 151;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 81:
+	billboardType.textureTypeId = 3002;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 81;
+	billboardType.anInt3875 = 81;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 82:
+	billboardType.textureTypeId = 3017;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 121;
+	billboardType.anInt3875 = 121;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 83:
+	billboardType.textureTypeId = 3033;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 301;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 84:
+	billboardType.textureTypeId = 3028;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 211;
+	billboardType.anInt3875 = 211;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 85:
+	billboardType.textureTypeId = 3031;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 37;
+	billboardType.anInt3875 = 37;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 86:
+	billboardType.textureTypeId = 3037;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 601;
+	billboardType.anInt3875 = 401;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 87:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 49;
+	billboardType.anInt3875 = 49;
+	billboardType.colorSpaceType = 3;
+	billboardType.aBool3878 = true;
+	break;
+
+case 88:
+	billboardType.textureTypeId = 3004;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 89:
+	billboardType.textureTypeId = 3062;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 301;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 90:
+	billboardType.textureTypeId = 3017;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 601;
+	billboardType.anInt3875 = 401;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 91:
+	billboardType.textureTypeId = 1974;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 1001;
+	billboardType.anInt3875 = 1001;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 92:
+	billboardType.textureTypeId = 3038;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 51;
+	billboardType.anInt3875 = 51;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 93:
+	billboardType.textureTypeId = 3025;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 251;
+	billboardType.anInt3875 = 251;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 94:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 49;
+	billboardType.anInt3875 = 49;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 95:
+	billboardType.textureTypeId = 3038;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 51;
+	billboardType.anInt3875 = 51;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 96:
+	billboardType.textureTypeId = 3033;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 181;
+	billboardType.anInt3875 = 181;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 97:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 31;
+	billboardType.anInt3875 = 31;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 98:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 121;
+	billboardType.anInt3875 = 121;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 99:
+	billboardType.textureTypeId = 3028;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 100:
+	billboardType.textureTypeId = 3002;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 16;
+	billboardType.anInt3875 = 16;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 101:
+	billboardType.textureTypeId = 3041;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 102:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 41;
+	billboardType.anInt3875 = 41;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 103:
+	billboardType.textureTypeId = 3017;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 121;
+	billboardType.anInt3875 = 121;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 104:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 41;
+	billboardType.anInt3875 = 41;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 105:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 21;
+	billboardType.anInt3875 = 21;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 106:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 41;
+	billboardType.anInt3875 = 41;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 107:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 21;
+	billboardType.anInt3875 = 21;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 108:
+	billboardType.textureTypeId = 3041;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 109:
+	billboardType.textureTypeId = 3052;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	break;
+
+case 110:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 33;
+	billboardType.anInt3875 = 33;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 111:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 151;
+	billboardType.anInt3875 = 151;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 112:
+	billboardType.textureTypeId = 3031;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 21;
+	billboardType.anInt3875 = 11;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 113:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 49;
+	billboardType.anInt3875 = 49;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 114:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 41;
+	billboardType.anInt3875 = 41;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 115:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 13;
+	billboardType.anInt3875 = 13;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 116:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 41;
+	billboardType.anInt3875 = 41;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 117:
+	billboardType.textureTypeId = 3052;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	break;
+
+case 118:
+	billboardType.textureTypeId = 3011;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 51;
+	billboardType.anInt3875 = 51;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 119:
+	billboardType.textureTypeId = 3131;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 111;
+	billboardType.anInt3875 = 111;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 120:
+	billboardType.textureTypeId = 3131;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 111;
+	billboardType.anInt3875 = 111;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 121:
+	billboardType.textureTypeId = 3131;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 122:
+	billboardType.textureTypeId = 3131;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 111;
+	billboardType.anInt3875 = 111;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 123:
+	billboardType.textureTypeId = 3131;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 124:
+	billboardType.textureTypeId = 3011;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 125:
+	billboardType.textureTypeId = 3011;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 41;
+	billboardType.anInt3875 = 41;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 126:
+	billboardType.textureTypeId = 3131;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 127:
+	billboardType.textureTypeId = 3017;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 401;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 128:
+	billboardType.textureTypeId = 3017;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 1201;
+	billboardType.anInt3875 = 1201;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 129:
+	billboardType.textureTypeId = 3049;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 6;
+	billboardType.anInt3875 = 6;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 130:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 21;
+	billboardType.anInt3875 = 21;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 131:
+	billboardType.textureTypeId = 3077;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 132:
+	billboardType.textureTypeId = 3041;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 41;
+	billboardType.anInt3875 = 41;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 133:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 121;
+	billboardType.anInt3875 = 121;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 134:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 33;
+	billboardType.anInt3875 = 33;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 135:
+	billboardType.textureTypeId = 3017;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 121;
+	billboardType.anInt3875 = 121;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 136:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 151;
+	billboardType.anInt3875 = 151;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 137:
+	billboardType.textureTypeId = 3017;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 151;
+	billboardType.anInt3875 = 151;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 138:
+	billboardType.textureTypeId = 3038;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 51;
+	billboardType.anInt3875 = 51;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 139:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 21;
+	billboardType.anInt3875 = 21;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 140:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 141:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 41;
+	billboardType.anInt3875 = 41;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 142:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 36;
+	billboardType.anInt3875 = 36;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 143:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 31;
+	billboardType.anInt3875 = 31;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 144:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 26;
+	billboardType.anInt3875 = 26;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 145:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 21;
+	billboardType.anInt3875 = 21;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 146:
+	billboardType.textureTypeId = 3033;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 31;
+	billboardType.anInt3875 = 31;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 147:
+	billboardType.textureTypeId = 3077;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 71;
+	billboardType.anInt3875 = 71;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 148:
+	billboardType.textureTypeId = 3068;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 31;
+	billboardType.anInt3875 = 31;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 149:
+	billboardType.textureTypeId = 3068;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 41;
+	billboardType.anInt3875 = 41;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 150:
+	billboardType.textureTypeId = 3068;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 51;
+	billboardType.anInt3875 = 51;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 151:
+	billboardType.textureTypeId = 3068;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 152:
+	billboardType.textureTypeId = 3068;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 71;
+	billboardType.anInt3875 = 71;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 153:
+	billboardType.textureTypeId = 3068;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 154:
+	billboardType.textureTypeId = 3033;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 155:
+	billboardType.textureTypeId = 3132;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 151;
+	billboardType.anInt3875 = 151;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 156:
+	billboardType.textureTypeId = 3134;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 151;
+	billboardType.anInt3875 = 151;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 157:
+	billboardType.textureTypeId = 3136;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 151;
+	billboardType.anInt3875 = 151;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 158:
+	billboardType.textureTypeId = 3068;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 159:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 160:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 121;
+	billboardType.anInt3875 = 121;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 161:
+	billboardType.textureTypeId = 3079;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 51;
+	billboardType.anInt3875 = 51;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 162:
+	billboardType.textureTypeId = 3046;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 51;
+	billboardType.anInt3875 = 51;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 163:
+	billboardType.textureTypeId = 3061;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 51;
+	billboardType.anInt3875 = 51;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 164:
+	billboardType.textureTypeId = 3017;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 301;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 165:
+	billboardType.textureTypeId = 3131;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 111;
+	billboardType.anInt3875 = 111;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 166:
+	billboardType.textureTypeId = 3131;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 141;
+	billboardType.anInt3875 = 141;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 167:
+	billboardType.textureTypeId = 3028;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 801;
+	billboardType.anInt3875 = 801;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 168:
+	billboardType.textureTypeId = 3135;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 111;
+	billboardType.anInt3875 = 111;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 169:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 21;
+	billboardType.anInt3875 = 21;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 170:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 26;
+	billboardType.anInt3875 = 26;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 171:
+	billboardType.textureTypeId = 1957;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	break;
+
+case 172:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 106;
+	billboardType.anInt3875 = 106;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 173:
+	billboardType.textureTypeId = 3060;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 601;
+	billboardType.anInt3875 = 601;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 174:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 175:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 21;
+	billboardType.anInt3875 = 21;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 176:
+	billboardType.textureTypeId = 3049;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 5;
+	billboardType.anInt3875 = 5;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 177:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 49;
+	billboardType.anInt3875 = 49;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 178:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 361;
+	billboardType.anInt3875 = 361;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 179:
+	billboardType.textureTypeId = 3017;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 401;
+	billboardType.anInt3875 = 401;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 180:
+	billboardType.textureTypeId = 3019;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 181:
+	billboardType.textureTypeId = 3031;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 21;
+	billboardType.anInt3875 = 21;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 182:
+	billboardType.textureTypeId = 3052;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	break;
+
+case 183:
+	billboardType.textureTypeId = 3020;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	break;
+
+case 184:
+	billboardType.textureTypeId = 2705;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 131;
+	billboardType.anInt3875 = 131;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 185:
+	billboardType.textureTypeId = 2674;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 161;
+	billboardType.anInt3875 = 161;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 186:
+	billboardType.textureTypeId = 3049;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 27;
+	billboardType.anInt3875 = 27;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 187:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 51;
+	billboardType.anInt3875 = 51;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 188:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 91;
+	billboardType.anInt3875 = 91;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 189:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 190:
+	billboardType.textureTypeId = 2914;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 16;
+	billboardType.anInt3875 = 16;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 191:
+	billboardType.textureTypeId = 2914;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 26;
+	billboardType.anInt3875 = 26;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 192:
+	billboardType.textureTypeId = 2914;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 11;
+	billboardType.anInt3875 = 11;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 193:
+	billboardType.textureTypeId = 3017;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 401;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 194:
+	billboardType.textureTypeId = 2914;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 41;
+	billboardType.anInt3875 = 41;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 195:
+	billboardType.textureTypeId = 2914;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 31;
+	billboardType.anInt3875 = 31;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 196:
+	billboardType.textureTypeId = 2914;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 21;
+	billboardType.anInt3875 = 21;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 197:
+	billboardType.textureTypeId = 2929;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 301;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 198:
+	billboardType.textureTypeId = 2937;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 701;
+	billboardType.anInt3875 = 701;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 199:
+	billboardType.textureTypeId = 2934;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 401;
+	billboardType.anInt3875 = 401;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 200:
+	billboardType.textureTypeId = 3017;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 401;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 201:
+	billboardType.textureTypeId = 3044;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 151;
+	billboardType.anInt3875 = 151;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 202:
+	billboardType.textureTypeId = 3042;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 301;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 203:
+	billboardType.textureTypeId = 3048;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 301;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 204:
+	billboardType.textureTypeId = 3074;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 205:
+	billboardType.textureTypeId = 3074;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 206:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 207:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 13;
+	billboardType.anInt3875 = 13;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 208:
+	billboardType.textureTypeId = 3041;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 321;
+	billboardType.anInt3875 = 321;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 209:
+	billboardType.textureTypeId = 3041;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 951;
+	billboardType.anInt3875 = 951;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 210:
+	billboardType.textureTypeId = 3025;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 51;
+	billboardType.anInt3875 = 51;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 211:
+	billboardType.textureTypeId = 3006;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 151;
+	billboardType.anInt3875 = 151;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 212:
+	billboardType.textureTypeId = 3006;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 276;
+	billboardType.anInt3875 = 276;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 213:
+	billboardType.textureTypeId = 3006;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 31;
+	billboardType.anInt3875 = 31;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 214:
+	billboardType.textureTypeId = 3030;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 81;
+	billboardType.anInt3875 = 81;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 215:
+	billboardType.textureTypeId = 3030;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 41;
+	billboardType.anInt3875 = 41;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 216:
+	billboardType.textureTypeId = 3058;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 151;
+	billboardType.anInt3875 = 151;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 217:
+	billboardType.textureTypeId = 3040;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 151;
+	billboardType.anInt3875 = 151;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 218:
+	billboardType.textureTypeId = 3071;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 151;
+	billboardType.anInt3875 = 151;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 219:
+	billboardType.textureTypeId = 3014;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 220:
+	billboardType.textureTypeId = 3015;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 221:
+	billboardType.textureTypeId = 3000;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.aBool3878 = true;
+	break;
+
+case 222:
+	billboardType.textureTypeId = 3018;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.aBool3878 = true;
+	break;
+
+case 223:
+	billboardType.textureTypeId = 1269;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 224:
+	billboardType.textureTypeId = 1269;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 225:
+	billboardType.textureTypeId = 1269;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 121;
+	billboardType.anInt3875 = 121;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 226:
+	billboardType.textureTypeId = 1269;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 181;
+	billboardType.anInt3875 = 181;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 227:
+	billboardType.textureTypeId = 3086;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 228:
+	billboardType.textureTypeId = 3095;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 229:
+	billboardType.textureTypeId = 3104;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 230:
+	billboardType.textureTypeId = 3089;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 231:
+	billboardType.textureTypeId = 3103;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 232:
+	billboardType.textureTypeId = 3085;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 233:
+	billboardType.textureTypeId = 3087;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 234:
+	billboardType.textureTypeId = 3101;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 235:
+	billboardType.textureTypeId = 3100;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 236:
+	billboardType.textureTypeId = 3093;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 237:
+	billboardType.textureTypeId = 3088;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 238:
+	billboardType.textureTypeId = 3094;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 239:
+	billboardType.textureTypeId = 3096;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 240:
+	billboardType.textureTypeId = 3092;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 241:
+	billboardType.textureTypeId = 3099;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 242:
+	billboardType.textureTypeId = 3084;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 243:
+	billboardType.textureTypeId = 3083;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 244:
+	billboardType.textureTypeId = 3090;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 245:
+	billboardType.textureTypeId = 3102;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 246:
+	billboardType.textureTypeId = 3091;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 247:
+	billboardType.textureTypeId = 3098;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 248:
+	billboardType.textureTypeId = 3125;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 249:
+	billboardType.textureTypeId = 3116;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 250:
+	billboardType.textureTypeId = 3110;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 251:
+	billboardType.textureTypeId = 3121;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 252:
+	billboardType.textureTypeId = 3111;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 253:
+	billboardType.textureTypeId = 3117;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 254:
+	billboardType.textureTypeId = 3114;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 255:
+	billboardType.textureTypeId = 3109;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 256:
+	billboardType.textureTypeId = 3124;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 257:
+	billboardType.textureTypeId = 3118;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 258:
+	billboardType.textureTypeId = 3126;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 259:
+	billboardType.textureTypeId = 3120;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 260:
+	billboardType.textureTypeId = 3106;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 261:
+	billboardType.textureTypeId = 3123;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 262:
+	billboardType.textureTypeId = 3107;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 263:
+	billboardType.textureTypeId = 3122;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 264:
+	billboardType.textureTypeId = 3112;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 265:
+	billboardType.textureTypeId = 3128;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 266:
+	billboardType.textureTypeId = 3105;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 267:
+	billboardType.textureTypeId = 3119;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 268:
+	billboardType.textureTypeId = 3136;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 151;
+	billboardType.anInt3875 = 151;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 269:
+	billboardType.textureTypeId = 3028;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 97;
+	billboardType.anInt3875 = 97;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 270:
+	billboardType.textureTypeId = 3028;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 65;
+	billboardType.anInt3875 = 65;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 271:
+	billboardType.textureTypeId = 3028;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 41;
+	billboardType.anInt3875 = 41;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 272:
+	billboardType.textureTypeId = 1710;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 51;
+	billboardType.anInt3875 = 51;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 273:
+	billboardType.textureTypeId = 1722;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 41;
+	billboardType.anInt3875 = 41;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 274:
+	billboardType.textureTypeId = 3025;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 151;
+	billboardType.anInt3875 = 151;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 275:
+	billboardType.textureTypeId = 3047;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 801;
+	billboardType.anInt3875 = 801;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 276:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 31;
+	billboardType.anInt3875 = 31;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 277:
+	billboardType.textureTypeId = 3025;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 278:
+	billboardType.textureTypeId = 1139;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	break;
+
+case 279:
+	billboardType.textureTypeId = 1139;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 280:
+	billboardType.textureTypeId = 1139;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	break;
+
+case 281:
+	billboardType.textureTypeId = 1139;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	break;
+
+case 282:
+	billboardType.textureTypeId = 1139;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	break;
+
+case 283:
+	billboardType.textureTypeId = 1139;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	break;
+
+case 284:
+	billboardType.textureTypeId = 1139;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	break;
+
+case 285:
+	billboardType.textureTypeId = 1139;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	break;
+
+case 286:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 241;
+	billboardType.anInt3875 = 241;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 287:
+	billboardType.textureTypeId = 3073;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 236;
+	billboardType.anInt3875 = 236;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 288:
+	billboardType.textureTypeId = 3073;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 221;
+	billboardType.anInt3875 = 221;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 289:
+	billboardType.textureTypeId = 2949;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 81;
+	billboardType.anInt3875 = 81;
+	billboardType.aBool3878 = true;
+	break;
+
+case 290:
+	billboardType.textureTypeId = 2952;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 81;
+	billboardType.anInt3875 = 81;
+	billboardType.aBool3878 = true;
+	break;
+
+case 291:
+	billboardType.textureTypeId = 2949;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 51;
+	billboardType.anInt3875 = 51;
+	billboardType.aBool3878 = true;
+	break;
+
+case 292:
+	billboardType.textureTypeId = 2952;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 51;
+	billboardType.anInt3875 = 51;
+	billboardType.aBool3878 = true;
+	break;
+
+case 293:
+	billboardType.textureTypeId = 3057;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 49;
+	billboardType.anInt3875 = 49;
+	billboardType.aBool3878 = true;
+	break;
+
+case 294:
+	billboardType.textureTypeId = 3055;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 193;
+	billboardType.anInt3875 = 193;
+	billboardType.aBool3878 = true;
+	break;
+
+case 295:
+	billboardType.textureTypeId = 3055;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 129;
+	billboardType.anInt3875 = 129;
+	billboardType.aBool3878 = true;
+	break;
+
+case 296:
+	billboardType.textureTypeId = 3055;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 49;
+	billboardType.anInt3875 = 49;
+	billboardType.aBool3878 = true;
+	break;
+
+case 297:
+	billboardType.textureTypeId = 3057;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 193;
+	billboardType.anInt3875 = 193;
+	billboardType.aBool3878 = true;
+	break;
+
+case 298:
+	billboardType.textureTypeId = 3057;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 129;
+	billboardType.anInt3875 = 129;
+	billboardType.aBool3878 = true;
+	break;
+
+case 299:
+	billboardType.textureTypeId = 3057;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 151;
+	billboardType.anInt3875 = 151;
+	billboardType.aBool3878 = true;
+	break;
+
+case 300:
+	billboardType.textureTypeId = 3052;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 301:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 16;
+	billboardType.anInt3875 = 16;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 302:
+	billboardType.textureTypeId = 3131;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 303:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 21;
+	billboardType.anInt3875 = 21;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 304:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 33;
+	billboardType.anInt3875 = 33;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 305:
+	billboardType.textureTypeId = 3069;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 41;
+	billboardType.anInt3875 = 41;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 306:
+	billboardType.textureTypeId = 2855;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 171;
+	billboardType.anInt3875 = 171;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 307:
+	billboardType.textureTypeId = 3033;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 301;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 308:
+	billboardType.textureTypeId = 3033;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 181;
+	billboardType.anInt3875 = 181;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 309:
+	billboardType.textureTypeId = 3033;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 310:
+	billboardType.textureTypeId = 3076;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 6;
+	billboardType.anInt3875 = 6;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 311:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 56;
+	billboardType.anInt3875 = 56;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 312:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 56;
+	billboardType.anInt3875 = 56;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 313:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 14;
+	billboardType.anInt3875 = 14;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 314:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 21;
+	billboardType.anInt3875 = 21;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 315:
+	billboardType.textureTypeId = 3031;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 56;
+	billboardType.anInt3875 = 56;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 316:
+	billboardType.textureTypeId = 2674;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 121;
+	billboardType.anInt3875 = 121;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 317:
+	billboardType.textureTypeId = 2705;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 81;
+	billboardType.anInt3875 = 81;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 318:
+	billboardType.textureTypeId = 2705;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 41;
+	billboardType.anInt3875 = 41;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 319:
+	billboardType.textureTypeId = 3053;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 76;
+	billboardType.anInt3875 = 76;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 320:
+	billboardType.textureTypeId = 3053;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 36;
+	billboardType.anInt3875 = 36;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 321:
+	billboardType.textureTypeId = 3029;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 81;
+	billboardType.anInt3875 = 81;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 322:
+	billboardType.textureTypeId = 3029;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 36;
+	billboardType.anInt3875 = 36;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 323:
+	billboardType.textureTypeId = 2498;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 601;
+	billboardType.anInt3875 = 601;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 324:
+	billboardType.textureTypeId = 2549;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 501;
+	billboardType.anInt3875 = 501;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 325:
+	billboardType.textureTypeId = 2506;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 501;
+	billboardType.anInt3875 = 501;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 326:
+	billboardType.textureTypeId = 2547;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 716;
+	billboardType.anInt3875 = 716;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 327:
+	billboardType.textureTypeId = 3074;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 81;
+	billboardType.anInt3875 = 81;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 328:
+	billboardType.textureTypeId = 3130;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 91;
+	billboardType.anInt3875 = 91;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 329:
+	billboardType.textureTypeId = 1264;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 31;
+	billboardType.anInt3875 = 31;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 330:
+	billboardType.textureTypeId = 2536;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 251;
+	billboardType.anInt3875 = 251;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 331:
+	billboardType.textureTypeId = 2536;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 332:
+	billboardType.textureTypeId = 2536;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 51;
+	billboardType.anInt3875 = 51;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 333:
+	billboardType.textureTypeId = 2503;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 51;
+	billboardType.anInt3875 = 51;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 334:
+	billboardType.textureTypeId = 2488;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 71;
+	billboardType.anInt3875 = 71;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 335:
+	billboardType.textureTypeId = 2528;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 71;
+	billboardType.anInt3875 = 71;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 336:
+	billboardType.textureTypeId = 2526;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 71;
+	billboardType.anInt3875 = 71;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 337:
+	billboardType.textureTypeId = 2515;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 338:
+	billboardType.textureTypeId = 2543;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 81;
+	billboardType.anInt3875 = 81;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 339:
+	billboardType.textureTypeId = 2518;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 340:
+	billboardType.textureTypeId = 3011;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 11;
+	billboardType.anInt3875 = 11;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 341:
+	billboardType.textureTypeId = 2513;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 21;
+	billboardType.anInt3875 = 21;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 342:
+	billboardType.textureTypeId = 2544;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 16;
+	billboardType.anInt3875 = 16;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 343:
+	billboardType.textureTypeId = 2525;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 11;
+	billboardType.anInt3875 = 11;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 344:
+	billboardType.textureTypeId = 2674;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 1151;
+	billboardType.anInt3875 = 1151;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 345:
+	billboardType.textureTypeId = 2674;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 301;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 346:
+	billboardType.textureTypeId = 2674;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 261;
+	billboardType.anInt3875 = 261;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 347:
+	billboardType.textureTypeId = 3001;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 106;
+	billboardType.anInt3875 = 106;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 348:
+	billboardType.textureTypeId = 3013;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 106;
+	billboardType.anInt3875 = 106;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 349:
+	billboardType.textureTypeId = 2488;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 26;
+	billboardType.anInt3875 = 26;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 350:
+	billboardType.textureTypeId = 3137;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 351:
+	billboardType.textureTypeId = 3030;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 21;
+	billboardType.anInt3875 = 21;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 352:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 21;
+	billboardType.anInt3875 = 21;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 353:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 31;
+	billboardType.anInt3875 = 31;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 354:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 41;
+	billboardType.anInt3875 = 41;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 355:
+	billboardType.textureTypeId = 3131;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 356:
+	billboardType.textureTypeId = 3131;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 81;
+	billboardType.anInt3875 = 81;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 357:
+	billboardType.textureTypeId = 3131;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 358:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 21;
+	billboardType.anInt3875 = 21;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 359:
+	billboardType.textureTypeId = 3131;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 360:
+	billboardType.textureTypeId = 3080;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 361:
+	billboardType.textureTypeId = 3129;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 362:
+	billboardType.textureTypeId = 3008;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 363:
+	billboardType.textureTypeId = 3130;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 801;
+	billboardType.anInt3875 = 801;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 364:
+	billboardType.textureTypeId = 3053;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 801;
+	billboardType.anInt3875 = 801;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 365:
+	billboardType.textureTypeId = 1329;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 129;
+	billboardType.anInt3875 = 129;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 366:
+	billboardType.textureTypeId = 3017;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 801;
+	billboardType.anInt3875 = 601;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 367:
+	billboardType.textureTypeId = 1323;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 257;
+	billboardType.anInt3875 = 257;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 368:
+	billboardType.textureTypeId = 1324;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 257;
+	billboardType.anInt3875 = 257;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 369:
+	billboardType.textureTypeId = 1325;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 257;
+	billboardType.anInt3875 = 257;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 370:
+	billboardType.textureTypeId = 1335;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 257;
+	billboardType.anInt3875 = 257;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 371:
+	billboardType.textureTypeId = 1337;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 257;
+	billboardType.anInt3875 = 257;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 372:
+	billboardType.textureTypeId = 3037;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 401;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 373:
+	billboardType.textureTypeId = 3017;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 251;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 374:
+	billboardType.textureTypeId = 1286;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 151;
+	billboardType.anInt3875 = 151;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 375:
+	billboardType.textureTypeId = 3131;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 301;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 376:
+	billboardType.textureTypeId = 3017;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 401;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 377:
+	billboardType.textureTypeId = 3000;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 378:
+	billboardType.textureTypeId = 3000;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 41;
+	billboardType.anInt3875 = 41;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 379:
+	billboardType.textureTypeId = 3223;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 33;
+	billboardType.anInt3875 = 33;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 380:
+	billboardType.textureTypeId = 3223;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 65;
+	billboardType.anInt3875 = 65;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 381:
+	billboardType.textureTypeId = 3223;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 129;
+	billboardType.anInt3875 = 129;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 382:
+	billboardType.textureTypeId = 3025;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 76;
+	billboardType.anInt3875 = 126;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 383:
+	billboardType.textureTypeId = 3025;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 51;
+	billboardType.anInt3875 = 51;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 384:
+	billboardType.textureTypeId = 3037;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 801;
+	billboardType.anInt3875 = 601;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 385:
+	billboardType.textureTypeId = 3064;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 25;
+	billboardType.anInt3875 = 25;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 386:
+	billboardType.textureTypeId = 3064;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 18;
+	billboardType.anInt3875 = 18;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 387:
+	billboardType.textureTypeId = 3064;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 12;
+	billboardType.anInt3875 = 12;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 388:
+	billboardType.textureTypeId = 3075;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 9;
+	billboardType.anInt3875 = 9;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 389:
+	billboardType.textureTypeId = 1347;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 301;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 390:
+	billboardType.textureTypeId = 1357;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 391:
+	billboardType.textureTypeId = 1143;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	break;
+
+case 392:
+	billboardType.textureTypeId = 1143;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	break;
+
+case 393:
+	billboardType.textureTypeId = 3068;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 901;
+	billboardType.anInt3875 = 901;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 394:
+	billboardType.textureTypeId = 979;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 401;
+	billboardType.anInt3875 = 401;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 395:
+	billboardType.textureTypeId = 979;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 396:
+	billboardType.textureTypeId = 983;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 301;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 397:
+	billboardType.textureTypeId = 3027;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 81;
+	billboardType.anInt3875 = 81;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 398:
+	billboardType.textureTypeId = 1330;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 257;
+	billboardType.anInt3875 = 257;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 399:
+	billboardType.textureTypeId = 1321;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 257;
+	billboardType.anInt3875 = 257;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 400:
+	billboardType.textureTypeId = 1336;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 257;
+	billboardType.anInt3875 = 257;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 401:
+	billboardType.textureTypeId = 3052;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 41;
+	billboardType.anInt3875 = 41;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 402:
+	billboardType.textureTypeId = 3017;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 801;
+	billboardType.anInt3875 = 601;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 403:
+	billboardType.textureTypeId = 2476;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 404:
+	billboardType.textureTypeId = 2476;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 31;
+	billboardType.anInt3875 = 31;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 405:
+	billboardType.textureTypeId = 3065;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 406:
+	billboardType.textureTypeId = 1260;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 71;
+	billboardType.anInt3875 = 71;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 407:
+	billboardType.textureTypeId = 1260;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 408:
+	billboardType.textureTypeId = 3017;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 501;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 409:
+	billboardType.textureTypeId = 3017;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 401;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 410:
+	billboardType.textureTypeId = 2476;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 121;
+	billboardType.anInt3875 = 121;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 411:
+	billboardType.textureTypeId = 2459;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 141;
+	billboardType.anInt3875 = 141;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 412:
+	billboardType.textureTypeId = 3017;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 413:
+	billboardType.textureTypeId = 3017;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 414:
+	billboardType.textureTypeId = 3017;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 401;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 415:
+	billboardType.textureTypeId = 3043;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 151;
+	billboardType.anInt3875 = 151;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 416:
+	billboardType.textureTypeId = 3006;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 11;
+	billboardType.anInt3875 = 11;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 417:
+	billboardType.textureTypeId = 3014;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 21;
+	billboardType.anInt3875 = 21;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 418:
+	billboardType.textureTypeId = 1371;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 301;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 419:
+	billboardType.textureTypeId = 1372;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 301;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 420:
+	billboardType.textureTypeId = 1370;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 301;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 421:
+	billboardType.textureTypeId = 3021;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 29;
+	billboardType.anInt3875 = 29;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 422:
+	billboardType.textureTypeId = 1260;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 901;
+	billboardType.anInt3875 = 901;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 423:
+	billboardType.textureTypeId = 3046;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 424:
+	billboardType.textureTypeId = 3061;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 425:
+	billboardType.textureTypeId = 3041;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 181;
+	billboardType.anInt3875 = 181;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 426:
+	billboardType.textureTypeId = 3041;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 476;
+	billboardType.anInt3875 = 476;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 427:
+	billboardType.textureTypeId = 3025;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 134;
+	billboardType.anInt3875 = 134;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 428:
+	billboardType.textureTypeId = 3019;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 211;
+	billboardType.anInt3875 = 326;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 429:
+	billboardType.textureTypeId = 3125;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 430:
+	billboardType.textureTypeId = 3121;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 431:
+	billboardType.textureTypeId = 3123;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 432:
+	billboardType.textureTypeId = 3128;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 433:
+	billboardType.textureTypeId = 3017;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 401;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 434:
+	billboardType.textureTypeId = 3073;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 435:
+	billboardType.textureTypeId = 3592;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 1601;
+	billboardType.anInt3875 = 1601;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 436:
+	billboardType.textureTypeId = 3592;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 2001;
+	billboardType.anInt3875 = 2001;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 437:
+	billboardType.textureTypeId = 3592;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 801;
+	billboardType.anInt3875 = 801;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 438:
+	billboardType.textureTypeId = 3592;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 551;
+	billboardType.anInt3875 = 551;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 439:
+	billboardType.textureTypeId = 3592;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 551;
+	billboardType.anInt3875 = 551;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 440:
+	billboardType.textureTypeId = 1260;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 401;
+	billboardType.anInt3875 = 401;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 441:
+	billboardType.textureTypeId = 3567;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 401;
+	billboardType.anInt3875 = 401;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 442:
+	billboardType.textureTypeId = 3562;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 401;
+	billboardType.anInt3875 = 401;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 443:
+	billboardType.textureTypeId = 3564;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 401;
+	billboardType.anInt3875 = 401;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 444:
+	billboardType.textureTypeId = 3590;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 1001;
+	billboardType.anInt3875 = 1001;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 445:
+	billboardType.textureTypeId = 3591;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 1001;
+	billboardType.anInt3875 = 1001;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 446:
+	billboardType.textureTypeId = 3028;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 551;
+	billboardType.anInt3875 = 551;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 447:
+	billboardType.textureTypeId = 3028;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 401;
+	billboardType.anInt3875 = 401;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 448:
+	billboardType.textureTypeId = 3012;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 1201;
+	billboardType.anInt3875 = 1201;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 449:
+	billboardType.textureTypeId = 3542;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 1201;
+	billboardType.anInt3875 = 1201;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 450:
+	billboardType.textureTypeId = 3542;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 601;
+	billboardType.anInt3875 = 601;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 451:
+	billboardType.textureTypeId = 303;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 56;
+	billboardType.anInt3875 = 56;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 452:
+	billboardType.textureTypeId = 304;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 56;
+	billboardType.anInt3875 = 56;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 453:
+	billboardType.textureTypeId = 3593;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 454:
+	billboardType.textureTypeId = 3711;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 51;
+	billboardType.anInt3875 = 51;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 455:
+	billboardType.textureTypeId = 3874;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 456:
+	billboardType.textureTypeId = 3875;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 116;
+	billboardType.anInt3875 = 116;
+	billboardType.aBool3878 = true;
+	break;
+
+case 457:
+	billboardType.textureTypeId = 3895;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 121;
+	billboardType.anInt3875 = 121;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 458:
+	billboardType.textureTypeId = 3890;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 121;
+	billboardType.anInt3875 = 121;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 459:
+	billboardType.textureTypeId = 3893;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 121;
+	billboardType.anInt3875 = 121;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 460:
+	billboardType.textureTypeId = 3896;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 121;
+	billboardType.anInt3875 = 121;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 461:
+	billboardType.textureTypeId = 3887;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 121;
+	billboardType.anInt3875 = 121;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 462:
+	billboardType.textureTypeId = 3897;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 121;
+	billboardType.anInt3875 = 121;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 463:
+	billboardType.textureTypeId = 3891;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 121;
+	billboardType.anInt3875 = 121;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 464:
+	billboardType.textureTypeId = 3888;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 121;
+	billboardType.anInt3875 = 121;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 465:
+	billboardType.textureTypeId = 3886;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 121;
+	billboardType.anInt3875 = 121;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 466:
+	billboardType.textureTypeId = 3894;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 121;
+	billboardType.anInt3875 = 121;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 467:
+	billboardType.textureTypeId = 3889;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 121;
+	billboardType.anInt3875 = 121;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 468:
+	billboardType.textureTypeId = 3892;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 121;
+	billboardType.anInt3875 = 121;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 469:
+	billboardType.textureTypeId = 3990;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 51;
+	billboardType.anInt3875 = 51;
+	billboardType.colorSpaceType = 0;
+	break;
+
+case 470:
+	billboardType.textureTypeId = 3990;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 301;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	break;
+
+case 471:
+	billboardType.textureTypeId = 3991;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 151;
+	billboardType.anInt3875 = 151;
+	billboardType.colorSpaceType = 0;
+	break;
+
+case 472:
+	billboardType.textureTypeId = 3991;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 11;
+	billboardType.anInt3875 = 11;
+	billboardType.colorSpaceType = 0;
+	break;
+
+case 473:
+	billboardType.textureTypeId = 721;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 56;
+	billboardType.anInt3875 = 56;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 474:
+	billboardType.textureTypeId = 655;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 56;
+	billboardType.anInt3875 = 56;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 475:
+	billboardType.textureTypeId = 4231;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 476:
+	billboardType.textureTypeId = 4231;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 477:
+	billboardType.textureTypeId = 4231;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 41;
+	billboardType.anInt3875 = 41;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 478:
+	billboardType.textureTypeId = 4537;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 81;
+	billboardType.anInt3875 = 81;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 479:
+	billboardType.textureTypeId = 4537;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 61;
+	billboardType.anInt3875 = 61;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 480:
+	billboardType.textureTypeId = 4537;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 31;
+	billboardType.anInt3875 = 31;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 481:
+	billboardType.textureTypeId = 4518;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 482:
+	billboardType.textureTypeId = 4518;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 201;
+	billboardType.anInt3875 = 201;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 483:
+	billboardType.textureTypeId = 4518;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 301;
+	billboardType.anInt3875 = 301;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 484:
+	billboardType.textureTypeId = 4518;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 401;
+	billboardType.anInt3875 = 401;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 485:
+	billboardType.textureTypeId = 4518;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 501;
+	billboardType.anInt3875 = 501;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 486:
+	billboardType.textureTypeId = 4518;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 601;
+	billboardType.anInt3875 = 601;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 487:
+	billboardType.textureTypeId = 4518;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 601;
+	billboardType.anInt3875 = 601;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 488:
+	billboardType.textureTypeId = 3065;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 101;
+	billboardType.anInt3875 = 101;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 489:
+	billboardType.textureTypeId = 5079;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 49;
+	billboardType.anInt3875 = 49;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 490:
+	billboardType.textureTypeId = 3047;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 341;
+	billboardType.anInt3875 = 441;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 491:
+	billboardType.textureTypeId = 5377;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 43;
+	billboardType.anInt3875 = 43;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 492:
+	billboardType.textureTypeId = 5377;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 26;
+	billboardType.anInt3875 = 26;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 493:
+	billboardType.textureTypeId = 3131;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 9;
+	billboardType.anInt3875 = 9;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 494:
+	billboardType.textureTypeId = 5602;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 501;
+	billboardType.anInt3875 = 501;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 495:
+	billboardType.textureTypeId = 2674;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 1151;
+	billboardType.anInt3875 = 1151;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 496:
+	billboardType.textureTypeId = 2674;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 1851;
+	billboardType.anInt3875 = 1851;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 497:
+	billboardType.textureTypeId = 2674;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 2501;
+	billboardType.anInt3875 = 2501;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;
+
+case 498:
+	billboardType.textureTypeId = 3028;
+	billboardType.blendMode = 1;
+	billboardType.anInt3874 = 4001;
+	billboardType.anInt3875 = 4001;
+	billboardType.colorSpaceType = 0;
+	billboardType.aBool3878 = true;
+	break;

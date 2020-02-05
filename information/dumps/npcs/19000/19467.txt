@@ -1,0 +1,17 @@
+id=19467
+name=Araxxor (acidic)
+description=I don't think a newspaper is going to cut it.
+size=5
+xp=13774.2
+lifepoints=100000
+level=2500
+attack=99
+defence=85
+ranged=99
+magic=99
+animations={death:24044,attack:24046}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

@@ -1,0 +1,17 @@
+id=9357
+name=Count Draynor
+description=Stop looking and run!
+size=1
+xp=0.4
+lifepoints=500
+level=28
+attack=20
+defence=20
+ranged=0
+magic=0
+animations={death:836,attack:3331}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

@@ -1,0 +1,10 @@
+id=20780
+name=Thessalia
+description=Has an interesting assortment of clothes on offer.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["New Varrock"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=7913
+name=Warped cockroach
+description=Dark magic has made this cockroach grow to giant size.
+size=1
+xp=24.9
+lifepoints=50
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:24165,attack:24167}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=["Lumbridge Catacombs"]
+aggressive=false

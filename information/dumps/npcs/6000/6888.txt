@@ -1,0 +1,17 @@
+id=6888
+name=Spirit vulatrice
+description=If looks could kill... Wait, they do!
+size=2
+xp=130
+lifepoints=5300
+level=51
+attack=39
+defence=35
+ranged=39
+magic=39
+animations={death:7763,attack:7762}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

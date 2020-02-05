@@ -1,0 +1,16 @@
+id=15588
+name=Hazeel cultist
+description=A member of the Hazeel cult.
+size=1
+xp=0.2
+lifepoints=1
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:836,attack:414}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

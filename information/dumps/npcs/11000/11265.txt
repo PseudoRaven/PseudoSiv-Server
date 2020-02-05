@@ -1,0 +1,17 @@
+id=11265
+name=Ravenous ghoul
+description=It's totally savage.
+size=1
+xp=125.7
+lifepoints=2250
+level=63
+attack=45
+defence=45
+ranged=1
+magic=1
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

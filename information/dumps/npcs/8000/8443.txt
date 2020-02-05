@@ -1,0 +1,10 @@
+id=8443
+name=Lucien
+description=A Mahjarrat of incomprehensible power.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Wilderness"]
+aggressive=false
+members=false

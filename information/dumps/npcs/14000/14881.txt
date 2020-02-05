@@ -1,0 +1,10 @@
+id=14881
+name=Mess Sergeant Ramsey
+description=An accomplished chef; well-mannered too.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=3084
+name=Cait
+description=A frenzied fey.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Xmas 2005"]
+aggressive=false
+members=false

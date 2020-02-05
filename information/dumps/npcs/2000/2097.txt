@@ -1,0 +1,10 @@
+id=2097
+name=Silver Cog Secretary
+description=The head secretary of the Silver Cog mining company.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

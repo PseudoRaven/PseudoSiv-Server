@@ -1,0 +1,10 @@
+id=2157
+name=Hervi
+description=A gem stall owner, with goods from the deepest of mines.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

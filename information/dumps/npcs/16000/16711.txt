@@ -1,0 +1,10 @@
+id=16711
+name=Aligra Nite
+description=A shifty-looking, desert-dwelling granite trader.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

@@ -1,0 +1,10 @@
+id=4506
+name=Ethereal Guide
+description=He knows the past, present and future. But what of my shoe size?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dream world"]
+aggressive=false
+members=true

@@ -1,0 +1,16 @@
+id=15969
+name=Holy Defender
+description=Not dropped by Cyclopes.
+size=2
+xp=5.1
+lifepoints=2000
+level=0
+attack=1
+defence=99
+ranged=1
+magic=50
+animations={death:9467}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

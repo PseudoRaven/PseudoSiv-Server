@@ -1,0 +1,10 @@
+id=9719
+name=Rook
+description=You're being watched.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface","Swamp"]
+aggressive=false
+members=false

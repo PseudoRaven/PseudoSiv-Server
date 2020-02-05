@@ -1,0 +1,10 @@
+id=3281
+name=Engineering assistant
+description=He's wandering around aimlessly with a box of spare parts.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

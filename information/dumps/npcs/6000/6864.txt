@@ -1,0 +1,17 @@
+id=6864
+name=Rune minotaur
+description=He's just a big bully.
+size=2
+xp=729
+lifepoints=9600
+level=102
+attack=78
+defence=69
+ranged=78
+magic=78
+animations={death:8025,attack:8024}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

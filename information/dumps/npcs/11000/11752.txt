@@ -1,0 +1,17 @@
+id=11752
+name=Runebound behemoth
+description=It looks like a magically enhanced behemoth!
+size=5
+xp=655.8
+lifepoints=10000
+level=91
+attack=65
+defence=65
+ranged=65
+magic=65
+animations={range:14424,death:14425,attack:14423}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

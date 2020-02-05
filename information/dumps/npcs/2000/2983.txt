@@ -1,0 +1,10 @@
+id=2983
+name=Turbogroomer
+description=Poorly named for such a scraggly cat.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Rat pits"]
+aggressive=true
+members=true

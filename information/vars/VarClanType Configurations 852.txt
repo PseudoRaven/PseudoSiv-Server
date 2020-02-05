@@ -1,0 +1,7899 @@
+
+case 0:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 2:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 3:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 4:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 5:
+	varClanType.dataType = INT;
+	break;
+
+case 6:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 7:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 8:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 9:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 10:
+	varClanType.dataType = INT;
+	break;
+
+case 11:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = TYPE_49;
+	break;
+
+case 12:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = STRING;
+	break;
+
+case 13:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = TYPE_49;
+	break;
+
+case 14:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = STRING;
+	break;
+
+case 15:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = TYPE_49;
+	break;
+
+case 16:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = STRING;
+	break;
+
+case 17:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = TYPE_49;
+	break;
+
+case 18:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = STRING;
+	break;
+
+case 19:
+	varClanType.dataType = TYPE_49;
+	break;
+
+case 20:
+	varClanType.dataType = STRING;
+	break;
+
+case 21:
+	varClanType.dataType = INT;
+	break;
+
+case 22:
+	varClanType.dataType = INT;
+	break;
+
+case 23:
+	varClanType.dataType = INT;
+	break;
+
+case 24:
+	varClanType.dataType = INT;
+	break;
+
+case 25:
+	varClanType.dataType = INT;
+	break;
+
+case 26:
+	varClanType.dataType = INT;
+	break;
+
+case 27:
+	varClanType.dataType = INT;
+	break;
+
+case 28:
+	varClanType.dataType = INT;
+	break;
+
+case 29:
+	varClanType.dataType = INT;
+	break;
+
+case 30:
+	varClanType.dataType = INT;
+	break;
+
+case 31:
+	varClanType.dataType = INT;
+	break;
+
+case 32:
+	varClanType.dataType = INT;
+	break;
+
+case 33:
+	varClanType.dataType = INT;
+	break;
+
+case 34:
+	varClanType.dataType = INT;
+	break;
+
+case 35:
+	varClanType.dataType = INT;
+	break;
+
+case 36:
+	varClanType.dataType = INT;
+	break;
+
+case 37:
+	varClanType.dataType = INT;
+	break;
+
+case 38:
+	varClanType.dataType = INT;
+	break;
+
+case 39:
+	varClanType.dataType = INT;
+	break;
+
+case 40:
+	varClanType.dataType = INT;
+	break;
+
+case 41:
+	varClanType.dataType = INT;
+	break;
+
+case 42:
+	varClanType.dataType = INT;
+	break;
+
+case 43:
+	varClanType.dataType = INT;
+	break;
+
+case 44:
+	varClanType.dataType = INT;
+	break;
+
+case 45:
+	varClanType.dataType = INT;
+	break;
+
+case 46:
+	varClanType.dataType = INT;
+	break;
+
+case 47:
+	varClanType.dataType = INT;
+	break;
+
+case 48:
+	varClanType.dataType = INT;
+	break;
+
+case 49:
+	varClanType.dataType = INT;
+	break;
+
+case 50:
+	varClanType.dataType = INT;
+	break;
+
+case 51:
+	varClanType.dataType = INT;
+	break;
+
+case 52:
+	varClanType.dataType = INT;
+	break;
+
+case 53:
+	varClanType.dataType = INT;
+	break;
+
+case 54:
+	varClanType.dataType = INT;
+	break;
+
+case 55:
+	varClanType.dataType = INT;
+	break;
+
+case 56:
+	varClanType.dataType = INT;
+	break;
+
+case 57:
+	varClanType.dataType = INT;
+	break;
+
+case 58:
+	varClanType.dataType = INT;
+	break;
+
+case 59:
+	varClanType.dataType = INT;
+	break;
+
+case 60:
+	varClanType.dataType = INT;
+	break;
+
+case 61:
+	varClanType.dataType = INT;
+	break;
+
+case 62:
+	varClanType.dataType = INT;
+	break;
+
+case 63:
+	varClanType.dataType = INT;
+	break;
+
+case 64:
+	varClanType.dataType = INT;
+	break;
+
+case 65:
+	varClanType.dataType = INT;
+	break;
+
+case 66:
+	varClanType.dataType = INT;
+	break;
+
+case 67:
+	varClanType.dataType = INT;
+	break;
+
+case 68:
+	varClanType.dataType = INT;
+	break;
+
+case 69:
+	varClanType.dataType = INT;
+	break;
+
+case 70:
+	varClanType.dataType = INT;
+	break;
+
+case 71:
+	varClanType.dataType = INT;
+	break;
+
+case 72:
+	varClanType.dataType = INT;
+	break;
+
+case 73:
+	varClanType.dataType = INT;
+	break;
+
+case 74:
+	varClanType.dataType = INT;
+	break;
+
+case 75:
+	varClanType.dataType = INT;
+	break;
+
+case 76:
+	varClanType.dataType = INT;
+	break;
+
+case 77:
+	varClanType.dataType = INT;
+	break;
+
+case 78:
+	varClanType.dataType = INT;
+	break;
+
+case 79:
+	varClanType.dataType = INT;
+	break;
+
+case 80:
+	varClanType.dataType = INT;
+	break;
+
+case 81:
+	varClanType.dataType = INT;
+	break;
+
+case 82:
+	varClanType.dataType = INT;
+	break;
+
+case 83:
+	varClanType.dataType = INT;
+	break;
+
+case 84:
+	varClanType.dataType = INT;
+	break;
+
+case 85:
+	varClanType.dataType = INT;
+	break;
+
+case 86:
+	varClanType.dataType = INT;
+	break;
+
+case 87:
+	varClanType.dataType = INT;
+	break;
+
+case 88:
+	varClanType.dataType = INT;
+	break;
+
+case 89:
+	varClanType.dataType = INT;
+	break;
+
+case 90:
+	varClanType.dataType = INT;
+	break;
+
+case 91:
+	varClanType.dataType = INT;
+	break;
+
+case 92:
+	varClanType.dataType = INT;
+	break;
+
+case 93:
+	varClanType.dataType = INT;
+	break;
+
+case 94:
+	varClanType.dataType = INT;
+	break;
+
+case 95:
+	varClanType.dataType = INT;
+	break;
+
+case 96:
+	varClanType.dataType = INT;
+	break;
+
+case 97:
+	varClanType.dataType = INT;
+	break;
+
+case 98:
+	varClanType.dataType = INT;
+	break;
+
+case 99:
+	varClanType.dataType = INT;
+	break;
+
+case 100:
+	varClanType.dataType = INT;
+	break;
+
+case 101:
+	varClanType.dataType = INT;
+	break;
+
+case 102:
+	varClanType.dataType = INT;
+	break;
+
+case 103:
+	varClanType.dataType = INT;
+	break;
+
+case 104:
+	varClanType.dataType = INT;
+	break;
+
+case 105:
+	varClanType.dataType = INT;
+	break;
+
+case 106:
+	varClanType.dataType = INT;
+	break;
+
+case 107:
+	varClanType.dataType = INT;
+	break;
+
+case 108:
+	varClanType.dataType = INT;
+	break;
+
+case 109:
+	varClanType.dataType = INT;
+	break;
+
+case 110:
+	varClanType.dataType = INT;
+	break;
+
+case 111:
+	varClanType.dataType = INT;
+	break;
+
+case 112:
+	varClanType.dataType = INT;
+	break;
+
+case 113:
+	varClanType.dataType = INT;
+	break;
+
+case 114:
+	varClanType.dataType = INT;
+	break;
+
+case 115:
+	varClanType.dataType = INT;
+	break;
+
+case 116:
+	varClanType.dataType = INT;
+	break;
+
+case 117:
+	varClanType.dataType = INT;
+	break;
+
+case 118:
+	varClanType.dataType = INT;
+	break;
+
+case 119:
+	varClanType.dataType = INT;
+	break;
+
+case 120:
+	varClanType.dataType = INT;
+	break;
+
+case 121:
+	varClanType.dataType = INT;
+	break;
+
+case 122:
+	varClanType.dataType = INT;
+	break;
+
+case 123:
+	varClanType.dataType = INT;
+	break;
+
+case 124:
+	varClanType.dataType = INT;
+	break;
+
+case 125:
+	varClanType.dataType = INT;
+	break;
+
+case 126:
+	varClanType.dataType = INT;
+	break;
+
+case 127:
+	varClanType.dataType = INT;
+	break;
+
+case 128:
+	varClanType.dataType = INT;
+	break;
+
+case 129:
+	varClanType.dataType = INT;
+	break;
+
+case 130:
+	varClanType.dataType = INT;
+	break;
+
+case 131:
+	varClanType.dataType = INT;
+	break;
+
+case 132:
+	varClanType.dataType = INT;
+	break;
+
+case 133:
+	varClanType.dataType = INT;
+	break;
+
+case 134:
+	varClanType.dataType = INT;
+	break;
+
+case 135:
+	varClanType.dataType = INT;
+	break;
+
+case 136:
+	varClanType.dataType = INT;
+	break;
+
+case 137:
+	varClanType.dataType = INT;
+	break;
+
+case 138:
+	varClanType.dataType = INT;
+	break;
+
+case 139:
+	varClanType.dataType = INT;
+	break;
+
+case 140:
+	varClanType.dataType = INT;
+	break;
+
+case 141:
+	varClanType.dataType = INT;
+	break;
+
+case 142:
+	varClanType.dataType = INT;
+	break;
+
+case 143:
+	varClanType.dataType = INT;
+	break;
+
+case 144:
+	varClanType.dataType = INT;
+	break;
+
+case 145:
+	varClanType.dataType = INT;
+	break;
+
+case 146:
+	varClanType.dataType = INT;
+	break;
+
+case 147:
+	varClanType.dataType = INT;
+	break;
+
+case 148:
+	varClanType.dataType = INT;
+	break;
+
+case 149:
+	varClanType.dataType = INT;
+	break;
+
+case 150:
+	varClanType.dataType = INT;
+	break;
+
+case 151:
+	varClanType.dataType = INT;
+	break;
+
+case 152:
+	varClanType.dataType = INT;
+	break;
+
+case 153:
+	varClanType.dataType = INT;
+	break;
+
+case 154:
+	varClanType.dataType = INT;
+	break;
+
+case 155:
+	varClanType.dataType = INT;
+	break;
+
+case 156:
+	varClanType.dataType = INT;
+	break;
+
+case 157:
+	varClanType.dataType = INT;
+	break;
+
+case 158:
+	varClanType.dataType = INT;
+	break;
+
+case 159:
+	varClanType.dataType = INT;
+	break;
+
+case 160:
+	varClanType.dataType = INT;
+	break;
+
+case 161:
+	varClanType.dataType = INT;
+	break;
+
+case 162:
+	varClanType.dataType = INT;
+	break;
+
+case 163:
+	varClanType.dataType = INT;
+	break;
+
+case 164:
+	varClanType.dataType = INT;
+	break;
+
+case 165:
+	varClanType.dataType = INT;
+	break;
+
+case 166:
+	varClanType.dataType = INT;
+	break;
+
+case 167:
+	varClanType.dataType = INT;
+	break;
+
+case 168:
+	varClanType.dataType = INT;
+	break;
+
+case 169:
+	varClanType.dataType = INT;
+	break;
+
+case 170:
+	varClanType.dataType = INT;
+	break;
+
+case 171:
+	varClanType.dataType = INT;
+	break;
+
+case 172:
+	varClanType.dataType = INT;
+	break;
+
+case 173:
+	varClanType.dataType = INT;
+	break;
+
+case 174:
+	varClanType.dataType = INT;
+	break;
+
+case 175:
+	varClanType.dataType = INT;
+	break;
+
+case 176:
+	varClanType.dataType = INT;
+	break;
+
+case 177:
+	varClanType.dataType = INT;
+	break;
+
+case 178:
+	varClanType.dataType = INT;
+	break;
+
+case 179:
+	varClanType.dataType = INT;
+	break;
+
+case 180:
+	varClanType.dataType = INT;
+	break;
+
+case 181:
+	varClanType.dataType = INT;
+	break;
+
+case 182:
+	varClanType.dataType = INT;
+	break;
+
+case 183:
+	varClanType.dataType = INT;
+	break;
+
+case 184:
+	varClanType.dataType = INT;
+	break;
+
+case 185:
+	varClanType.dataType = INT;
+	break;
+
+case 186:
+	varClanType.dataType = INT;
+	break;
+
+case 187:
+	varClanType.dataType = INT;
+	break;
+
+case 188:
+	varClanType.dataType = INT;
+	break;
+
+case 189:
+	varClanType.dataType = INT;
+	break;
+
+case 190:
+	varClanType.dataType = INT;
+	break;
+
+case 191:
+	varClanType.dataType = INT;
+	break;
+
+case 192:
+	varClanType.dataType = INT;
+	break;
+
+case 193:
+	varClanType.dataType = INT;
+	break;
+
+case 194:
+	varClanType.dataType = INT;
+	break;
+
+case 195:
+	varClanType.dataType = INT;
+	break;
+
+case 196:
+	varClanType.dataType = INT;
+	break;
+
+case 197:
+	varClanType.dataType = INT;
+	break;
+
+case 198:
+	varClanType.dataType = INT;
+	break;
+
+case 199:
+	varClanType.dataType = INT;
+	break;
+
+case 200:
+	varClanType.dataType = INT;
+	break;
+
+case 201:
+	varClanType.dataType = INT;
+	break;
+
+case 202:
+	varClanType.dataType = INT;
+	break;
+
+case 203:
+	varClanType.dataType = INT;
+	break;
+
+case 204:
+	varClanType.dataType = INT;
+	break;
+
+case 205:
+	varClanType.dataType = INT;
+	break;
+
+case 206:
+	varClanType.dataType = INT;
+	break;
+
+case 207:
+	varClanType.dataType = INT;
+	break;
+
+case 208:
+	varClanType.dataType = INT;
+	break;
+
+case 209:
+	varClanType.dataType = INT;
+	break;
+
+case 210:
+	varClanType.dataType = INT;
+	break;
+
+case 211:
+	varClanType.dataType = INT;
+	break;
+
+case 212:
+	varClanType.dataType = INT;
+	break;
+
+case 213:
+	varClanType.dataType = INT;
+	break;
+
+case 214:
+	varClanType.dataType = INT;
+	break;
+
+case 215:
+	varClanType.dataType = INT;
+	break;
+
+case 216:
+	varClanType.dataType = INT;
+	break;
+
+case 217:
+	varClanType.dataType = INT;
+	break;
+
+case 218:
+	varClanType.dataType = INT;
+	break;
+
+case 219:
+	varClanType.dataType = INT;
+	break;
+
+case 220:
+	varClanType.dataType = INT;
+	break;
+
+case 221:
+	varClanType.dataType = INT;
+	break;
+
+case 222:
+	varClanType.dataType = INT;
+	break;
+
+case 223:
+	varClanType.dataType = INT;
+	break;
+
+case 224:
+	varClanType.dataType = INT;
+	break;
+
+case 225:
+	varClanType.dataType = INT;
+	break;
+
+case 226:
+	varClanType.dataType = INT;
+	break;
+
+case 227:
+	varClanType.dataType = INT;
+	break;
+
+case 228:
+	varClanType.dataType = INT;
+	break;
+
+case 229:
+	varClanType.dataType = INT;
+	break;
+
+case 230:
+	varClanType.dataType = INT;
+	break;
+
+case 231:
+	varClanType.dataType = INT;
+	break;
+
+case 232:
+	varClanType.dataType = INT;
+	break;
+
+case 233:
+	varClanType.dataType = INT;
+	break;
+
+case 234:
+	varClanType.dataType = INT;
+	break;
+
+case 235:
+	varClanType.dataType = INT;
+	break;
+
+case 236:
+	varClanType.dataType = INT;
+	break;
+
+case 237:
+	varClanType.dataType = INT;
+	break;
+
+case 238:
+	varClanType.dataType = INT;
+	break;
+
+case 239:
+	varClanType.dataType = INT;
+	break;
+
+case 240:
+	varClanType.dataType = INT;
+	break;
+
+case 241:
+	varClanType.dataType = INT;
+	break;
+
+case 242:
+	varClanType.dataType = INT;
+	break;
+
+case 243:
+	varClanType.dataType = INT;
+	break;
+
+case 244:
+	varClanType.dataType = INT;
+	break;
+
+case 245:
+	varClanType.dataType = INT;
+	break;
+
+case 246:
+	varClanType.dataType = INT;
+	break;
+
+case 247:
+	varClanType.dataType = INT;
+	break;
+
+case 248:
+	varClanType.dataType = INT;
+	break;
+
+case 249:
+	varClanType.dataType = INT;
+	break;
+
+case 250:
+	varClanType.dataType = INT;
+	break;
+
+case 251:
+	varClanType.dataType = INT;
+	break;
+
+case 252:
+	varClanType.dataType = INT;
+	break;
+
+case 253:
+	varClanType.dataType = INT;
+	break;
+
+case 254:
+	varClanType.dataType = INT;
+	break;
+
+case 255:
+	varClanType.dataType = INT;
+	break;
+
+case 256:
+	varClanType.dataType = INT;
+	break;
+
+case 257:
+	varClanType.dataType = INT;
+	break;
+
+case 258:
+	varClanType.dataType = INT;
+	break;
+
+case 259:
+	varClanType.dataType = INT;
+	break;
+
+case 260:
+	varClanType.dataType = INT;
+	break;
+
+case 261:
+	varClanType.dataType = INT;
+	break;
+
+case 262:
+	varClanType.dataType = INT;
+	break;
+
+case 263:
+	varClanType.dataType = INT;
+	break;
+
+case 264:
+	varClanType.dataType = INT;
+	break;
+
+case 265:
+	varClanType.dataType = INT;
+	break;
+
+case 266:
+	varClanType.dataType = INT;
+	break;
+
+case 267:
+	varClanType.dataType = INT;
+	break;
+
+case 268:
+	varClanType.dataType = INT;
+	break;
+
+case 269:
+	varClanType.dataType = INT;
+	break;
+
+case 270:
+	varClanType.dataType = INT;
+	break;
+
+case 271:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 272:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 273:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 274:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 275:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 276:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 277:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 278:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 279:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 280:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 281:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 282:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 283:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 284:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 285:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 286:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 287:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 288:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 289:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 290:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 291:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 292:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 293:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 294:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 295:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 296:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 297:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 298:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 299:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 300:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 301:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 302:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 303:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 304:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 305:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 306:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 307:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 308:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 309:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 310:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 311:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 312:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 313:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 314:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 315:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 316:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 317:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 318:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 319:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 320:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 321:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 322:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 323:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 324:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 325:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 326:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 327:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 328:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 329:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 330:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 331:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 332:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 333:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 334:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 335:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 336:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 337:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 338:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 339:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 340:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 341:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 342:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 343:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 344:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 345:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 346:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 347:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 348:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 349:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 350:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 351:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 352:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 353:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 354:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 355:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 356:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 357:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 358:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 359:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 360:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 361:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 362:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 363:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 364:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 365:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 366:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 367:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 368:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 369:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 370:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 371:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 372:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 373:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 374:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 375:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 376:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 377:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 378:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 379:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 380:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 381:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 382:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 383:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 384:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 385:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 386:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 387:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 388:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 389:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 390:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 391:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 392:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 393:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 394:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 395:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 396:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 397:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 398:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 399:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 400:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 401:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 402:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 403:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 404:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 405:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 406:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 407:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 408:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 409:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 410:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 411:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 412:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 413:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 414:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 415:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 416:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 417:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 418:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 419:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 420:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 421:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 422:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 423:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 424:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 425:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 426:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 427:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 428:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 429:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 430:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 431:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 432:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 433:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 434:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 435:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 436:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 437:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 438:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 439:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 440:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 441:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 442:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 443:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 444:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 445:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 446:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 447:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 448:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 449:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 450:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 451:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 452:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 453:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 454:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 455:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 456:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 457:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 458:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 459:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 460:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 461:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 462:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 463:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 464:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 465:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 466:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 467:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 468:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 469:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 470:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 471:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 472:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 473:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 474:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 475:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 476:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 477:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 478:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 479:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 480:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 481:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 482:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 483:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 484:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 485:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 486:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 487:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 488:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 489:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 490:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 491:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 492:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 493:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 494:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 495:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 496:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 497:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 498:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 499:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 500:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 501:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 502:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 503:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 504:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 505:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 506:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 507:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 508:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 509:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 510:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 511:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 512:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 513:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 514:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 515:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 516:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 517:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 518:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 519:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 520:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 521:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 522:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 523:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 524:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 525:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 526:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 527:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 528:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 529:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 530:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 531:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 532:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 533:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 534:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 535:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 536:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 537:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 538:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 539:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 540:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 541:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 542:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 543:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 544:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 545:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 546:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 547:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 548:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 549:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 550:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 551:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 552:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 553:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 554:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 555:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 556:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 557:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 558:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 559:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 560:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 561:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 562:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 563:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 564:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 565:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 566:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 567:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 568:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 569:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 570:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 571:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 572:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 573:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 574:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 575:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 576:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 577:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 578:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 579:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 580:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 581:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 582:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 583:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 584:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 585:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 586:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 587:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 588:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 589:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 590:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 591:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 592:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 593:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 594:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 595:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 596:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 597:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 598:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 599:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 600:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 601:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 602:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 603:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 604:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 605:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 606:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 607:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 608:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 609:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 610:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 611:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 612:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 613:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 614:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 615:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 616:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 617:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 618:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 619:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 620:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 621:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 622:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 623:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 624:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 625:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 626:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 627:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 628:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 629:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 630:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 631:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 632:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 633:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 634:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 635:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 636:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 637:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 638:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 639:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 640:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 641:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 642:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 643:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 644:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 645:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 646:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 647:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 648:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 649:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 650:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 651:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 652:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 653:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 654:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 655:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 656:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 657:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 658:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 659:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 660:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 661:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 662:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 663:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 664:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 665:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 666:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 667:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 668:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 669:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 670:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 671:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 672:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 673:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 674:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 675:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 676:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 677:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 678:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 679:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 680:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 681:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 682:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 683:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 684:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 685:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 686:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 687:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 688:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 689:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 690:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 691:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 692:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 693:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 694:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 695:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 696:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 697:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 698:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 699:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 700:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 701:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 702:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 703:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 704:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 705:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 706:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 707:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 708:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 709:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 710:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 711:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 712:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 713:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 714:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 715:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 716:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 717:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 718:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 719:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 720:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 721:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 722:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 723:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 724:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 725:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 726:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 727:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 728:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 729:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 730:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 731:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 732:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 733:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 734:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 735:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 736:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 737:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 738:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 739:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 740:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 741:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 742:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 743:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 744:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 745:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 746:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 747:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 748:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 749:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 750:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 751:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 752:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 753:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 754:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 755:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 756:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 757:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 758:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 759:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 760:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 761:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 762:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 763:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 764:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 765:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 766:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 767:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 768:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 769:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 770:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 771:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 772:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 773:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 774:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 775:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 776:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 777:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 778:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 779:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 780:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 781:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 782:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 783:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 784:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 785:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 786:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 787:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 788:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 789:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 790:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 791:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 792:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 793:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 794:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 795:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 796:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 797:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 798:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 799:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 800:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 801:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 802:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 803:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 804:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 805:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 806:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 807:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 808:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 809:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 810:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 811:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 812:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 813:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 814:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 815:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 816:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 817:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 818:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 819:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 820:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 821:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 822:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 823:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 824:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 825:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 826:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 827:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 828:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 829:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 830:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 831:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 832:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 833:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 834:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 835:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 836:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 837:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 838:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 839:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 840:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 841:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 842:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 843:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 844:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 845:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 846:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 847:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 848:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 849:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 850:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 851:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 852:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 853:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 854:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 855:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 856:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 857:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 858:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 859:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 860:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 861:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 862:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 863:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 864:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 865:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 866:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 867:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 868:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 869:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 870:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 871:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 872:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 873:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 874:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 875:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 876:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 877:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 878:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 879:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 880:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 881:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 882:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 883:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 884:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 885:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 886:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 887:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 888:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 889:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 890:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 891:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 892:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 893:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 894:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 895:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 896:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 897:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 898:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 899:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 900:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 901:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 902:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 903:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 904:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 905:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 906:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 907:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 908:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 909:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 910:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 911:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 912:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 913:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 914:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 915:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 916:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 917:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 918:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 919:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 920:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 921:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 922:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 923:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 924:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 925:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 926:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 927:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 928:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 929:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 930:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 931:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 932:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 933:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 934:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 935:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 936:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 937:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 938:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 939:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 940:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 941:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 942:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 943:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 944:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 945:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 946:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 947:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 948:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 949:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 950:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 951:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 952:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 953:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 954:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 955:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 956:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 957:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 958:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 959:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 960:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 961:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 962:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 963:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 964:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 965:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 966:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 967:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 968:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 969:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 970:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 971:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 972:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 973:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 974:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 975:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 976:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 977:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 978:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 979:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 980:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 981:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 982:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 983:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 984:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 985:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 986:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 987:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 988:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 989:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 990:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 991:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 992:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 993:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 994:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 995:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 996:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 997:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 998:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 999:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1000:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1001:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1002:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1003:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1004:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1005:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1006:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1007:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1008:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1009:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1010:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1011:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1012:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1013:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1014:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1015:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1016:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1017:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1018:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1019:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1020:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1021:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1022:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1023:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1024:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1025:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1026:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1027:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1028:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1029:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1030:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1031:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1032:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1033:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1034:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1035:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1036:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1037:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1038:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1039:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1040:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1041:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1042:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1043:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1044:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1045:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1046:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1047:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1048:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1049:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1050:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1051:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1052:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1053:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1054:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1055:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1056:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1057:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1058:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1059:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1060:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1061:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1062:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1063:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1064:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1065:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1066:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1067:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1068:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1069:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1070:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1071:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1072:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1073:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1074:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1075:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1076:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1077:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1078:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1079:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1080:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1081:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1082:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1083:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1084:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1085:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1086:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1087:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1088:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1089:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1090:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1091:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1092:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1093:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1094:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1095:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1096:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1097:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1098:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1099:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1100:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1101:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1102:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1103:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1104:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1105:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1106:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1107:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1108:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1109:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1110:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1111:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1112:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1113:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1114:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1115:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1116:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1117:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1118:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1119:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1120:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1121:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1122:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1123:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1124:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1125:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1126:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1127:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1128:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1129:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1130:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1131:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1132:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1133:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1134:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1135:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1136:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1137:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1138:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1139:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1140:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1141:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1142:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1143:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1144:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1145:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1146:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1147:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1148:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1149:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1150:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1151:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1152:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1153:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1154:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1155:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1156:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1157:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1158:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1159:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1160:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1161:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1162:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1163:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1164:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1165:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1166:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1167:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1168:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1169:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1170:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1171:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1172:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1173:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1174:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1175:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1176:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1177:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1178:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1179:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1180:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1181:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1182:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1183:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1184:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1185:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1186:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1187:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1188:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1189:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1190:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1191:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1192:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1193:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1194:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1195:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1196:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1197:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1198:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1199:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1200:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1201:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1202:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1203:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1204:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1205:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1206:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1207:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1208:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1209:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1210:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1211:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1212:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1213:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1214:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1215:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1216:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1217:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1218:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1219:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1220:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1221:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1222:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1223:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1224:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1225:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1226:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1227:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1228:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1229:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1230:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1231:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1232:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1233:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1234:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1235:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1236:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1237:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1238:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1239:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1240:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1241:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1242:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1243:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1244:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1245:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1246:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1247:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1248:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1249:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1250:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1251:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1252:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1253:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1254:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1255:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1256:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1257:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1258:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1259:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1260:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1261:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1262:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1263:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1264:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1265:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1266:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1267:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1268:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1269:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1270:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1271:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1272:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1273:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1274:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1275:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1276:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1277:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1278:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1279:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1280:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1281:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1282:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1283:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1284:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1285:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1286:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1287:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1288:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1289:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1290:
+	varClanType.dataType = INT;
+	break;
+
+case 1291:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1292:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1293:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1294:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1295:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1296:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1297:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1298:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1299:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1300:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1301:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1302:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1303:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1304:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1305:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1306:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1307:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1308:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1309:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1310:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1311:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1312:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1313:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1314:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1315:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1316:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1317:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1318:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1319:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1320:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1321:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1322:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1323:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1324:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1325:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1326:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1327:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1328:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1329:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1330:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1331:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1332:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1333:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1334:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1335:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1336:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1337:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1338:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1339:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1340:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1341:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1342:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1343:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1344:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1345:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1346:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1347:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1348:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1349:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1350:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1351:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1352:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1353:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1354:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1355:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1356:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1357:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1358:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1359:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1360:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1361:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1362:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1363:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1364:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1365:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1366:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1367:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1368:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1369:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1370:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1371:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1372:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1373:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1374:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1375:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1376:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1377:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1378:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1379:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1380:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1381:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1382:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1383:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1384:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1385:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1386:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1387:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1388:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1389:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1390:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1391:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1392:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1393:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1394:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1395:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1396:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1397:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1398:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1399:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1400:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1401:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1402:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1403:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1404:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1405:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1406:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1407:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1408:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1409:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1410:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1411:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1412:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1413:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1414:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1415:
+	varClanType.dataType = INT;
+	break;
+
+case 1416:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1417:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1418:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1419:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1420:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1421:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1422:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1423:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1424:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1425:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1426:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1427:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1428:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1429:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1430:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1431:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1432:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1433:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1434:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1435:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1436:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1437:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1438:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1439:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1440:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1441:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1442:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1443:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1444:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1445:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1446:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1447:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1448:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1449:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1450:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1451:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1452:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1453:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1454:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1455:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1456:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1457:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1458:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1459:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1460:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1461:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1462:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1463:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1464:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1465:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1466:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1467:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1468:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1469:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1470:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1471:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1472:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1473:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1474:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1475:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1476:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1477:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1478:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1479:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1480:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1481:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1482:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1483:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1484:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1485:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1486:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1487:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1488:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1489:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1490:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1491:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1492:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1493:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1494:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1495:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1496:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1497:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1498:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1499:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1500:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1501:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1502:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1503:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1504:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1505:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1506:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1507:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1508:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1509:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1510:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1511:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1512:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1513:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1514:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1515:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1516:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1517:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1518:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1519:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1520:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1521:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1522:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1523:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1524:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1525:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1526:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1527:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1528:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1529:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1530:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1531:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1532:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1533:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1534:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1535:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = TYPE_49;
+	break;
+
+case 1536:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1537:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1538:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1539:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1540:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1541:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1542:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1543:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1544:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1545:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1546:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1547:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1548:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1549:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1550:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1551:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1552:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1553:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1554:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1555:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1556:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1557:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1558:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1559:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1560:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1561:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1562:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1563:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1564:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1565:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1566:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1567:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1568:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1569:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1570:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1571:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1572:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1573:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1574:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1575:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1576:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1577:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1578:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1579:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1580:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1581:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1582:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1583:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1584:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1585:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1586:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1587:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1588:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1589:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1590:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1591:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1592:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1593:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1594:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1595:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1596:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1597:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1598:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1599:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1600:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1601:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1602:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = TYPE_49;
+	break;
+
+case 1603:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1604:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = TYPE_49;
+	break;
+
+case 1605:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1606:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = TYPE_49;
+	break;
+
+case 1607:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1608:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = TYPE_49;
+	break;
+
+case 1609:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1610:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = TYPE_49;
+	break;
+
+case 1611:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1612:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = TYPE_49;
+	break;
+
+case 1613:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1614:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = TYPE_49;
+	break;
+
+case 1615:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1616:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = TYPE_49;
+	break;
+
+case 1617:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1618:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = TYPE_49;
+	break;
+
+case 1619:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1620:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1621:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1622:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1623:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1624:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1625:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1626:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1627:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1628:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1629:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;
+
+case 1630:
+	varClanType.lifeTime = PERMANENT;
+	varClanType.dataType = INT;
+	break;

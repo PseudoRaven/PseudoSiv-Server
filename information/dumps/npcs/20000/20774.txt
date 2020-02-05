@@ -1,0 +1,10 @@
+id=20774
+name=Shopkeeper
+description=Ironically, makes a living from swords.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["New Varrock"]
+aggressive=false
+members=false

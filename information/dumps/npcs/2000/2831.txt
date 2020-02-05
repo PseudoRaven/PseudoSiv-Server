@@ -1,0 +1,10 @@
+id=2831
+name=Zombie protester
+description=Sticking it to 'The Man'.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Braindeath Island"]
+aggressive=true
+members=true

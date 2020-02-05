@@ -1,0 +1,10 @@
+id=1819
+name=Mountain Goat
+description=Looks a little underfed.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

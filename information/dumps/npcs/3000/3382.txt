@@ -1,0 +1,11 @@
+id=3382
+name=Hell-Rat
+description=Vermin from the underworld.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+slayercat=Rats
+areas=["Misthalin Underground"]
+aggressive=false
+members=true

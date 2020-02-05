@@ -1,0 +1,17 @@
+id=6858
+name=Steel minotaur
+description=He's just a big bully.
+size=2
+xp=217.8
+lifepoints=6600
+level=66
+attack=51
+defence=45
+ranged=51
+magic=51
+animations={death:8025,attack:8024}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

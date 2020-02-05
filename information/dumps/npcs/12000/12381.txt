@@ -1,0 +1,10 @@
+id=12381
+name=Allan
+description=He'll Poe-n you.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["halloween 2010"]
+aggressive=false
+members=false

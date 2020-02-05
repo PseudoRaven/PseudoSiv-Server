@@ -1,0 +1,10 @@
+id=9475
+name=Beaver
+description=Looks pretty eager!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Spirit Plane"]
+aggressive=true
+members=true

@@ -1,0 +1,10 @@
+id=1409
+name=Waydar
+description=Waydar is some kind of flight officer.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Ape Atoll"]
+aggressive=false
+members=false

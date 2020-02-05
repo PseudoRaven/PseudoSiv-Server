@@ -1,0 +1,17 @@
+id=300
+name=TokHaar-Hur
+description=A sleek obsidian craftsman, but ready for battle.
+size=1
+xp=688.5
+lifepoints=4000
+level=112
+attack=80
+defence=80
+ranged=1
+magic=1
+animations={death:16178,attack:16098}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=true

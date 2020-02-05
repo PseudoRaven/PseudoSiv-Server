@@ -1,0 +1,10 @@
+id=808
+name=Hobbes
+description=He looks kind of stuck up...
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=13455
+name=Ashuelot Reis
+description=An ancient spirit of nature.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["God Wars Dungeon"]
+aggressive=false
+members=true

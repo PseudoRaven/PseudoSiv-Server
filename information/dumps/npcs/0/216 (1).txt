@@ -1,0 +1,10 @@
+id=216
+name=High Priest
+description=High Priest of Entrana.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

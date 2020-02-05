@@ -1,0 +1,10 @@
+id=20858
+name=Xuan
+description=The most loyal person you'll ever know.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["New Varrock"]
+aggressive=false
+members=false

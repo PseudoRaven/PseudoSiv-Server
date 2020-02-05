@@ -1,0 +1,10 @@
+id=8948
+name=Banker
+description=Happy to store your precious things.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

@@ -1,0 +1,10 @@
+id=20816
+name=Sir Prysin
+description=One of the former king's knights.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["New Varrock"]
+aggressive=false
+members=false

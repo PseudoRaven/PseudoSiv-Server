@@ -1,0 +1,10 @@
+id=15752
+name=Mieliki Tapio
+description=An alchemist with a somewhat obsessive work ethic.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

@@ -1,0 +1,17 @@
+id=20431
+name=Dominion wizard
+description=A memory created by the tower of one of the many who have died here.
+size=1
+xp=301.9
+lifepoints=7500
+level=76
+attack=60
+defence=50
+ranged=60
+magic=60
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

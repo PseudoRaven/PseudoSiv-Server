@@ -1,0 +1,17 @@
+id=13459
+name=Ancient mage
+description=A mage well practised in the art of ancient spellcasting.
+size=1
+xp=510.9
+lifepoints=3700
+level=103
+attack=1
+defence=74
+ranged=1
+magic=74
+animations={death:836,attack:1979}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=["God Wars Dungeon"]
+aggressive=true

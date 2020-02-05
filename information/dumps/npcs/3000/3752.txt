@@ -1,0 +1,17 @@
+id=3752
+name=Torcher
+description=Burn, baby, burn!
+size=1
+xp=130
+lifepoints=3700
+level=51
+attack=1
+defence=37
+ranged=1
+magic=37
+animations={death:3881,attack:3882}
+attackable=true
+poisonous=false
+weakness="Thrown"
+areas=[]
+aggressive=true

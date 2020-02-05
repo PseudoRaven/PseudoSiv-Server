@@ -1,0 +1,10 @@
+id=20229
+name=Lord Amlodd
+description=This elf has the otherworldly air of a summoned creature.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Prifddinas"]
+aggressive=false
+members=false

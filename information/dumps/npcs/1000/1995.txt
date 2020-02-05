@@ -1,0 +1,17 @@
+id=1995
+name=Locust
+description=Obnoxious, overgrown insect.
+size=1
+xp=50.8
+lifepoints=1200
+level=16
+attack=12
+defence=12
+ranged=0
+magic=0
+animations={death:2013,attack:2015}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=["RuneScape Surface"]
+aggressive=true

@@ -1,0 +1,17 @@
+id=15222
+name=Sunfreet
+description=A horrific creation from the minds of RuneScape's population.
+size=5
+xp=5508
+lifepoints=60000
+level=112
+attack=80
+defence=80
+ranged=80
+magic=80
+animations={death:16337,attack:16312}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

@@ -1,0 +1,10 @@
+id=8085
+name=Ringmaster
+description=The master of the big top.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Circus"]
+aggressive=false
+members=true

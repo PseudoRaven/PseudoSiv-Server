@@ -1,0 +1,10 @@
+id=3696
+name=Ingrid Hradson
+description=One of the inhabitants of the camp.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface","Rellekka"]
+aggressive=false
+members=true

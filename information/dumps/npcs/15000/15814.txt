@@ -1,0 +1,10 @@
+id=15814
+name=Dung kalphite
+description=A kalphite larvae pushing a ball of dung.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Kalphite Hive"]
+aggressive=true
+members=false

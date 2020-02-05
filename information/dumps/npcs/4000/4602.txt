@@ -1,0 +1,10 @@
+id=4602
+name=Froono
+description=He looks like he needs something useful to do.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

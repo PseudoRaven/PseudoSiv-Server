@@ -1,0 +1,10 @@
+id=37
+name=Sigbert the Adventurer
+description=A bold knight famed for his travels.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Yanille Dungeon"]
+aggressive=false
+members=false

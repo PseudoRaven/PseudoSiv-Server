@@ -1,0 +1,16 @@
+id=1320
+name=Bunny
+description=Hoppity, hoppity.
+size=1
+xp=24.9
+lifepoints=50
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:1246,attack:1245}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false

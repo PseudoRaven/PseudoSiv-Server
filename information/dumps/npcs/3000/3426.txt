@@ -1,0 +1,10 @@
+id=3426
+name=Fish
+description=A Red Fantail.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Underwater cave"]
+aggressive=false
+members=true

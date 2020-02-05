@@ -1,0 +1,17 @@
+id=5017
+name=Gublinch
+description=A sweaty gublinch.
+size=1
+xp=0.8
+lifepoints=250
+level=0
+attack=25
+defence=50
+ranged=1
+magic=1
+animations={}
+attackable=true
+poisonous=false
+slayercat=Goblins
+areas=[]
+aggressive=false

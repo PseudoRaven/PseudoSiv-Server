@@ -1,0 +1,10 @@
+id=4555
+name=Jenny Blade
+description=Yes, it is indeed the infamous Jenny Blade!
+xp=0.4
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

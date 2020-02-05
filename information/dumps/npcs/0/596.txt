@@ -1,0 +1,10 @@
+id=596
+name=Fat Tony
+description=A pizza expert; in both making and eating.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

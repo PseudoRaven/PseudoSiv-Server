@@ -1,0 +1,10 @@
+id=2152
+name=Santiri
+description=Proprietor of the Quality Weapons Shop.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

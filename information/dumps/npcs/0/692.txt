@@ -1,0 +1,10 @@
+id=692
+name=Tribal Weapon Salesman
+description=Supplier of authentic throwing weapons.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

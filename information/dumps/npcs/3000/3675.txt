@@ -1,0 +1,17 @@
+id=3675
+name=Vulture
+description=If you see them circling, run.
+size=2
+xp=90.9
+lifepoints=1900
+level=53
+attack=38
+defence=38
+ranged=0
+magic=0
+animations={death:2021,attack:2019}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface","Agility Pyramid"]
+aggressive=false

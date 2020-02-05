@@ -1,0 +1,10 @@
+id=5774
+name=Ur-lun
+description=A respected member of the Dorgeshuun Council.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dorgesh-Kaan"]
+aggressive=true
+members=true

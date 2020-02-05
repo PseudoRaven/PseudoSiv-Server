@@ -1,0 +1,17 @@
+id=3591
+name=Dagannoth
+description=A darkened horror from the ocean depths.
+size=3
+xp=0
+lifepoints=4500
+level=112
+attack=80
+defence=80
+ranged=80
+magic=1
+animations={death:1342,attack:1341}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=[]
+aggressive=true

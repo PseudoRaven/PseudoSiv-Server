@@ -1,0 +1,17 @@
+id=11125
+name=Sachem bloodrager
+description=Trained from birth to tear and rend. (Tier 10)
+size=1
+xp=1032.7
+lifepoints=10000
+level=112
+attack=80
+defence=80
+ranged=80
+magic=80
+animations={death:13683,attack:13617}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

@@ -1,0 +1,10 @@
+id=7870
+name=Lachtopher
+description=He has the aura of a lazy-bones about him.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=5171
+name=Mountain goat
+description=This beast doesn't need climbing boots.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface","Troll Stronghold"]
+aggressive=false
+members=false

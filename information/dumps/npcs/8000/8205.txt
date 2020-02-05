@@ -1,0 +1,10 @@
+id=8205
+name=Gus
+description=An underpaid delivery ghoul.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Hetty's basement"]
+aggressive=false
+members=false

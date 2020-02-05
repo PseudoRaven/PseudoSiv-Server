@@ -1,0 +1,10 @@
+id=7416
+name=Big Ben
+description=A cute, cuddly, little squirrel - with teeth.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Easter 2009"]
+aggressive=false
+members=false

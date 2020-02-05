@@ -1,0 +1,17 @@
+id=5364
+name=Confused barbarian
+description=He looks about, blankly.
+size=1
+xp=256.8
+lifepoints=3000
+level=84
+attack=60
+defence=60
+ranged=1
+magic=1
+animations={death:836,attack:2067}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["Ancient cavern"]
+aggressive=false

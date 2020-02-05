@@ -1,0 +1,10 @@
+id=1283
+name=Swensen the Navigator
+description=A Fremennik navigator.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface","Rellekka"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=169
+name=Gnome woman
+description=A female gnome.
+size=1
+xp=64.5
+lifepoints=1500
+level=42
+attack=30
+defence=30
+ranged=1
+magic=1
+animations={death:196,attack:191}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["RuneScape Surface"]
+aggressive=false

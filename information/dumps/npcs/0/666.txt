@@ -1,0 +1,10 @@
+id=666
+name=Caleb
+description=A well-dressed nobleman.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

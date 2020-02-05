@@ -1,0 +1,10 @@
+id=4526
+name=Bouquet Mac Hyacinth
+description=Should I pronounce it 'bucket'?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

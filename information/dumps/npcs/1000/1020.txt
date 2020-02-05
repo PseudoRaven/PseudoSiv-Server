@@ -1,0 +1,17 @@
+id=1020
+name=Earth elemental
+description=An earth elemental.
+size=1
+xp=69.6
+lifepoints=1600
+level=44
+attack=32
+defence=32
+ranged=0
+magic=0
+animations={death:4870,attack:4868}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["Elemental Workshop"]
+aggressive=false

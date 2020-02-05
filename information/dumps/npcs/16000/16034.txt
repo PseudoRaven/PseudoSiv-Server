@@ -1,0 +1,17 @@
+id=16034
+name=Melee training dummy
+description=Weak against air.
+size=1
+xp=2502.4
+lifepoints=10000
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={attack:15798}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=false

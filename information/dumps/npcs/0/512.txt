@@ -1,0 +1,10 @@
+id=512
+name=Kaleb Paramaya
+description=This is Kaleb Paramaya, a warm and friendly inn owner.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

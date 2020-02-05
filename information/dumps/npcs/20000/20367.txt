@@ -1,0 +1,17 @@
+id=20367
+name=FulKra's attendant
+description=A creature born of elemental fury.
+size=1
+xp=208.8
+lifepoints=8000
+level=44
+attack=32
+defence=32
+ranged=1
+magic=1
+animations={death:16168,attack:16167}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=true

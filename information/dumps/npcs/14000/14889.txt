@@ -1,0 +1,10 @@
+id=14889
+name=Bryll Thoksdottir
+description=A Fremennik, requesting aid at the dungeons of Daemonheim.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

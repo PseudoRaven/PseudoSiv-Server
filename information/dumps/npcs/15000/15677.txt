@@ -1,0 +1,10 @@
+id=15677
+name=Teddy
+description=Agent of the PBJ.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Iceburg"]
+aggressive=false
+members=true

@@ -1,0 +1,17 @@
+id=5474
+name=Ice troll male
+description=A male troll wielding a large club.
+size=2
+xp=151.8
+lifepoints=2450
+level=68
+attack=49
+defence=49
+ranged=0
+magic=0
+animations={death:13785,attack:13786}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["Miscellania Underground"]
+aggressive=true

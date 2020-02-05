@@ -1,0 +1,10 @@
+id=3164
+name=Mama
+description=Mama La'Fiette.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

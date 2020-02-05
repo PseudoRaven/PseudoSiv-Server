@@ -1,0 +1,17 @@
+id=11215
+name=Brave deathslinger
+description=Trained from birth to lead the hunt. (Tier 5)
+size=1
+xp=301.9
+lifepoints=6875
+level=77
+attack=55
+defence=55
+ranged=55
+magic=55
+animations={range:13615,death:13669,attack:13615}
+attackable=true
+poisonous=false
+weakness="Slashing"
+areas=[]
+aggressive=false

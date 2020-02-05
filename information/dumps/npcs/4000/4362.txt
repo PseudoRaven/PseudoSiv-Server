@@ -1,0 +1,10 @@
+id=4362
+name=Honest Jimmy
+description=I can't wait to buy from a guy with Honest in his name...
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=14148
+name=Captured Meiyerditch citizen
+description=This citizen looks very ill.
+size=1
+xp=24.9
+lifepoints=50
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

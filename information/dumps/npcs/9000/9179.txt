@@ -1,0 +1,17 @@
+id=9179
+name=Skeletal horror
+description=I cut its other arm off!
+size=3
+xp=513.6
+lifepoints=10000
+level=84
+attack=60
+defence=60
+ranged=60
+magic=60
+animations={death:12068,attack:12064}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

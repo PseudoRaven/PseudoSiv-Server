@@ -1,0 +1,10 @@
+id=20108
+name=Eifion
+description=Perhaps this gardener might look after your crops for you.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Prifddinas"]
+aggressive=false
+members=true

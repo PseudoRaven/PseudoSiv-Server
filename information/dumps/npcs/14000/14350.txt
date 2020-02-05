@@ -1,0 +1,10 @@
+id=14350
+name=Sharathteerk
+description=He's ugly, but he is a gargoyle.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

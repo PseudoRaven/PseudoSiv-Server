@@ -1,0 +1,10 @@
+id=3929
+name=Hild
+description=A Fremennik teenager.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Miscellania Underground"]
+aggressive=false
+members=false

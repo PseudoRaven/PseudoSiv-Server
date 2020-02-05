@@ -1,0 +1,17 @@
+id=15309
+name=Skeleton
+description=Fist bone connected to the face bone.
+size=1
+xp=0
+lifepoints=4000
+level=56
+attack=40
+defence=40
+ranged=40
+magic=40
+animations={death:17932,attack:17931}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

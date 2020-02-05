@@ -1,0 +1,17 @@
+id=128
+name=Snake
+description=A slithering serpent.
+size=1
+xp=25.5
+lifepoints=200
+level=5
+attack=4
+defence=4
+ranged=1
+magic=1
+animations={death:278,attack:275}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=["RuneScape Surface"]
+aggressive=false

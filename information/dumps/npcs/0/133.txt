@@ -1,0 +1,17 @@
+id=133
+name=Black unicorn
+description=A unicorn with a blackened heart.
+size=2
+xp=50.4
+lifepoints=1200
+level=33
+attack=1
+defence=24
+ranged=1
+magic=24
+animations={death:6377,attack:6376}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=["RuneScape Surface"]
+aggressive=true

@@ -1,0 +1,17 @@
+id=5397
+name=Zombie
+description=Why don't zombies ever wash?
+size=1
+xp=192
+lifepoints=2700
+level=75
+attack=54
+defence=54
+ranged=1
+magic=1
+animations={death:5580,attack:5578}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["Lair of Tarn Razorlor"]
+aggressive=true

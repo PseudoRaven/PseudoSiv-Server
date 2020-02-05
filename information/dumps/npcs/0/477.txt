@@ -1,0 +1,17 @@
+id=477
+name=Khazard warlord
+description=He looks real nasty, smells bad too.
+size=1
+xp=90.9
+lifepoints=1900
+level=53
+attack=38
+defence=38
+ranged=0
+magic=0
+animations={death:836,attack:401}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=["RuneScape Surface"]
+aggressive=false

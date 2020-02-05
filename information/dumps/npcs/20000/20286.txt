@@ -1,0 +1,10 @@
+id=20286
+name=Lady Meilyr
+description=The elder of Clan Meilyr, master of herblore and dungeoneering.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Prifddinas"]
+aggressive=false
+members=false

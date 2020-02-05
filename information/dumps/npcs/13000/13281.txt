@@ -1,0 +1,10 @@
+id=13281
+name=Rewards Trader
+description=He is trembling, covered in cuts and scrapes, and wearing a festive hat.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Xmas 2010"]
+aggressive=false
+members=false

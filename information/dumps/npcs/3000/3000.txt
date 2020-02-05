@@ -1,0 +1,10 @@
+id=3000
+name=Barman
+description=Definitely overworked.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Rat pits","Rat Pit"]
+aggressive=false
+members=true

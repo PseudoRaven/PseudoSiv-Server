@@ -1,0 +1,10 @@
+id=2196
+name=Gauss
+description=A beer-drinking dwarf who is - for once - not totally drunk.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

@@ -1,0 +1,17 @@
+id=11109
+name=Little bloodrager
+description=Trained from birth to tear and rend. (Tier 2)
+size=1
+xp=96.7
+lifepoints=3750
+level=42
+attack=30
+defence=30
+ranged=30
+magic=30
+animations={death:13683,attack:13617}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

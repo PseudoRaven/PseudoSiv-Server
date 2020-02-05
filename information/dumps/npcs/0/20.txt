@@ -1,0 +1,17 @@
+id=20
+name=Paladin
+description=A holy warrior.
+size=1
+xp=79.8
+lifepoints=1750
+level=49
+attack=35
+defence=35
+ranged=1
+magic=1
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["RuneScape Surface"]
+aggressive=false

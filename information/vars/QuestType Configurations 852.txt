@@ -1,0 +1,2329 @@
+
+case 0:
+	questType.name = "Cabin Fever";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 2;
+	questType.requiredQuests = new int[] { 60, 101 };
+	questType.requiredSkills = new int[][] {{16, 42}, {12, 45}, {13, 50}, {4, 40}};
+	questType.aString2600 = "Cabin Fever";
+	questType.progressVarps = new int[][] {{2326, 10, 140}};
+	break;
+
+case 1:
+	questType.name = "Tower of Life";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.progressVarBits = new int[][] {{9803, 2, 18}};
+	questType.requiredSkills = new int[][] {{22, 10}};
+	questType.aString2600 = "Tower of Life";
+	break;
+
+case 2:
+	questType.name = "Scorpion Catcher";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.requiredSkills = new int[][] {{5, 31}};
+	questType.aString2600 = "Scorpion Catcher";
+	questType.progressVarps = new int[][] {{2747, 1, 6}};
+	break;
+
+case 3:
+	questType.name = "The Golem";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{13639, 1, 10}};
+	questType.requiredSkills = new int[][] {{12, 20}, {17, 25}};
+	questType.aString2600 = "The Golem";
+	break;
+
+case 4:
+	questType.name = "Rocking Out";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{12462, 10, 90}};
+	questType.requiredQuests = new int[] { 88 };
+	questType.requiredSkills = new int[][] {{16, 60}, {17, 63}, {12, 66}, {13, 69}};
+	questType.aString2600 = "Rocking Out";
+	break;
+
+case 5:
+	questType.name = "The Path of Glouphrie";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 2;
+	questType.progressVarBits = new int[][] {{10474, 1, 200}};
+	questType.requiredQuests = new int[] { 143, 93 };
+	questType.requiredSkills = new int[][] {{16, 45}, {4, 47}, {2, 60}, {18, 56}, {17, 56}};
+	questType.aString2600 = "The Path of Glouphrie";
+	break;
+
+case 6:
+	questType.name = "Cook's Assistant";
+	questType.questPoints = 1;
+	questType.aString2600 = "Cook's Assistant";
+	questType.progressVarps = new int[][] {{2492, 1, 2}};
+	questType.contextMenuSprite = 2374;
+	break;
+
+case 7:
+	questType.name = "Witch's House";
+	questType.members = true;
+	questType.questPoints = 4;
+	questType.difficulty = 1;
+	questType.aString2600 = "Witch's House";
+	questType.progressVarps = new int[][] {{2276, 1, 7}};
+	break;
+
+case 8:
+	questType.name = "The Elemental Workshop I";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.requiredSkills = new int[][] {{13, 20}, {14, 20}, {12, 20}};
+	questType.aString2600 = "The Elemental Workshop I";
+	questType.progressVarps = new int[][] {{2675, 1, 524288}};
+	break;
+
+case 9:
+	questType.name = "Priest in Peril";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.aString2600 = "Priest in Peril";
+	questType.progressVarps = new int[][] {{2171, 1, 60}};
+	break;
+
+case 10:
+	questType.name = "Shades of Mort'ton";
+	questType.members = true;
+	questType.questPoints = 3;
+	questType.difficulty = 1;
+	questType.requiredSkills = new int[][] {{15, 15}, {12, 20}};
+	questType.aString2600 = "Shades of Mort'ton";
+	questType.progressVarps = new int[][] {{2620, 5, 85}};
+	break;
+
+case 11:
+	questType.name = "Love Story";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{12598, 5, 150}};
+	questType.requiredQuests = new int[] { 48, 163 };
+	questType.requiredSkills = new int[][] {{6, 77}, {22, 68}, {13, 68}, {12, 67}};
+	questType.aString2600 = "Love Story";
+	questType.contextMenuSprite = 3139;
+	break;
+
+case 12:
+	questType.name = "Slug Menace";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{12626, 1, 14}};
+	questType.requiredQuests = new int[] { 121, 103 };
+	questType.requiredSkills = new int[][] {{12, 30}, {20, 30}, {18, 30}, {17, 30}};
+	questType.aString2600 = "Slug Menace";
+	break;
+
+case 13:
+	questType.name = "Death to the Dorgeshuun";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{11533, 1, 13}};
+	questType.requiredQuests = new int[] { 37 };
+	questType.requiredSkills = new int[][] {{16, 23}, {17, 23}};
+	questType.aString2600 = "Death to the Dorgeshuun";
+	break;
+
+case 14:
+	questType.name = "Spirit of Summer";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{12013, 5, 75}};
+	questType.requiredQuests = new int[] { 27 };
+	questType.requiredSkills = new int[][] {{22, 40}, {5, 35}, {19, 26}, {23, 19}};
+	questType.aString2600 = "Spirit of Summer";
+	break;
+
+case 15:
+	questType.name = "Ernest the Chicken";
+	questType.questPoints = 4;
+	questType.aString2600 = "Ernest the Chicken";
+	questType.progressVarps = new int[][] {{2183, 1, 3}};
+	questType.contextMenuSprite = 2377;
+	break;
+
+case 16:
+	questType.name = "The Watchtower";
+	questType.members = true;
+	questType.questPoints = 4;
+	questType.difficulty = 1;
+	questType.requiredSkills = new int[][] {{16, 25}, {15, 14}, {6, 14}, {14, 40}, {17, 15}};
+	questType.aString2600 = "The Watchtower";
+	questType.progressVarps = new int[][] {{2397, 1, 13}};
+	break;
+
+case 17:
+	questType.name = "Romeo and Juliet";
+	questType.aString2600 = "Romeo and Juliet";
+	questType.progressVarps = new int[][] {{2692, 10, 100}};
+	break;
+
+case 18:
+	questType.name = "Tale of the Muspah";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{11228, 5, 250}};
+	questType.requiredSkills = new int[][] {{6, 10}, {14, 8}, {11, 6}, {8, 10}};
+	questType.aString2600 = "Tale of the Muspah";
+	break;
+
+case 19:
+	questType.name = "In Search of the Myreque";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 1;
+	questType.requiredQuests = new int[] { 133 };
+	questType.requiredSkills = new int[][] {{16, 25}};
+	questType.aString2600 = "In Search of the Myreque";
+	questType.progressVarps = new int[][] {{2696, 5, 105}};
+	break;
+
+case 20:
+	questType.name = "Swept Away";
+	questType.questPoints = 2;
+	questType.progressVarBits = new int[][] {{9847, 5, 50}};
+	questType.aString2600 = "Swept Away";
+	questType.contextMenuSprite = 3143;
+	break;
+
+case 21:
+	questType.name = "In Aid of the Myreque";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{11498, 20, 430}};
+	questType.requiredQuests = new int[] { 19 };
+	questType.requiredSkills = new int[][] {{14, 15}, {12, 25}, {6, 7}};
+	questType.aString2600 = "In Aid of the Myreque";
+	break;
+
+case 22:
+	questType.name = "My Arm's Big Adventure";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{9987, 10, 320}};
+	questType.requiredQuests = new int[] { 75, 136, 59 };
+	questType.requiredSkills = new int[][] {{8, 10}, {19, 29}};
+	questType.aString2600 = "My Arm's Big Adventure";
+	break;
+
+case 23:
+	questType.name = "Catapult Construction";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{12210, 2, 60}};
+	questType.requiredQuests = new int[] { 100 };
+	questType.requiredSkills = new int[][] {{9, 42}, {22, 44}};
+	questType.aString2600 = "Catapult Construction";
+	break;
+
+case 24:
+	questType.name = "Lunar Diplomacy";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 2;
+	questType.progressVarBits = new int[][] {{10236, 10, 190}};
+	questType.requiredQuests = new int[] { 50, 42, 208, 70 };
+	questType.requiredSkills = new int[][] {{12, 61}, {1, 40}, {11, 49}, {15, 5}, {6, 65}, {14, 60}, {8, 55}};
+	questType.aString2600 = "Lunar Diplomacy";
+	break;
+
+case 25:
+	questType.name = "Dealing with Scabaras";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{13430, 100, 700}};
+	questType.requiredQuests = new int[] { 136, 158, 104 };
+	questType.requiredSkills = new int[][] {{17, 60}, {16, 50}, {2, 60}, {11, 21}};
+	questType.aString2600 = "Dealing with Scabaras";
+	break;
+
+case 26:
+	questType.name = "The Darkness of Hallowvale";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{10204, 10, 320}};
+	questType.requiredQuests = new int[] { 21 };
+	questType.requiredSkills = new int[][] {{22, 5}, {14, 20}, {17, 22}, {16, 26}, {12, 32}, {6, 33}, {2, 40}};
+	questType.aString2600 = "The Darkness of Hallowvale";
+	break;
+
+case 27:
+	questType.name = "The Restless Ghost";
+	questType.questPoints = 1;
+	questType.aString2600 = "The Restless Ghost";
+	questType.progressVarps = new int[][] {{2324, 1, 5}};
+	questType.contextMenuSprite = 2376;
+	break;
+
+case 28:
+	questType.name = "Murder Mystery";
+	questType.members = true;
+	questType.questPoints = 3;
+	questType.aString2600 = "Murder Mystery";
+	questType.progressVarps = new int[][] {{2364, 1, 2}};
+	break;
+
+case 29:
+	questType.name = "All Fired Up";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{13518, 5, 90}};
+	questType.requiredQuests = new int[] { 9 };
+	questType.requiredSkills = new int[][] {{11, 43}};
+	questType.aString2600 = "All Fired Up";
+	break;
+
+case 30:
+	questType.name = "Recipe for Disaster";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 250;
+	questType.progressVarBits = new int[][] {{12708, 1, 5}};
+	questType.requiredQuests = new int[] { 6 };
+	questType.requiredSkills = new int[][] {{7, 10}};
+	questType.aString2600 = "Recipe for Disaster";
+	break;
+
+case 31:
+	questType.name = "Underground Pass";
+	questType.members = true;
+	questType.questPoints = 5;
+	questType.difficulty = 2;
+	questType.progressVarBits = new int[][] {{11570, 1, 1}};
+	questType.requiredQuests = new int[] { 128 };
+	questType.requiredSkills = new int[][] {{4, 25}};
+	questType.aString2600 = "Underground Pass";
+	questType.progressVarps = new int[][] {{2426, 10, 10}};
+	break;
+
+case 32:
+	questType.name = "Grim Tales";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{13606, 1, 60}};
+	questType.requiredQuests = new int[] { 7 };
+	questType.requiredSkills = new int[][] {{19, 45}, {15, 52}, {17, 58}, {16, 59}, {8, 71}};
+	questType.aString2600 = "Grim Tales";
+	break;
+
+case 33:
+	questType.name = "Fur 'n' Seek";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.progressVarBits = new int[][] {{9902, 1, 5}};
+	questType.requiredQuests = new int[] { 68 };
+	questType.requiredSkills = new int[][] {{18, 25}};
+	questType.aString2600 = "Fur 'n' Seek";
+	break;
+
+case 34:
+	questType.name = "Dwarf Cannon";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.aString2600 = "Dwarf Cannon";
+	questType.progressVarps = new int[][] {{2732, 1, 11}};
+	break;
+
+case 35:
+	questType.name = "Forgiveness of a Chaos Dwarf";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{10544, 10, 80}};
+	questType.requiredQuests = new int[] { 98, 57 };
+	questType.requiredSkills = new int[][] {{21, 61}, {11, 61}, {2, 69}};
+	questType.aString2600 = "Forgiveness of a Chaos Dwarf";
+	break;
+
+case 36:
+	questType.name = "A Soul's Bane";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{12392, 1, 13}};
+	questType.aString2600 = "A Soul's Bane";
+	break;
+
+case 37:
+	questType.name = "The Lost Tribe";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{13963, 1, 11}};
+	questType.requiredQuests = new int[] { 137 };
+	questType.requiredSkills = new int[][] {{14, 17}, {16, 13}, {17, 13}};
+	questType.aString2600 = "The Lost Tribe";
+	break;
+
+case 38:
+	questType.name = "Heroes' Quest";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 2;
+	questType.requiredQuests = new int[] { 63, 66, 111, 42, 108 };
+	questType.requiredSkills = new int[][] {{15, 25}, {14, 50}, {10, 53}, {7, 53}};
+	questType.requiredQuestPoints = 56;
+	questType.aString2600 = "Heroes' Quest";
+	questType.progressVarps = new int[][] {{2618, 1, 15}};
+	break;
+
+case 39:
+	questType.name = "Sheep Herder";
+	questType.members = true;
+	questType.questPoints = 4;
+	questType.aString2600 = "Sheep Herder";
+	questType.progressVarps = new int[][] {{2274, 1, 3}};
+	break;
+
+case 40:
+	questType.name = "Tribal Totem";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.requiredSkills = new int[][] {{17, 21}};
+	questType.aString2600 = "Tribal Totem";
+	questType.progressVarps = new int[][] {{2783, 1, 5}};
+	break;
+
+case 41:
+	questType.name = "As A First Resort...";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 2;
+	questType.progressVarBits = new int[][] {{14041, 1, 200}};
+	questType.requiredQuests = new int[] { 104 };
+	questType.requiredSkills = new int[][] {{21, 48}, {11, 51}, {8, 58}};
+	questType.aString2600 = "As A First Resort...";
+	break;
+
+case 42:
+	questType.name = "Lost City";
+	questType.members = true;
+	questType.questPoints = 3;
+	questType.difficulty = 2;
+	questType.requiredSkills = new int[][] {{12, 31}, {8, 36}};
+	questType.aString2600 = "Lost City";
+	questType.progressVarps = new int[][] {{2551, 1, 6}};
+	break;
+
+case 43:
+	questType.name = "Animal Magnetism";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{11411, 10, 240}};
+	questType.requiredQuests = new int[] { 27, 15, 9 };
+	questType.requiredSkills = new int[][] {{17, 15}, {18, 18}, {12, 19}, {4, 30}, {8, 35}};
+	questType.aString2600 = "Animal Magnetism";
+	break;
+
+case 44:
+	questType.name = "Clock Tower";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.aString2600 = "Clock Tower";
+	questType.progressVarps = new int[][] {{2197, 1, 8}};
+	break;
+
+case 45:
+	questType.name = "A Tail of Two Cats";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{11085, 5, 70}};
+	questType.requiredQuests = new int[] { 141, 138 };
+	questType.aString2600 = "A Tail of Two Cats";
+	break;
+
+case 46:
+	questType.name = "Spirits of the Elid";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{12609, 10, 60}};
+	questType.requiredSkills = new int[][] {{6, 33}, {4, 37}, {14, 37}, {17, 37}};
+	questType.aString2600 = "Spirits of the Elid";
+	break;
+
+case 47:
+	questType.name = "Legacy of Seergaze";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 2;
+	questType.progressVarBits = new int[][] {{13978, 10, 500}};
+	questType.requiredQuests = new int[] { 26 };
+	questType.requiredSkills = new int[][] {{22, 20}, {16, 29}, {18, 31}, {14, 35}, {11, 40}, {12, 47}, {6, 49}};
+	questType.aString2600 = "Legacy of Seergaze";
+	break;
+
+case 48:
+	questType.name = "Swan Song";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{11269, 10, 200}};
+	questType.requiredQuests = new int[] { 146, 118 };
+	questType.requiredSkills = new int[][] {{6, 66}, {7, 62}, {10, 62}, {13, 45}, {11, 42}, {12, 40}};
+	questType.requiredQuestPoints = 101;
+	questType.aString2600 = "Swan Song";
+	break;
+
+case 49:
+	questType.name = "Back to my Roots";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{13194, 1, 65}};
+	questType.requiredQuests = new int[] { 73, 150, 146, 40 };
+	questType.requiredSkills = new int[][] {{16, 55}, {19, 53}, {18, 59}, {8, 72}};
+	questType.aString2600 = "Back to my Roots";
+	break;
+
+case 50:
+	questType.name = "The Fremennik Trials";
+	questType.members = true;
+	questType.questPoints = 3;
+	questType.difficulty = 1;
+	questType.requiredSkills = new int[][] {{12, 40}, {8, 40}, {9, 25}};
+	questType.aString2600 = "The Fremennik Trials";
+	questType.progressVarps = new int[][] {{2262, 1, 10}};
+	break;
+
+case 51:
+	questType.name = "Demon Slayer";
+	questType.questPoints = 3;
+	questType.progressVarBits = new int[][] {{13385, 1, 3}};
+	questType.aString2600 = "Demon Slayer";
+	questType.contextMenuSprite = 25453;
+	break;
+
+case 52:
+	questType.name = "Wolf Whistle";
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{12334, 5, 35}};
+	questType.aString2600 = "Wolf Whistle";
+	questType.contextMenuSprite = 9612;
+	break;
+
+case 53:
+	questType.name = "Black Knights' Fortress";
+	questType.aString2600 = "Black Knights' Fortress";
+	questType.progressVarps = new int[][] {{2552, 1, 4}};
+	break;
+
+case 54:
+	questType.name = "Observatory Quest";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.aString2600 = "Observatory Quest";
+	questType.progressVarps = new int[][] {{2796, 1, 7}};
+	break;
+
+case 55:
+	questType.name = "Rune Mysteries";
+	questType.aString2600 = "Rune Mysteries";
+	questType.progressVarps = new int[][] {{2689, 1, 6}};
+	questType.contextMenuSprite = 2408;
+	break;
+
+case 56:
+	questType.name = "Defender of Varrock";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 2;
+	questType.progressVarBits = new int[][] {{12163, 10, 250}};
+	questType.requiredQuests = new int[] { 63, 152, 51, 126, 116, 144, 118 };
+	questType.requiredSkills = new int[][] {{16, 51}, {21, 51}, {13, 54}, {14, 59}};
+	questType.aString2600 = "Defender of Varrock";
+	break;
+
+case 57:
+	questType.name = "Between a Rock...";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 2;
+	questType.progressVarBits = new int[][] {{12797, 10, 110}};
+	questType.requiredQuests = new int[] { 34, 76 };
+	questType.requiredSkills = new int[][] {{1, 30}, {14, 40}, {13, 50}};
+	questType.aString2600 = "Between a Rock...";
+	break;
+
+case 58:
+	questType.name = "Plague City";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.aString2600 = "Plague City";
+	questType.progressVarps = new int[][] {{2386, 1, 29}};
+	break;
+
+case 59:
+	questType.name = "Jungle Potion";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.requiredQuests = new int[] { 111 };
+	questType.aString2600 = "Jungle Potion";
+	questType.progressVarps = new int[][] {{2484, 1, 12}};
+	break;
+
+case 60:
+	questType.name = "Pirate's Treasure";
+	questType.questPoints = 2;
+	questType.aString2600 = "Pirate's Treasure";
+	questType.progressVarps = new int[][] {{2227, 1, 4}};
+	break;
+
+case 61:
+	questType.name = "King's Ransom";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 2;
+	questType.progressVarBits = new int[][] {{11298, 5, 90}};
+	questType.requiredQuests = new int[] { 112, 28, 146 };
+	questType.requiredSkills = new int[][] {{6, 45}, {1, 65}};
+	questType.aString2600 = "King's Ransom";
+	break;
+
+case 62:
+	questType.name = "Recruitment Drive";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{12355, 1, 2}};
+	questType.requiredQuests = new int[] { 111 };
+	questType.aString2600 = "Recruitment Drive";
+	break;
+
+case 63:
+	questType.name = "Shield of Arrav";
+	questType.questPoints = 1;
+	questType.aString2600 = "Shield of Arrav";
+	questType.progressVarps = new int[][] {{2738, 1, 7}, {2739, 99999, 4}};
+	break;
+
+case 64:
+	questType.name = "Prince Ali Rescue";
+	questType.aString2600 = "Prince Ali Rescue";
+	questType.progressVarps = new int[][] {{2388, 10, 110}};
+	break;
+
+case 65:
+	questType.name = "The Grand Tree";
+	questType.members = true;
+	questType.questPoints = 5;
+	questType.difficulty = 2;
+	questType.requiredSkills = new int[][] {{16, 25}};
+	questType.aString2600 = "The Grand Tree";
+	questType.progressVarps = new int[][] {{2740, 5, 160}};
+	break;
+
+case 66:
+	questType.name = "Dragon Slayer";
+	questType.questPoints = 2;
+	questType.difficulty = 2;
+	questType.requiredQuestPoints = 33;
+	questType.aString2600 = "Dragon Slayer";
+	questType.progressVarps = new int[][] {{2268, 1, 10}};
+	break;
+
+case 67:
+	questType.name = "Rat Catchers";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{11975, 5, 127}};
+	questType.requiredQuests = new int[] { 141 };
+	questType.aString2600 = "Rat Catchers";
+	break;
+
+case 68:
+	questType.name = "Rag and Bone Man";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.progressVarBits = new int[][] {{12837, 1, 4}};
+	questType.aString2600 = "Rag and Bone Man";
+	break;
+
+case 69:
+	questType.name = "Dig Site";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 1;
+	questType.requiredSkills = new int[][] {{17, 25}, {15, 10}, {16, 10}};
+	questType.aString2600 = "Dig Site";
+	questType.progressVarps = new int[][] {{2205, 1, 9}};
+	break;
+
+case 70:
+	questType.name = "Shilo Village";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 2;
+	questType.requiredQuests = new int[] { 59 };
+	questType.requiredSkills = new int[][] {{16, 32}, {12, 20}};
+	questType.aString2600 = "Shilo Village";
+	questType.progressVarps = new int[][] {{2793, 1, 15}};
+	break;
+
+case 71:
+	questType.name = "Shadow of the Storm";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{10495, 10, 125}};
+	questType.requiredQuests = new int[] { 51, 3 };
+	questType.requiredSkills = new int[][] {{12, 30}};
+	questType.aString2600 = "Shadow of the Storm";
+	break;
+
+case 72:
+	questType.name = "Imp Catcher";
+	questType.questPoints = 1;
+	questType.aString2600 = "Imp Catcher";
+	questType.progressVarps = new int[][] {{2669, 1, 2}};
+	break;
+
+case 73:
+	questType.name = "Fairy Tale I - Growing Pains";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 2;
+	questType.progressVarBits = new int[][] {{13286, 10, 90}};
+	questType.requiredQuests = new int[] { 42, 133 };
+	questType.aString2600 = "Fairy Tale I - Growing Pains";
+	break;
+
+case 74:
+	questType.name = "Myths of the White Lands";
+	questType.questPoints = 2;
+	questType.progressVarBits = new int[][] {{13876, 5, 60}};
+	questType.aString2600 = "Myths of the White Lands";
+	questType.contextMenuSprite = 3142;
+	break;
+
+case 75:
+	questType.name = "Eadgar's Ruse";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 2;
+	questType.requiredQuests = new int[] { 85, 111 };
+	questType.requiredSkills = new int[][] {{15, 31}};
+	questType.aString2600 = "Eadgar's Ruse";
+	questType.progressVarps = new int[][] {{2549, 10, 110}};
+	break;
+
+case 76:
+	questType.name = "Fishing Contest";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.requiredSkills = new int[][] {{10, 10}};
+	questType.aString2600 = "Fishing Contest";
+	questType.progressVarps = new int[][] {{2331, 1, 5}};
+	break;
+
+case 77:
+	questType.name = "Missing My Mummy";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{11167, 10, 60}};
+	questType.requiredQuests = new int[] { 141, 3, 205 };
+	questType.requiredSkills = new int[][] {{6, 35}, {12, 35}, {5, 35}, {7, 35}, {22, 35}};
+	questType.aString2600 = "\"Missing My Mummy (sort)\"";
+	questType.anIntArray2601 = new int[] { 51154107 };
+	questType.params = {952=9533, 845=Missing My Mummy, 847=155};
+	break;
+
+case 78:
+	questType.name = "Tree Gnome Village";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 1;
+	questType.aString2600 = "Tree Gnome Village";
+	questType.progressVarps = new int[][] {{2661, 1, 9}};
+	break;
+
+case 79:
+	questType.name = "Dream Mentor";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{9530, 2, 28}};
+	questType.requiredQuests = new int[] { 75, 24 };
+	questType.aString2600 = "Dream Mentor";
+	questType.params = {896=85};
+	break;
+
+case 80:
+	questType.name = "Smoking Kills";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{9054, 10, 250}};
+	questType.requiredQuests = new int[] { 27, 141 };
+	questType.requiredSkills = new int[][] {{12, 25}, {18, 35}};
+	questType.aString2600 = "Smoking Kills";
+	questType.params = {896=85};
+	break;
+
+case 81:
+	questType.name = "Tears of Guthix";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{4909, 1, 2}};
+	questType.requiredSkills = new int[][] {{12, 20}, {11, 49}, {14, 20}};
+	questType.requiredQuestPoints = 44;
+	questType.aString2600 = "Tears of Guthix";
+	break;
+
+case 82:
+	questType.name = "Ghosts Ahoy";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{13497, 1, 8}};
+	questType.requiredQuests = new int[] { 27, 9 };
+	questType.requiredSkills = new int[][] {{16, 25}, {7, 20}};
+	questType.aString2600 = "Ghosts Ahoy";
+	break;
+
+case 83:
+	questType.name = "A Void Dance";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 2;
+	questType.progressVarBits = new int[][] {{13080, 3, 63}};
+	questType.requiredQuests = new int[] { 52, 111, 177 };
+	questType.requiredSkills = new int[][] {{22, 47}, {15, 49}, {21, 46}, {14, 47}, {23, 48}, {17, 54}, {8, 52}};
+	questType.aString2600 = "A Void Dance";
+	questType.contextMenuSprite = 3141;
+	break;
+
+case 84:
+	questType.name = "Recipe for Disaster: Starting Out";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{12708, 1, 2}};
+	questType.aString2600 = "Recipe for Disaster: Starting Out";
+	break;
+
+case 85:
+	questType.name = "Troll Stronghold";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 2;
+	questType.requiredQuests = new int[] { 140 };
+	questType.requiredSkills = new int[][] {{16, 15}, {17, 30}};
+	questType.aString2600 = "Troll Stronghold";
+	questType.progressVarps = new int[][] {{2347, 10, 50}};
+	break;
+
+case 86:
+	questType.name = "While Guthix Sleeps";
+	questType.members = true;
+	questType.questPoints = 5;
+	questType.difficulty = 4;
+	questType.progressVarBits = new int[][] {{11858, 10, 910}};
+	questType.requiredQuests = new int[] { 56, 79, 150, 61, 119, 129, 5, 30, 95, 48, 81, 104 };
+	questType.requiredSkills = new int[][] {{23, 23}, {21, 55}, {17, 60}, {1, 65}, {19, 65}, {15, 65}, {6, 75}};
+	questType.requiredQuestPoints = 270;
+	questType.aString2600 = "While Guthix Sleeps";
+	break;
+
+case 87:
+	questType.name = "In Pyre Need";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 2;
+	questType.progressVarBits = new int[][] {{10188, 10, 30}};
+	questType.requiredSkills = new int[][] {{9, 53}, {11, 55}, {12, 52}};
+	questType.aString2600 = "In Pyre Need";
+	break;
+
+case 88:
+	questType.name = "Great Brain Robbery";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 2;
+	questType.requiredQuests = new int[] { 92, 0 };
+	questType.requiredSkills = new int[][] {{5, 50}, {12, 16}, {22, 30}};
+	questType.aString2600 = "Great Brain Robbery";
+	questType.progressVarps = new int[][] {{2082, 10, 130}};
+	break;
+
+case 89:
+	questType.name = "Tai Bwo Wannai Trio";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 1;
+	questType.requiredQuests = new int[] { 59 };
+	questType.requiredSkills = new int[][] {{16, 15}, {7, 30}, {10, 5}};
+	questType.aString2600 = "Tai Bwo Wannai Trio";
+	questType.progressVarps = new int[][] {{2523, 2, 6}};
+	break;
+
+case 90:
+	questType.name = "Troll Romance";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 2;
+	questType.requiredQuests = new int[] { 85 };
+	questType.requiredSkills = new int[][] {{16, 28}};
+	questType.aString2600 = "Troll Romance";
+	questType.progressVarps = new int[][] {{2135, 1, 45}};
+	break;
+
+case 91:
+	questType.name = "Land of the Goblins";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 2;
+	questType.progressVarBits = new int[][] {{13322, 1, 18}};
+	questType.requiredQuests = new int[] { 155, 76 };
+	questType.requiredSkills = new int[][] {{5, 30}, {16, 36}, {10, 36}, {17, 36}, {15, 37}};
+	questType.aString2600 = "Land of the Goblins";
+	break;
+
+case 92:
+	questType.name = "Creature of Fenkenstrain";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 1;
+	questType.requiredQuests = new int[] { 27, 9 };
+	questType.requiredSkills = new int[][] {{17, 25}, {12, 20}};
+	questType.aString2600 = "Creature of Fenkenstrain";
+	questType.progressVarps = new int[][] {{2615, 1, 8}};
+	break;
+
+case 93:
+	questType.name = "Waterfall Quest";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.aString2600 = "Waterfall Quest";
+	questType.progressVarps = new int[][] {{2353, 1, 8}};
+	break;
+
+case 94:
+	questType.name = "The Elemental Workshop II";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{13674, 1, 11}};
+	questType.requiredQuests = new int[] { 8 };
+	questType.requiredSkills = new int[][] {{6, 20}, {13, 30}};
+	questType.aString2600 = "The Elemental Workshop II";
+	break;
+
+case 95:
+	questType.name = "Summer's End";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 2;
+	questType.progressVarBits = new int[][] {{11428, 5, 35}};
+	questType.requiredQuests = new int[] { 14 };
+	questType.requiredSkills = new int[][] {{23, 23}, {8, 37}, {21, 35}, {14, 45}, {11, 47}, {5, 55}};
+	questType.aString2600 = "Summer's End";
+	break;
+
+case 96:
+	questType.name = "Kennith's Concerns";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{11334, 5, 100}};
+	questType.requiredQuests = new int[] { 12 };
+	questType.requiredSkills = new int[][] {{14, 46}};
+	questType.aString2600 = "Kennith's Concerns";
+	break;
+
+case 97:
+	questType.name = "Enakhra's Lament";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 2;
+	questType.progressVarBits = new int[][] {{9740, 10, 70}};
+	questType.requiredSkills = new int[][] {{12, 50}, {11, 45}, {5, 43}, {6, 39}};
+	questType.aString2600 = "Enakhra's Lament";
+	break;
+
+case 98:
+	questType.name = "Forgettable Tale of a Drunken Dwarf";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{11917, 10, 140}};
+	questType.requiredQuests = new int[] { 134, 76 };
+	questType.requiredSkills = new int[][] {{19, 17}, {7, 22}};
+	questType.aString2600 = "Forgettable Tale of a Drunken Dwarf";
+	break;
+
+case 99:
+	questType.name = "Doric's Quest";
+	questType.aString2600 = "Doric's Quest";
+	questType.progressVarps = new int[][] {{2261, 10, 100}};
+	break;
+
+case 100:
+	questType.name = "Regicide";
+	questType.members = true;
+	questType.questPoints = 3;
+	questType.difficulty = 3;
+	questType.requiredQuests = new int[] { 31 };
+	questType.requiredSkills = new int[][] {{16, 56}};
+	questType.aString2600 = "Regicide";
+	questType.progressVarps = new int[][] {{2102, 1, 13}};
+	break;
+
+case 101:
+	questType.name = "A Rum Deal";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 2;
+	questType.requiredQuests = new int[] { 104, 9 };
+	questType.requiredSkills = new int[][] {{19, 40}, {10, 50}, {5, 47}, {12, 42}, {18, 42}};
+	questType.aString2600 = "A Rum Deal";
+	questType.progressVarps = new int[][] {{2100, 1, 19}};
+	break;
+
+case 102:
+	questType.name = "Big Chompy Bird Hunting";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 1;
+	questType.requiredSkills = new int[][] {{9, 5}, {4, 30}, {7, 30}};
+	questType.aString2600 = "Big Chompy Bird Hunting";
+	questType.progressVarps = new int[][] {{2772, 5, 65}};
+	break;
+
+case 103:
+	questType.name = "Wanted!";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{12923, 1, 11}};
+	questType.requiredQuests = new int[] { 37, 9, 62 };
+	questType.requiredQuestPoints = 33;
+	questType.aString2600 = "Wanted!";
+	break;
+
+case 104:
+	questType.name = "Zogre Flesh Eaters";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{10448, 1, 14}};
+	questType.requiredQuests = new int[] { 102, 59 };
+	questType.aString2600 = "Zogre Flesh Eaters";
+	break;
+
+case 105:
+	questType.name = "Horror from the Deep";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 2;
+	questType.progressVarBits = new int[][] {{11413, 1, 10}};
+	questType.requiredSkills = new int[][] {{16, 35}};
+	questType.aString2600 = "Horror from the Deep";
+	break;
+
+case 106:
+	questType.name = "Fight Arena";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 2;
+	questType.aString2600 = "Fight Arena";
+	questType.progressVarps = new int[][] {{2595, 1, 14}};
+	break;
+
+case 107:
+	questType.name = "Enlightened Journey";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{12529, 5, 200}};
+	questType.requiredSkills = new int[][] {{12, 36}, {19, 30}, {11, 20}};
+	questType.requiredQuestPoints = 21;
+	questType.aString2600 = "Enlightened Journey";
+	break;
+
+case 108:
+	questType.name = "Merlin's Crystal";
+	questType.members = true;
+	questType.questPoints = 6;
+	questType.difficulty = 1;
+	questType.aString2600 = "Merlin's Crystal";
+	questType.progressVarps = new int[][] {{2178, 1, 7}};
+	break;
+
+case 109:
+	questType.name = "Perils of Ice Mountain";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{11095, 10, 140}};
+	questType.requiredSkills = new int[][] {{22, 10}, {19, 10}, {21, 10}, {17, 11}};
+	questType.aString2600 = "Perils of Ice Mountain";
+	break;
+
+case 110:
+	questType.name = "Roving Elves";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 3;
+	questType.requiredQuests = new int[] { 100, 93 };
+	questType.aString2600 = "Roving Elves";
+	questType.progressVarps = new int[][] {{2286, 2, 6}};
+	break;
+
+case 111:
+	questType.name = "Druidic Ritual";
+	questType.questPoints = 4;
+	questType.progressVarBits = new int[][] {{13366, 2, 8}};
+	questType.aString2600 = "Druidic Ritual";
+	questType.contextMenuSprite = 4419;
+	break;
+
+case 112:
+	questType.name = "Holy Grail";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 1;
+	questType.requiredQuests = new int[] { 108 };
+	questType.requiredSkills = new int[][] {{0, 20}};
+	questType.aString2600 = "Holy Grail";
+	questType.progressVarps = new int[][] {{2330, 2, 10}};
+	break;
+
+case 113:
+	questType.name = "The Tourist Trap";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 1;
+	questType.requiredSkills = new int[][] {{9, 10}, {13, 20}};
+	questType.aString2600 = "The Tourist Trap";
+	questType.progressVarps = new int[][] {{2501, 1, 30}};
+	break;
+
+case 114:
+	questType.name = "Chosen Commander";
+	questType.members = true;
+	questType.questPoints = 3;
+	questType.difficulty = 2;
+	questType.progressVarBits = new int[][] {{9136, 10, 110}};
+	questType.requiredQuests = new int[] { 91 };
+	questType.requiredSkills = new int[][] {{17, 46}, {16, 46}, {2, 46}};
+	questType.aString2600 = "Chosen Commander";
+	break;
+
+case 115:
+	questType.name = "Glorious Memories";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{12906, 3, 45}};
+	questType.requiredQuests = new int[] { 151, 148, 127 };
+	questType.requiredSkills = new int[][] {{21, 41}, {16, 50}, {6, 57}, {15, 43}};
+	questType.aString2600 = "Glorious Memories";
+	break;
+
+case 116:
+	questType.name = "Family Crest";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 2;
+	questType.requiredSkills = new int[][] {{14, 40}, {13, 40}, {12, 40}, {6, 59}};
+	questType.aString2600 = "Family Crest";
+	questType.progressVarps = new int[][] {{2663, 1, 11}};
+	break;
+
+case 117:
+	questType.name = "Curse of Arrav";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{11151, 10, 240}};
+	questType.requiredQuests = new int[] { 18, 77, 56, 90, 10 };
+	questType.requiredSkills = new int[][] {{23, 41}, {14, 64}, {18, 37}, {16, 61}, {2, 64}, {4, 64}, {17, 66}};
+	questType.aString2600 = "Curse of Arrav";
+	break;
+
+case 118:
+	questType.name = "Garden of Tranquility";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{13397, 10, 60}};
+	questType.requiredQuests = new int[] { 92 };
+	questType.requiredSkills = new int[][] {{19, 25}};
+	questType.aString2600 = "Garden of Tranquility";
+	break;
+
+case 119:
+	questType.name = "Legends' Quest";
+	questType.members = true;
+	questType.questPoints = 4;
+	questType.difficulty = 3;
+	questType.requiredQuests = new int[] { 38, 116, 31, 93, 70 };
+	questType.requiredSkills = new int[][] {{16, 50}, {12, 50}, {15, 45}, {6, 56}, {14, 52}, {5, 42}, {13, 50}, {2, 50}, {17, 50}, {8, 50}};
+	questType.requiredQuestPoints = 107;
+	questType.aString2600 = "Legends' Quest";
+	questType.progressVarps = new int[][] {{2265, 1, 75}};
+	break;
+
+case 120:
+	questType.name = "Haunted Mine";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 2;
+	questType.requiredQuests = new int[] { 9 };
+	questType.requiredSkills = new int[][] {{16, 15}, {12, 35}};
+	questType.aString2600 = "Haunted Mine";
+	questType.progressVarps = new int[][] {{2201, 1, 11}};
+	break;
+
+case 121:
+	questType.name = "Sea Slug";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.requiredSkills = new int[][] {{11, 30}};
+	questType.aString2600 = "Sea Slug";
+	questType.progressVarps = new int[][] {{2700, 1, 12}};
+	break;
+
+case 122:
+	questType.name = "Hunt for Red Raktuber";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{13734, 10, 140}};
+	questType.requiredQuests = new int[] { 145, 121 };
+	questType.requiredSkills = new int[][] {{17, 38}, {22, 45}, {21, 45}};
+	questType.aString2600 = "Hunt for Red Raktuber";
+	break;
+
+case 123:
+	questType.name = "Devious Minds";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 2;
+	questType.progressVarBits = new int[][] {{11914, 10, 80}};
+	questType.requiredQuests = new int[] { 85, 103, 207 };
+	questType.requiredSkills = new int[][] {{13, 65}, {9, 50}, {20, 50}};
+	questType.aString2600 = "Devious Minds";
+	break;
+
+case 124:
+	questType.name = "Making History";
+	questType.members = true;
+	questType.questPoints = 3;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{9664, 1, 4}};
+	questType.requiredQuests = new int[] { 9, 27 };
+	questType.aString2600 = "Making History";
+	break;
+
+case 125:
+	questType.name = "Hazeel Cult";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.aString2600 = "Hazeel Cult";
+	questType.progressVarps = new int[][] {{2592, 2, 9}};
+	break;
+
+case 126:
+	questType.name = "Temple of Ikov";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 2;
+	questType.requiredSkills = new int[][] {{4, 40}, {17, 42}};
+	questType.aString2600 = "Temple of Ikov";
+	questType.progressVarps = new int[][] {{2148, 10, 80}};
+	break;
+
+case 127:
+	questType.name = "Royal Trouble";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 2;
+	questType.progressVarBits = new int[][] {{12425, 10, 30}};
+	questType.requiredQuests = new int[] { 157 };
+	questType.requiredSkills = new int[][] {{16, 40}, {18, 40}};
+	questType.aString2600 = "Royal Trouble";
+	break;
+
+case 128:
+	questType.name = "Biohazard";
+	questType.members = true;
+	questType.questPoints = 3;
+	questType.requiredQuests = new int[] { 58 };
+	questType.aString2600 = "Biohazard";
+	questType.progressVarps = new int[][] {{2535, 1, 16}};
+	break;
+
+case 129:
+	questType.name = "Mourning's Ends Part II";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{10560, 10, 60}};
+	questType.requiredQuests = new int[] { 156 };
+	questType.aString2600 = "Mourning's Ends Part II";
+	break;
+
+case 130:
+	questType.name = "Monkey Madness";
+	questType.members = true;
+	questType.questPoints = 3;
+	questType.difficulty = 3;
+	questType.requiredQuests = new int[] { 65, 78 };
+	questType.aString2600 = "Monkey Madness";
+	questType.progressVarps = new int[][] {{2762, 1, 9}};
+	break;
+
+case 131:
+	questType.name = "Unstable Foundations";
+	questType.questPoints = 1;
+	questType.aString2600 = "Unstable Foundations";
+	questType.progressVarps = new int[][] {{1295, 5, 1000}};
+	break;
+
+case 132:
+	questType.name = "Vampyre Slayer";
+	questType.questPoints = 3;
+	questType.progressVarBits = new int[][] {{9655, 1, 3}};
+	questType.aString2600 = "Vampyre Slayer";
+	break;
+
+case 133:
+	questType.name = "Nature Spirit";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.requiredQuests = new int[] { 9, 27 };
+	questType.aString2600 = "Nature Spirit";
+	questType.progressVarps = new int[][] {{2355, 5, 110}};
+	break;
+
+case 134:
+	questType.name = "The Giant Dwarf";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{13266, 5, 50}};
+	questType.requiredSkills = new int[][] {{6, 33}, {11, 16}, {17, 14}, {12, 12}};
+	questType.aString2600 = "The Giant Dwarf";
+	break;
+
+case 135:
+	questType.name = "Desert Treasure";
+	questType.members = true;
+	questType.questPoints = 3;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{9482, 1, 15}};
+	questType.requiredQuests = new int[] { 69, 113, 126, 9, 93, 85 };
+	questType.requiredSkills = new int[][] {{18, 10}, {11, 50}, {6, 50}, {17, 53}};
+	questType.aString2600 = "Desert Treasure";
+	break;
+
+case 136:
+	questType.name = "The Feud";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{9712, 1, 28}};
+	questType.requiredSkills = new int[][] {{17, 30}};
+	questType.aString2600 = "The Feud";
+	break;
+
+case 137:
+	questType.name = "Goblin Diplomacy";
+	questType.questPoints = 5;
+	questType.progressVarBits = new int[][] {{9363, 1, 6}};
+	questType.aString2600 = "Goblin Diplomacy";
+	break;
+
+case 138:
+	questType.name = "Gertrude's Cat";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.aString2600 = "Gertrude's Cat";
+	questType.progressVarps = new int[][] {{2175, 1, 6}};
+	break;
+
+case 139:
+	questType.name = "TokTz-Ket-Dill";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 2;
+	questType.progressVarBits = new int[][] {{11386, 5, 63}};
+	questType.requiredSkills = new int[][] {{0, 40}, {14, 41}, {12, 43}, {2, 45}, {22, 50}};
+	questType.aString2600 = "TokTz-Ket-Dill";
+	break;
+
+case 140:
+	questType.name = "Death Plateau";
+	questType.questPoints = 1;
+	questType.aString2600 = "Death Plateau";
+	questType.progressVarps = new int[][] {{2339, 10, 80}};
+	questType.contextMenuSprite = 9613;
+	break;
+
+case 141:
+	questType.name = "Icthlarin's Little Helper";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{10987, 1, 26}};
+	questType.requiredQuests = new int[] { 138, 205 };
+	questType.aString2600 = "Icthlarin's Little Helper";
+	break;
+
+case 142:
+	questType.name = "Meeting History";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{13718, 5, 20}};
+	questType.requiredQuests = new int[] { 124, 111 };
+	questType.aString2600 = "Meeting History";
+	break;
+
+case 143:
+	questType.name = "The Eyes of Glouphrie";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{12813, 10, 60}};
+	questType.requiredQuests = new int[] { 65 };
+	questType.requiredSkills = new int[][] {{6, 46}, {22, 5}};
+	questType.aString2600 = "The Eyes of Glouphrie";
+	break;
+
+case 144:
+	questType.name = "What Lies Below";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{10939, 5, 150}};
+	questType.requiredQuests = new int[] { 208 };
+	questType.requiredSkills = new int[][] {{20, 35}};
+	questType.aString2600 = "What Lies Below";
+	break;
+
+case 145:
+	questType.name = "Cold War";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{10430, 5, 135}};
+	questType.requiredSkills = new int[][] {{21, 10}, {16, 30}, {12, 30}, {22, 34}};
+	questType.aString2600 = "Cold War";
+	break;
+
+case 146:
+	questType.name = "One Small Favour";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 2;
+	questType.requiredQuests = new int[] { 208, 70, 111 };
+	questType.requiredSkills = new int[][] {{12, 25}, {15, 18}, {16, 36}, {13, 30}};
+	questType.aString2600 = "One Small Favour";
+	questType.progressVarps = new int[][] {{2671, 5, 285}};
+	break;
+
+case 147:
+	questType.name = "Monk's Friend";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.aString2600 = "Monk's Friend";
+	questType.progressVarps = new int[][] {{2370, 10, 80}};
+	break;
+
+case 148:
+	questType.name = "Fremennik Isles";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 2;
+	questType.progressVarBits = new int[][] {{13178, 5, 340}};
+	questType.requiredQuests = new int[] { 50 };
+	questType.requiredSkills = new int[][] {{22, 20}, {16, 40}, {12, 46}, {8, 56}};
+	questType.aString2600 = "Fremennik Isles";
+	break;
+
+case 149:
+	questType.name = "Eagles' Peak";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.progressVarBits = new int[][] {{13931, 5, 40}};
+	questType.requiredSkills = new int[][] {{21, 27}};
+	questType.aString2600 = "Eagles' Peak";
+	break;
+
+case 150:
+	questType.name = "The Hand in the Sand";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{14030, 10, 160}};
+	questType.requiredSkills = new int[][] {{17, 17}, {12, 49}};
+	questType.aString2600 = "The Hand in the Sand";
+	break;
+
+case 151:
+	questType.name = "Mountain Daughter";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{13349, 10, 70}};
+	questType.requiredSkills = new int[][] {{16, 20}};
+	questType.aString2600 = "Mountain Daughter";
+	break;
+
+case 152:
+	questType.name = "The Knight's Sword";
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.requiredSkills = new int[][] {{14, 10}};
+	questType.aString2600 = "The Knight's Sword";
+	questType.progressVarps = new int[][] {{2547, 1, 7}};
+	break;
+
+case 153:
+	questType.name = "Olaf's Quest";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{11517, 10, 80}};
+	questType.requiredQuests = new int[] { 50 };
+	questType.requiredSkills = new int[][] {{11, 40}, {8, 50}};
+	questType.aString2600 = "Olaf's Quest";
+	break;
+
+case 154:
+	questType.name = "Fairy Tale II - Cure a Queen";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 2;
+	questType.progressVarBits = new int[][] {{12056, 10, 90}};
+	questType.requiredQuests = new int[] { 73 };
+	questType.requiredSkills = new int[][] {{15, 57}, {19, 49}, {17, 40}};
+	questType.aString2600 = "Fairy Tale II - Cure a Queen";
+	break;
+
+case 155:
+	questType.name = "Another Slice of H.A.M.";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{13650, 1, 11}};
+	questType.requiredQuests = new int[] { 13, 69, 134 };
+	questType.requiredSkills = new int[][] {{0, 15}, {5, 25}};
+	questType.aString2600 = "Another Slice of H.A.M.";
+	break;
+
+case 156:
+	questType.name = "Mourning's Ends Part I";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 3;
+	questType.requiredQuests = new int[] { 110, 39, 102 };
+	questType.requiredSkills = new int[][] {{4, 60}, {17, 50}};
+	questType.aString2600 = "Mourning's Ends Part I";
+	questType.progressVarps = new int[][] {{2777, 1, 8}};
+	break;
+
+case 157:
+	questType.name = "Throne of Miscellania";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 2;
+	questType.requiredQuests = new int[] { 50, 38 };
+	questType.aString2600 = "Throne of Miscellania";
+	questType.progressVarps = new int[][] {{2236, 10, 100}};
+	break;
+
+case 158:
+	questType.name = "Contact!";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{10292, 10, 130}};
+	questType.requiredQuests = new int[] { 205, 141 };
+	questType.aString2600 = "\"Contact! (sort)\"";
+	questType.anIntArray2601 = new int[] { 53758677 };
+	questType.params = {845=Contact!, 847=24};
+	break;
+
+case 159:
+	questType.name = "Recipe for Disaster: Skrach";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{12762, 10, 170}};
+	questType.requiredQuests = new int[] { 84, 102 };
+	questType.requiredSkills = new int[][] {{7, 41}, {11, 20}};
+	questType.aString2600 = "Recipe for Disaster: Skrach";
+	break;
+
+case 160:
+	questType.name = "Recipe for Disaster: Evil Dave";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{12736, 1, 5}};
+	questType.requiredQuests = new int[] { 84, 138, 71 };
+	questType.requiredSkills = new int[][] {{7, 25}};
+	questType.aString2600 = "Recipe for Disaster: Evil Dave";
+	break;
+
+case 161:
+	questType.name = "Recipe for Disaster: Dwarf";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{12750, 10, 60}};
+	questType.requiredQuests = new int[] { 84, 76 };
+	questType.aString2600 = "Recipe for Disaster: Dwarf";
+	break;
+
+case 162:
+	questType.name = "Recipe for Disaster: Awowogei";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{12772, 5, 50}};
+	questType.requiredQuests = new int[] { 84, 130 };
+	questType.requiredSkills = new int[][] {{7, 70}, {16, 48}};
+	questType.aString2600 = "Recipe for Disaster: Awowogei";
+	break;
+
+case 163:
+	questType.name = "Recipe for Disaster: Sir Amik Varze";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{12768, 5, 20}};
+	questType.requiredQuests = new int[] { 84, 42 };
+	questType.aString2600 = "Recipe for Disaster: Sir Amik Varze";
+	break;
+
+case 164:
+	questType.name = "Recipe for Disaster: Pirate Pete";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{12753, 10, 110}};
+	questType.requiredQuests = new int[] { 84 };
+	questType.requiredSkills = new int[][] {{7, 31}};
+	questType.aString2600 = "Recipe for Disaster: Pirate Pete";
+	break;
+
+case 165:
+	questType.name = "Recipe for Disaster: Goblin Generals";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{12725, 5, 40}};
+	questType.requiredQuests = new int[] { 84, 137 };
+	questType.aString2600 = "Recipe for Disaster: Goblin Generals";
+	break;
+
+case 166:
+	questType.name = "Recipe for Disaster: Lumbridge Sage";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{12754, 1, 5}};
+	questType.requiredQuests = new int[] { 84, 102, 128, 51, 28, 133, 9, 7, 27 };
+	questType.requiredSkills = new int[][] {{7, 40}};
+	questType.aString2600 = "Recipe for Disaster: Lumbridge Sage";
+	break;
+
+case 167:
+	questType.name = "Within the Light";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{10506, 1, 46}};
+	questType.requiredQuests = new int[] { 129 };
+	questType.requiredSkills = new int[][] {{16, 69}, {9, 70}, {4, 75}, {8, 75}};
+	questType.aString2600 = "Within the Light";
+	break;
+
+case 168:
+	questType.name = "The Temple at Senntisten";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{11105, 10, 90}};
+	questType.requiredQuests = new int[] { 123, 135, 117 };
+	questType.requiredSkills = new int[][] {{5, 50}};
+	questType.aString2600 = "The Temple at Senntisten";
+	break;
+
+case 169:
+	questType.name = "Blood Runs Deep";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{10871, 3, 147}};
+	questType.requiredQuests = new int[] { 105, 79, 115 };
+	questType.requiredSkills = new int[][] {{2, 75}, {0, 75}, {18, 65}};
+	questType.aString2600 = "Blood Runs Deep";
+	break;
+
+case 170:
+	questType.name = "Nomad's Requiem";
+	questType.members = true;
+	questType.questPoints = 3;
+	questType.difficulty = 4;
+	questType.progressVarBits = new int[][] {{10095, 1, 12}};
+	questType.requiredQuests = new int[] { 61 };
+	questType.requiredSkills = new int[][] {{6, 75}, {5, 70}, {14, 66}, {21, 65}, {22, 60}};
+	questType.aString2600 = "Nomad's Requiem";
+	break;
+
+case 171:
+	questType.name = "Rune Mechanics";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{10919, 5, 35}};
+	questType.requiredQuests = new int[] { 208, 52 };
+	questType.requiredSkills = new int[][] {{6, 27}, {20, 20}, {22, 25}};
+	questType.aString2600 = "Rune Mechanics";
+	break;
+
+case 172:
+	questType.name = "The Blood Pact";
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{10826, 10, 60}};
+	questType.aString2600 = "The Blood Pact";
+	questType.contextMenuSprite = 3144;
+	break;
+
+case 173:
+	questType.name = "Sheep Shearer";
+	questType.aString2600 = "Sheep Shearer";
+	questType.progressVarps = new int[][] {{2163, 1, 21}};
+	questType.contextMenuSprite = 2375;
+	break;
+
+case 174:
+	questType.name = "Buyers and Cellars";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{9022, 5, 10}};
+	questType.aString2600 = "Buyers and Cellars";
+	questType.contextMenuSprite = 3074;
+	break;
+
+case 175:
+	questType.name = "Fairy Tale III - Battle at Orks Rift";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 2;
+	questType.progressVarBits = new int[][] {{9928, 10, 180}};
+	questType.requiredQuests = new int[] { 154 };
+	questType.requiredSkills = new int[][] {{19, 54}, {17, 51}, {6, 59}, {23, 37}, {12, 36}};
+	questType.aString2600 = "Fairy Tale III - Battle at Orks Rift";
+	questType.contextMenuSprite = 3131;
+	break;
+
+case 176:
+	questType.name = "The Elemental Workshop III";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{12504, 1, 5}};
+	questType.requiredQuests = new int[] { 94 };
+	questType.requiredSkills = new int[][] {{13, 33}, {1, 33}};
+	questType.aString2600 = "The Elemental Workshop III";
+	questType.contextMenuSprite = 3135;
+	questType.params = {691=-1, 948=Search the bookcase in Seers' Village chapel., 949=Any pickaxe, some coal, a hammer., 694=1, 950=None, 951=1 Quest Point, 8,500 Defence XP, 8,500 Smithing XP and 50 pieces of coal., 952=3138};
+	break;
+
+case 177:
+	questType.name = "Quiet Before the Swarm";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{13034, 5, 90}};
+	questType.requiredQuests = new int[] { 72, 103 };
+	questType.requiredSkills = new int[][] {{0, 35}, {2, 42}};
+	questType.aString2600 = "Quiet Before the Swarm";
+	questType.contextMenuSprite = 3140;
+	break;
+
+case 178:
+	questType.name = "Witch's Potion";
+	questType.aString2600 = "Witch's Potion";
+	questType.progressVarps = new int[][] {{2473, 1, 3}};
+	questType.contextMenuSprite = 2393;
+	break;
+
+case 179:
+	questType.name = "Gunnar's Ground";
+	questType.questPoints = 5;
+	questType.progressVarBits = new int[][] {{9188, 5, 100}};
+	questType.requiredSkills = new int[][] {{12, 5}};
+	questType.aString2600 = "Gunnar's Ground";
+	questType.anIntArray2601 = new int[] { 50777438 };
+	questType.contextMenuSprite = 3145;
+	break;
+
+case 180:
+	questType.name = "The Void Stares Back";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 4;
+	questType.progressVarBits = new int[][] {{13118, 2, 40}};
+	questType.requiredQuests = new int[] { 83 };
+	questType.requiredSkills = new int[][] {{0, 78}, {22, 70}, {12, 70}, {11, 71}, {6, 80}, {13, 70}, {2, 78}, {23, 55}, {1, 25}};
+	questType.aString2600 = "The Void Stares Back";
+	questType.contextMenuSprite = 3804;
+	break;
+
+case 181:
+	questType.name = "O Little Town of Daemonheim";
+	questType.category = 1;
+	questType.progressVarBits = new int[][] {{14352, 1, 44}};
+	questType.aString2600 = "O Little Town of Daemonheim";
+	break;
+
+case 182:
+	questType.name = "Task System";
+	questType.aString2600 = "Task System";
+	questType.contextMenuSprite = 836;
+	break;
+
+case 183:
+	questType.name = "Do No Evil";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{9324, 10, 315}};
+	questType.requiredQuests = new int[] { 43, 71, 135, 80, 77, 25 };
+	questType.requiredSkills = new int[][] {{4, 50}, {22, 64}, {12, 68}, {6, 70}, {17, 70}};
+	questType.aString2600 = "Do No Evil";
+	questType.contextMenuSprite = 4422;
+	break;
+
+case 184:
+	questType.name = "Partying is Such Sweet Sorrow";
+	questType.category = 1;
+	questType.progressVarBits = new int[][] {{14649, 1, 20}};
+	questType.aString2600 = "Partying is Such Sweet Sorrow";
+	break;
+
+case 185:
+	questType.name = "King of the Dwarves";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{13904, 10, 90}};
+	questType.requiredQuests = new int[] { 35, 22 };
+	questType.requiredSkills = new int[][] {{14, 68}, {13, 70}, {2, 77}};
+	questType.aString2600 = "King of the Dwarves";
+	questType.contextMenuSprite = 3803;
+	break;
+
+case 186:
+	questType.name = "Prisoner of Glouphrie";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{9547, 1, 120}};
+	questType.requiredQuests = new int[] { 5, 110 };
+	questType.requiredSkills = new int[][] {{17, 64}, {16, 64}, {22, 62}, {20, 61}};
+	questType.aString2600 = "Prisoner of Glouphrie";
+	questType.contextMenuSprite = 4581;
+	break;
+
+case 187:
+	questType.name = "The Elemental Workshop IV";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{12170, 1, 8}};
+	questType.requiredQuests = new int[] { 176 };
+	questType.requiredSkills = new int[][] {{12, 41}, {20, 39}, {17, 39}, {13, 42}, {1, 40}};
+	questType.aString2600 = "The Elemental Workshop IV";
+	questType.contextMenuSprite = 4582;
+	questType.params = {691=-1, 948=Search the bookcase on the ground floor of the Sorcerer's Tower., 949=A hammer, a chisel, a handful of elemental runes (air, earth, water and fire), and two primed bars of elemental metal., 694=1, 950=None, 951=2 Quest Points, 7,500 Runecrafting XP, 9,000 Crafting XP, 50 coal and the ability to make and equip elemental cosmic and chaos equipment., 952=4436};
+	break;
+
+case 188:
+	questType.name = "A Clockwork Syringe";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{9602, 10, 210}};
+	questType.requiredQuests = new int[] { 4 };
+	questType.requiredSkills = new int[][] {{22, 62}, {24, 50}, {18, 61}, {23, 65}, {13, 74}, {1, 76}, {17, 74}};
+	questType.aString2600 = "A Clockwork Syringe";
+	questType.contextMenuSprite = 5572;
+	break;
+
+case 189:
+	questType.name = "Holly";
+	questType.category = 1;
+	questType.progressVarBits = new int[][] {{14299, 1, 60}};
+	questType.aString2600 = "Holly";
+	break;
+
+case 190:
+	questType.name = "Hawthorn";
+	questType.members = true;
+	questType.category = 1;
+	questType.progressVarBits = new int[][] {{14302, 1, 3}};
+	questType.aString2600 = "Hawthorn";
+	break;
+
+case 191:
+	questType.name = "Deadliest Catch";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{9212, 5, 45}};
+	questType.requiredQuests = new int[] { 1, 111 };
+	questType.requiredSkills = new int[][] {{10, 70}, {21, 67}, {17, 70}};
+	questType.aString2600 = "Deadliest Catch";
+	questType.contextMenuSprite = 6276;
+	break;
+
+case 192:
+	questType.name = "Salt in the Wound";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{9199, 5, 250}};
+	questType.requiredQuests = new int[] { 96 };
+	questType.requiredSkills = new int[][] {{1, 60}, {3, 50}, {15, 47}, {23, 45}, {24, 35}};
+	questType.aString2600 = "Salt in the Wound";
+	questType.contextMenuSprite = 5575;
+	break;
+
+case 193:
+	questType.name = "The Branches of Darkmeyer";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{11020, 1, 170}};
+	questType.requiredQuests = new int[] { 47, 119 };
+	questType.requiredSkills = new int[][] {{16, 63}, {8, 76}, {19, 63}, {9, 70}, {12, 64}, {18, 67}, {6, 70}};
+	questType.aString2600 = "The Branches of Darkmeyer";
+	questType.contextMenuSprite = 7693;
+	break;
+
+case 194:
+	questType.name = "Ritual of the Mahjarrat";
+	questType.members = true;
+	questType.questPoints = 3;
+	questType.difficulty = 4;
+	questType.progressVarBits = new int[][] {{11610, 10, 400}};
+	questType.requiredQuests = new int[] { 168, 86, 125, 97, 12, 175, 4, 45, 106 };
+	questType.requiredSkills = new int[][] {{12, 76}, {16, 77}, {14, 76}};
+	questType.aString2600 = "Ritual of the Mahjarrat";
+	questType.contextMenuSprite = 6277;
+	break;
+
+case 195:
+	questType.name = "Deathcon II";
+	questType.category = 1;
+	questType.progressVarBits = new int[][] {{14413, 1, 15}};
+	questType.aString2600 = "Deathcon II";
+	break;
+
+case 196:
+	questType.name = "One Piercing Note";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.progressVarBits = new int[][] {{12258, 10, 100}};
+	questType.aString2600 = "One Piercing Note";
+	questType.params = {952=25454};
+	break;
+
+case 197:
+	questType.name = "Turkey Protest";
+	questType.category = 1;
+	questType.progressVarBits = new int[][] {{14641, 1, 25}};
+	questType.aString2600 = "Turkey Protest";
+	break;
+
+case 198:
+	questType.name = "A Towering Feast";
+	questType.progressVarBits = new int[][] {{14466, 6, 29}};
+	questType.aString2600 = "A Towering Feast";
+	questType.contextMenuSprite = 22967;
+	break;
+
+case 199:
+	questType.name = "The Firemaker's Curse";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{11683, 5, 270}};
+	questType.requiredSkills = new int[][] {{11, 74}, {16, 64}, {3, 76}};
+	questType.aString2600 = "The Firemaker's Curse";
+	questType.contextMenuSprite = 22966;
+	break;
+
+case 200:
+	questType.name = "Let Them Eat Pie";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{13240, 5, 40}};
+	questType.aString2600 = "Let Them Eat Pie";
+	questType.contextMenuSprite = 9614;
+	break;
+
+case 201:
+	questType.name = "The Elder Kiln";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{9091, 5, 170}};
+	questType.requiredSkills = new int[][] {{6, 75}, {16, 60}, {14, 41}};
+	questType.aString2600 = "The Elder Kiln";
+	questType.contextMenuSprite = 22968;
+	break;
+
+case 202:
+	questType.name = "Song from the Depths";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{12689, 5, 75}};
+	questType.aString2600 = "Song from the Depths";
+	questType.contextMenuSprite = 22971;
+	break;
+
+case 203:
+	questType.name = "Carnillean Rising";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{12989, 5, 100}};
+	questType.requiredQuests = new int[] { 125, 172 };
+	questType.requiredSkills = new int[][] {{17, 33}, {22, 31}};
+	questType.requiredQuestPoints = 50;
+	questType.aString2600 = "Carnillean Rising";
+	questType.contextMenuSprite = 22972;
+	break;
+
+case 204:
+	questType.name = "Some Like It Cold";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 2;
+	questType.progressVarBits = new int[][] {{9391, 5, 175}};
+	questType.requiredQuests = new int[] { 122 };
+	questType.requiredSkills = new int[][] {{17, 50}, {22, 50}, {10, 65}, {12, 56}};
+	questType.aString2600 = "Some Like It Cold";
+	questType.contextMenuSprite = 22975;
+	break;
+
+case 205:
+	questType.name = "Diamond in the Rough";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{9429, 5, 120}};
+	questType.aString2600 = "\"Diamond in the Rough (sort)\"";
+	questType.anIntArray2601 = new int[] { 53906517 };
+	questType.contextMenuSprite = 22974;
+	questType.params = {691=15908, 948=Speak with Spymaster Osman in Al Kharid's palace., 949=Food and combat gear., 694=1, 950=Must be able to beat six level 3 foes, and two level 5 bosses., 951=1 Quest Point, 250 Agility XP, 250XP Combat lamp, 250 Constitution XP, 250 Thieving XP, access to the Kalphite Nursery (and a new weapon and shield)., 952=22950, 845=Diamond in the Rough, 847=177};
+	break;
+
+case 206:
+	questType.name = "Stolen Hearts";
+	questType.questPoints = 3;
+	questType.progressVarBits = new int[][] {{11870, 5, 105}};
+	questType.aString2600 = "\"Stolen Hearts (sort)\"";
+	questType.anIntArray2601 = new int[] { 50695371 };
+	questType.contextMenuSprite = 22978;
+	questType.params = {691=15860, 948=Speak with Ozan in Draynor Village., 949=Food and combat gear., 694=1, 950=Must be able to beat three level 3 foes., 951=3 Quest Points, 2,500 coins, 250XP Agility lamp (members), 250XP Combat lamp, 250 Constitution XP, 250XP Thieving lamp (members), thief titles (members)., 952=22950, 845=Stolen Hearts, 847=175};
+	break;
+
+case 207:
+	questType.name = "What's Mine is Yours";
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{9998, 4, 55}};
+	questType.aString2600 = "What's Mine is Yours";
+	questType.contextMenuSprite = 22976;
+	break;
+
+case 208:
+	questType.name = "Rune Mysteries";
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{16863, 1, 170}};
+	questType.aString2600 = "Rune Mysteries";
+	questType.contextMenuSprite = 22979;
+	questType.params = {845=Rune Mysteries, 846=Rune Mysteries (sort), 847=194, 848=0, 850=50809954, 691=16160, 948=Speak to Ariane in the lobby of the Wizards' Tower, south of Draynor Village., 949=None., 694=1, 950=None., 951=1 Quest Point; Wizards' Tower mindspike; First Tower hat; air talisman; 70 mind runes; 250 Magic XP; 250 Runecrafting XP; one of four titles; 2 Treasure Hunter keys., 856=0, 952=15398};
+	break;
+
+case 209:
+	questType.name = "Rune Memories";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{16834, 1, 120}};
+	questType.requiredQuests = new int[] { 208 };
+	questType.aString2600 = "Rune Memories";
+	questType.contextMenuSprite = 22980;
+	questType.params = {845=Rune Memories, 846=Rune Memories (sort), 847=195, 848=0, 850=51334240, 691=16106, 948=Speak to Ariane in the ruins beneath the Wizards' Tower, south of Draynor Village., 949=14 free inventory spaces, 694=1, 950=None., 951=1 Quest Point; First Tower robes; 300 Magic XP; 300 Runecrafting XP; Access to Archmage Sedridor's personal rune essence chest., 856=1, 952=15399, 859=194};
+	break;
+
+case 210:
+	questType.name = "The Brink of Extinction";
+	questType.members = true;
+	questType.questPoints = 3;
+	questType.difficulty = 4;
+	questType.progressVarBits = new int[][] {{16905, 5, 225}};
+	questType.requiredQuests = new int[] { 201 };
+	questType.requiredSkills = new int[][] {{13, 80}, {1, 80}, {14, 72}};
+	questType.aString2600 = "The Brink of Extinction";
+	questType.contextMenuSprite = 22977;
+	break;
+
+case 211:
+	questType.name = "A Stray in a Manger";
+	questType.category = 1;
+	questType.progressVarBits = new int[][] {{17574, 2, 15}};
+	questType.aString2600 = "\"A Stray in a Manger (sort)\"";
+	questType.anIntArray2601 = new int[] { 50990313 };
+	questType.contextMenuSprite = 22982;
+	questType.params = {691=166, 948=Speak to your snow imp pal north of Draynor's lodestone., 949=None., 694=1, 951=Santa beard, a pet stray dog, the Gift of Giving. The Gift of Giving can award kennel customisations, a Santa sack, a 'Santa' title prefix (members), and up to 200,000 bonus Hunter XP (members)!, 952=22959, 845=A Stray in a Manger};
+	break;
+
+case 212:
+	questType.name = "The World Wakes";
+	questType.members = true;
+	questType.questPoints = 3;
+	questType.difficulty = 4;
+	questType.progressVarBits = new int[][] {{18021, 1, 250}};
+	questType.aString2600 = "The World Wakes";
+	questType.contextMenuSprite = 22981;
+	questType.params = {896=100};
+	break;
+
+case 213:
+	questType.name = "Bringing Home the Bacon";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{18565, 3, 75}};
+	questType.requiredSkills = new int[][] {{22, 14}, {19, 14}, {23, 14}};
+	questType.aString2600 = "Bringing Home the Bacon";
+	questType.contextMenuSprite = 22983;
+	break;
+
+case 214:
+	questType.name = "The Death of Chivalry";
+	questType.questPoints = 3;
+	questType.progressVarBits = new int[][] {{19966, 5, 170}};
+	questType.aString2600 = "The Death of Chivalry";
+	questType.contextMenuSprite = 4412;
+	break;
+
+case 215:
+	questType.name = "Birthright of the Dwarves";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 4;
+	questType.progressVarBits = new int[][] {{20561, 10, 300}};
+	questType.requiredQuests = new int[] { 185 };
+	questType.requiredSkills = new int[][] {{14, 80}, {13, 82}, {2, 85}};
+	questType.aString2600 = "Birthright of the Dwarves";
+	questType.contextMenuSprite = 22984;
+	break;
+
+case 216:
+	questType.name = "Missing, Presumed Death";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.progressVarBits = new int[][] {{20621, 1, 100}};
+	questType.aString2600 = "Missing, Presumed Death";
+	questType.contextMenuSprite = 22985;
+	break;
+
+case 217:
+	questType.name = "Tutorial";
+	questType.progressVarBits = new int[][] {{20940, 1, 120}};
+	questType.aString2600 = "Tutorial";
+	break;
+
+case 218:
+	questType.name = "One of a Kind";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 4;
+	questType.progressVarBits = new int[][] {{21714, 1, 190}};
+	questType.requiredQuests = new int[] { 45, 61, 216, 212 };
+	questType.requiredSkills = new int[][] {{6, 81}, {24, 67}, {23, 74}, {25, 40}};
+	questType.aString2600 = "One of a Kind";
+	questType.contextMenuSprite = 22986;
+	break;
+
+case 219:
+	questType.name = "Fate of the Gods";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 4;
+	questType.progressVarBits = new int[][] {{21841, 5, 175}};
+	questType.requiredQuests = new int[] { 216 };
+	questType.requiredSkills = new int[][] {{6, 79}, {18, 76}, {25, 75}, {16, 73}, {23, 67}};
+	questType.aString2600 = "Fate of the Gods";
+	questType.contextMenuSprite = 22987;
+	break;
+
+case 220:
+	questType.name = "A Shadow over Ashdale";
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{22270, 5, 100}};
+	questType.aString2600 = "A Shadow over Ashdale";
+	questType.contextMenuSprite = 22988;
+	break;
+
+case 221:
+	questType.name = "The Mighty Fall";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 3;
+	questType.progressVarBits = new int[][] {{4291, 5, 200}};
+	questType.requiredQuests = new int[] { 114, 22, 216 };
+	questType.requiredSkills = new int[][] {{0, 79}, {2, 79}, {3, 78}, {1, 72}, {18, 69}};
+	questType.aString2600 = "\"Mighty Fall (sort)\"";
+	questType.anIntArray2601 = new int[] { 313218291 };
+	questType.contextMenuSprite = 9717;
+	questType.params = {691=5799, 948=Speak to Ur-Tag in Dorgesh-Kaan., 949=A light source. Combat equipment and food are highly recommended., 694=1, 950=Must be able to defeat a level 210 foe., 951=2 Quest Points, 2 Treasure Hunter keys, 80,000 Attack XP, 80,000 Strength XP, 75,000 XP Combat Lamp, 50,000 XP Combat Lamp, A Kyzaj and the ability to add a Bandos hilt to it, A Kyzaj override for mauls, 'the Champion' title, Bandos's Memories book, Access to the God Wars Dungeon Teleport spell and improved drops from Bork., 952=9135, 845=The Mighty Fall, 847=203};
+	break;
+
+case 222:
+	questType.name = "Plague's End";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 4;
+	questType.progressVarBits = new int[][] {{23198, 1, 400}};
+	questType.requiredQuests = new int[] { 167, 23, 124 };
+	questType.requiredSkills = new int[][] {{16, 75}, {12, 75}, {22, 75}, {24, 75}, {15, 75}, {14, 75}, {5, 75}, {4, 75}, {23, 75}, {8, 75}};
+	questType.aString2600 = "\"Plague's End (sort)\"";
+	questType.anIntArray2601 = new int[] { 38538340 };
+	questType.contextMenuSprite = 14310;
+	questType.params = {849=Conclude the elf storyline and re-grow the elven city of Prifddinas., 691=8951, 948=Speak to Arianwyn in Lletya., 949=Combat equipment; full set of Mourner gear; Rune bar; Plant Cure potion or ability to cast the Plant Cure spell; 10 Magic logs; 200 spirit shards and a Summoning pouch; one charm of each colour (gold, green, crimson, blue); Super Defence potion., 694=1, 950=Must defeat multiple enemies up to level 107., 951=2 Quest Points; 50,000 XP in each of Agility, Crafting, Construction, Dungeoneering, Herblore, Mining, Prayer, Ranged, Summoning and Woodcutting; 'of the Elves' title; Trahaearn exoskeleton; access to Prifddinas., 845=Plague's End, 847=204};
+	break;
+
+case 223:
+	questType.name = "Broken Home";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{25561, 5, 50}};
+	questType.aString2600 = "\"Broken Home (sort)\"";
+	questType.anIntArray2601 = new int[] { 55053721 };
+	questType.contextMenuSprite = 24575;
+	questType.params = {849=Visit the Broken Home and unlock its secrets., 691=20205, 948=Enter the mansion north of the Digsite., 949=None., 694=1, 950=None., 951=A Large Prismatic Lamp; A Large Prismatic Fallen Star; A ring that causes monsters to drop food items; The ability to play the quest for more rewards; 2 Treasure Hunter keys., 845=Broken Home, 847=205};
+	break;
+
+case 224:
+	questType.name = "Heart of Stone";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{26245, 30, 200}};
+	questType.requiredQuests = new int[] { 203, 209 };
+	questType.requiredSkills = new int[][] {{6, 35}, {20, 25}};
+	questType.aString2600 = "Heart of Stone";
+	questType.contextMenuSprite = 10083;
+	break;
+
+case 225:
+	questType.name = "Dishonour among Thieves";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 1;
+	questType.progressVarBits = new int[][] {{27012, 1, 120}};
+	questType.requiredQuests = new int[] { 216, 125 };
+	questType.requiredSkills = new int[][] {{17, 30}, {16, 30}};
+	questType.aString2600 = "Dishonour among Thieves";
+	questType.contextMenuSprite = 19295;
+	break;
+
+case 226:
+	questType.name = "Dimension of Disaster";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.difficulty = 250;
+	questType.progressVarBits = new int[][] {{27209, 5, 50}};
+	questType.aString2600 = "Dimension of Disaster";
+	questType.contextMenuSprite = 24928;
+	break;
+
+case 227:
+	questType.name = "Dimension of Disaster: Coin of the Realm";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{27209, 5, 40}};
+	questType.aString2600 = "Dimension of Disaster: Coin of the Realm";
+	questType.contextMenuSprite = 24928;
+	break;
+
+case 228:
+	questType.name = "Dimension of Disaster: Shield of Arrav";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{27264, 5, 15}};
+	questType.requiredQuests = new int[] { 227, 63 };
+	questType.aString2600 = "Dimension of Disaster: Shield of Arrav";
+	questType.contextMenuSprite = 24929;
+	break;
+
+case 229:
+	questType.name = "Dimension of Disaster: Demon Slayer";
+	questType.members = true;
+	questType.questPoints = 3;
+	questType.progressVarBits = new int[][] {{27272, 5, 70}};
+	questType.requiredQuests = new int[] { 227, 51 };
+	questType.aString2600 = "Dimension of Disaster: Demon Slayer";
+	questType.contextMenuSprite = 24930;
+	break;
+
+case 230:
+	questType.name = "Dimension of Disaster: Defender of Varrock";
+	questType.members = true;
+	questType.questPoints = 2;
+	questType.progressVarBits = new int[][] {{27284, 5, 45}};
+	questType.requiredQuests = new int[] { 227, 56 };
+	questType.aString2600 = "Dimension of Disaster: Defender of Varrock";
+	questType.contextMenuSprite = 24931;
+	break;
+
+case 231:
+	questType.name = "Dimension of Disaster: Curse of Arrav";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.progressVarBits = new int[][] {{27291, 5, 110}};
+	questType.requiredQuests = new int[] { 227, 228, 229, 230, 117 };
+	questType.aString2600 = "Dimension of Disaster: Curse of Arrav";
+	questType.contextMenuSprite = 24986;
+	break;
+
+case 232:
+	questType.name = "Hero's Welcome";
+	questType.members = true;
+	questType.questPoints = 1;
+	questType.difficulty = 2;
+	questType.progressVarBits = new int[][] {{28509, 5, 105}};
+	questType.aString2600 = "\"Hero's Welcome (sort)\"";
+	questType.anIntArray2601 = new int[] { 51907761 };
+	questType.contextMenuSprite = 25455;
+	questType.params = {849=Deal with the arrival of V and the consequences of his return to Rellekka., 691=21168, 948=Speak to the Fremennik and Moon Clan east of Rellekka., 949=Soft clay, mithril bar, combat equipment and food., 694=1, 950=Combat level of 100 or more strongly recommended., 951=2 Quest Points; 10,000 Smithing XP; 10,000 Mining XP; 10,000 Slayer XP; 10,000 Divination XP; Access to additional Adamant Dragons and Bane Ore rocks; The ability to produce 5% more runes when Runecrafting; Access to a replayable boss fight., 845=Hero's Welcome, 847=214};
+	break;

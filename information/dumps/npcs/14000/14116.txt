@@ -1,0 +1,10 @@
+id=14116
+name=Vyrewatch guard
+description=It doesn't look like she's doing much guarding.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=true
+members=false

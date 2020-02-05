@@ -1,0 +1,17 @@
+id=2849
+name=Evil spirit
+description=The pun was intended.
+size=2
+xp=99.3
+lifepoints=2000
+level=56
+attack=40
+defence=40
+ranged=40
+magic=40
+animations={death:2805,attack:2804}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

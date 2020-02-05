@@ -1,0 +1,10 @@
+id=15407
+name=Fire essling
+description=An essling imbued with fire energy.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["The Runespan"]
+aggressive=false
+members=false

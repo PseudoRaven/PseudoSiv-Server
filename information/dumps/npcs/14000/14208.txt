@@ -1,0 +1,16 @@
+id=14208
+name=Snow warrior
+description=A snowman armed with an ice sword.
+size=1
+xp=0.4
+lifepoints=300
+level=27
+attack=30
+defence=10
+ranged=1
+magic=1
+animations={death:7560,attack:7558}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=true

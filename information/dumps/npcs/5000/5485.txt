@@ -1,0 +1,10 @@
+id=5485
+name=Raum Urda-Stein
+description=A guy that will sell you armour.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

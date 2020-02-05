@@ -1,0 +1,11 @@
+id=5076
+name=Copper longtail
+description=Nothing much to get in a flap about.
+xp=0.5
+animations={}
+attackable=true
+poisonous=false
+slayercat=Birds
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

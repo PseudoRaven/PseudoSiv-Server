@@ -1,0 +1,17 @@
+id=17269
+name=Lol
+description=Morningstar's brother. Likely a cat lover.
+size=3
+xp=4256.8
+lifepoints=50000
+level=110
+attack=1
+defence=82
+ranged=76
+magic=1
+animations={range:23720,death:15856}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

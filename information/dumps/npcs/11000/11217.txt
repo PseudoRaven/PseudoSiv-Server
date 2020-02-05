@@ -1,0 +1,17 @@
+id=11217
+name=Brah deathslinger
+description=Trained from birth to lead the hunt. (Tier 6)
+size=1
+xp=385.2
+lifepoints=7500
+level=84
+attack=60
+defence=60
+ranged=60
+magic=60
+animations={range:13615,death:13669,attack:13615}
+attackable=true
+poisonous=false
+weakness="Slashing"
+areas=[]
+aggressive=false

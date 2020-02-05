@@ -1,0 +1,17 @@
+id=18289
+name=Lava geyser
+description=A sudden eruption of molten rock.
+size=3
+xp=7482.4
+lifepoints=30000
+level=0
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=false

@@ -1,0 +1,10 @@
+id=6668
+name=Flippers McGraw
+description=The most piratical penguin you ever did see.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

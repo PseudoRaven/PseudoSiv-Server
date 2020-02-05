@@ -1,0 +1,10 @@
+id=2992
+name=Vaeringk
+description=Black Guard off duty, I hope.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Rat pit"]
+aggressive=false
+members=true

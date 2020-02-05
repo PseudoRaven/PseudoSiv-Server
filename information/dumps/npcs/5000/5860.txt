@@ -1,0 +1,17 @@
+id=5860
+name=H.A.M. Mage
+description=He bristles with arcane power.
+size=1
+xp=63.9
+lifepoints=2000
+level=28
+attack=15
+defence=20
+ranged=0
+magic=20
+animations={death:836,attack:429}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=[]
+aggressive=true

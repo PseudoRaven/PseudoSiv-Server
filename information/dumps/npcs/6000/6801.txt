@@ -1,0 +1,17 @@
+id=6801
+name=Giant ent
+description=He ent such a bad guy.
+size=2
+xp=542.2
+lifepoints=8800
+level=93
+attack=71
+defence=63
+ranged=71
+magic=71
+animations={death:7854,attack:7853}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

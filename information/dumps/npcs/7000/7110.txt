@@ -1,0 +1,16 @@
+id=7110
+name=Thug
+description=Low on brains, high on aggression.
+size=1
+xp=0.2
+lifepoints=180
+level=11
+attack=7
+defence=9
+ranged=1
+magic=1
+animations={death:836,attack:386}
+attackable=true
+poisonous=false
+areas=["Misthalin Underground"]
+aggressive=false

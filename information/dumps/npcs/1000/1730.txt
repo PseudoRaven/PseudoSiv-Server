@@ -1,0 +1,10 @@
+id=1730
+name=Sigmund
+description=What is he plotting this time?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Sigmund's base"]
+aggressive=false
+members=false

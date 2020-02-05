@@ -1,0 +1,10 @@
+id=13759
+name=<col=ffffff>Qutiedoll<\/col>
+description=A player.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Daemonheim"]
+aggressive=false
+members=true

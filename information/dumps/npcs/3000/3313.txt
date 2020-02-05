@@ -1,0 +1,17 @@
+id=3313
+name=Tanglefoot
+description=A walking thorn bush!
+size=1
+xp=227.7
+lifepoints=6000
+level=68
+attack=1
+defence=49
+ranged=49
+magic=1
+animations={death:13878,attack:13875}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=false

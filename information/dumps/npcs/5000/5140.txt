@@ -1,0 +1,10 @@
+id=5140
+name=Boulder
+description=Now, who put that there? It's too suspicious and round to be natural.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Eagles' eyrie"]
+aggressive=false
+members=false

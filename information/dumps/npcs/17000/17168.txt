@@ -1,0 +1,10 @@
+id=17168
+name=Old man
+description=He looks grumpy, although still curious.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

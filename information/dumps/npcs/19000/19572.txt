@@ -1,0 +1,10 @@
+id=19572
+name=Gnomecopter pilot
+description=A magnificent gnome with a flying machine.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

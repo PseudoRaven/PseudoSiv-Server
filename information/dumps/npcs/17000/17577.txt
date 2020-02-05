@@ -1,0 +1,12 @@
+id=17577
+name=Zamorakian footsoldier
+description=A close-range brute.
+size=1
+xp=542.2
+animations={}
+attackable=true
+poisonous=false
+weakness="Fire"
+abilities=["Slice","Sever","Smash","Backhand","Slaughter","Hurricane","Meteor Strike","Overpower","Dismember","Punish","Assault","Berserk","Quake","Freedom"]
+areas=[]
+aggressive=false

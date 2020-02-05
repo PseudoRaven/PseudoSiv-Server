@@ -1,0 +1,17 @@
+id=173
+name=Invrigar the Necromancer
+description=An evil user of Magic powers.
+size=1
+xp=64.5
+lifepoints=1500
+level=42
+attack=1
+defence=30
+ranged=1
+magic=30
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Bolt"
+areas=["RuneScape Surface"]
+aggressive=false

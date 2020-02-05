@@ -1,0 +1,10 @@
+id=16098
+name=Barr Rows
+description=Has pillaged the dark crypts of Morytania.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

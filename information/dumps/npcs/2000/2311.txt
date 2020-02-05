@@ -1,0 +1,10 @@
+id=2311
+name=Sheepdog
+description=Farmer\/sheep liaison officer. Go on - give the dog a bone!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

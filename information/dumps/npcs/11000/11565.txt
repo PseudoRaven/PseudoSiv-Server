@@ -1,0 +1,17 @@
+id=11565
+name=Pit scabarite
+description=Two legs, four arms and a very nasty-looking bow.
+size=1
+xp=0
+lifepoints=4200
+level=117
+attack=1
+defence=84
+ranged=84
+magic=1
+animations={range:7607,death:7609,attack:7607}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=true

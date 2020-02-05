@@ -1,0 +1,10 @@
+id=9482
+name=Barker toad
+description=The only creature with a mouth big enough to fit a cannon ball into.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Spirit Plane"]
+aggressive=true
+members=true

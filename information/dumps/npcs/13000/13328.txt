@@ -1,0 +1,10 @@
+id=13328
+name=Sparkly Crystal
+description=Sparkly Crystal, son of Pretty Flower, and maybe someday a mighty troll warlord.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Pretty Flower's Cave"]
+aggressive=false
+members=true

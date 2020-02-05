@@ -1,0 +1,10 @@
+id=2996
+name=Anleif
+description=Prim and proper.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Rat pit"]
+aggressive=false
+members=true

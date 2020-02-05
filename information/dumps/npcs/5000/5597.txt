@@ -1,0 +1,17 @@
+id=5597
+name=Newtroost
+description=Since when did newts have beaks?
+size=1
+xp=99.3
+lifepoints=2000
+level=56
+attack=40
+defence=40
+ranged=0
+magic=0
+animations={death:2301,attack:2299}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=false

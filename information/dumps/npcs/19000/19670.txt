@@ -1,0 +1,17 @@
+id=19670
+name=Penance King
+description=Run away! Run away!
+size=5
+xp=0
+lifepoints=3141592
+level=0
+attack=280
+defence=160
+ranged=1
+magic=1
+animations={death:24347,attack:24338}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

@@ -1,0 +1,10 @@
+id=5945
+name=Schoolboy
+description=Looks kind of familiar.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Varrock Museum"]
+aggressive=false
+members=false

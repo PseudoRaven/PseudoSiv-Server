@@ -1,0 +1,10 @@
+id=11490
+name=Splatter
+description=Don't burst its bubble!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Korasi's dream"]
+aggressive=false
+members=false

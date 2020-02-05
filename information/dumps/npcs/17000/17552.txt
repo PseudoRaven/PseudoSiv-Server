@@ -1,0 +1,10 @@
+id=17552
+name=Saradominist quartermaster
+description=Rewards those who've proven their loyalty to Saradomin.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

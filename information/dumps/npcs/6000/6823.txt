@@ -1,0 +1,17 @@
+id=6823
+name=Unicorn stallion
+description=The pointiest horse on the planet.
+size=2
+xp=805
+lifepoints=9800
+level=105
+attack=80
+defence=71
+ranged=80
+magic=80
+animations={death:6377,attack:6376}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

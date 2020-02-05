@@ -1,0 +1,17 @@
+id=1575
+name=Skeleton Hellhound
+description=A creature summoned by Vanstrom to kill the remaining Myreque.
+size=2
+xp=69.6
+lifepoints=2000
+level=44
+attack=32
+defence=32
+ranged=0
+magic=0
+animations={death:6558,attack:6579}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=[]
+aggressive=false

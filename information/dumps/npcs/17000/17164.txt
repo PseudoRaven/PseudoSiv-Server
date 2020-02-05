@@ -1,0 +1,10 @@
+id=17164
+name=Villager
+description=He is watching the portal with fear.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

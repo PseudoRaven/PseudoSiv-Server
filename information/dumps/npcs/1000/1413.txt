@@ -1,0 +1,10 @@
+id=1413
+name=Lumo
+description=A seasoned looking Gnome foot soldier.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

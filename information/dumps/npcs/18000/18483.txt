@@ -1,0 +1,10 @@
+id=18483
+name=Azzanadra
+description=A seemingly honourable Mahjarrat, dedicated to Zaros.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Armadyl's Citadel"]
+aggressive=false
+members=false

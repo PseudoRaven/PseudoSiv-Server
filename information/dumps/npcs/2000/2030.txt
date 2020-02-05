@@ -1,0 +1,17 @@
+id=2030
+name=Verac the Defiled
+description=A vengeful spirit corrupted by dark magic.
+size=1
+xp=838.2
+lifepoints=12000
+level=150
+attack=70
+defence=70
+ranged=1
+magic=1
+animations={death:836,attack:2062}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=[]
+aggressive=true

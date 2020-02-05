@@ -1,0 +1,10 @@
+id=9707
+name=Fremennik shipmaster
+description=He looks at home in this climate.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

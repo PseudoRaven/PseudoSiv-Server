@@ -1,0 +1,10 @@
+id=5790
+name=Gourmet
+description=A connoisseur of exotic foods from outside Dorgesh-Kaan.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dorgesh-Kaan"]
+aggressive=false
+members=true

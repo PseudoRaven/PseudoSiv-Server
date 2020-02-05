@@ -1,0 +1,17 @@
+id=3581
+name=Skeleton
+description=He guards the dungeon with the faithfulness of the undead.
+size=1
+xp=0
+lifepoints=3500
+level=70
+attack=50
+defence=50
+ranged=1
+magic=1
+animations={death:17932,attack:17931}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=[]
+aggressive=true

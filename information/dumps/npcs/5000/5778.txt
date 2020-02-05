@@ -1,0 +1,10 @@
+id=5778
+name=Bartak
+description=He works the city's metal.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dorgesh-Kaan"]
+aggressive=true
+members=true

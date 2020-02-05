@@ -1,0 +1,10 @@
+id=18037
+name=Fortress guard
+description=A generic evil henchman.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

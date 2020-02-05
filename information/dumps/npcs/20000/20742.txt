@@ -1,0 +1,17 @@
+id=20742
+name=Inner demon
+description=Is it real or just a construct of your subconscious?
+size=2
+xp=1412.4
+lifepoints=30000
+level=84
+attack=60
+defence=60
+ranged=60
+magic=60
+animations={range:16990,death:16988,attack:19589}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

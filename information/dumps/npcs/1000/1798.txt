@@ -1,0 +1,10 @@
+id=1798
+name=Phantuwti Fanstuwi Farsight
+description=A slightly more eccentric seer.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

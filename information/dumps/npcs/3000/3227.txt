@@ -1,0 +1,10 @@
+id=3227
+name=Dell Monti
+description=Avast ye, scurvy landlubbers. Give us yer pineapples!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

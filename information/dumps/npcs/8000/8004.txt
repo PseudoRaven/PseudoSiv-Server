@@ -1,0 +1,10 @@
+id=8004
+name=Laura
+description=A hard-working mother.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["The past"]
+aggressive=false
+members=false

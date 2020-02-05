@@ -1,0 +1,10 @@
+id=1571
+name=Harold Evans
+description=Hot headed big built youth who trained in the militia.
+xp=37.3
+animations={}
+attackable=true
+poisonous=false
+areas=["Myreque Hideout"]
+aggressive=false
+members=true

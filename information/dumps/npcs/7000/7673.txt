@@ -1,0 +1,10 @@
+id=7673
+name=Mekritus A'hara
+description=As tough and uncompromising a fighter as an anaemic, partially drained human can be.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Meiyerditch Myreque base"]
+aggressive=false
+members=true

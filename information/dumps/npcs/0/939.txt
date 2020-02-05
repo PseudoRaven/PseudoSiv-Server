@@ -1,0 +1,10 @@
+id=939
+name=Boulder
+description=I wonder what this is doing here.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Kharazi caves"]
+aggressive=false
+members=false

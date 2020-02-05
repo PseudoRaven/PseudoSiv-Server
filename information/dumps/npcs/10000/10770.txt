@@ -1,0 +1,17 @@
+id=10770
+name=Frost dragon
+description=A dragon covered in frost and ice.
+size=4
+xp=167.2
+lifepoints=6200
+level=43
+attack=31
+defence=31
+ranged=31
+magic=1
+animations={range:13155,death:13153,attack:13151}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=[]
+aggressive=true

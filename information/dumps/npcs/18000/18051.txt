@@ -1,0 +1,10 @@
+id=18051
+name=Slave
+description=He's slaving over a hot stove.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

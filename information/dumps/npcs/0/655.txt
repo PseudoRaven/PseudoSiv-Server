@@ -1,0 +1,17 @@
+id=655
+name=Tree spirit
+description=Guardian of the dramen tree.
+size=1
+xp=125.7
+lifepoints=2250
+level=63
+attack=45
+defence=45
+ranged=0
+magic=0
+animations={death:5534,attack:5532}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

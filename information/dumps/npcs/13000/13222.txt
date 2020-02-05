@@ -1,0 +1,17 @@
+id=13222
+name=Eruni
+description=A mysterious, godlike creature whose ears hear all.
+size=3
+xp=283.2
+lifepoints=3100
+level=86
+attack=62
+defence=62
+ranged=62
+magic=62
+animations={death:15063}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

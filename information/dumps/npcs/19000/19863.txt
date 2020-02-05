@@ -1,0 +1,10 @@
+id=19863
+name=Hefin herald
+description=A herald for Clan Hefin.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Prifddinas"]
+aggressive=false
+members=false

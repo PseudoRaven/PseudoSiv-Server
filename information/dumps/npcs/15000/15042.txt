@@ -1,0 +1,10 @@
+id=15042
+name=Builder
+description=Must be on a tea break.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=20284
+name=Wythien
+description=Has pillaged the Motherlode Maw, and offers its rewards.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Prifddinas"]
+aggressive=false
+members=false

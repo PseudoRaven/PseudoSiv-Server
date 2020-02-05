@@ -1,0 +1,17 @@
+id=5475
+name=Ice troll female
+description=An ice troll with a bag of rocks.
+size=2
+xp=151.8
+lifepoints=2450
+level=68
+attack=36
+defence=49
+ranged=49
+magic=0
+animations={death:13785,attack:13791}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=["Miscellania Underground"]
+aggressive=true

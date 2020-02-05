@@ -1,0 +1,10 @@
+id=4298
+name=Jimmy
+description=He looks a bit drunk.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

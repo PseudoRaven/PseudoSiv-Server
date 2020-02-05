@@ -1,0 +1,10 @@
+id=5823
+name=Spit goblin
+description=Don't spit, it's unhygienic.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dorgesh-Kaan"]
+aggressive=false
+members=true

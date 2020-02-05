@@ -1,0 +1,10 @@
+id=986
+name=Boulder
+description=Precariously balanced...
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Underground path"]
+aggressive=false
+members=false

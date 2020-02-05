@@ -1,0 +1,10 @@
+id=4290
+name=Shanomi
+description=A warrior mage from the east.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

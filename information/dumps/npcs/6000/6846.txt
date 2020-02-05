@@ -1,0 +1,17 @@
+id=6846
+name=Honey badger
+description=Violent little so-and-so.
+size=1
+xp=112.2
+lifepoints=4200
+level=38
+attack=29
+defence=26
+ranged=29
+magic=29
+animations={death:7925,attack:7928}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

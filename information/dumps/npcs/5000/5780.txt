@@ -1,0 +1,10 @@
+id=5780
+name=Reldak
+description=Sells leather goods made of frog!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dorgesh-Kaan"]
+aggressive=true
+members=true

@@ -1,0 +1,10 @@
+id=8840
+name=Rock critter
+description=What are these things?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Living Rock Caverns"]
+aggressive=false
+members=true

@@ -1,0 +1,10 @@
+id=9134
+name=Invisible
+description=Invisible.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Rellekka"]
+aggressive=false
+members=false

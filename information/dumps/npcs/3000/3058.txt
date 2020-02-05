@@ -1,0 +1,17 @@
+id=3058
+name=Giant Champion
+description=Champion of the giants.
+size=2
+xp=58.5
+lifepoints=1400
+level=39
+attack=28
+defence=28
+ranged=1
+magic=1
+animations={death:6369,attack:6368}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=[]
+aggressive=false

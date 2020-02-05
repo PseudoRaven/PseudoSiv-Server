@@ -1,0 +1,10 @@
+id=13780
+name=Lucy
+description=The human host to the Slug Queen. What horrors has she witnessed?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Slug Citadel"]
+aggressive=false
+members=true

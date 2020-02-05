@@ -1,0 +1,17 @@
+id=8281
+name=Balance Elemental
+description=Elementally balanced.
+size=3
+xp=1215
+lifepoints=15000
+level=102
+attack=73
+defence=73
+ranged=73
+magic=73
+animations={}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

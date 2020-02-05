@@ -1,0 +1,10 @@
+id=1427
+name=G.L.O. Caranock
+description=An official looking Gnome with small beady eyes.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

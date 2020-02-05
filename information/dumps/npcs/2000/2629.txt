@@ -1,0 +1,17 @@
+id=2629
+name=Tz-Kek
+description=The Tz-Kek will collapse in on itself if it remains out of lava for too long.
+size=2
+xp=419.1
+lifepoints=3500
+level=98
+attack=70
+defence=70
+ranged=1
+magic=1
+animations={death:16164,attack:16163}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

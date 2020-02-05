@@ -1,0 +1,10 @@
+id=15734
+name=Penguin
+description=That doesn't seem right somehow.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Iceburg"]
+aggressive=false
+members=false

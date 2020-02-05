@@ -1,0 +1,17 @@
+id=6814
+name=Bunyip
+description=Smells worse than he looks.
+size=2
+xp=349.6
+lifepoints=7800
+level=81
+attack=62
+defence=55
+ranged=62
+magic=62
+animations={death:7740,attack:7741}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

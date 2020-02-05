@@ -1,0 +1,11 @@
+id=147
+name=Cormorant
+description=A sea bird.
+xp=0.4
+animations={}
+attackable=true
+poisonous=false
+slayercat=Birds
+areas=["Karamja jungle"]
+aggressive=false
+members=false

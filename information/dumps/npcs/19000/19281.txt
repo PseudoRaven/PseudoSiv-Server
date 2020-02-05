@@ -1,0 +1,17 @@
+id=19281
+name=Gorilla guard
+description=A huge, brutish gorilla with dangerous-looking fists.
+size=2
+xp=0
+lifepoints=32000
+level=138
+attack=99
+defence=99
+ranged=99
+magic=99
+animations={death:23275,attack:23276}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=[]
+aggressive=true

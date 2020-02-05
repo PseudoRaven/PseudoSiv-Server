@@ -1,0 +1,10 @@
+id=2168
+name=Customer
+description=Looks like a human traveler visiting the library.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=false

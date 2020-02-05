@@ -1,0 +1,17 @@
+id=6344
+name=Elite defiler
+description=Duck!
+size=1
+xp=327.9
+lifepoints=3250
+level=91
+attack=48
+defence=65
+ranged=65
+magic=0
+animations={range:3920,death:3922,attack:3920}
+attackable=true
+poisonous=false
+weakness="Slashing"
+areas=[]
+aggressive=false

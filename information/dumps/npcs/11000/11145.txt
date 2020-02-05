@@ -1,0 +1,17 @@
+id=11145
+name=Sachem stormbringer
+description=Trained from birth to light the skies with magic. (Tier 10)
+size=1
+xp=1032.7
+lifepoints=10000
+level=112
+attack=80
+defence=80
+ranged=80
+magic=80
+animations={range:13620,death:13675,attack:13620}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=[]
+aggressive=false

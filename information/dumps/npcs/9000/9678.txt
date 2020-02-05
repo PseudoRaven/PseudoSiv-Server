@@ -1,0 +1,17 @@
+id=9678
+name=Rogue's soul
+description=The ethereal remnants of a past Crucible competitor.
+size=1
+xp=99.3
+lifepoints=2000
+level=56
+attack=40
+defence=40
+ranged=1
+magic=1
+animations={attack:16882}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=false

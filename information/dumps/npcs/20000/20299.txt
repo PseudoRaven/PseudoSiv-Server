@@ -1,0 +1,10 @@
+id=20299
+name=Captain Muggin
+description=Up up and away!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Prifddinas"]
+aggressive=false
+members=false

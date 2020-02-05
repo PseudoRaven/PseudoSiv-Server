@@ -1,0 +1,17 @@
+id=16691
+name=Zamorakian werewolf
+description=Down, fang!
+size=1
+xp=151.8
+lifepoints=2450
+level=68
+attack=49
+defence=49
+ranged=1
+magic=1
+animations={death:6537,attack:6536}
+attackable=true
+poisonous=false
+weakness="Thrown"
+areas=[]
+aggressive=true

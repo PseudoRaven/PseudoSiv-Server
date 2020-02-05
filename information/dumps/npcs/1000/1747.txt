@@ -1,0 +1,10 @@
+id=1747
+name=H.A.M. agent Daniel
+description=A member of Sigmund's H.A.M. splinter group.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Sigmund's base"]
+aggressive=false
+members=false

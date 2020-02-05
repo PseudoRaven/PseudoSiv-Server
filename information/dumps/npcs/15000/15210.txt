@@ -1,0 +1,17 @@
+id=15210
+name=Har-Aken (Magic Tentacle)
+description=This huge tentacle launches balls of plasma.
+size=2
+xp=564.3
+lifepoints=3800
+level=800
+attack=57
+defence=76
+ranged=0
+magic=76
+animations={death:16243,attack:16252}
+attackable=true
+poisonous=false
+weakness="Thrown"
+areas=[]
+aggressive=true

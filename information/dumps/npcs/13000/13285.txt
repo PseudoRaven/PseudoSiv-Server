@@ -1,0 +1,10 @@
+id=13285
+name=Thorvald the Warrior
+description=A festive Fremennik hero.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Xmas 2010"]
+aggressive=false
+members=false

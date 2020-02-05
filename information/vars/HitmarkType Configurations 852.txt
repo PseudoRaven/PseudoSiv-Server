@@ -1,0 +1,1761 @@
+
+case 0:
+	hitmarkType.attackTypeIcon = 23360;
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23373;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23374;
+	hitmarkType.anInt6837 = 3;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23372;
+	break;
+
+case 1:
+	hitmarkType.attackTypeIcon = 23362;
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23373;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23374;
+	hitmarkType.anInt6837 = 3;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23372;
+	break;
+
+case 2:
+	hitmarkType.attackTypeIcon = 23364;
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23373;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23374;
+	hitmarkType.anInt6837 = 3;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23372;
+	break;
+
+case 3:
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23373;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23374;
+	hitmarkType.anInt6837 = 3;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23372;
+	break;
+
+case 4:
+	hitmarkType.attackTypeIcon = 23367;
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23373;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23374;
+	hitmarkType.anInt6837 = 3;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23372;
+	break;
+
+case 5:
+	hitmarkType.attackTypeIcon = 23366;
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23379;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23380;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23378;
+	break;
+
+case 6:
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23388;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23389;
+	hitmarkType.anInt6837 = -2;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23387;
+	break;
+
+case 7:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 91, 76, -1 };
+	break;
+
+case 8:
+	hitmarkType.attackTypeIcon = 23369;
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	break;
+
+case 9:
+	hitmarkType.attackTypeIcon = 23371;
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23382;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23383;
+	hitmarkType.anInt6837 = 3;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23381;
+	break;
+
+case 10:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 92, 79, -1 };
+	break;
+
+case 11:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 93, 80, -1 };
+	break;
+
+case 12:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 94, 81, -1 };
+	break;
+
+case 13:
+	hitmarkType.attackTypeIcon = 23370;
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23373;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23374;
+	hitmarkType.anInt6837 = 3;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23372;
+	break;
+
+case 14:
+	hitmarkType.attackTypeIcon = 23361;
+	hitmarkType.fontId = 23402;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23376;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23377;
+	hitmarkType.anInt6837 = 3;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23375;
+	break;
+
+case 15:
+	hitmarkType.attackTypeIcon = 23363;
+	hitmarkType.fontId = 23402;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23376;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23377;
+	hitmarkType.anInt6837 = 3;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23375;
+	break;
+
+case 16:
+	hitmarkType.attackTypeIcon = 23365;
+	hitmarkType.fontId = 23402;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23376;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23377;
+	hitmarkType.anInt6837 = 3;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23375;
+	break;
+
+case 17:
+	hitmarkType.fontId = 23402;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23376;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23377;
+	hitmarkType.anInt6837 = 3;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23375;
+	break;
+
+case 18:
+	hitmarkType.attackTypeIcon = 23368;
+	hitmarkType.fontId = 23402;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23376;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23377;
+	hitmarkType.anInt6837 = 3;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23375;
+	break;
+
+case 19:
+	hitmarkType.attackTypeIcon = 23366;
+	hitmarkType.fontId = 23402;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23376;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23377;
+	hitmarkType.anInt6837 = 3;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23375;
+	break;
+
+case 20:
+	hitmarkType.fontId = 23402;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23391;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23392;
+	hitmarkType.anInt6837 = -2;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23390;
+	break;
+
+case 21:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 95, 90, -1 };
+	break;
+
+case 22:
+	hitmarkType.fontId = 23400;
+	hitmarkType.anInt6835 = 30;
+	hitmarkType.anInt6838 = 10;
+	break;
+
+case 23:
+	hitmarkType.fontId = 23402;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23385;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23386;
+	hitmarkType.anInt6837 = 3;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23384;
+	break;
+
+case 24:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 96, 166, -1 };
+	break;
+
+case 25:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 97, 167, -1 };
+	break;
+
+case 26:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 98, 168, -1 };
+	break;
+
+case 27:
+	hitmarkType.attackTypeIcon = 23370;
+	hitmarkType.fontId = 23402;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23376;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23377;
+	hitmarkType.anInt6837 = 3;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23375;
+	break;
+
+case 28:
+	hitmarkType.aBool6829 = true;
+	hitmarkType.fontId = 307;
+	hitmarkType.textColor = 22418;
+	hitmarkType.delay = 40;
+	hitmarkType.hitmarkCenterId = 8736;
+	hitmarkType.anInt6835 = 30;
+	hitmarkType.hitmarkRightId = 8738;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 8737;
+	break;
+
+case 29:
+	hitmarkType.attackTypeIcon = 4468;
+	hitmarkType.fontId = 591;
+	hitmarkType.delay = 95;
+	hitmarkType.hitmarkCenterId = 4473;
+	hitmarkType.anInt6835 = 100;
+	hitmarkType.hitmarkRightId = 4480;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "100,000";
+	hitmarkType.hitmarkLeftId = 4479;
+	break;
+
+case 30:
+	hitmarkType.attackTypeIcon = 4468;
+	hitmarkType.fontId = 591;
+	hitmarkType.delay = 95;
+	hitmarkType.hitmarkCenterId = 4473;
+	hitmarkType.anInt6835 = 100;
+	hitmarkType.hitmarkRightId = 4480;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "150,000";
+	hitmarkType.hitmarkLeftId = 4479;
+	break;
+
+case 31:
+	hitmarkType.attackTypeIcon = 4468;
+	hitmarkType.fontId = 591;
+	hitmarkType.delay = 95;
+	hitmarkType.hitmarkCenterId = 4473;
+	hitmarkType.anInt6835 = 100;
+	hitmarkType.hitmarkRightId = 4480;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "200,000";
+	hitmarkType.hitmarkLeftId = 4479;
+	break;
+
+case 32:
+	hitmarkType.attackTypeIcon = 4468;
+	hitmarkType.fontId = 591;
+	hitmarkType.delay = 95;
+	hitmarkType.hitmarkCenterId = 4473;
+	hitmarkType.anInt6835 = 100;
+	hitmarkType.hitmarkRightId = 4480;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "250,000";
+	hitmarkType.hitmarkLeftId = 4479;
+	break;
+
+case 33:
+	hitmarkType.attackTypeIcon = 4468;
+	hitmarkType.fontId = 591;
+	hitmarkType.delay = 95;
+	hitmarkType.hitmarkCenterId = 4473;
+	hitmarkType.anInt6835 = 100;
+	hitmarkType.hitmarkRightId = 4480;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "300,000";
+	hitmarkType.hitmarkLeftId = 4479;
+	break;
+
+case 34:
+	hitmarkType.attackTypeIcon = 4468;
+	hitmarkType.fontId = 591;
+	hitmarkType.delay = 95;
+	hitmarkType.hitmarkCenterId = 4473;
+	hitmarkType.anInt6835 = 100;
+	hitmarkType.hitmarkRightId = 4480;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "350,000";
+	hitmarkType.hitmarkLeftId = 4479;
+	break;
+
+case 35:
+	hitmarkType.attackTypeIcon = 4468;
+	hitmarkType.fontId = 591;
+	hitmarkType.delay = 95;
+	hitmarkType.hitmarkCenterId = 4473;
+	hitmarkType.anInt6835 = 100;
+	hitmarkType.hitmarkRightId = 4480;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "400,000";
+	hitmarkType.hitmarkLeftId = 4479;
+	break;
+
+case 36:
+	hitmarkType.attackTypeIcon = 4468;
+	hitmarkType.fontId = 591;
+	hitmarkType.delay = 95;
+	hitmarkType.hitmarkCenterId = 4473;
+	hitmarkType.anInt6835 = 100;
+	hitmarkType.hitmarkRightId = 4480;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "450,000";
+	hitmarkType.hitmarkLeftId = 4479;
+	break;
+
+case 37:
+	hitmarkType.attackTypeIcon = 4468;
+	hitmarkType.fontId = 591;
+	hitmarkType.delay = 95;
+	hitmarkType.hitmarkCenterId = 4473;
+	hitmarkType.anInt6835 = 100;
+	hitmarkType.hitmarkRightId = 4480;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "500,000";
+	hitmarkType.hitmarkLeftId = 4479;
+	break;
+
+case 38:
+	hitmarkType.attackTypeIcon = 4468;
+	hitmarkType.fontId = 591;
+	hitmarkType.delay = 95;
+	hitmarkType.hitmarkCenterId = 4473;
+	hitmarkType.anInt6835 = 100;
+	hitmarkType.hitmarkRightId = 4480;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "550,000";
+	hitmarkType.hitmarkLeftId = 4479;
+	break;
+
+case 39:
+	hitmarkType.attackTypeIcon = 4468;
+	hitmarkType.fontId = 591;
+	hitmarkType.delay = 95;
+	hitmarkType.hitmarkCenterId = 4473;
+	hitmarkType.anInt6835 = 100;
+	hitmarkType.hitmarkRightId = 4480;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "600,000";
+	hitmarkType.hitmarkLeftId = 4479;
+	break;
+
+case 40:
+	hitmarkType.attackTypeIcon = 4468;
+	hitmarkType.fontId = 591;
+	hitmarkType.delay = 95;
+	hitmarkType.hitmarkCenterId = 4473;
+	hitmarkType.anInt6835 = 100;
+	hitmarkType.hitmarkRightId = 4480;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "650,000";
+	hitmarkType.hitmarkLeftId = 4479;
+	break;
+
+case 41:
+	hitmarkType.attackTypeIcon = 4468;
+	hitmarkType.fontId = 591;
+	hitmarkType.delay = 95;
+	hitmarkType.hitmarkCenterId = 4473;
+	hitmarkType.anInt6835 = 100;
+	hitmarkType.hitmarkRightId = 4480;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "700,000";
+	hitmarkType.hitmarkLeftId = 4479;
+	break;
+
+case 42:
+	hitmarkType.attackTypeIcon = 4468;
+	hitmarkType.fontId = 591;
+	hitmarkType.delay = 95;
+	hitmarkType.hitmarkCenterId = 4473;
+	hitmarkType.anInt6835 = 100;
+	hitmarkType.hitmarkRightId = 4480;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "750,000";
+	hitmarkType.hitmarkLeftId = 4479;
+	break;
+
+case 43:
+	hitmarkType.attackTypeIcon = 4468;
+	hitmarkType.fontId = 591;
+	hitmarkType.delay = 95;
+	hitmarkType.hitmarkCenterId = 4473;
+	hitmarkType.anInt6835 = 100;
+	hitmarkType.hitmarkRightId = 4480;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "800,000";
+	hitmarkType.hitmarkLeftId = 4479;
+	break;
+
+case 44:
+	hitmarkType.attackTypeIcon = 4468;
+	hitmarkType.fontId = 591;
+	hitmarkType.delay = 95;
+	hitmarkType.hitmarkCenterId = 4473;
+	hitmarkType.anInt6835 = 100;
+	hitmarkType.hitmarkRightId = 4480;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "850,000";
+	hitmarkType.hitmarkLeftId = 4479;
+	break;
+
+case 45:
+	hitmarkType.attackTypeIcon = 4468;
+	hitmarkType.fontId = 591;
+	hitmarkType.delay = 95;
+	hitmarkType.hitmarkCenterId = 4473;
+	hitmarkType.anInt6835 = 100;
+	hitmarkType.hitmarkRightId = 4480;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "900,000";
+	hitmarkType.hitmarkLeftId = 4479;
+	break;
+
+case 46:
+	hitmarkType.attackTypeIcon = 4468;
+	hitmarkType.fontId = 591;
+	hitmarkType.delay = 95;
+	hitmarkType.hitmarkCenterId = 4473;
+	hitmarkType.anInt6835 = 100;
+	hitmarkType.hitmarkRightId = 4480;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "950,000";
+	hitmarkType.hitmarkLeftId = 4479;
+	break;
+
+case 47:
+	hitmarkType.attackTypeIcon = 4468;
+	hitmarkType.fontId = 584;
+	hitmarkType.delay = 95;
+	hitmarkType.hitmarkCenterId = 4473;
+	hitmarkType.anInt6835 = 100;
+	hitmarkType.hitmarkRightId = 4480;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "1,000,000";
+	hitmarkType.hitmarkLeftId = 4479;
+	break;
+
+case 48:
+	hitmarkType.attackTypeIcon = 23361;
+	hitmarkType.fontId = 23399;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	break;
+
+case 49:
+	hitmarkType.attackTypeIcon = 23363;
+	hitmarkType.fontId = 23399;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	break;
+
+case 50:
+	hitmarkType.attackTypeIcon = 23365;
+	hitmarkType.fontId = 23399;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	break;
+
+case 51:
+	hitmarkType.fontId = 23403;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23393;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6837 = -29;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.anInt6843 = 11;
+	break;
+
+case 52:
+	hitmarkType.fontId = 23405;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23395;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6837 = -49;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.anInt6843 = -11;
+	break;
+
+case 53:
+	hitmarkType.fontId = 23404;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23394;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6837 = -40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	break;
+
+case 54:
+	hitmarkType.attackTypeIcon = 14927;
+	hitmarkType.anInt6826 = 0;
+	hitmarkType.delay = 120;
+	hitmarkType.anInt6835 = 60;
+	break;
+
+case 55:
+	hitmarkType.attackTypeIcon = 23360;
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23373;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23374;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23372;
+	break;
+
+case 56:
+	hitmarkType.attackTypeIcon = 23362;
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23373;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23374;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23372;
+	break;
+
+case 57:
+	hitmarkType.attackTypeIcon = 23364;
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23373;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23374;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23372;
+	break;
+
+case 58:
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23373;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23374;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23372;
+	break;
+
+case 59:
+	hitmarkType.attackTypeIcon = 23367;
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23373;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23374;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23372;
+	break;
+
+case 60:
+	hitmarkType.attackTypeIcon = 23366;
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23379;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23380;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23378;
+	break;
+
+case 61:
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23388;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23389;
+	hitmarkType.anInt6837 = -2;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23387;
+	break;
+
+case 62:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 99, 169, -1 };
+	break;
+
+case 63:
+	hitmarkType.attackTypeIcon = 23369;
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	break;
+
+case 64:
+	hitmarkType.attackTypeIcon = 23371;
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23382;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23383;
+	hitmarkType.anInt6837 = 2;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23381;
+	break;
+
+case 65:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 100, 170, -1 };
+	break;
+
+case 66:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 101, 171, -1 };
+	break;
+
+case 67:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 102, 172, -1 };
+	break;
+
+case 68:
+	hitmarkType.attackTypeIcon = 23370;
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23373;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23374;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23372;
+	break;
+
+case 69:
+	hitmarkType.attackTypeIcon = 23360;
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23376;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23377;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23375;
+	break;
+
+case 70:
+	hitmarkType.attackTypeIcon = 23362;
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23376;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23377;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23375;
+	break;
+
+case 71:
+	hitmarkType.attackTypeIcon = 23364;
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23376;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23377;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23375;
+	break;
+
+case 72:
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23376;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23377;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23375;
+	break;
+
+case 73:
+	hitmarkType.attackTypeIcon = 23367;
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23376;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23377;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23375;
+	break;
+
+case 74:
+	hitmarkType.attackTypeIcon = 23366;
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23376;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23377;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23375;
+	break;
+
+case 75:
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23391;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23392;
+	hitmarkType.anInt6837 = -2;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23390;
+	break;
+
+case 76:
+	hitmarkType.attackTypeIcon = 20631;
+	hitmarkType.fontId = 23403;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	break;
+
+case 77:
+	hitmarkType.fontId = 23400;
+	hitmarkType.anInt6835 = 30;
+	hitmarkType.anInt6838 = 10;
+	break;
+
+case 78:
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23385;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23386;
+	hitmarkType.anInt6837 = 2;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23384;
+	break;
+
+case 79:
+	hitmarkType.attackTypeIcon = 20638;
+	hitmarkType.fontId = 23403;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	break;
+
+case 80:
+	hitmarkType.attackTypeIcon = 20632;
+	hitmarkType.fontId = 23403;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	break;
+
+case 81:
+	hitmarkType.attackTypeIcon = 20635;
+	hitmarkType.fontId = 23403;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	break;
+
+case 82:
+	hitmarkType.attackTypeIcon = 23370;
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23376;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23377;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23375;
+	break;
+
+case 83:
+	hitmarkType.attackTypeIcon = 23360;
+	hitmarkType.fontId = 23399;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	break;
+
+case 84:
+	hitmarkType.attackTypeIcon = 23362;
+	hitmarkType.fontId = 23399;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	break;
+
+case 85:
+	hitmarkType.attackTypeIcon = 23364;
+	hitmarkType.fontId = 23399;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	break;
+
+case 86:
+	hitmarkType.fontId = 23403;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23393;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6837 = -29;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.anInt6843 = 11;
+	break;
+
+case 87:
+	hitmarkType.fontId = 23405;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23395;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6837 = -49;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.anInt6843 = -11;
+	break;
+
+case 88:
+	hitmarkType.fontId = 23404;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23394;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6837 = -40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	break;
+
+case 89:
+	hitmarkType.attackTypeIcon = 14927;
+	hitmarkType.anInt6826 = 0;
+	hitmarkType.delay = 120;
+	hitmarkType.anInt6835 = 60;
+	break;
+
+case 90:
+	hitmarkType.attackTypeIcon = 20630;
+	hitmarkType.fontId = 23404;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	break;
+
+case 91:
+	hitmarkType.attackTypeIcon = 20631;
+	hitmarkType.fontId = 23403;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	break;
+
+case 92:
+	hitmarkType.attackTypeIcon = 20638;
+	hitmarkType.fontId = 23403;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	break;
+
+case 93:
+	hitmarkType.attackTypeIcon = 20632;
+	hitmarkType.fontId = 23403;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	break;
+
+case 94:
+	hitmarkType.attackTypeIcon = 20635;
+	hitmarkType.fontId = 23403;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	break;
+
+case 95:
+	hitmarkType.attackTypeIcon = 20630;
+	hitmarkType.fontId = 23404;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	break;
+
+case 96:
+	hitmarkType.attackTypeIcon = 20640;
+	hitmarkType.fontId = 23404;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	break;
+
+case 97:
+	hitmarkType.attackTypeIcon = 20641;
+	hitmarkType.fontId = 23404;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	break;
+
+case 98:
+	hitmarkType.attackTypeIcon = 20639;
+	hitmarkType.fontId = 23404;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	break;
+
+case 99:
+	hitmarkType.attackTypeIcon = 20633;
+	hitmarkType.fontId = 23405;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	break;
+
+case 100:
+	hitmarkType.attackTypeIcon = 20634;
+	hitmarkType.fontId = 23405;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	break;
+
+case 101:
+	hitmarkType.attackTypeIcon = 20636;
+	hitmarkType.fontId = 23405;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	break;
+
+case 102:
+	hitmarkType.attackTypeIcon = 20637;
+	hitmarkType.fontId = 23405;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	break;
+
+case 103:
+	hitmarkType.fontId = 23406;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23396;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6837 = -29;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.anInt6843 = 11;
+	break;
+
+case 104:
+	hitmarkType.fontId = 23408;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23398;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6837 = -49;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.anInt6843 = -11;
+	break;
+
+case 105:
+	hitmarkType.fontId = 23407;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23397;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6837 = -40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	break;
+
+case 106:
+	hitmarkType.attackTypeIcon = 4467;
+	hitmarkType.fontId = 307;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 4474;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 4482;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 4481;
+	break;
+
+case 107:
+	hitmarkType.attackTypeIcon = 4468;
+	hitmarkType.fontId = 307;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 4474;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 4482;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 4481;
+	break;
+
+case 108:
+	hitmarkType.attackTypeIcon = 4469;
+	hitmarkType.fontId = 307;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 4474;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 4482;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 4481;
+	break;
+
+case 109:
+	hitmarkType.fontId = 307;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 4474;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 4482;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 4481;
+	break;
+
+case 110:
+	hitmarkType.attackTypeIcon = 4471;
+	hitmarkType.fontId = 307;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 4474;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 4482;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 4481;
+	break;
+
+case 111:
+	hitmarkType.attackTypeIcon = 4470;
+	hitmarkType.fontId = 307;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 4477;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 4485;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 4484;
+	break;
+
+case 112:
+	hitmarkType.fontId = 307;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 4475;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 4484;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 4483;
+	break;
+
+case 113:
+	hitmarkType.fontId = 307;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23354;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23356;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "0";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 23355;
+	break;
+
+case 114:
+	hitmarkType.fontId = 307;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 4478;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 4490;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 4489;
+	break;
+
+case 115:
+	hitmarkType.attackTypeIcon = 4472;
+	hitmarkType.fontId = 307;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 4474;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 4482;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 4481;
+	break;
+
+case 116:
+	hitmarkType.attackTypeIcon = 4467;
+	hitmarkType.fontId = 307;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 4492;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 4500;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 4499;
+	break;
+
+case 117:
+	hitmarkType.attackTypeIcon = 4468;
+	hitmarkType.fontId = 307;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 4492;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 4500;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 4499;
+	break;
+
+case 118:
+	hitmarkType.attackTypeIcon = 4469;
+	hitmarkType.fontId = 307;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 4492;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 4500;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 4499;
+	break;
+
+case 119:
+	hitmarkType.fontId = 307;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 4492;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 4500;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 4499;
+	break;
+
+case 120:
+	hitmarkType.attackTypeIcon = 4471;
+	hitmarkType.fontId = 307;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 4492;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 4500;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 4499;
+	break;
+
+case 121:
+	hitmarkType.attackTypeIcon = 4470;
+	hitmarkType.fontId = 307;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 4495;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 4506;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 4505;
+	break;
+
+case 122:
+	hitmarkType.fontId = 307;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 4493;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 4502;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 4501;
+	break;
+
+case 123:
+	hitmarkType.fontId = 307;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23357;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23359;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "0";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 23358;
+	break;
+
+case 124:
+	hitmarkType.fontId = 307;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 4496;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 4508;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 4507;
+	break;
+
+case 125:
+	hitmarkType.attackTypeIcon = 4472;
+	hitmarkType.fontId = 307;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 4492;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 4500;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 4499;
+	break;
+
+case 126:
+	hitmarkType.attackTypeIcon = 4467;
+	hitmarkType.fontId = 591;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 4473;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 4480;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 4479;
+	break;
+
+case 127:
+	hitmarkType.attackTypeIcon = 4468;
+	hitmarkType.fontId = 591;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 4473;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 4480;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 4479;
+	break;
+
+case 128:
+	hitmarkType.attackTypeIcon = 4469;
+	hitmarkType.fontId = 591;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 4473;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 4480;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 4479;
+	break;
+
+case 129:
+	hitmarkType.attackTypeIcon = 4467;
+	hitmarkType.fontId = 591;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 4491;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 4498;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 4497;
+	break;
+
+case 130:
+	hitmarkType.attackTypeIcon = 4468;
+	hitmarkType.fontId = 591;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 4491;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 4498;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 4497;
+	break;
+
+case 131:
+	hitmarkType.attackTypeIcon = 4469;
+	hitmarkType.fontId = 591;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 4491;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 4498;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 4497;
+	break;
+
+case 132:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 48, 106, -1 };
+	break;
+
+case 133:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 0, 106, -1 };
+	break;
+
+case 134:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 51, 126, -1 };
+	break;
+
+case 135:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 49, 107, -1 };
+	break;
+
+case 136:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 1, 107, -1 };
+	break;
+
+case 137:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 53, 127, -1 };
+	break;
+
+case 138:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 50, 108, -1 };
+	break;
+
+case 139:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 2, 108, -1 };
+	break;
+
+case 140:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 52, 128, -1 };
+	break;
+
+case 141:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 8, 113, -1 };
+	break;
+
+case 142:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 6, 112, -1 };
+	break;
+
+case 143:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 9, 114, -1 };
+	break;
+
+case 144:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 3, 109, -1 };
+	break;
+
+case 145:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 13, 115, -1 };
+	break;
+
+case 146:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 4, 110, -1 };
+	break;
+
+case 147:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 6, 28, -1 };
+	break;
+
+case 148:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 5, 111, -1 };
+	break;
+
+case 149:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 48, 116, -1 };
+	break;
+
+case 150:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 14, 116, -1 };
+	break;
+
+case 151:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 103, 129, -1 };
+	break;
+
+case 152:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 49, 117, -1 };
+	break;
+
+case 153:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 15, 117, -1 };
+	break;
+
+case 154:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 105, 130, -1 };
+	break;
+
+case 155:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 50, 118, -1 };
+	break;
+
+case 156:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 16, 118, -1 };
+	break;
+
+case 157:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 104, 131, -1 };
+	break;
+
+case 158:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 22, 123, -1 };
+	break;
+
+case 159:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 20, 122, -1 };
+	break;
+
+case 160:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 23, 124, -1 };
+	break;
+
+case 161:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 17, 119, -1 };
+	break;
+
+case 162:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 27, 125, -1 };
+	break;
+
+case 163:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 18, 120, -1 };
+	break;
+
+case 164:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 20, 28, -1 };
+	break;
+
+case 165:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 19, 121, -1 };
+	break;
+
+case 166:
+	hitmarkType.attackTypeIcon = 20640;
+	hitmarkType.fontId = 23404;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	break;
+
+case 167:
+	hitmarkType.attackTypeIcon = 20641;
+	hitmarkType.fontId = 23404;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	break;
+
+case 168:
+	hitmarkType.attackTypeIcon = 20639;
+	hitmarkType.fontId = 23404;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	break;
+
+case 169:
+	hitmarkType.attackTypeIcon = 20633;
+	hitmarkType.fontId = 23405;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	break;
+
+case 170:
+	hitmarkType.attackTypeIcon = 20634;
+	hitmarkType.fontId = 23405;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	break;
+
+case 171:
+	hitmarkType.attackTypeIcon = 20636;
+	hitmarkType.fontId = 23405;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	break;
+
+case 172:
+	hitmarkType.attackTypeIcon = 20637;
+	hitmarkType.fontId = 23405;
+	hitmarkType.delay = 50;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.anInt6839 = 40;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	break;
+
+case 173:
+	hitmarkType.transVarBit = 27168;
+	hitmarkType.transforms = new int[] { 174, 175, -1 };
+	break;
+
+case 174:
+	hitmarkType.attackTypeIcon = 24512;
+	hitmarkType.fontId = 23400;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 23382;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 23383;
+	hitmarkType.anInt6837 = 3;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitmarkLeftId = 23381;
+	break;
+
+case 175:
+	hitmarkType.fontId = 307;
+	hitmarkType.delay = 50;
+	hitmarkType.hitmarkCenterId = 4478;
+	hitmarkType.anInt6835 = 40;
+	hitmarkType.hitmarkRightId = 4490;
+	hitmarkType.anInt6837 = 1;
+	hitmarkType.anInt6838 = 10;
+	hitmarkType.textTemplate = "%1";
+	hitmarkType.hitAmountDivisor = 10;
+	hitmarkType.hitmarkLeftId = 4489;
+	break;

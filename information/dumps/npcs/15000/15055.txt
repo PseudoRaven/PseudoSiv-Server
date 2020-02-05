@@ -1,0 +1,10 @@
+id=15055
+name=Scalectrix
+description=A female druid and lover of nature.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

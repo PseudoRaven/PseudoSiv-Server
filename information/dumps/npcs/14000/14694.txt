@@ -1,0 +1,17 @@
+id=14694
+name=Infested axe
+description=A cloud of spores in control of an axe.
+size=2
+xp=805
+lifepoints=7500
+level=105
+attack=75
+defence=75
+ranged=1
+magic=1
+animations={death:15504,attack:15502}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=["Morytania underground"]
+aggressive=false

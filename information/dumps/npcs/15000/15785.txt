@@ -1,0 +1,10 @@
+id=15785
+name=Trial Announcer
+description=A valuable source of information.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

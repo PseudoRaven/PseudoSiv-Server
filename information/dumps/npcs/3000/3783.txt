@@ -1,0 +1,17 @@
+id=3783
+name=Frog
+description=Long legged licker.
+size=1
+xp=201.3
+lifepoints=2750
+level=77
+attack=55
+defence=55
+ranged=0
+magic=0
+animations={death:7256,attack:7260}
+attackable=true
+poisonous=true
+weakness="Fire"
+areas=["RuneScape Surface"]
+aggressive=false

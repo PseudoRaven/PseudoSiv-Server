@@ -1,0 +1,10 @@
+id=13775
+name=Mother Mallum
+description=An unspeakable horror from the beginnings of time.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Slug Citadel"]
+aggressive=false
+members=true

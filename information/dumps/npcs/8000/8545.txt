@@ -1,0 +1,10 @@
+id=8545
+name=Mystic
+description=He worships the spirits of the Wilderness for unusual reasons.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Asgarnian Ice Dungeon"]
+aggressive=false
+members=true

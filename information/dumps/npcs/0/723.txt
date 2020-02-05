@@ -1,0 +1,10 @@
+id=723
+name=Billy Rehnison
+description=The Rehnisons' eldest son.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

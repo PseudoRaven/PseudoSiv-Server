@@ -1,0 +1,17 @@
+id=11181
+name=Wise skinweaver
+description=Trained from birth to bind wounds and heal. (Tier 8)
+size=1
+xp=628.6
+lifepoints=8750
+level=98
+attack=70
+defence=70
+ranged=70
+magic=70
+animations={range:13620,death:13675,attack:13620}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

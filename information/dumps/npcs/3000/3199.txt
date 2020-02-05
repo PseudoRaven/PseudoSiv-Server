@@ -1,0 +1,10 @@
+id=3199
+name=Banker
+description=He can look after my money.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=1865
+name=Ali the Kebab seller
+description=A kebab seller.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

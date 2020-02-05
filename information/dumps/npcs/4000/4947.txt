@@ -1,0 +1,11 @@
+id=4947
+name=My Arm
+description=Trollish.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+slayercat=Trolls
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

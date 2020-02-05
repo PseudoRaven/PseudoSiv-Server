@@ -1,0 +1,10 @@
+id=5976
+name=Penguin display
+description=Nice suit.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Varrock Museum"]
+aggressive=false
+members=false

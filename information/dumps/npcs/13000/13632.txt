@@ -1,0 +1,10 @@
+id=13632
+name=Larriar
+description=An expert runecrafter.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Runecrafting Guild"]
+aggressive=false
+members=true

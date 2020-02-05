@@ -1,0 +1,17 @@
+id=1977
+name=Fareed
+description=Zamorak's warrior of fire.
+size=1
+xp=256.8
+lifepoints=3000
+level=84
+attack=60
+defence=60
+ranged=60
+magic=60
+animations={death:836,attack:18241}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=false

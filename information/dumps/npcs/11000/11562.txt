@@ -1,0 +1,17 @@
+id=11562
+name=Pit dog
+description=Like a wolf, only without the glamour.
+size=1
+xp=0
+lifepoints=3500
+level=98
+attack=70
+defence=70
+ranged=1
+magic=1
+animations={death:6564,attack:6565}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=true

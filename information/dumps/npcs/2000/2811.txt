@@ -1,0 +1,10 @@
+id=2811
+name=Ollie the Camel
+description=A camel who wants to fly some day.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

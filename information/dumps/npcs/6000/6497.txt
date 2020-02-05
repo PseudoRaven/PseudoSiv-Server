@@ -1,0 +1,10 @@
+id=6497
+name=Goblin guard
+description=He doesn't look very welcoming.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Ardougne underground"]
+aggressive=false
+members=true

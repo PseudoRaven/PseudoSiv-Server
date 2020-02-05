@@ -1,0 +1,10 @@
+id=2998
+name=Gambler
+description=Very well to do. I wonder what he's doing here.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Ardougne underground","Rat pits","Rat Pit"]
+aggressive=false
+members=true

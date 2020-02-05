@@ -1,0 +1,10 @@
+id=724
+name=Milli Rehnison
+description=She doesn't seem very happy.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

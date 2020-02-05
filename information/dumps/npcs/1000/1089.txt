@@ -1,0 +1,10 @@
+id=1089
+name=Ceolburg
+description=A citizen of Burthorpe.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

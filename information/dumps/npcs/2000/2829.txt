@@ -1,0 +1,10 @@
+id=2829
+name=Davey
+description=Looks like he's taking a break.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Braindeath Island"]
+aggressive=false
+members=true

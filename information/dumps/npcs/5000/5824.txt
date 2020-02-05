@@ -1,0 +1,10 @@
+id=5824
+name=Goblin fish
+description=A bug-eyed little goblin fish. How cute.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dorgesh-Kaan"]
+aggressive=false
+members=true

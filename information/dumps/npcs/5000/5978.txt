@@ -1,0 +1,10 @@
+id=5978
+name=Terrorbird display
+description=Terrifying!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Varrock Museum"]
+aggressive=false
+members=false

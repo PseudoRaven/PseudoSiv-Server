@@ -1,0 +1,10 @@
+id=5173
+name=Golden sheep
+description=Lovely thick wool.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

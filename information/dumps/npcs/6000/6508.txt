@@ -1,0 +1,10 @@
+id=6508
+name=Grand Chamberlain of the Web
+description=The highest ranking of the Spider Queen's servants.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Halloween 2009"]
+aggressive=false
+members=false

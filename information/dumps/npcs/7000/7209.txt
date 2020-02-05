@@ -1,0 +1,10 @@
+id=7209
+name=Snail
+description=It seems to have eaten a lot of chocolate.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Easter 2009"]
+aggressive=false
+members=false

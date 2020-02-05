@@ -1,0 +1,12 @@
+id=1538
+name=Corpse
+description=Well, at least he doesn't have to worry about getting 'black lung'.
+size=1
+xp=79.8
+animations={}
+attackable=true
+poisonous=false
+weakness="Fire"
+slayercat=Skeletons
+areas=["Haunted mine"]
+aggressive=true

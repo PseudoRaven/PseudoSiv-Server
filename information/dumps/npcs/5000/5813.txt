@@ -1,0 +1,10 @@
+id=5813
+name=Lorzan
+description=A goblin child.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dorgesh-Kaan"]
+aggressive=false
+members=true

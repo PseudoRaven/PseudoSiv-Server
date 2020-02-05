@@ -1,0 +1,10 @@
+id=13819
+name=Jadinko male
+description=With his flamboyant colours, his only job is to please the Queen.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Jadinko lair"]
+aggressive=false
+members=true

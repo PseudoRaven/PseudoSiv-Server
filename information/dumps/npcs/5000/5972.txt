@@ -1,0 +1,10 @@
+id=5972
+name=Sea slugs display
+description=Slugs of the sea variety.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Varrock Museum"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=4648
+name=Nisha
+description=A woman busily panning.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

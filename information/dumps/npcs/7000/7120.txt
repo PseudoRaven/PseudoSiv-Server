@@ -1,0 +1,10 @@
+id=7120
+name=Tyras guard
+description=One of King Tyras's men.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

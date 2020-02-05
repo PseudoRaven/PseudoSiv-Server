@@ -1,0 +1,10 @@
+id=15410
+name=Chaos esshound
+description=An esshound imbued with chaos energy.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["The Runespan"]
+aggressive=false
+members=false

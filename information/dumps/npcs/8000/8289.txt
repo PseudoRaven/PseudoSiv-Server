@@ -1,0 +1,17 @@
+id=8289
+name=Undead hero
+description=The reanimated corpse of a long forgotten race!
+size=1
+xp=361.5
+lifepoints=3350
+level=93
+attack=67
+defence=67
+ranged=0
+magic=0
+animations={death:17932,attack:17929}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=true

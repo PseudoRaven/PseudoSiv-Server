@@ -1,0 +1,10 @@
+id=7115
+name=Thaki the delivery dwarf
+description=He seems to be enjoying his time in the bar.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

@@ -1,0 +1,10 @@
+id=7132
+name=Mrs. Winkin
+description=Owner of this homestead.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Field"]
+aggressive=false
+members=false

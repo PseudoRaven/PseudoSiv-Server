@@ -1,0 +1,11 @@
+id=98
+name=Dog
+description=Bow wow.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+slayercat=Dogs
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

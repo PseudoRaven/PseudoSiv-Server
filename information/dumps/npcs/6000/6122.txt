@@ -1,0 +1,10 @@
+id=6122
+name=Sleeping guard
+description=Sleeping like an ugly baby.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Observatory"]
+aggressive=false
+members=false

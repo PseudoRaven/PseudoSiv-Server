@@ -1,0 +1,10 @@
+id=1433
+name=Solihib
+description=The food merchant of Ape Atoll.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

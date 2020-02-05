@@ -1,0 +1,17 @@
+id=16692
+name=Bandosian ork
+description=Ugly, fierce and with a bad attitude.
+size=1
+xp=151.8
+lifepoints=2450
+level=68
+attack=49
+defence=49
+ranged=1
+magic=1
+animations={death:17478,attack:17476}
+attackable=true
+poisonous=false
+weakness="Thrown"
+areas=[]
+aggressive=true

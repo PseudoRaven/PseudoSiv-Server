@@ -1,0 +1,10 @@
+id=28
+name=Zookeeper
+description=Enjoys locking up animals in small pens.
+xp=0.3
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

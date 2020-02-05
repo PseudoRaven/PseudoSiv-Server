@@ -1,0 +1,10 @@
+id=6785
+name=Clay golem
+description=An animated clay statue.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Scabaras Dungeon"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=2180
+name=Cart conductor
+description=He makes sure the carts don't run anyone over.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

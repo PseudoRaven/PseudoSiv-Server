@@ -1,0 +1,10 @@
+id=13938
+name=Herald of Varrock
+description=He looks at you with mild disapproval.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

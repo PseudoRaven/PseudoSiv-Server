@@ -1,0 +1,10 @@
+id=9170
+name=Sparky
+description=With his arrow crutch, Sparky's nut thievery days are sadly over.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

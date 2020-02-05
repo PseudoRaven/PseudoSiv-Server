@@ -1,0 +1,10 @@
+id=5478
+name=King Gjuki Sorvott IV
+description=An ill-tempered king.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

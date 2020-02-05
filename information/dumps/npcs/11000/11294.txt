@@ -1,0 +1,10 @@
+id=11294
+name=Locks and traps trainer
+description=A Thieves' Guild trainer.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Thieves' Guild"]
+aggressive=false
+members=false

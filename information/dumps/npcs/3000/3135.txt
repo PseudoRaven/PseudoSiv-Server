@@ -1,0 +1,16 @@
+id=3135
+name=Furnace grate
+description=It seems to be blocked.
+size=2
+xp=0.2
+lifepoints=1
+level=0
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

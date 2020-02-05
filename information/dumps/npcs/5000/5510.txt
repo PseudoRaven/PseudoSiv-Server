@@ -1,0 +1,10 @@
+id=5510
+name=Morten Holdstrom
+description=A yak handler's brother.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

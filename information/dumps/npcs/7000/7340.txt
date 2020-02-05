@@ -1,0 +1,17 @@
+id=7340
+name=Geyser titan
+description=It'll kill your enemies, and makes a great cup of tea.
+size=2
+xp=846.4
+lifepoints=9900
+level=106
+attack=81
+defence=72
+ranged=81
+magic=81
+animations={range:7887,death:7880,attack:7879}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

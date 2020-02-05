@@ -1,0 +1,10 @@
+id=14966
+name=Memory echo
+description=Memories have become imprinted here.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Old Tower Spellcasting Chamber"]
+aggressive=false
+members=true

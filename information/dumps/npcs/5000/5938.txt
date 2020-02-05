@@ -1,0 +1,10 @@
+id=5938
+name=Information clerk
+description=A lady with lots of information about the Museum.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

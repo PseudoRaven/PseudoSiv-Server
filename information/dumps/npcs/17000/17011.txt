@@ -1,0 +1,17 @@
+id=17011
+name=Ghostly wraith
+description=A raised, vengeful spirit.
+size=1
+xp=0
+lifepoints=660
+level=46
+attack=1
+defence=33
+ranged=1
+magic=33
+animations={range:16882,death:16946}
+attackable=true
+poisonous=false
+weakness="Thrown"
+areas=[]
+aggressive=true

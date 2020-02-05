@@ -1,0 +1,10 @@
+id=1794
+name=Hammerspike Stoutbeard
+description=He looks quite independent in an aggressive and business like way.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dwarven mines"]
+aggressive=false
+members=true

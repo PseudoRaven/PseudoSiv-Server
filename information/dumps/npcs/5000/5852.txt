@@ -1,0 +1,17 @@
+id=5852
+name=Thing with eyes
+description=Weird eyeball thing. Reminds Thok of breakfast.
+size=4
+xp=0
+lifepoints=3000
+level=69
+attack=60
+defence=40
+ranged=60
+magic=60
+animations={death:13018}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

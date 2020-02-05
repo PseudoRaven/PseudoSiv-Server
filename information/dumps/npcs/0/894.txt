@@ -1,0 +1,17 @@
+id=894
+name=Hazeel Cultist
+description=A member of the Hazeel cult.
+size=1
+xp=42.6
+lifepoints=1000
+level=28
+attack=15
+defence=20
+ranged=0
+magic=20
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=["Ardougne underground"]
+aggressive=false

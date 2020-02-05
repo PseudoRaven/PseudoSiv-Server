@@ -1,0 +1,10 @@
+id=4757
+name=Meiyerditch miner
+description=This citizen looks dirty and tired!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Meiyerditch mine","Meiyerditch Mine"]
+aggressive=false
+members=true

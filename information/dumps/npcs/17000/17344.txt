@@ -1,0 +1,10 @@
+id=17344
+name=Pigzilla
+description=Known in the eastern lands as the legendary Butakujira.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

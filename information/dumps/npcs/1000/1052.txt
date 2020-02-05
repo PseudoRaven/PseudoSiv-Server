@@ -1,0 +1,11 @@
+id=1052
+name=Ghast
+description=Arrghhh... A Ghast.
+xp=51.9
+animations={}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface"]
+aggressive=true
+members=true

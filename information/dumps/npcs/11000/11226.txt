@@ -1,0 +1,10 @@
+id=11226
+name=Smuggler
+description=Our contact on the inside.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dungeoneering","Dungeon"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=302
+name=Hadley
+description=Could do with losing a bit of weight.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

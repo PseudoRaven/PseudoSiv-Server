@@ -1,0 +1,17 @@
+id=2711
+name=Earth wizard
+description=His hands are covered in mud. At least, I hope that's mud.
+size=1
+xp=37.2
+lifepoints=800
+level=22
+attack=1
+defence=16
+ranged=1
+magic=16
+animations={death:2553,attack:414}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=["RuneScape Surface"]
+aggressive=false

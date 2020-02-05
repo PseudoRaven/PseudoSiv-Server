@@ -1,0 +1,10 @@
+id=587
+name=Jatix
+description=He runs the Herblore shop.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

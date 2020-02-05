@@ -1,0 +1,10 @@
+id=13764
+name=Slug thrall
+description=Ready to raise the alarm.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Fishing Platform"]
+aggressive=false
+members=true

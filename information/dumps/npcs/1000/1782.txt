@@ -1,0 +1,10 @@
+id=1782
+name=Edward
+description=A very brave merchant.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Spirit Realm demonic ruins","RuneScape Surface"]
+aggressive=false
+members=false

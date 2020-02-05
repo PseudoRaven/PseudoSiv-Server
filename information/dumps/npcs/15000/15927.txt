@@ -1,0 +1,10 @@
+id=15927
+name=Skulls mercenary
+description=He's using the tricep press style.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["The Skullery"]
+aggressive=false
+members=false

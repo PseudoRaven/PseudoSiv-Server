@@ -1,0 +1,10 @@
+id=154
+name=Butterfly
+description=I love butterflies.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Zanaris","RuneScape Surface","House","Stronghold of Security"]
+aggressive=false
+members=false

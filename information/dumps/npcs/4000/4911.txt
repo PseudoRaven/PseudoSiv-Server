@@ -1,0 +1,11 @@
+id=4911
+name=Elemental rock
+description=An elemental rock.
+xp=69.6
+animations={}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["Elemental Workshop"]
+aggressive=false
+members=false

@@ -1,0 +1,12 @@
+id=859
+name=Ogre guard
+description=An ogre that guards.
+size=2
+xp=582.7
+animations={}
+attackable=true
+poisonous=false
+weakness="Water"
+slayercat=Ogres
+areas=["RuneScape Surface"]
+aggressive=false

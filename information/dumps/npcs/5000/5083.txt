@@ -1,0 +1,10 @@
+id=5083
+name=Snowy knight
+description=It's a snowy knight butterfly.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

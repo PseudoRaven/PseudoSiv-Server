@@ -1,0 +1,17 @@
+id=6799
+name=Praying mantis
+description=Wax on, wax off, grab a butterfly and eat it... Wait, what?
+size=1
+xp=468.4
+lifepoints=8500
+level=89
+attack=68
+defence=60
+ranged=68
+magic=68
+animations={death:8065,attack:8069}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

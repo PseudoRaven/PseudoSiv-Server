@@ -1,0 +1,17 @@
+id=7342
+name=Lava titan
+description=Made of lava.
+size=2
+xp=661
+lifepoints=9300
+level=99
+attack=75
+defence=67
+ranged=75
+magic=75
+animations={death:7979,attack:7980}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

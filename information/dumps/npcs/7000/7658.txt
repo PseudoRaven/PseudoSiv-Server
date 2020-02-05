@@ -1,0 +1,17 @@
+id=7658
+name=Fistandantilus
+description=A dangerous-looking Zamorakian.
+size=1
+xp=201.3
+lifepoints=2750
+level=77
+attack=1
+defence=55
+ranged=1
+magic=55
+animations={death:836,attack:401}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=[]
+aggressive=false

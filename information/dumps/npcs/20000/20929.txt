@@ -1,0 +1,17 @@
+id=20929
+name=Undead chicken
+description=Yep, definitely a chicken...an undead chicken.
+size=1
+xp=37.3
+lifepoints=100
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:3806,attack:3701}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["New Varrock"]
+aggressive=false

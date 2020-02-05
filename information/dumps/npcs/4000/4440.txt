@@ -1,0 +1,17 @@
+id=4440
+name=Stag
+description=A noble creature!
+size=2
+xp=39.6
+lifepoints=900
+level=25
+attack=18
+defence=18
+ranged=1
+magic=1
+animations={death:6377,attack:6376}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["Enchanted valley"]
+aggressive=false

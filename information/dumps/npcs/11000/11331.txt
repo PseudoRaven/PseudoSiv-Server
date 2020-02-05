@@ -1,0 +1,17 @@
+id=11331
+name=General Shredflesh
+description=Shredflesh by name, nice guy by nature...not!
+size=2
+xp=269.4
+lifepoints=3050
+level=85
+attack=61
+defence=61
+ranged=61
+magic=61
+animations={death:13930,attack:13934}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

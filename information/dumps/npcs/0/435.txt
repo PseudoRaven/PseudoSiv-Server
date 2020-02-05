@@ -1,0 +1,10 @@
+id=435
+name=Fallen Man
+description=I hope he's not dead!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Miscellania Underground"]
+aggressive=false
+members=true

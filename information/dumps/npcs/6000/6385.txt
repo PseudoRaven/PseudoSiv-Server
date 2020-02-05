@@ -1,0 +1,10 @@
+id=6385
+name=Karamjan Jungle eagle
+description=A very large, very dangerous-looking birdy.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Eagle's Peak cave"]
+aggressive=false
+members=true

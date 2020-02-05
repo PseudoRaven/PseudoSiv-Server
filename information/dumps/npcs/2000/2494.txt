@@ -1,0 +1,17 @@
+id=2494
+name=Mosquito swarm
+description=A swarm of three highly agile mosquitoes.
+size=1
+xp=344.4
+lifepoints=3300
+level=92
+attack=1
+defence=66
+ranged=66
+magic=1
+animations={death:2398,attack:2397}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=false

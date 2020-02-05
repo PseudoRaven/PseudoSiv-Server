@@ -1,0 +1,17 @@
+id=15297
+name=Ate all the pies
+description=Big, wobbly mess.
+size=4
+xp=0
+lifepoints=4000
+level=147
+attack=70
+defence=70
+ranged=70
+magic=70
+animations={death:13715,attack:13717}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

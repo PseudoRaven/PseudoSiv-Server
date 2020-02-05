@@ -1,0 +1,10 @@
+id=5147
+name=Lamb
+description=The black sheep of the family.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

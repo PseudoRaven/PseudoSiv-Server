@@ -1,0 +1,10 @@
+id=4651
+name=Trader Crewmember
+description=Looks very stylish, but how can he sail in that gear?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=3843
+name=Sea troll
+description=An aquatic troll.
+size=2
+xp=256.8
+lifepoints=3000
+level=84
+attack=60
+defence=60
+ranged=0
+magic=0
+animations={death:13785,attack:13791}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=true

@@ -1,0 +1,17 @@
+id=2027
+name=Guthan the Infested
+description=A vengeful spirit corrupted by dark magic.
+size=1
+xp=838.2
+lifepoints=12000
+level=150
+attack=70
+defence=70
+ranged=1
+magic=1
+animations={death:836,attack:2080}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=true

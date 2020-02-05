@@ -1,0 +1,17 @@
+id=6995
+name=Spirit kalphite
+description=Hail to the Queen, baby.
+size=2
+xp=88.8
+lifepoints=3500
+level=29
+attack=23
+defence=20
+ranged=23
+magic=23
+animations={death:19486,attack:19487}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

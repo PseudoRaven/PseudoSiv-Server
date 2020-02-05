@@ -1,0 +1,17 @@
+id=11567
+name=Pit iron dragon
+description=Its scales are made of iron.
+size=2
+xp=0
+lifepoints=4850
+level=112
+attack=80
+defence=80
+ranged=1
+magic=80
+animations={range:14252,death:14248,attack:14247}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=[]
+aggressive=true

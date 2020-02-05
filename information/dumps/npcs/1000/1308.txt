@@ -1,0 +1,17 @@
+id=1308
+name=Lanzig
+description=One of Rellekka's many citizens.
+size=1
+xp=58.5
+lifepoints=1400
+level=39
+attack=28
+defence=28
+ranged=0
+magic=0
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface"]
+aggressive=false

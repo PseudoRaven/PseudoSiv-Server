@@ -1,0 +1,10 @@
+id=2453
+name=Boulder
+description=Heavy rock!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Chaos tunnels","Waterbirth Island Dungeon"]
+aggressive=true
+members=false

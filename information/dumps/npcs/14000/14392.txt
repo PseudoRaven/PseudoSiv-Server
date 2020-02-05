@@ -1,0 +1,10 @@
+id=14392
+name=Fame
+description=She wants to live forever...and she probably will.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["halloween 2011"]
+aggressive=false
+members=false

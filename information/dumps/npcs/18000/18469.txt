@@ -1,0 +1,10 @@
+id=18469
+name=Ilfeen
+description=A female elf.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Armadyl's Citadel"]
+aggressive=false
+members=false

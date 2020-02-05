@@ -1,0 +1,10 @@
+id=5026
+name=Apprentice Clerval
+description=An apprentice.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Mage Training Arena basement"]
+aggressive=false
+members=true

@@ -1,0 +1,17 @@
+id=16688
+name=Bandosian ogre
+description=Ugly and bad-tempered.
+size=2
+xp=69.6
+lifepoints=1600
+level=44
+attack=32
+defence=32
+ranged=1
+magic=1
+animations={death:17506,attack:17505}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=true

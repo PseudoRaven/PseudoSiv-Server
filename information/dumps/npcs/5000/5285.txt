@@ -1,0 +1,17 @@
+id=5285
+name=Weakling
+description=Flings annoying splinters at Thok.
+size=1
+xp=0
+lifepoints=800
+level=82
+attack=80
+defence=40
+ranged=80
+magic=80
+animations={range:23943,death:836,attack:23943}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

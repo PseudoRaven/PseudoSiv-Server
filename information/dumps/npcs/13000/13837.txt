@@ -1,0 +1,17 @@
+id=13837
+name=Blue mage
+description=A mage aligned to the blue team.
+size=1
+xp=0
+lifepoints=750
+level=30
+attack=1
+defence=10
+ranged=1
+magic=20
+animations={range:4692,death:4682}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=[]
+aggressive=true

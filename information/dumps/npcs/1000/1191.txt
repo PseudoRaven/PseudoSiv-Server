@@ -1,0 +1,10 @@
+id=1191
+name=Vic the trader
+description=Allows you to convert your bonus XP into various rewards.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=17317
+name=Mutant Tarn
+description=I preferred him when he was human.
+size=3
+xp=665.1
+lifepoints=14820
+level=79
+attack=57
+defence=57
+ranged=57
+magic=57
+animations={death:5619,attack:5617}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

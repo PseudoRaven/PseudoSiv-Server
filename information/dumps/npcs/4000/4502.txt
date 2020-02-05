@@ -1,0 +1,10 @@
+id=4502
+name=Ethereal Lady
+description=Does she really exist?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dream world"]
+aggressive=false
+members=true

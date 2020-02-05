@@ -1,0 +1,10 @@
+id=4507
+name=Ethereal Fluke
+description=Luck is probably on his side.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dream world"]
+aggressive=false
+members=true

@@ -1,0 +1,17 @@
+id=3060
+name=Goblin Champion
+description=Champion of the goblins.
+size=1
+xp=33.9
+lifepoints=600
+level=16
+attack=6
+defence=12
+ranged=1
+magic=12
+animations={death:6190,attack:6188}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

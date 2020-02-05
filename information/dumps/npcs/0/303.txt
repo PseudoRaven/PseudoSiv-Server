@@ -1,0 +1,10 @@
+id=303
+name=Gerald
+description=Looks suspiciously like a fisherman.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,11 @@
+id=1441
+name=Kruk
+description=A large ninja monkey wielding two scimitars.
+xp=192
+animations={}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

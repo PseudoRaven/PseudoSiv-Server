@@ -1,0 +1,1664 @@
+
+case 0:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 1:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 2:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 3:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 4:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 5:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 6:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 7:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 8:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 9:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 10:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 11:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 12:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 13:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 14:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 15:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 16:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 17:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 18:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 19:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 20:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 21:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 22:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 23:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 24:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 25:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 26:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 27:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 28:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 29:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 30:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 31:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 32:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 33:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 34:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 35:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 36:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 37:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 38:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 39:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 40:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 41:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 42:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 43:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 44:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 45:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 46:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 47:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 48:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 49:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 50:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 51:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 52:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 53:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 54:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 55:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 56:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 57:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 58:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 59:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 60:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 61:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 62:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 63:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 64:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 65:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 66:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 67:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 68:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 69:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 70:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 71:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 72:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 73:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 74:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 75:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 76:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 77:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 78:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 79:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 80:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 81:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 82:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 83:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 84:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 85:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 86:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 87:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 88:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 89:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 90:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 91:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 92:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 93:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 94:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 95:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 96:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 97:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 98:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 99:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 100:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 101:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 102:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 103:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 104:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 105:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 106:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 107:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 108:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 109:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 110:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 111:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 112:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 113:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 114:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 115:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 116:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 117:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 118:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 119:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 120:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 121:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 122:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 123:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 124:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 125:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 126:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 127:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 128:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 129:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 130:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 131:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 132:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 133:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 134:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 135:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 136:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 137:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 138:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 139:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 140:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 141:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 142:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 143:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 144:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 145:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 146:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 147:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 148:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 149:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 150:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 151:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 152:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 153:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 154:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 155:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 156:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 157:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 158:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 159:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 160:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 161:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 162:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 163:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 164:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 165:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 166:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 167:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 168:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 169:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 170:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 171:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 172:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 173:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 174:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 175:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 176:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 177:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 178:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 179:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 180:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 181:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 182:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 183:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 184:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 185:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 186:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 187:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 188:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 189:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 190:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 191:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 192:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 193:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 194:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 195:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 196:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 197:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 198:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 199:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 200:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 201:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 202:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 203:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 204:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 205:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 206:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 207:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 208:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 209:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 210:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 211:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 212:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 213:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 214:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 215:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 216:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 217:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 218:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 219:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 220:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 221:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 222:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 223:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 224:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 225:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 226:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 227:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 228:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 229:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 230:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 231:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 232:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 233:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 234:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 235:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 236:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 237:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 238:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 239:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 240:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 241:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 242:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 243:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 244:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 245:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 246:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 247:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 248:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 249:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 250:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 251:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 252:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 253:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 254:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 255:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 256:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 257:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 258:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 259:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 260:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 261:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 262:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 263:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 264:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 265:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 266:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 267:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 268:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 269:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 270:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 271:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 272:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 273:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 274:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 275:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 276:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 277:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 278:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 279:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 280:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 281:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 282:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 283:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 284:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 285:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 286:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 287:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 288:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 289:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 290:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 291:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 292:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 293:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 294:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 295:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 296:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 297:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 298:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 299:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 300:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 301:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 302:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 303:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 304:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 305:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 306:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 307:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 308:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 309:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 310:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 311:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 312:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 313:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 314:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 315:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 316:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 317:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 318:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 319:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 320:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 321:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 322:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 323:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 324:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 325:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 326:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 327:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 328:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 329:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 330:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 331:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 332:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 333:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 334:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 335:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 336:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 337:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 338:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 339:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 340:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 341:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 342:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 343:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 344:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 345:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 346:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 347:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 348:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 349:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 350:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 351:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 352:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 353:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 354:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 355:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 356:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 357:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 358:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 359:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 360:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 361:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 362:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 363:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 364:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 365:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 366:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 367:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 368:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 369:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 370:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 371:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 372:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 373:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 374:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 375:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 376:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 377:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 378:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 379:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 380:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 381:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 382:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 383:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 384:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 385:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 386:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 387:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 388:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 389:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 390:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 391:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 392:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 393:
+	varDomain10Type.dataType = TYPE_110;
+	break;
+
+case 394:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 395:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 396:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 397:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 398:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 399:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 400:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 401:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 402:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 403:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 404:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 405:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 406:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 407:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 408:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 409:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 410:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 411:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 412:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 413:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 414:
+	varDomain10Type.dataType = INT;
+	break;
+
+case 415:
+	varDomain10Type.dataType = INT;
+	break;

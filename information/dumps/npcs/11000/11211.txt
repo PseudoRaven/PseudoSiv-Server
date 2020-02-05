@@ -1,0 +1,17 @@
+id=11211
+name=Na�ve deathslinger
+description=Trained from birth to lead the hunt. (Tier 3)
+size=1
+xp=188.5
+lifepoints=5625
+level=63
+attack=45
+defence=45
+ranged=45
+magic=45
+animations={range:13615,death:13669,attack:13615}
+attackable=true
+poisonous=false
+weakness="Slashing"
+areas=[]
+aggressive=false

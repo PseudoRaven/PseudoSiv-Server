@@ -1,0 +1,17 @@
+id=10168
+name=Animated pickaxe
+description=How can it move of its own accord?
+size=1
+xp=38.2
+lifepoints=400
+level=5
+attack=4
+defence=4
+ranged=1
+magic=1
+animations={death:23847,attack:23839}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=true

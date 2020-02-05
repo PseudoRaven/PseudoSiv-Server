@@ -1,0 +1,17 @@
+id=6860
+name=Mithril minotaur
+description=He's just a big bully.
+size=2
+xp=317.2
+lifepoints=7600
+level=78
+attack=60
+defence=53
+ranged=60
+magic=60
+animations={death:8025,attack:8024}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

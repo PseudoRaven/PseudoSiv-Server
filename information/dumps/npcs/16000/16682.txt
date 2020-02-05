@@ -1,0 +1,17 @@
+id=16682
+name=Saradominist zealot
+description=His robes prominently display the star of Saradomin.
+size=1
+xp=0
+lifepoints=150
+level=4
+attack=3
+defence=3
+ranged=1
+magic=1
+animations={death:836,attack:18225}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=[]
+aggressive=true

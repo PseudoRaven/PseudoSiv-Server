@@ -1,0 +1,10 @@
+id=6653
+name=Elof
+description=A pen-pushing sort of fellow.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dwarven mines"]
+aggressive=false
+members=false

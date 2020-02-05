@@ -1,0 +1,10 @@
+id=2188
+name=Hegir
+description=A bickering old dwarf.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

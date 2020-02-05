@@ -1,0 +1,17 @@
+id=4932
+name=Billy Goat
+description=They'll eat anything!
+size=1
+xp=32.1
+lifepoints=550
+level=15
+attack=11
+defence=11
+ranged=1
+magic=1
+animations={death:5343,attack:5341}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=["RuneScape Surface"]
+aggressive=false

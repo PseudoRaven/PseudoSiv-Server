@@ -1,0 +1,10 @@
+id=4375
+name=Security Guard
+description=A retired RuneScape security guard.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

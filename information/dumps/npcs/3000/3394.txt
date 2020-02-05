@@ -1,0 +1,10 @@
+id=3394
+name=Evil Dave
+description=He seems to like wearing black.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Lumbridge"]
+aggressive=false
+members=true

@@ -1,0 +1,17 @@
+id=689
+name=Tower Archer
+description=Defender of the east tower.
+size=1
+xp=42.6
+lifepoints=1000
+level=28
+attack=15
+defence=20
+ranged=20
+magic=0
+animations={range:23943,death:836,attack:23943}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=[]
+aggressive=true

@@ -1,0 +1,17 @@
+id=9948
+name=Gluttonous behemoth
+description=He looks hungry!
+size=5
+xp=136.9
+lifepoints=500
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:13715,attack:13717}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

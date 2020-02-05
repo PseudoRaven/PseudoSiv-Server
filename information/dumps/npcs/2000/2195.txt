@@ -1,0 +1,10 @@
+id=2195
+name=Karl
+description=A short, merry guy.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

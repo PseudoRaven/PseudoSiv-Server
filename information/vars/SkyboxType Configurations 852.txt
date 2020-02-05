@@ -1,0 +1,241 @@
+
+case 0:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 43756;
+	break;
+
+case 1:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2686;
+	skyboxType.modelId = 43748;
+	break;
+
+case 2:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2686;
+	skyboxType.modelId = 2120;
+	break;
+
+case 3:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 3845;
+	break;
+
+case 4:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 3851;
+	break;
+
+case 5:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 1151;
+	break;
+
+case 6:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 69561;
+	break;
+
+case 7:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 69561;
+	break;
+
+case 8:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 69560;
+	break;
+
+case 9:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 69559;
+	break;
+
+case 10:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 76828;
+	break;
+
+case 11:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 80171;
+	break;
+
+case 12:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 81063;
+	break;
+
+case 13:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 84396;
+	break;
+
+case 50:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 90945;
+	break;
+
+case 51:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 92025;
+	break;
+
+case 52:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 93168;
+	break;
+
+case 53:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 92025;
+	break;
+
+case 54:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 93660;
+	break;
+
+case 55:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 93659;
+	break;
+
+case 56:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 93662;
+	break;
+
+case 57:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 93663;
+	break;
+
+case 58:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 93661;
+	break;
+
+case 59:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 94603;
+	break;
+
+case 60:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 4522;
+	skyboxType.modelId = 95588;
+	break;
+
+case 61:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 95589;
+	break;
+
+case 62:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 95587;
+	break;
+
+case 63:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 96050;
+	break;
+
+case 64:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2686;
+	skyboxType.modelId = 97530;
+	break;
+
+case 65:
+	skyboxType.textureId = 4522;
+	skyboxType.modelId = 97701;
+	break;
+
+case 66:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 99113;
+	break;
+
+case 67:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 101781;
+	break;
+
+case 68:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 4522;
+	skyboxType.modelId = 103282;
+	break;
+
+case 69:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 103721;
+	break;
+
+case 70:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.modelId = 104061;
+	break;
+
+case 71:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.modelId = 104059;
+	break;
+
+case 72:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.modelId = 104060;
+	break;
+
+case 73:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 104892;
+	break;
+
+case 74:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 105533;
+	break;
+
+case 75:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 105535;
+	break;
+
+case 76:
+	skyboxType.aClass510_6715 = 1;
+	skyboxType.textureId = 2707;
+	skyboxType.modelId = 105534;
+	break;

@@ -1,0 +1,10 @@
+id=0
+name=Hans
+description=Servant of the Duke of Lumbridge.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=2828
+name=50% Luke
+description=Most of an angry, undead sea scoundrel.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Braindeath Island"]
+aggressive=false
+members=true

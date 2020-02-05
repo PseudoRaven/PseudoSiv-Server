@@ -1,0 +1,16 @@
+id=11094
+name=Megamastyx
+description=A big, slow creature with a tough leathery hide. (Tier 9)
+size=3
+xp=32.1
+lifepoints=610
+level=15
+attack=8
+defence=14
+ranged=1
+magic=1
+animations={death:13262,attack:13255}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

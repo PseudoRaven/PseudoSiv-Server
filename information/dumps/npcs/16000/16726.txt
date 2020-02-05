@@ -1,0 +1,17 @@
+id=16726
+name=Imp herald
+description=A great deal more than cheeky.
+size=1
+xp=4.1
+lifepoints=2450
+level=98
+attack=1
+defence=70
+ranged=1
+magic=70
+animations={death:172,attack:169}
+attackable=true
+poisonous=false
+weakness="Bolt"
+areas=[]
+aggressive=false

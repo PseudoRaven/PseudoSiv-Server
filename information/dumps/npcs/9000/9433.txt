@@ -1,0 +1,10 @@
+id=9433
+name=Wizard Dougal
+description=He's a bit uptight.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Mage Training Arena basement"]
+aggressive=false
+members=true

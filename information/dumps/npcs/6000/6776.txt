@@ -1,0 +1,17 @@
+id=6776
+name=Scabaras locust
+description=A giant, mountable locust.
+size=2
+xp=201.3
+lifepoints=2750
+level=77
+attack=41
+defence=55
+ranged=55
+magic=0
+animations={death:7581,attack:7586}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=["RuneScape Surface"]
+aggressive=false

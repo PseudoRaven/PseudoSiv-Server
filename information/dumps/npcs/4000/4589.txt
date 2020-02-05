@@ -1,0 +1,10 @@
+id=4589
+name=Man
+description=Your common man.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

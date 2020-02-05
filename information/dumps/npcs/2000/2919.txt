@@ -1,0 +1,17 @@
+id=2919
+name=Agrith Naar
+description=A summoned demon.
+size=3
+xp=256.8
+lifepoints=4500
+level=84
+attack=60
+defence=60
+ranged=60
+magic=60
+animations={death:19605,attack:19606}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

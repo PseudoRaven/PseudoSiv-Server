@@ -1,0 +1,10 @@
+id=4247
+name=Estate agent
+description=A fancy businessman with a mighty fine hat.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Varrock","RuneScape Surface"]
+aggressive=false
+members=true

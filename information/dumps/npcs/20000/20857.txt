@@ -1,0 +1,10 @@
+id=20857
+name=Father Lawrence
+description=A religious man...and occasional drunk.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["New Varrock"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=6070
+name=Elnock Inquisitor
+description=Insurance investigator extraordinaire.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Wheat maze"]
+aggressive=false
+members=true

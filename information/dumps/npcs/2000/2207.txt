@@ -1,0 +1,10 @@
+id=2207
+name=Dwarven Miner
+description=He carries a heavy load.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

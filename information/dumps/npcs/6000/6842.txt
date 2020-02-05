@@ -1,0 +1,17 @@
+id=6842
+name=Spirit spider
+description=Would scare anyone off their tuffet.
+size=1
+xp=70.5
+lifepoints=2000
+level=0
+attack=9
+defence=8
+ranged=9
+magic=9
+animations={death:5329,attack:5327}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

@@ -1,0 +1,17 @@
+id=11221
+name=Wise deathslinger
+description=Trained from birth to lead the hunt. (Tier 8)
+size=1
+xp=628.6
+lifepoints=8750
+level=98
+attack=70
+defence=70
+ranged=70
+magic=70
+animations={range:13615,death:13669,attack:13615}
+attackable=true
+poisonous=false
+weakness="Slashing"
+areas=[]
+aggressive=false

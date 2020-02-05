@@ -1,0 +1,10 @@
+id=268
+name=Local
+description=A scruffy-looking chap.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

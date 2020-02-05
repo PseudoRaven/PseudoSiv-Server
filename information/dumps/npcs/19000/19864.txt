@@ -1,0 +1,10 @@
+id=19864
+name=Auron Ithell
+description=Attends the golden statue in the Tower of Voices.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Prifddinas"]
+aggressive=false
+members=false

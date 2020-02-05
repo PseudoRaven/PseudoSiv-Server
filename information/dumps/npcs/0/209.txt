@@ -1,0 +1,10 @@
+id=209
+name=Nulodion
+description=The Dwarven armoury engineer.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

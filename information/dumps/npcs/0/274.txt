@@ -1,0 +1,17 @@
+id=274
+name=Guardian of Armadyl
+description=A guard who has devoted their life to Armadyl.
+size=1
+xp=64.5
+lifepoints=1500
+level=42
+attack=30
+defence=30
+ranged=0
+magic=0
+animations={death:10800,attack:10797}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=["Temple of Ikov"]
+aggressive=false

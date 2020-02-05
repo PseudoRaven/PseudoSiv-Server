@@ -1,0 +1,10 @@
+id=889
+name=Henryeta Carnillean
+description=Ceril Carnillean's wife.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

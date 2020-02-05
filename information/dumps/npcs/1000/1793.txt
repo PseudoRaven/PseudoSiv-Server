@@ -1,0 +1,10 @@
+id=1793
+name=Tassie Slipcast
+description=A hard-working potter.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

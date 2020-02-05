@@ -1,0 +1,10 @@
+id=3695
+name=Volf Olafson
+description=One of the inhabitants of the camp.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

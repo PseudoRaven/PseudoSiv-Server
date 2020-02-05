@@ -1,0 +1,10 @@
+id=1425
+name=Zooknock
+description=A wizened little Gnome dressed in brightly coloured clothes.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Ape Atoll tunnels"]
+aggressive=false
+members=false

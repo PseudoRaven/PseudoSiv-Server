@@ -1,0 +1,10 @@
+id=456
+name=Father Aereck
+description=He seems to be very devout.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=6501
+name=Guard
+description=A guard wearing white armour.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Goblin temple"]
+aggressive=false
+members=true

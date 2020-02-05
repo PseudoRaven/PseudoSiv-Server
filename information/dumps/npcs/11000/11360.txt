@@ -1,0 +1,17 @@
+id=11360
+name=Ork warrior
+description=A well trained and armoured ork warrior.
+size=1
+xp=221.7
+lifepoints=2850
+level=79
+attack=57
+defence=57
+ranged=1
+magic=1
+animations={death:17478,attack:17476}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=false

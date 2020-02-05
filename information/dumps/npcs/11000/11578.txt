@@ -1,0 +1,17 @@
+id=11578
+name=Zenevivia
+description=Apparently she's the love interest.
+size=1
+xp=1139.4
+lifepoints=20000
+level=95
+attack=68
+defence=68
+ranged=68
+magic=68
+animations={death:2261}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

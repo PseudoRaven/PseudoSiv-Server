@@ -1,0 +1,17 @@
+id=255
+name=Khazard Guard
+description=His armour indicates he's a Khazard Guard.
+size=1
+xp=46.5
+lifepoints=1100
+level=30
+attack=22
+defence=22
+ranged=0
+magic=0
+animations={death:836,attack:395}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=["RuneScape Surface"]
+aggressive=false

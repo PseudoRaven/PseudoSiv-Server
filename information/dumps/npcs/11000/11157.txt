@@ -1,0 +1,17 @@
+id=11157
+name=Brah hoardstalker
+description=Trained from birth to provide for the camp. (Tier 6)
+size=1
+xp=385.2
+lifepoints=7500
+level=84
+attack=60
+defence=60
+ranged=60
+magic=60
+animations={range:13617,death:13683,attack:13617}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

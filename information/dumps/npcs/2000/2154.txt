@@ -1,0 +1,10 @@
+id=2154
+name=Gunslik
+description=Proprietor of Gunslik's Assorted Items.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

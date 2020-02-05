@@ -1,0 +1,17 @@
+id=15974
+name=Warrior
+description=It's like looking in the mirror.
+size=1
+xp=2502.4
+lifepoints=10000
+level=0
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:836,attack:12029}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=[]
+aggressive=false

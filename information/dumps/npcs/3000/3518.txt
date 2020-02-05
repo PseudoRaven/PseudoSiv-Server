@@ -1,0 +1,17 @@
+id=3518
+name=Gadderanks
+description=A human supporter of the Vampyric overlords.
+size=1
+xp=108.9
+lifepoints=2100
+level=58
+attack=42
+defence=42
+ranged=1
+magic=1
+animations={death:836,attack:2067}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

@@ -1,0 +1,17 @@
+id=6274
+name=Ork
+description=Ugly, fierce and with a bad attitude.
+size=1
+xp=569.7
+lifepoints=6800
+level=95
+attack=68
+defence=68
+ranged=1
+magic=1
+animations={death:17478,attack:17476}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=["God Wars Dungeon"]
+aggressive=true

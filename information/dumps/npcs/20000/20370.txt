@@ -1,0 +1,17 @@
+id=20370
+name=Unstable attendant
+description=An unstable creature born of elemental fury.
+size=1
+xp=46.5
+lifepoints=2000
+level=31
+attack=25
+defence=20
+ranged=1
+magic=1
+animations={}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=true

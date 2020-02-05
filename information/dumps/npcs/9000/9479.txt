@@ -1,0 +1,10 @@
+id=9479
+name=Spirit larupia
+description=Fast cat is fast.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Spirit Plane"]
+aggressive=true
+members=true

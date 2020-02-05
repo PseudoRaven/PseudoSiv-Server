@@ -1,0 +1,17 @@
+id=9382
+name=Dungeon spider
+description=A big, hairy spider.
+size=1
+xp=0
+lifepoints=750
+level=60
+attack=70
+defence=20
+ranged=70
+magic=70
+animations={death:5329,attack:5327}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

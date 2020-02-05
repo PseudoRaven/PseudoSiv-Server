@@ -1,0 +1,17 @@
+id=8874
+name=Dark wizard
+description=He works evil magic.
+size=1
+xp=46.5
+lifepoints=1100
+level=30
+attack=16
+defence=22
+ranged=0
+magic=22
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=["RuneScape Surface"]
+aggressive=false

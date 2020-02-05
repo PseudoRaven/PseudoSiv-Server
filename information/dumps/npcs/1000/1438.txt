@@ -1,0 +1,10 @@
+id=1438
+name=Hafuba
+description=A huge gorilla, head priest of this temple.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

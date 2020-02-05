@@ -1,0 +1,16 @@
+id=8648
+name=Rock golem
+description=Rock with attitude.
+size=1
+xp=3.2
+lifepoints=1700
+level=0
+attack=1
+defence=130
+ranged=1
+magic=1
+animations={range:5347,death:156,attack:153}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

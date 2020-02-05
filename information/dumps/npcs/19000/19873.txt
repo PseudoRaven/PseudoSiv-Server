@@ -1,0 +1,10 @@
+id=19873
+name=Lord Iorwerth
+description=Iestin Edern, the new lord of Clan Iorwerth.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Prifddinas"]
+aggressive=false
+members=false

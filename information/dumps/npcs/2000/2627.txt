@@ -1,0 +1,17 @@
+id=2627
+name=Tz-Kih
+description=Totally blind the waspish Tz-Kih flies guided by sound alone.
+size=1
+xp=256.8
+lifepoints=3000
+level=84
+attack=60
+defence=60
+ranged=1
+magic=1
+animations={death:16109,attack:16089}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=true

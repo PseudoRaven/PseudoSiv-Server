@@ -1,0 +1,10 @@
+id=20470
+name=Trevelian
+description=A slightly odd elf who talks to little green men.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

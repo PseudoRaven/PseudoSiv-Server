@@ -1,0 +1,11 @@
+id=8304
+name=Cyrisus
+description=He's a meleer - prepared to go face-to-face.
+xp=536.7
+animations={}
+attackable=true
+poisonous=false
+weakness="None"
+areas=["Wilderness"]
+aggressive=false
+members=false

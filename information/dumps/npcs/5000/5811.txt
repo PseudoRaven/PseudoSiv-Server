@@ -1,0 +1,10 @@
+id=5811
+name=Horgon
+description=A goblin child.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dorgesh-Kaan"]
+aggressive=false
+members=true

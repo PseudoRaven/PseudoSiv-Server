@@ -1,0 +1,10 @@
+id=739
+name=Bartender
+description=I could get a beer from him.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Yanille","RuneScape Surface"]
+aggressive=false
+members=false

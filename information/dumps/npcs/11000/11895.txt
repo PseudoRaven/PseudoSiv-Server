@@ -1,0 +1,17 @@
+id=11895
+name=Flesh-Spoiler Haasghenahk
+description=The core of the beast.
+size=3
+xp=528.9
+lifepoints=10000
+level=7
+attack=5
+defence=5
+ranged=5
+magic=5
+animations={range:14469,death:14468,attack:14469}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

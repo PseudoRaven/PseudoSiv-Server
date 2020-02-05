@@ -1,0 +1,10 @@
+id=2553
+name=Blast Furnace Foreman
+description=Looks after the blast furnace.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Blast furnace"]
+aggressive=false
+members=true

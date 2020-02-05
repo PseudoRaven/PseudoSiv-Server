@@ -1,0 +1,10 @@
+id=5512
+name=Anne Isaakson
+description=A farmhand.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

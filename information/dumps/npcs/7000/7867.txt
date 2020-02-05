@@ -1,0 +1,16 @@
+id=7867
+name=Pirate impling
+description=A pirate impling. Aarrrr!
+size=1
+xp=62.2
+lifepoints=100
+level=0
+attack=0
+defence=0
+ranged=1
+magic=1
+animations={death:6618,attack:6618}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=true

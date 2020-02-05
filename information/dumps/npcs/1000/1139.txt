@@ -1,0 +1,12 @@
+id=1139
+name=Mushroom
+description=He's fast asleep.
+size=2
+xp=183
+animations={}
+attackable=true
+poisonous=false
+weakness="Water"
+slayercat=Trolls
+areas=["RuneScape Surface"]
+aggressive=false

@@ -1,0 +1,17 @@
+id=7381
+name=Gnoeals
+description=A strange, magical beast.
+size=1
+xp=159.3
+lifepoints=2500
+level=70
+attack=37
+defence=50
+ranged=0
+magic=50
+animations={death:8971,attack:8969}
+attackable=true
+poisonous=false
+weakness="Bolt"
+areas=["Ice Cave"]
+aggressive=true

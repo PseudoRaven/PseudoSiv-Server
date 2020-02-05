@@ -1,0 +1,17 @@
+id=6797
+name=Granite crab
+description=Is it a stone? Is it a crab? No! it's Granite Crab!
+size=1
+xp=71.4
+lifepoints=2600
+level=19
+attack=15
+defence=13
+ranged=15
+magic=15
+animations={death:8106,attack:8104}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

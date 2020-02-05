@@ -1,0 +1,10 @@
+id=1396
+name=Miner Magnus
+description=He's just mining his own business.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,11 @@
+id=5492
+name=Guard
+description=One of King Sorvott's militia.
+xp=159.3
+animations={}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface"]
+aggressive=true
+members=false

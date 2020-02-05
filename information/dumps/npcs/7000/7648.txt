@@ -1,0 +1,17 @@
+id=7648
+name=Zaromark Sliver
+description=A dangerous-looking Zamorakian.
+size=1
+xp=201.3
+lifepoints=2750
+level=77
+attack=55
+defence=55
+ranged=1
+magic=1
+animations={death:836,attack:393}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=false

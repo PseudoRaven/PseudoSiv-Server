@@ -1,0 +1,17 @@
+id=10776
+name=Iron dragon
+description=Its scales are made of iron.
+size=4
+xp=181.5
+lifepoints=6600
+level=46
+attack=1
+defence=33
+ranged=33
+magic=1
+animations={range:13160,death:13159,attack:13158}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=true

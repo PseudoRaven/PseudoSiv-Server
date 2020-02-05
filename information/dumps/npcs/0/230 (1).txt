@@ -1,0 +1,10 @@
+id=230
+name=Grandpa Jack
+description=He looks elderly.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

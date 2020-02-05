@@ -1,0 +1,11 @@
+id=5073
+name=Crimson swift
+description=This bird obviously doesn't believe in subtlety.
+xp=0.5
+animations={}
+attackable=true
+poisonous=false
+slayercat=Birds
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

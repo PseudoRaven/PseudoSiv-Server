@@ -1,0 +1,10 @@
+id=4568
+name=Researcher
+description=Must be hard at work.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=16684
+name=Bandosian brawler
+description=A footsoldier for Bandos.
+size=1
+xp=0
+lifepoints=150
+level=4
+attack=3
+defence=3
+ranged=1
+magic=1
+animations={death:6182,attack:6185}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=[]
+aggressive=true

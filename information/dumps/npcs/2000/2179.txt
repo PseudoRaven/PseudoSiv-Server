@@ -1,0 +1,10 @@
+id=2179
+name=Barman
+description=Makes a living off his tips I'm sure.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

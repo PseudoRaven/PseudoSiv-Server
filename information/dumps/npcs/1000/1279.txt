@@ -1,0 +1,17 @@
+id=1279
+name=The Draugen
+description=A fearful spirit of the drowned.
+size=1
+xp=99.3
+lifepoints=2000
+level=96
+attack=40
+defence=40
+ranged=0
+magic=0
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

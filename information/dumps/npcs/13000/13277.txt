@@ -1,0 +1,10 @@
+id=13277
+name=Sir Amik Varze
+description=The leader of the White Knights looks a little merry today.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Xmas 2010"]
+aggressive=true
+members=false

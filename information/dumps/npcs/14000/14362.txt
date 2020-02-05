@@ -1,0 +1,10 @@
+id=14362
+name=Talent scout
+description=He's on the lookout for top athletes, but why?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Morytania underground","RuneScape Surface"]
+aggressive=false
+members=true

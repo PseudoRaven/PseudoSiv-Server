@@ -1,0 +1,16 @@
+id=11090
+name=Dromomastyx
+description=A big, slow creature with a tough leathery hide. (Tier 5)
+size=3
+xp=0.2
+lifepoints=280
+level=10
+attack=5
+defence=9
+ranged=1
+magic=1
+animations={death:13262,attack:13255}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

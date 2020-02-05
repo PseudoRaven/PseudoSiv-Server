@@ -1,0 +1,17 @@
+id=16906
+name=Automaton Tracer
+description=Fires lethal projectiles.
+size=2
+xp=385.2
+lifepoints=7500
+level=84
+attack=1
+defence=60
+ranged=60
+magic=1
+animations={range:19820,death:19811}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

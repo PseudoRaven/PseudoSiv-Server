@@ -1,0 +1,10 @@
+id=6073
+name=Wandering impling
+description=He looks a little lost.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Zanaris"]
+aggressive=false
+members=true

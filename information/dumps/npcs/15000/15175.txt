@@ -1,0 +1,17 @@
+id=15175
+name=NoRemorse77
+description=Looks like she may have lost something.
+size=1
+xp=491.8
+lifepoints=6500
+level=91
+attack=65
+defence=65
+ranged=65
+magic=65
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

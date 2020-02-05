@@ -1,0 +1,10 @@
+id=5468
+name=Iceberg
+description=A floating chunk of ice.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

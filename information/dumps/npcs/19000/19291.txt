@@ -1,0 +1,10 @@
+id=19291
+name=Monkey
+description=Always on the look out for a party, or a banana.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

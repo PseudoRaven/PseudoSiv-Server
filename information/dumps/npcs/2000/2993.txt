@@ -1,0 +1,10 @@
+id=2993
+name=Oxi
+description=The rat keeper.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Rat pit"]
+aggressive=false
+members=true

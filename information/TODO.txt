@@ -1,0 +1,8 @@
+TODO new features:
+new prayers
+Add aquarium house objects (underwater coords: 1545, 6671, 0)
+
+TODO priority bug fixes:
+Smithing: making bolts, dart tips, arrow heads, nails, throwing knife/axes
+you can only make 1-2 at the time
+adamant and rune darts will make 1 DART each bar, lower tiers do 10(edited)

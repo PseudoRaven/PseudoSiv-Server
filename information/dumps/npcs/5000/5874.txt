@@ -1,0 +1,11 @@
+id=5874
+name=Cave goblin
+description=A goblin with big, bulging eyes.
+xp=37.3
+animations={}
+attackable=true
+poisonous=false
+slayercat=Goblins
+areas=["Dorgesh-Kaan Station"]
+aggressive=false
+members=true

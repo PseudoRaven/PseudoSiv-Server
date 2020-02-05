@@ -1,0 +1,17 @@
+id=18936
+name=Mole
+description=Not giant, but certainly larger than you'd like.
+size=1
+xp=1
+lifepoints=100
+level=58
+attack=55
+defence=30
+ranged=1
+magic=1
+animations={death:22626,attack:22627}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

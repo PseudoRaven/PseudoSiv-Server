@@ -1,0 +1,17 @@
+id=3772
+name=Brawler
+description=Mind your toes!
+size=2
+xp=136.3
+lifepoints=3800
+level=53
+attack=38
+defence=38
+ranged=1
+magic=1
+animations={death:3894,attack:3897}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=true

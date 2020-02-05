@@ -1,0 +1,17 @@
+id=272
+name=Lucien
+description=He walks with a slight limp.
+size=1
+xp=30.9
+lifepoints=500
+level=14
+attack=10
+defence=10
+ranged=10
+magic=10
+animations={death:836,attack:2078}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

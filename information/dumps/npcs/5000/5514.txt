@@ -1,0 +1,11 @@
+id=5514
+name=Honour guard
+description=The Burgher's protectors.
+xp=159.3
+animations={}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=2191
+name=Sune
+description=He seems to always be busy.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

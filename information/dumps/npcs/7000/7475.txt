@@ -1,0 +1,17 @@
+id=7475
+name=Tumeken's shadow
+description=His usual sunny disposition is not in evidence.
+size=1
+xp=64.5
+lifepoints=1500
+level=42
+attack=30
+defence=30
+ranged=30
+magic=30
+animations={death:11629,attack:11628}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

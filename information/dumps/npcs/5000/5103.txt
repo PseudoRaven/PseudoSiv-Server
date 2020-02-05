@@ -1,0 +1,10 @@
+id=5103
+name=Sabre-toothed kyatt
+description=It's just like a big, white, furry, deadly can opener.
+xp=1.6
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

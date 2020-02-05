@@ -1,0 +1,10 @@
+id=821
+name=Sinclair Guard dog
+description=Big, noisy, and scary looking!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=7350
+name=Abyssal titan
+description=Big, mean, ugly, and from a different dimension.
+size=2
+xp=982.3
+lifepoints=10300
+level=110
+attack=84
+defence=75
+ranged=84
+magic=84
+animations={death:7692,attack:7693}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

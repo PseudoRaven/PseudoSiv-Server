@@ -1,0 +1,17 @@
+id=877
+name=Tower guard
+description=Tries to keep the peace.
+size=1
+xp=95.2
+lifepoints=3400
+level=23
+attack=17
+defence=17
+ranged=0
+magic=0
+animations={death:836,attack:386}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["Yanille","RuneScape Surface"]
+aggressive=false

@@ -1,0 +1,17 @@
+id=6258
+name=Knight of Saradomin
+description=A valiant knight.
+size=1
+xp=491.8
+lifepoints=6500
+level=91
+attack=65
+defence=65
+ranged=1
+magic=1
+animations={death:836,attack:19970}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["God Wars Dungeon"]
+aggressive=true

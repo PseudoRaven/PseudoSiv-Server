@@ -1,0 +1,10 @@
+id=8904
+name=Overseer
+description=It's Jill, the Lumber Yard overseer.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

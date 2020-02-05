@@ -1,0 +1,17 @@
+id=15
+name=Warrior woman
+description=A woman, who is a warrior.
+size=1
+xp=66.9
+lifepoints=1550
+level=43
+attack=31
+defence=31
+ranged=1
+magic=1
+animations={death:836,attack:386}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["RuneScape Surface"]
+aggressive=false

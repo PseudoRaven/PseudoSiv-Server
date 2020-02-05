@@ -1,0 +1,10 @@
+id=8174
+name=Clive
+description=Rather dense and soppy-looking.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=16880
+name=Sandwich lady
+description=Sometimes dinner ladies turn nasty...
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

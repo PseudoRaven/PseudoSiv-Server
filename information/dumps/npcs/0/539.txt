@@ -1,0 +1,10 @@
+id=539
+name=Silk trader
+description=Very snappily dressed.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

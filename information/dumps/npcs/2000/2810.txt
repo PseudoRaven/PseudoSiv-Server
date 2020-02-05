@@ -1,0 +1,10 @@
+id=2810
+name=Elly the Camel
+description=A camel whose love is unrequited.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

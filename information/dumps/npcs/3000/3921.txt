@@ -1,0 +1,10 @@
+id=3921
+name=Halla
+description=She owns the clothes shop.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Miscellania Underground"]
+aggressive=false
+members=false

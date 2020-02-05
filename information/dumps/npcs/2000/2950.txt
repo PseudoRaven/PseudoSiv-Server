@@ -1,0 +1,10 @@
+id=2950
+name=The Face
+description=Once beautiful, now repugnant.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

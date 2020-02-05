@@ -1,0 +1,10 @@
+id=1079
+name=Tostig
+description=Barman of the Pick and Lute.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

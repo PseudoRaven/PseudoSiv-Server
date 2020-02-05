@@ -1,0 +1,17 @@
+id=11999
+name=Skeletal sorcerer
+description=A former adventurer, slain and resurrected by a necrolord.
+size=1
+xp=655.8
+lifepoints=10000
+level=91
+attack=65
+defence=65
+ranged=65
+magic=65
+animations={range:14209,death:836}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

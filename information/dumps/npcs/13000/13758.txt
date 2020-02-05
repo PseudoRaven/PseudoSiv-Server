@@ -1,0 +1,10 @@
+id=13758
+name=<col=ffffff>Elfinlocks<\/col>
+description=A player.
+xp=236.5
+animations={}
+attackable=true
+poisonous=false
+areas=["Daemonheim"]
+aggressive=false
+members=true

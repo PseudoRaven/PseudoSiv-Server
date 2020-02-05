@@ -1,0 +1,10 @@
+id=957
+name=Mubariz
+description=Tough-looking combat type.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

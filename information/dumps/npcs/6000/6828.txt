@@ -1,0 +1,17 @@
+id=6828
+name=Stranger plant
+description=It's mean and green!
+size=1
+xp=569.7
+lifepoints=9000
+level=94
+attack=72
+defence=64
+ranged=72
+magic=72
+animations={death:8209,attack:8208}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

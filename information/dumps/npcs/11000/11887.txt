@@ -1,0 +1,17 @@
+id=11887
+name=Mysterious mage
+description=A mage concentrating on holding the demon in place.
+size=1
+xp=25.8
+lifepoints=250
+level=7
+attack=5
+defence=5
+ranged=5
+magic=5
+animations={range:711,death:836}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

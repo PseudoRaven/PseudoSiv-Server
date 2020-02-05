@@ -1,0 +1,17 @@
+id=10024
+name=To'Kash the Bloodchiller
+description=A magical and powerful demon.
+size=5
+xp=136.9
+lifepoints=500
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={range:16990,death:16988,attack:19567}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

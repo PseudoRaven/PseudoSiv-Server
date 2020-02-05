@@ -1,0 +1,14 @@
+diff a/src/net/elveron/game/player/CombatDefinitions.java b/src/net/elveron/game/player/CombatDefinitions.java	(rejected hunks)
+@@ -16,9 +16,12 @@
+ import net.nocturne.game.player.controllers.DTControler;
+ import net.nocturne.utils.Utils;
+ 
++<<<<<<< HEAD
+ import java.io.Serializable;
+ 
+ @SuppressWarnings("RedundantCast")
++=======
++>>>>>>> parent of 4c3089f... massive code cleanup
+ public final class CombatDefinitions implements Serializable {
+ 
+ 	private static final long serialVersionUID = 2102201264836121104L;

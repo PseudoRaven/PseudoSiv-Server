@@ -1,0 +1,17 @@
+id=222
+name=Monk
+description=A holy man.
+size=1
+xp=30.9
+lifepoints=500
+level=14
+attack=7
+defence=10
+ranged=0
+magic=10
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Thrown"
+areas=["RuneScape Surface"]
+aggressive=false

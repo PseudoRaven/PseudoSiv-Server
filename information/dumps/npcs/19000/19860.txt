@@ -1,0 +1,10 @@
+id=19860
+name=Ithell herald
+description=A herald for Clan Ithell.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Prifddinas"]
+aggressive=false
+members=false

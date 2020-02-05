@@ -1,0 +1,10 @@
+id=11245
+name=Poltergeist
+description=Pretty active for a dead guy.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dungeoneering"]
+aggressive=false
+members=false

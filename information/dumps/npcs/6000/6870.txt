@@ -1,0 +1,17 @@
+id=6870
+name=Wolpertinger
+description=It's just a harmless wee rabbit.
+size=1
+xp=934.2
+lifepoints=10200
+level=109
+attack=83
+defence=74
+ranged=83
+magic=83
+animations={death:8305,attack:8303}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

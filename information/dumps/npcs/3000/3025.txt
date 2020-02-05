@@ -1,0 +1,10 @@
+id=3025
+name=Hallak
+description=An elemental waterspirit.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["River Elid cave"]
+aggressive=false
+members=false

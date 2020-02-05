@@ -1,0 +1,10 @@
+id=4521
+name=Enchanted Broom
+description=How does it see where to sweep?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

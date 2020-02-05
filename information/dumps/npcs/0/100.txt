@@ -1,0 +1,10 @@
+id=100
+name=Freaky Forester
+description=He's at home in the forests.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Forest"]
+aggressive=false
+members=false

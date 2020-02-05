@@ -1,0 +1,10 @@
+id=594
+name=Nurmof
+description=He runs a pickaxe store.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dwarven mines"]
+aggressive=false
+members=false

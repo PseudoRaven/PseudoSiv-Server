@@ -1,0 +1,10 @@
+id=2943
+name=Pox
+description=Not the healthiest cat you've ever seen.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

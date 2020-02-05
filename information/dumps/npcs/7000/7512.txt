@@ -1,0 +1,10 @@
+id=7512
+name=Khazard Guard
+description=Probably discussing the strengths and weaknesses of the fighting slaves.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

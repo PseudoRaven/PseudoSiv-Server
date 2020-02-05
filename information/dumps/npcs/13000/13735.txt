@@ -1,0 +1,11 @@
+id=13735
+name=Kennith
+description=He looks taller now.
+xp=129
+animations={}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=["Daemonheim","Slug Citadel"]
+aggressive=false
+members=true

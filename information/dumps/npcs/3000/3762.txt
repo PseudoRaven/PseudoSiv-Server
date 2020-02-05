@@ -1,0 +1,17 @@
+id=3762
+name=Defiler
+description=Duck!
+size=1
+xp=119.7
+lifepoints=3500
+level=49
+attack=1
+defence=35
+ranged=35
+magic=1
+animations={death:3922,attack:3920}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=[]
+aggressive=true

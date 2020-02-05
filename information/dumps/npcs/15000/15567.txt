@@ -1,0 +1,10 @@
+id=15567
+name=Fisherman
+description=He seems very keen to talk to any nearby fishers.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface","Living Rock Caverns"]
+aggressive=false
+members=false

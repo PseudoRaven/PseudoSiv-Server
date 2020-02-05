@@ -1,0 +1,17 @@
+id=20724
+name=General Khazard apparition
+description=A ghostly shadow clone of General Khazard.
+size=1
+xp=5289
+lifepoints=250000
+level=0
+attack=60
+defence=1
+ranged=60
+magic=60
+animations={attack:12023}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

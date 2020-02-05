@@ -1,0 +1,17 @@
+id=6854
+name=Bronze minotaur
+description=He's just a big bully.
+size=2
+xp=100.3
+lifepoints=4600
+level=43
+attack=33
+defence=29
+ranged=33
+magic=33
+animations={death:8025,attack:8024}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

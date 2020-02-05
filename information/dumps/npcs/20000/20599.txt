@@ -1,0 +1,10 @@
+id=20599
+name=Evil Niya
+description=Niya's evil twin, dressed in misery.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=5796
+name=Gundik
+description=Sells cave goblin fast food.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dorgesh-Kaan"]
+aggressive=true
+members=true

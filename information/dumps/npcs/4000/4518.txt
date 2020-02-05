@@ -1,0 +1,10 @@
+id=4518
+name=Rimae Sirsalis
+description=Not a single hair on her head. But one or two warts.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

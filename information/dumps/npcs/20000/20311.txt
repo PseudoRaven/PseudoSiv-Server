@@ -1,0 +1,10 @@
+id=20311
+name=Emlyn
+description=Looks after your Farming tools.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Prifddinas"]
+aggressive=false
+members=true

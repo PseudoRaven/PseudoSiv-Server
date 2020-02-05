@@ -1,0 +1,10 @@
+id=3434
+name=Fish
+description=A Harlequin Fish.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Underwater cave"]
+aggressive=false
+members=true

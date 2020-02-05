@@ -1,0 +1,10 @@
+id=212
+name=King Percival
+description=A former Knight of the Round Table.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Fisher Realm"]
+aggressive=false
+members=false

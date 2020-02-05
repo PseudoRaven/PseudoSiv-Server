@@ -1,0 +1,10 @@
+id=1152
+name=Weird Old Man
+description=What's he mumbling about?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Desert","RuneScape Surface"]
+aggressive=false
+members=false

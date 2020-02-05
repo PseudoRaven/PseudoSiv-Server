@@ -1,0 +1,10 @@
+id=825
+name=Male slave
+description=It looks like he's been here a long time.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Mine"]
+aggressive=true
+members=false

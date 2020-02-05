@@ -1,0 +1,10 @@
+id=5042
+name=Penance runner
+description=He's making a run for it!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Barbarian Assault"]
+aggressive=false
+members=true

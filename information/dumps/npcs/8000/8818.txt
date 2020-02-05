@@ -1,0 +1,10 @@
+id=8818
+name=Colonel Grenda
+description=A colonel in the dwarven Black Guard.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Battlefield"]
+aggressive=false
+members=true

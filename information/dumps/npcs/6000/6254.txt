@@ -1,0 +1,17 @@
+id=6254
+name=Saradomin priest
+description=A holy man wearing ancient clothing.
+size=1
+xp=542.2
+lifepoints=6700
+level=93
+attack=1
+defence=67
+ranged=1
+magic=67
+animations={death:836,attack:19968}
+attackable=true
+poisonous=true
+weakness="Arrow"
+areas=["God Wars Dungeon"]
+aggressive=true

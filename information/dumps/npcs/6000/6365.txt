@@ -1,0 +1,17 @@
+id=6365
+name=Zamorak ranger
+description=A ranger of Zamorak.
+size=1
+xp=132
+lifepoints=2300
+level=64
+attack=1
+defence=46
+ranged=46
+magic=1
+animations={range:23943,death:836,attack:23943}
+attackable=true
+poisonous=false
+weakness="Slashing"
+areas=["Ourania Altar","Chaos tunnels"]
+aggressive=true

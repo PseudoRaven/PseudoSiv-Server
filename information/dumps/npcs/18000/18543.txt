@@ -1,0 +1,17 @@
+id=18543
+name=Karil the Tainted
+description=A vengeful spirit corrupted by dark magic.
+size=1
+xp=6800.4
+lifepoints=50000
+level=650
+attack=1
+defence=90
+ranged=90
+magic=1
+animations={range:18232,death:836}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

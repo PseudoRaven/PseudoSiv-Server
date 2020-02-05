@@ -1,0 +1,10 @@
+id=7740
+name=Jiggling crate
+description=Is it full of rats?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

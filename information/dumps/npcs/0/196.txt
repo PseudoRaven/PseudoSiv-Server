@@ -1,0 +1,17 @@
+id=196
+name=Guard Bandit
+description=Bandit Camp guard.
+size=1
+xp=42.6
+lifepoints=1000
+level=28
+attack=1
+defence=20
+ranged=20
+magic=1
+animations={death:836,attack:386}
+attackable=true
+poisonous=false
+weakness="Slashing"
+areas=["RuneScape Surface"]
+aggressive=false

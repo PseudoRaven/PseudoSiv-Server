@@ -1,0 +1,17 @@
+id=3257
+name=Barbarian
+description=Adelino, a barbarian warrior with a big axe.
+size=1
+xp=46.5
+lifepoints=1100
+level=30
+attack=22
+defence=22
+ranged=1
+magic=1
+animations={death:836,attack:2067}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=["RuneScape Surface"]
+aggressive=false

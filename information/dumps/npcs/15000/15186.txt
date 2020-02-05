@@ -1,0 +1,17 @@
+id=15186
+name=TokHaar-Ket
+description=Its crushing fists are composed of solid obsidian, compressed over thousands of years.
+size=2
+xp=486
+lifepoints=5475
+level=180
+attack=73
+defence=73
+ranged=0
+magic=0
+animations={death:16092,attack:16090}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=true

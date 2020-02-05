@@ -1,0 +1,10 @@
+id=1437
+name=Hamab
+description=A female monkey skilled in crafting.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

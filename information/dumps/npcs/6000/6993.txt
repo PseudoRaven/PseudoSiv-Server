@@ -1,0 +1,17 @@
+id=6993
+name=Spirit jelly
+description=On RuneScape, acid gets indigestion from YOU!
+size=1
+xp=207.4
+lifepoints=6500
+level=65
+attack=50
+defence=44
+ranged=50
+magic=50
+animations={death:24983,attack:24982}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

@@ -1,0 +1,17 @@
+id=6379
+name=Giant ant worker
+description=I wonder how much he can lift.
+size=1
+xp=79.8
+lifepoints=1750
+level=49
+attack=35
+defence=35
+ranged=0
+magic=0
+animations={death:7238,attack:7237}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface","Chaos tunnels"]
+aggressive=false

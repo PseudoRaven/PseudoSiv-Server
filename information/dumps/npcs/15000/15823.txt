@@ -1,0 +1,15 @@
+id=15823
+name=Bandit king
+description=Leader of a group of desert bandits.
+size=1
+lifepoints=200
+level=3
+attack=0
+defence=0
+ranged=0
+magic=0
+animations={death:836,attack:15071}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

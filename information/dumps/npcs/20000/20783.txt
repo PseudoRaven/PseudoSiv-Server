@@ -1,0 +1,10 @@
+id=20783
+name=Max
+description=He's mastered the Bankstanding skill.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["New Varrock"]
+aggressive=false
+members=false

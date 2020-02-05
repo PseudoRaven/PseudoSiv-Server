@@ -1,0 +1,17 @@
+id=8133
+name=Corporeal Beast
+description=A vision of supernatural horror.
+size=5
+xp=7245.4
+lifepoints=100000
+level=785
+attack=75
+defence=75
+ranged=75
+magic=75
+animations={death:10385}
+attackable=true
+poisonous=false
+weakness="None"
+areas=["Spirit Realm"]
+aggressive=true

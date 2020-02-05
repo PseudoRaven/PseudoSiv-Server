@@ -1,0 +1,10 @@
+id=2827
+name=Captain Braindeath
+description=A shabby-looking leader.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Braindeath Island"]
+aggressive=false
+members=true

@@ -1,0 +1,10 @@
+id=3022
+name=Genie
+description=Phenomenal cosmic powers, itty-bitty living space.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Genie's Cave"]
+aggressive=false
+members=false

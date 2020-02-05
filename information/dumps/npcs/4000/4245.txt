@@ -1,0 +1,10 @@
+id=4245
+name=Chief servant
+description=Head of the servants' guild.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

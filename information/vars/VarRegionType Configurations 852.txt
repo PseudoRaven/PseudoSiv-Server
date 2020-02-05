@@ -1,0 +1,1820 @@
+
+case 0:
+	varRegionType.dataType = INT;
+	break;
+
+case 1:
+	varRegionType.dataType = INT;
+	break;
+
+case 2:
+	varRegionType.dataType = INT;
+	break;
+
+case 3:
+	varRegionType.dataType = INT;
+	break;
+
+case 4:
+	varRegionType.dataType = INT;
+	break;
+
+case 5:
+	varRegionType.dataType = INT;
+	break;
+
+case 6:
+	varRegionType.dataType = INT;
+	break;
+
+case 7:
+	varRegionType.dataType = INT;
+	break;
+
+case 8:
+	varRegionType.dataType = INT;
+	break;
+
+case 9:
+	varRegionType.dataType = INT;
+	break;
+
+case 10:
+	varRegionType.dataType = INT;
+	break;
+
+case 11:
+	varRegionType.dataType = INT;
+	break;
+
+case 12:
+	varRegionType.dataType = INT;
+	break;
+
+case 13:
+	varRegionType.dataType = INT;
+	break;
+
+case 14:
+	varRegionType.dataType = INT;
+	break;
+
+case 15:
+	varRegionType.dataType = INT;
+	break;
+
+case 16:
+	varRegionType.dataType = INT;
+	break;
+
+case 17:
+	varRegionType.dataType = INT;
+	break;
+
+case 18:
+	varRegionType.dataType = INT;
+	break;
+
+case 19:
+	varRegionType.dataType = INT;
+	break;
+
+case 20:
+	varRegionType.dataType = INT;
+	break;
+
+case 21:
+	varRegionType.dataType = INT;
+	break;
+
+case 22:
+	varRegionType.dataType = INT;
+	break;
+
+case 23:
+	varRegionType.dataType = INT;
+	break;
+
+case 24:
+	varRegionType.dataType = INT;
+	break;
+
+case 25:
+	varRegionType.dataType = INT;
+	break;
+
+case 26:
+	varRegionType.dataType = INT;
+	break;
+
+case 27:
+	varRegionType.dataType = INT;
+	break;
+
+case 28:
+	varRegionType.dataType = INT;
+	break;
+
+case 29:
+	varRegionType.dataType = INT;
+	break;
+
+case 30:
+	varRegionType.dataType = INT;
+	break;
+
+case 31:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 32:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 33:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 34:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 35:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 36:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 37:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 38:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 39:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 40:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 41:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 42:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 43:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 44:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 45:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 46:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 47:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 48:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 49:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 50:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 51:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 52:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 53:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 54:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 55:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 56:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 57:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 58:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 59:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 60:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 61:
+	varRegionType.dataType = INT;
+	break;
+
+case 62:
+	varRegionType.dataType = INT;
+	break;
+
+case 63:
+	varRegionType.dataType = INT;
+	break;
+
+case 64:
+	varRegionType.dataType = INT;
+	break;
+
+case 65:
+	varRegionType.dataType = INT;
+	break;
+
+case 66:
+	varRegionType.dataType = INT;
+	break;
+
+case 67:
+	varRegionType.dataType = BOOLEAN;
+	break;
+
+case 68:
+	varRegionType.dataType = INT;
+	break;
+
+case 69:
+	varRegionType.dataType = TYPE_38;
+	break;
+
+case 70:
+	varRegionType.dataType = STRUCT;
+	break;
+
+case 71:
+	varRegionType.dataType = INT;
+	break;
+
+case 72:
+	varRegionType.dataType = TILE;
+	break;
+
+case 73:
+	varRegionType.dataType = INT;
+	break;
+
+case 74:
+	varRegionType.dataType = INT;
+	break;
+
+case 75:
+	varRegionType.dataType = INT;
+	break;
+
+case 76:
+	varRegionType.dataType = INT;
+	break;
+
+case 77:
+	varRegionType.dataType = USERHASH;
+	break;
+
+case 78:
+	varRegionType.dataType = USERHASH;
+	break;
+
+case 79:
+	varRegionType.dataType = USERHASH;
+	break;
+
+case 80:
+	varRegionType.dataType = USERHASH;
+	break;
+
+case 81:
+	varRegionType.dataType = USERHASH;
+	break;
+
+case 82:
+	varRegionType.dataType = USERHASH;
+	break;
+
+case 83:
+	varRegionType.dataType = USERHASH;
+	break;
+
+case 84:
+	varRegionType.dataType = USERHASH;
+	break;
+
+case 85:
+	varRegionType.dataType = USERHASH;
+	break;
+
+case 86:
+	varRegionType.dataType = USERHASH;
+	break;
+
+case 87:
+	varRegionType.dataType = USERHASH;
+	break;
+
+case 88:
+	varRegionType.dataType = USERHASH;
+	break;
+
+case 89:
+	varRegionType.dataType = USERHASH;
+	break;
+
+case 90:
+	varRegionType.dataType = USERHASH;
+	break;
+
+case 91:
+	varRegionType.dataType = USERHASH;
+	break;
+
+case 92:
+	varRegionType.dataType = USERHASH;
+	break;
+
+case 93:
+	varRegionType.dataType = USERHASH;
+	break;
+
+case 94:
+	varRegionType.dataType = USERHASH;
+	break;
+
+case 95:
+	varRegionType.dataType = USERHASH;
+	break;
+
+case 96:
+	varRegionType.dataType = USERHASH;
+	break;
+
+case 97:
+	varRegionType.dataType = INT;
+	break;
+
+case 98:
+	varRegionType.dataType = INT;
+	break;
+
+case 99:
+	varRegionType.dataType = INT;
+	break;
+
+case 100:
+	varRegionType.dataType = INT;
+	break;
+
+case 101:
+	varRegionType.dataType = INT;
+	break;
+
+case 102:
+	varRegionType.dataType = INT;
+	break;
+
+case 103:
+	varRegionType.dataType = INT;
+	break;
+
+case 104:
+	varRegionType.dataType = INT;
+	break;
+
+case 105:
+	varRegionType.dataType = INT;
+	break;
+
+case 106:
+	varRegionType.dataType = INT;
+	break;
+
+case 107:
+	varRegionType.dataType = INT;
+	break;
+
+case 108:
+	varRegionType.dataType = INT;
+	break;
+
+case 109:
+	varRegionType.dataType = INT;
+	break;
+
+case 110:
+	varRegionType.dataType = INT;
+	break;
+
+case 111:
+	varRegionType.dataType = INT;
+	break;
+
+case 112:
+	varRegionType.dataType = INT;
+	break;
+
+case 113:
+	varRegionType.dataType = INT;
+	break;
+
+case 114:
+	varRegionType.dataType = INT;
+	break;
+
+case 115:
+	varRegionType.dataType = INT;
+	break;
+
+case 116:
+	varRegionType.dataType = INT;
+	break;
+
+case 117:
+	varRegionType.dataType = INT;
+	break;
+
+case 118:
+	varRegionType.dataType = INT;
+	break;
+
+case 119:
+	varRegionType.dataType = INT;
+	break;
+
+case 120:
+	varRegionType.dataType = INT;
+	break;
+
+case 121:
+	varRegionType.dataType = INT;
+	break;
+
+case 122:
+	varRegionType.dataType = INT;
+	break;
+
+case 123:
+	varRegionType.dataType = INT;
+	break;
+
+case 124:
+	varRegionType.dataType = INT;
+	break;
+
+case 125:
+	varRegionType.dataType = INT;
+	break;
+
+case 126:
+	varRegionType.dataType = INT;
+	break;
+
+case 127:
+	varRegionType.dataType = INT;
+	break;
+
+case 128:
+	varRegionType.dataType = STRUCT;
+	break;
+
+case 129:
+	varRegionType.dataType = INT;
+	break;
+
+case 130:
+	varRegionType.dataType = INT;
+	break;
+
+case 131:
+	varRegionType.dataType = INT;
+	break;
+
+case 132:
+	varRegionType.dataType = INT;
+	break;
+
+case 133:
+	varRegionType.dataType = INT;
+	break;
+
+case 134:
+	varRegionType.dataType = INT;
+	break;
+
+case 135:
+	varRegionType.dataType = INT;
+	break;
+
+case 136:
+	varRegionType.dataType = INT;
+	break;
+
+case 137:
+	varRegionType.dataType = BOOLEAN;
+	break;
+
+case 138:
+	varRegionType.dataType = TILE;
+	break;
+
+case 139:
+	varRegionType.dataType = INT;
+	break;
+
+case 140:
+	varRegionType.dataType = INT;
+	break;
+
+case 141:
+	varRegionType.dataType = INT;
+	break;
+
+case 142:
+	varRegionType.dataType = INT;
+	break;
+
+case 143:
+	varRegionType.dataType = INT;
+	break;
+
+case 144:
+	varRegionType.dataType = INT;
+	break;
+
+case 145:
+	varRegionType.dataType = INT;
+	break;
+
+case 146:
+	varRegionType.dataType = INT;
+	break;
+
+case 147:
+	varRegionType.dataType = INT;
+	break;
+
+case 148:
+	varRegionType.dataType = INT;
+	break;
+
+case 149:
+	varRegionType.dataType = INT;
+	break;
+
+case 150:
+	varRegionType.dataType = INT;
+	break;
+
+case 151:
+	varRegionType.dataType = INT;
+	break;
+
+case 152:
+	varRegionType.dataType = INT;
+	break;
+
+case 153:
+	varRegionType.dataType = INT;
+	break;
+
+case 154:
+	varRegionType.dataType = INT;
+	break;
+
+case 155:
+	varRegionType.dataType = INT;
+	break;
+
+case 156:
+	varRegionType.dataType = TYPE_49;
+	break;
+
+case 157:
+	varRegionType.dataType = TYPE_49;
+	break;
+
+case 158:
+	varRegionType.dataType = USERHASH;
+	break;
+
+case 159:
+	varRegionType.dataType = USERHASH;
+	break;
+
+case 160:
+	varRegionType.dataType = DESCRIPTION;
+	break;
+
+case 161:
+	varRegionType.dataType = BOOLEAN;
+	break;
+
+case 162:
+	varRegionType.dataType = INT;
+	break;
+
+case 163:
+	varRegionType.dataType = INT;
+	break;
+
+case 164:
+	varRegionType.dataType = TILE;
+	break;
+
+case 165:
+	varRegionType.dataType = INT;
+	break;
+
+case 166:
+	varRegionType.dataType = INT;
+	break;
+
+case 167:
+	varRegionType.dataType = INT;
+	break;
+
+case 168:
+	varRegionType.dataType = INT;
+	break;
+
+case 169:
+	varRegionType.dataType = TILE;
+	break;
+
+case 170:
+	varRegionType.dataType = TILE;
+	break;
+
+case 171:
+	varRegionType.dataType = TILE;
+	break;
+
+case 172:
+	varRegionType.dataType = INT;
+	break;
+
+case 173:
+	varRegionType.dataType = INT;
+	break;
+
+case 174:
+	varRegionType.dataType = INT;
+	break;
+
+case 175:
+	varRegionType.dataType = INT;
+	break;
+
+case 176:
+	varRegionType.dataType = INT;
+	break;
+
+case 177:
+	varRegionType.dataType = INT;
+	break;
+
+case 178:
+	varRegionType.dataType = INT;
+	break;
+
+case 179:
+	varRegionType.dataType = INT;
+	break;
+
+case 180:
+	varRegionType.dataType = INT;
+	break;
+
+case 181:
+	varRegionType.dataType = INT;
+	break;
+
+case 182:
+	varRegionType.dataType = INT;
+	break;
+
+case 183:
+	varRegionType.dataType = INT;
+	break;
+
+case 184:
+	varRegionType.dataType = INT;
+	break;
+
+case 185:
+	varRegionType.dataType = INT;
+	break;
+
+case 186:
+	varRegionType.dataType = INT;
+	break;
+
+case 187:
+	varRegionType.dataType = INT;
+	break;
+
+case 188:
+	varRegionType.dataType = INT;
+	break;
+
+case 189:
+	varRegionType.dataType = INT;
+	break;
+
+case 190:
+	varRegionType.dataType = INT;
+	break;
+
+case 191:
+	varRegionType.dataType = INT;
+	break;
+
+case 192:
+	varRegionType.dataType = INT;
+	break;
+
+case 193:
+	varRegionType.dataType = INT;
+	break;
+
+case 194:
+	varRegionType.dataType = INT;
+	break;
+
+case 195:
+	varRegionType.dataType = INT;
+	break;
+
+case 196:
+	varRegionType.dataType = INT;
+	break;
+
+case 197:
+	varRegionType.dataType = INT;
+	break;
+
+case 198:
+	varRegionType.dataType = INT;
+	break;
+
+case 199:
+	varRegionType.dataType = INT;
+	break;
+
+case 200:
+	varRegionType.dataType = INT;
+	break;
+
+case 201:
+	varRegionType.dataType = INT;
+	break;
+
+case 202:
+	varRegionType.dataType = INT;
+	break;
+
+case 203:
+	varRegionType.dataType = INT;
+	break;
+
+case 204:
+	varRegionType.dataType = INT;
+	break;
+
+case 205:
+	varRegionType.dataType = INT;
+	break;
+
+case 206:
+	varRegionType.dataType = INT;
+	break;
+
+case 207:
+	varRegionType.dataType = INT;
+	break;
+
+case 208:
+	varRegionType.dataType = INT;
+	break;
+
+case 209:
+	varRegionType.dataType = INT;
+	break;
+
+case 210:
+	varRegionType.dataType = INT;
+	break;
+
+case 211:
+	varRegionType.dataType = INT;
+	break;
+
+case 212:
+	varRegionType.dataType = INT;
+	break;
+
+case 213:
+	varRegionType.dataType = INT;
+	break;
+
+case 214:
+	varRegionType.dataType = INT;
+	break;
+
+case 215:
+	varRegionType.dataType = INT;
+	break;
+
+case 216:
+	varRegionType.dataType = INT;
+	break;
+
+case 217:
+	varRegionType.dataType = INT;
+	break;
+
+case 218:
+	varRegionType.dataType = INT;
+	break;
+
+case 219:
+	varRegionType.dataType = INT;
+	break;
+
+case 220:
+	varRegionType.dataType = INT;
+	break;
+
+case 221:
+	varRegionType.dataType = INT;
+	break;
+
+case 222:
+	varRegionType.dataType = INT;
+	break;
+
+case 223:
+	varRegionType.dataType = INT;
+	break;
+
+case 224:
+	varRegionType.dataType = INT;
+	break;
+
+case 225:
+	varRegionType.dataType = INT;
+	break;
+
+case 226:
+	varRegionType.dataType = INT;
+	break;
+
+case 227:
+	varRegionType.dataType = INT;
+	break;
+
+case 228:
+	varRegionType.dataType = INT;
+	break;
+
+case 229:
+	varRegionType.dataType = INT;
+	break;
+
+case 230:
+	varRegionType.dataType = INT;
+	break;
+
+case 231:
+	varRegionType.dataType = INT;
+	break;
+
+case 232:
+	varRegionType.dataType = INT;
+	break;
+
+case 233:
+	varRegionType.dataType = INT;
+	break;
+
+case 234:
+	varRegionType.dataType = INT;
+	break;
+
+case 235:
+	varRegionType.dataType = INT;
+	break;
+
+case 236:
+	varRegionType.dataType = INT;
+	break;
+
+case 237:
+	varRegionType.dataType = INT;
+	break;
+
+case 238:
+	varRegionType.dataType = INT;
+	break;
+
+case 239:
+	varRegionType.dataType = INT;
+	break;
+
+case 240:
+	varRegionType.dataType = INT;
+	break;
+
+case 241:
+	varRegionType.dataType = INT;
+	break;
+
+case 242:
+	varRegionType.dataType = INT;
+	break;
+
+case 243:
+	varRegionType.dataType = INT;
+	break;
+
+case 244:
+	varRegionType.dataType = INT;
+	break;
+
+case 245:
+	varRegionType.dataType = INT;
+	break;
+
+case 246:
+	varRegionType.dataType = INT;
+	break;
+
+case 247:
+	varRegionType.dataType = INT;
+	break;
+
+case 248:
+	varRegionType.dataType = INT;
+	break;
+
+case 249:
+	varRegionType.dataType = INT;
+	break;
+
+case 250:
+	varRegionType.dataType = INT;
+	break;
+
+case 251:
+	varRegionType.dataType = INT;
+	break;
+
+case 252:
+	varRegionType.dataType = INT;
+	break;
+
+case 253:
+	varRegionType.dataType = INT;
+	break;
+
+case 254:
+	varRegionType.dataType = INT;
+	break;
+
+case 255:
+	varRegionType.dataType = INT;
+	break;
+
+case 256:
+	varRegionType.dataType = INT;
+	break;
+
+case 257:
+	varRegionType.dataType = INT;
+	break;
+
+case 258:
+	varRegionType.dataType = INT;
+	break;
+
+case 259:
+	varRegionType.dataType = INT;
+	break;
+
+case 260:
+	varRegionType.dataType = INT;
+	break;
+
+case 261:
+	varRegionType.dataType = INT;
+	break;
+
+case 262:
+	varRegionType.dataType = INT;
+	break;
+
+case 263:
+	varRegionType.dataType = INT;
+	break;
+
+case 264:
+	varRegionType.dataType = INT;
+	break;
+
+case 265:
+	varRegionType.dataType = INT;
+	break;
+
+case 266:
+	varRegionType.dataType = INT;
+	break;
+
+case 267:
+	varRegionType.dataType = INT;
+	break;
+
+case 268:
+	varRegionType.dataType = INT;
+	break;
+
+case 269:
+	varRegionType.dataType = INT;
+	break;
+
+case 270:
+	varRegionType.dataType = INT;
+	break;
+
+case 271:
+	varRegionType.dataType = INT;
+	break;
+
+case 272:
+	varRegionType.dataType = INT;
+	break;
+
+case 273:
+	varRegionType.dataType = INT;
+	break;
+
+case 274:
+	varRegionType.dataType = INT;
+	break;
+
+case 275:
+	varRegionType.dataType = INT;
+	break;
+
+case 276:
+	varRegionType.dataType = INT;
+	break;
+
+case 277:
+	varRegionType.dataType = INT;
+	break;
+
+case 278:
+	varRegionType.dataType = INT;
+	break;
+
+case 279:
+	varRegionType.dataType = INT;
+	break;
+
+case 280:
+	varRegionType.dataType = INT;
+	break;
+
+case 281:
+	varRegionType.dataType = INT;
+	break;
+
+case 282:
+	varRegionType.dataType = INT;
+	break;
+
+case 283:
+	varRegionType.dataType = INT;
+	break;
+
+case 284:
+	varRegionType.dataType = INT;
+	break;
+
+case 285:
+	varRegionType.dataType = INT;
+	break;
+
+case 286:
+	varRegionType.dataType = INT;
+	break;
+
+case 287:
+	varRegionType.dataType = INT;
+	break;
+
+case 288:
+	varRegionType.dataType = INT;
+	break;
+
+case 289:
+	varRegionType.dataType = INT;
+	break;
+
+case 290:
+	varRegionType.dataType = INT;
+	break;
+
+case 291:
+	varRegionType.dataType = INT;
+	break;
+
+case 292:
+	varRegionType.dataType = INT;
+	break;
+
+case 293:
+	varRegionType.dataType = INT;
+	break;
+
+case 294:
+	varRegionType.dataType = INT;
+	break;
+
+case 295:
+	varRegionType.dataType = INT;
+	break;
+
+case 296:
+	varRegionType.dataType = INT;
+	break;
+
+case 297:
+	varRegionType.dataType = INT;
+	break;
+
+case 298:
+	varRegionType.dataType = INT;
+	break;
+
+case 299:
+	varRegionType.dataType = INT;
+	break;
+
+case 300:
+	varRegionType.dataType = INT;
+	break;
+
+case 301:
+	varRegionType.dataType = INT;
+	break;
+
+case 302:
+	varRegionType.dataType = INT;
+	break;
+
+case 303:
+	varRegionType.dataType = INT;
+	break;
+
+case 304:
+	varRegionType.dataType = INT;
+	break;
+
+case 305:
+	varRegionType.dataType = INT;
+	break;
+
+case 306:
+	varRegionType.dataType = INT;
+	break;
+
+case 307:
+	varRegionType.dataType = INT;
+	break;
+
+case 308:
+	varRegionType.dataType = INT;
+	break;
+
+case 309:
+	varRegionType.dataType = INT;
+	break;
+
+case 310:
+	varRegionType.dataType = INT;
+	break;
+
+case 311:
+	varRegionType.dataType = INT;
+	break;
+
+case 312:
+	varRegionType.dataType = INT;
+	break;
+
+case 313:
+	varRegionType.dataType = INT;
+	break;
+
+case 314:
+	varRegionType.dataType = INT;
+	break;
+
+case 315:
+	varRegionType.dataType = INT;
+	break;
+
+case 316:
+	varRegionType.dataType = INT;
+	break;
+
+case 317:
+	varRegionType.dataType = INT;
+	break;
+
+case 318:
+	varRegionType.dataType = INT;
+	break;
+
+case 319:
+	varRegionType.dataType = INT;
+	break;
+
+case 320:
+	varRegionType.dataType = INT;
+	break;
+
+case 321:
+	varRegionType.dataType = INT;
+	break;
+
+case 322:
+	varRegionType.dataType = INT;
+	break;
+
+case 323:
+	varRegionType.dataType = INT;
+	break;
+
+case 324:
+	varRegionType.dataType = INT;
+	break;
+
+case 325:
+	varRegionType.dataType = INT;
+	break;
+
+case 326:
+	varRegionType.dataType = INT;
+	break;
+
+case 327:
+	varRegionType.dataType = INT;
+	break;
+
+case 328:
+	varRegionType.dataType = INT;
+	break;
+
+case 329:
+	varRegionType.dataType = INT;
+	break;
+
+case 330:
+	varRegionType.dataType = INT;
+	break;
+
+case 331:
+	varRegionType.dataType = INT;
+	break;
+
+case 332:
+	varRegionType.dataType = INT;
+	break;
+
+case 333:
+	varRegionType.dataType = INT;
+	break;
+
+case 334:
+	varRegionType.dataType = INT;
+	break;
+
+case 335:
+	varRegionType.dataType = INT;
+	break;
+
+case 336:
+	varRegionType.dataType = INT;
+	break;
+
+case 337:
+	varRegionType.dataType = INT;
+	break;
+
+case 338:
+	varRegionType.dataType = INT;
+	break;
+
+case 339:
+	varRegionType.dataType = INT;
+	break;
+
+case 340:
+	varRegionType.dataType = INT;
+	break;
+
+case 341:
+	varRegionType.dataType = INT;
+	break;
+
+case 342:
+	varRegionType.dataType = INT;
+	break;
+
+case 343:
+	varRegionType.dataType = INT;
+	break;
+
+case 344:
+	varRegionType.dataType = INT;
+	break;
+
+case 345:
+	varRegionType.dataType = INT;
+	break;
+
+case 346:
+	varRegionType.dataType = INT;
+	break;
+
+case 347:
+	varRegionType.dataType = INT;
+	break;
+
+case 348:
+	varRegionType.dataType = INT;
+	break;
+
+case 349:
+	varRegionType.dataType = INT;
+	break;
+
+case 350:
+	varRegionType.dataType = INT;
+	break;
+
+case 351:
+	varRegionType.dataType = INT;
+	break;
+
+case 352:
+	varRegionType.dataType = INT;
+	break;
+
+case 353:
+	varRegionType.dataType = INT;
+	break;
+
+case 354:
+	varRegionType.dataType = INT;
+	break;
+
+case 355:
+	varRegionType.dataType = INT;
+	break;
+
+case 356:
+	varRegionType.dataType = INT;
+	break;
+
+case 357:
+	varRegionType.dataType = INT;
+	break;
+
+case 358:
+	varRegionType.dataType = INT;
+	break;
+
+case 359:
+	varRegionType.dataType = INT;
+	break;
+
+case 360:
+	varRegionType.dataType = INT;
+	break;
+
+case 361:
+	varRegionType.dataType = INT;
+	break;
+
+case 362:
+	varRegionType.dataType = INT;
+	break;
+
+case 363:
+	varRegionType.dataType = INT;
+	break;
+
+case 364:
+	varRegionType.dataType = INT;
+	break;
+
+case 365:
+	varRegionType.dataType = INT;
+	break;
+
+case 366:
+	varRegionType.dataType = INT;
+	break;
+
+case 367:
+	varRegionType.dataType = INT;
+	break;
+
+case 368:
+	varRegionType.dataType = INT;
+	break;
+
+case 369:
+	varRegionType.dataType = INT;
+	break;
+
+case 370:
+	varRegionType.dataType = INT;
+	break;
+
+case 371:
+	varRegionType.dataType = INT;
+	break;
+
+case 372:
+	varRegionType.dataType = INT;
+	break;
+
+case 373:
+	varRegionType.dataType = INT;
+	break;
+
+case 374:
+	varRegionType.dataType = INT;
+	break;
+
+case 375:
+	varRegionType.dataType = INT;
+	break;
+
+case 376:
+	varRegionType.dataType = INT;
+	break;
+
+case 377:
+	varRegionType.dataType = INT;
+	break;
+
+case 378:
+	varRegionType.dataType = INT;
+	break;
+
+case 379:
+	varRegionType.dataType = INT;
+	break;
+
+case 380:
+	varRegionType.dataType = INT;
+	break;
+
+case 381:
+	varRegionType.dataType = INT;
+	break;
+
+case 382:
+	varRegionType.dataType = INT;
+	break;
+
+case 383:
+	varRegionType.dataType = INT;
+	break;
+
+case 384:
+	varRegionType.dataType = INT;
+	break;
+
+case 385:
+	varRegionType.dataType = INT;
+	break;
+
+case 386:
+	varRegionType.dataType = INT;
+	break;
+
+case 387:
+	varRegionType.dataType = INT;
+	break;
+
+case 388:
+	varRegionType.dataType = INT;
+	break;
+
+case 389:
+	varRegionType.dataType = INT;
+	break;
+
+case 390:
+	varRegionType.dataType = INT;
+	break;
+
+case 391:
+	varRegionType.dataType = INT;
+	break;
+
+case 392:
+	varRegionType.dataType = INT;
+	break;
+
+case 393:
+	varRegionType.dataType = INT;
+	break;
+
+case 394:
+	varRegionType.dataType = INT;
+	break;
+
+case 395:
+	varRegionType.dataType = INT;
+	break;
+
+case 396:
+	varRegionType.dataType = INT;
+	break;
+
+case 397:
+	varRegionType.dataType = INT;
+	break;
+
+case 398:
+	varRegionType.dataType = INT;
+	break;
+
+case 399:
+	varRegionType.dataType = INT;
+	break;
+
+case 400:
+	varRegionType.dataType = INT;
+	break;
+
+case 401:
+	varRegionType.dataType = INT;
+	break;
+
+case 402:
+	varRegionType.dataType = INT;
+	break;
+
+case 403:
+	varRegionType.dataType = INT;
+	break;
+
+case 404:
+	varRegionType.dataType = INT;
+	break;
+
+case 405:
+	varRegionType.dataType = INT;
+	break;
+
+case 406:
+	varRegionType.dataType = INT;
+	break;
+
+case 407:
+	varRegionType.dataType = INT;
+	break;
+
+case 408:
+	varRegionType.dataType = INT;
+	break;
+
+case 409:
+	varRegionType.dataType = INT;
+	break;
+
+case 410:
+	varRegionType.dataType = INT;
+	break;
+
+case 411:
+	varRegionType.dataType = INT;
+	break;
+
+case 412:
+	varRegionType.dataType = INT;
+	break;
+
+case 413:
+	varRegionType.dataType = INT;
+	break;
+
+case 414:
+	varRegionType.dataType = INT;
+	break;
+
+case 415:
+	varRegionType.dataType = INT;
+	break;
+
+case 416:
+	varRegionType.dataType = INT;
+	break;
+
+case 417:
+	varRegionType.dataType = INT;
+	break;
+
+case 418:
+	varRegionType.dataType = INT;
+	break;
+
+case 419:
+	varRegionType.dataType = INT;
+	break;
+
+case 420:
+	varRegionType.dataType = INT;
+	break;
+
+case 421:
+	varRegionType.dataType = INT;
+	break;
+
+case 422:
+	varRegionType.dataType = INT;
+	break;
+
+case 423:
+	varRegionType.dataType = INT;
+	break;
+
+case 424:
+	varRegionType.dataType = INT;
+	break;
+
+case 425:
+	varRegionType.dataType = INT;
+	break;
+
+case 426:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 427:
+	varRegionType.dataType = TYPE_38;
+	break;
+
+case 428:
+	varRegionType.dataType = TYPE_38;
+	break;
+
+case 429:
+	varRegionType.dataType = TYPE_38;
+	break;
+
+case 430:
+	varRegionType.dataType = TYPE_38;
+	break;
+
+case 431:
+	varRegionType.dataType = TYPE_38;
+	break;
+
+case 432:
+	varRegionType.dataType = TYPE_38;
+	break;
+
+case 433:
+	varRegionType.dataType = TYPE_38;
+	break;
+
+case 434:
+	varRegionType.dataType = TYPE_38;
+	break;
+
+case 435:
+	varRegionType.dataType = TYPE_38;
+	break;
+
+case 436:
+	varRegionType.dataType = TYPE_38;
+	break;
+
+case 437:
+	varRegionType.dataType = INT;
+	break;
+
+case 438:
+	varRegionType.dataType = PLAYER;
+	break;
+
+case 439:
+	varRegionType.dataType = INT;
+	break;
+
+case 440:
+	varRegionType.dataType = BOOLEAN;
+	break;
+
+case 441:
+	varRegionType.dataType = BOOLEAN;
+	break;
+
+case 442:
+	varRegionType.dataType = USERHASH;
+	break;
+
+case 443:
+	varRegionType.dataType = INT;
+	break;
+
+case 444:
+	varRegionType.dataType = INT;
+	break;
+
+case 445:
+	varRegionType.dataType = INT;
+	break;
+
+case 446:
+	varRegionType.dataType = INT;
+	break;
+
+case 447:
+	varRegionType.dataType = INT;
+	break;
+
+case 448:
+	varRegionType.dataType = INT;
+	break;
+
+case 449:
+	varRegionType.dataType = INT;
+	break;
+
+case 450:
+	varRegionType.dataType = INT;
+	break;
+
+case 451:
+	varRegionType.dataType = INT;
+	break;
+
+case 452:
+	varRegionType.dataType = INT;
+	break;
+
+case 453:
+	varRegionType.dataType = INT;
+	break;
+
+case 454:
+	varRegionType.dataType = INT;
+	break;

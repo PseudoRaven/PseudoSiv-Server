@@ -1,0 +1,17 @@
+id=16693
+name=Guthixian druid
+description=A nature lover.
+size=1
+xp=361.5
+lifepoints=3350
+level=93
+attack=1
+defence=67
+ranged=1
+magic=67
+animations={range:7181,death:7185}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=true

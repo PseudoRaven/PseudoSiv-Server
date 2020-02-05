@@ -1,0 +1,17 @@
+id=10040
+name=Icy Bones
+description=Summoner of stalagmites.
+size=2
+xp=136.9
+lifepoints=500
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:13785,attack:13791}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

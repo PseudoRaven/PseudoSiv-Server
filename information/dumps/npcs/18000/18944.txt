@@ -1,0 +1,10 @@
+id=18944
+name=Sir Vyvin
+description=Leader of the guards
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Heist Lobby"]
+aggressive=false
+members=false

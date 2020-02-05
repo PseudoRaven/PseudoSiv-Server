@@ -1,0 +1,10 @@
+id=2155
+name=Wemund
+description=Looks like some kind of engineer or mechanic.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

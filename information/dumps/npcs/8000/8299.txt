@@ -1,0 +1,11 @@
+id=8299
+name=Harrallak Menarous
+description=Master of the Warriors' Guild.
+xp=536.7
+animations={}
+attackable=true
+poisonous=false
+weakness="None"
+areas=["Wilderness"]
+aggressive=true
+members=false

@@ -1,0 +1,10 @@
+id=5479
+name=HRH Hrafn
+description=A regal cat with an evil glint in his eye.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

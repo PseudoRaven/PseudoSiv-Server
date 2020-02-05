@@ -1,0 +1,10 @@
+id=5572
+name=Ghost
+description=A Shadow Realm guardian.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Mine"]
+aggressive=false
+members=true

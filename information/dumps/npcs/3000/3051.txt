@@ -1,0 +1,10 @@
+id=3051
+name=Mystery figure
+description=A mysterious watcher.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Misthalin Underground"]
+aggressive=false
+members=false

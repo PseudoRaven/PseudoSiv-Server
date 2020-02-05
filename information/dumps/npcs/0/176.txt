@@ -1,0 +1,17 @@
+id=176
+name=Witch
+description=The hat's a dead give away.
+size=1
+xp=46.5
+lifepoints=1100
+level=30
+attack=1
+defence=22
+ranged=1
+magic=22
+animations={death:836,attack:423}
+attackable=true
+poisonous=false
+weakness="Bolt"
+areas=[]
+aggressive=false

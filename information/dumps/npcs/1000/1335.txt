@@ -1,0 +1,10 @@
+id=1335
+name=Jossik
+description=Looks like he's in trouble...
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Lighthouse Dungeon"]
+aggressive=false
+members=false

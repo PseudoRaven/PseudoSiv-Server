@@ -1,0 +1,10 @@
+id=20786
+name=Hazelmere
+description=What do the Mahjarrat have against poor old Hazelmere?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["New Varrock"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=16602
+name=Gnome banker
+description=Banks gnomish things.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

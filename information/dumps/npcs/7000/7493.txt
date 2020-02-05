@@ -1,0 +1,17 @@
+id=7493
+name=Bandit looter
+description=Calls himself an archaeologist.
+size=1
+xp=64.5
+lifepoints=1500
+level=42
+attack=30
+defence=30
+ranged=0
+magic=0
+animations={death:836,attack:9715}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=["RuneScape Surface"]
+aggressive=false

@@ -1,0 +1,17 @@
+id=10881
+name=Forgotten warrior
+description=A warrior who has been long forgotten.
+size=1
+xp=379.8
+lifepoints=6600
+level=95
+attack=72
+defence=65
+ranged=1
+magic=1
+animations={death:836,attack:401}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=true

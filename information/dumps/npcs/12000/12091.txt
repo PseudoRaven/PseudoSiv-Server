@@ -1,0 +1,10 @@
+id=12091
+name=Pondskater
+description=One of these things has the key. Could it be this one?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dungeoneering","Dungeon"]
+aggressive=false
+members=false

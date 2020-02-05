@@ -1,0 +1,10 @@
+id=15415
+name=Blood esswraith
+description=An esswraith imbued with blood energy.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["The Runespan"]
+aggressive=false
+members=false

@@ -1,0 +1,11 @@
+id=1003
+name=Lord Iban
+description=The great and dreadful Lord Iban
+xp=233.1
+animations={}
+attackable=true
+poisonous=false
+weakness="Thrown"
+areas=["Iban's Lair"]
+aggressive=false
+members=false

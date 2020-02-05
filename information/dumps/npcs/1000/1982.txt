@@ -1,0 +1,10 @@
+id=1982
+name=Raetul
+description=A dedicated follower of fashion.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

@@ -1,0 +1,10 @@
+id=1805
+name=Guard
+description=He seems to be guarding a pile of rocks. Interesting job.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

@@ -1,0 +1,17 @@
+id=20965
+name=Ferocious jadinko
+description=A jadinko created by the Easter Bunny to carry eggs.
+size=2
+xp=1032.7
+lifepoints=9000
+level=112
+attack=0
+defence=80
+ranged=80
+magic=0
+animations={range:3215,death:3232,attack:3214}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

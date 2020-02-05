@@ -1,0 +1,17 @@
+id=15178
+name=TzHaar-Xil (Hardened)
+description=Fought in more Fight Pit battles than you've had haircuts.
+size=2
+xp=419.1
+lifepoints=3500
+level=98
+attack=70
+defence=70
+ranged=70
+magic=70
+animations={death:16145,attack:16147}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

@@ -1,0 +1,15 @@
+id=15828
+name=Bandit
+description=A desert bandit.
+size=1
+lifepoints=100
+level=2
+attack=0
+defence=0
+ranged=0
+magic=0
+animations={death:836,attack:17712}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

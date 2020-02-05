@@ -1,0 +1,16 @@
+id=14685
+name=Angry Turkey
+description=Looks pretty angry!
+size=1
+xp=0.2
+lifepoints=50
+level=7
+attack=5
+defence=5
+ranged=1
+magic=1
+animations={death:11001,attack:11000}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

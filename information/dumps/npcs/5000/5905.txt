@@ -1,0 +1,17 @@
+id=5905
+name=The Illusive
+description=What if you don't know how to win?
+size=1
+xp=297.3
+lifepoints=3150
+level=88
+attack=63
+defence=63
+ranged=63
+magic=63
+animations={attack:6342}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

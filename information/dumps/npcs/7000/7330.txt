@@ -1,0 +1,17 @@
+id=7330
+name=Swamp titan
+description=Do you hear duelling banjos?
+size=2
+xp=693.9
+lifepoints=9500
+level=101
+attack=77
+defence=68
+ranged=77
+magic=77
+animations={death:8226,attack:8222}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

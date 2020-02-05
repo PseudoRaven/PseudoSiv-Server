@@ -1,0 +1,17 @@
+id=186
+name=Thug
+description=Low on brains, high on aggression.
+size=1
+xp=35.7
+lifepoints=700
+level=19
+attack=14
+defence=14
+ranged=1
+magic=1
+animations={death:836,attack:386}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface"]
+aggressive=false

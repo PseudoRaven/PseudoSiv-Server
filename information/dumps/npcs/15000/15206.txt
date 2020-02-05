@@ -1,0 +1,17 @@
+id=15206
+name=TokHaar-Yt-MejKot
+description=This creature's huge claws slice through rock with frightening ease.
+size=4
+xp=592.8
+lifepoints=5775
+level=300
+attack=77
+defence=77
+ranged=0
+magic=0
+animations={death:16103,attack:16102}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=true

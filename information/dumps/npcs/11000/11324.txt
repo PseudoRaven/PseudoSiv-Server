@@ -1,0 +1,17 @@
+id=11324
+name=Fairy Godfather
+description=I'm gonna make him an offer he can't refuse.
+size=1
+xp=385.2
+lifepoints=6000
+level=84
+attack=60
+defence=60
+ranged=60
+magic=60
+animations={range:13989,death:13849}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

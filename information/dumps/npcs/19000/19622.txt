@@ -1,0 +1,17 @@
+id=19622
+name=Elf
+description=An elf on a journey to visit the human lands.
+size=1
+xp=221.7
+lifepoints=2850
+level=79
+attack=57
+defence=57
+ranged=1
+magic=1
+animations={}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

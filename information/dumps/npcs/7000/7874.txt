@@ -1,0 +1,17 @@
+id=7874
+name=Man
+description=A citizen of Lumbridge.
+size=1
+xp=24.9
+lifepoints=100
+level=2
+attack=2
+defence=2
+ranged=1
+magic=1
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=[]
+aggressive=false

@@ -1,0 +1,16 @@
+id=15396
+name=Soldier
+description=Seems to be itching for a fight. I should oblige.
+size=1
+xp=0
+lifepoints=2000
+level=62
+attack=55
+defence=35
+ranged=35
+magic=35
+animations={death:836,attack:12310}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

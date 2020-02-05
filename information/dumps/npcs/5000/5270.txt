@@ -1,0 +1,10 @@
+id=5270
+name=Sophanem guard
+description=A guard of Sophanem.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Bank"]
+aggressive=false
+members=true

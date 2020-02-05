@@ -1,0 +1,10 @@
+id=17554
+name=Padomenes
+description=Saradomin's general. A powerful, winged warrior.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

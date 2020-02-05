@@ -1,0 +1,10 @@
+id=18196
+name=Orla Fairweather
+description=She seems distracted, but she's a natural diviner.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

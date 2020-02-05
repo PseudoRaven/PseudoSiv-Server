@@ -1,0 +1,10 @@
+id=2565
+name=Jorzik
+description=He buys stuff.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Blast furnace"]
+aggressive=false
+members=true

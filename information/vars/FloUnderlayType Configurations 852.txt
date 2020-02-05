@@ -1,0 +1,2609 @@
+
+case 0:
+	floUnderlayType.texture = 1857;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 2631712;
+	floUnderlayType.saturation = 28;
+	floUnderlayType.lightness = 36;
+	floUnderlayType.hueWeight = 8;
+	floUnderlayType.colorRGB = 2631712;
+	break;
+
+case 1:
+	floUnderlayType.texture = 1890;
+	floUnderlayType.hsl = 14;
+	floUnderlayType.color = 12047514;
+	floUnderlayType.saturation = 101;
+	floUnderlayType.lightness = 183;
+	floUnderlayType.hueWeight = 58;
+	floUnderlayType.colorRGB = 12047514;
+	break;
+
+case 2:
+	floUnderlayType.texture = 1890;
+	floUnderlayType.hsl = 45;
+	floUnderlayType.color = 11116512;
+	floUnderlayType.saturation = 128;
+	floUnderlayType.lightness = 191;
+	floUnderlayType.hueWeight = 65;
+	floUnderlayType.colorRGB = 11116512;
+	break;
+
+case 3:
+	floUnderlayType.texture = 1890;
+	floUnderlayType.hsl = -16;
+	floUnderlayType.color = 16533930;
+	floUnderlayType.saturation = 245;
+	floUnderlayType.lightness = 162;
+	floUnderlayType.hueWeight = 179;
+	floUnderlayType.colorRGB = 16533930;
+	break;
+
+case 4:
+	floUnderlayType.texture = 1858;
+	floUnderlayType.color = 6307904;
+	floUnderlayType.saturation = 51;
+	floUnderlayType.lightness = 80;
+	floUnderlayType.hueWeight = 32;
+	floUnderlayType.colorRGB = 6307904;
+	break;
+
+case 5:
+	floUnderlayType.texture = 1874;
+	floUnderlayType.color = 3153952;
+	floUnderlayType.saturation = 51;
+	floUnderlayType.lightness = 40;
+	floUnderlayType.hueWeight = 16;
+	floUnderlayType.colorRGB = 3153952;
+	break;
+
+case 6:
+	floUnderlayType.texture = 1846;
+	floUnderlayType.hsl = 9;
+	floUnderlayType.textureC = 800;
+	floUnderlayType.color = 9463856;
+	floUnderlayType.saturation = 128;
+	floUnderlayType.lightness = 96;
+	floUnderlayType.hueWeight = 96;
+	floUnderlayType.colorRGB = 9463856;
+	break;
+
+case 7:
+	floUnderlayType.texture = 1841;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.color = 3684400;
+	floUnderlayType.saturation = 19;
+	floUnderlayType.lightness = 52;
+	floUnderlayType.hueWeight = 8;
+	floUnderlayType.colorRGB = 3684400;
+	break;
+
+case 8:
+	floUnderlayType.texture = 1858;
+	floUnderlayType.hsl = 5;
+	floUnderlayType.color = 8026240;
+	floUnderlayType.saturation = 8;
+	floUnderlayType.lightness = 124;
+	floUnderlayType.hueWeight = 8;
+	floUnderlayType.colorRGB = 8026240;
+	break;
+
+case 9:
+	floUnderlayType.texture = 1861;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.color = 2629656;
+	floUnderlayType.saturation = 64;
+	floUnderlayType.lightness = 32;
+	floUnderlayType.hueWeight = 16;
+	floUnderlayType.colorRGB = 2629656;
+	break;
+
+case 10:
+	floUnderlayType.texture = 1858;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.color = 5261376;
+	floUnderlayType.saturation = 28;
+	floUnderlayType.lightness = 72;
+	floUnderlayType.hueWeight = 16;
+	floUnderlayType.colorRGB = 5261376;
+	break;
+
+case 11:
+	floUnderlayType.texture = 1861;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.color = 4735032;
+	floUnderlayType.saturation = 32;
+	floUnderlayType.lightness = 64;
+	floUnderlayType.hueWeight = 16;
+	floUnderlayType.colorRGB = 4735032;
+	break;
+
+case 12:
+	floUnderlayType.texture = 1842;
+	floUnderlayType.hsl = 6;
+	floUnderlayType.color = 8417352;
+	floUnderlayType.saturation = 71;
+	floUnderlayType.lightness = 100;
+	floUnderlayType.hueWeight = 56;
+	floUnderlayType.colorRGB = 8417352;
+	break;
+
+case 13:
+	floUnderlayType.texture = 1842;
+	floUnderlayType.hsl = 5;
+	floUnderlayType.color = 5785640;
+	floUnderlayType.saturation = 96;
+	floUnderlayType.lightness = 64;
+	floUnderlayType.hueWeight = 48;
+	floUnderlayType.colorRGB = 5785640;
+	break;
+
+case 14:
+	floUnderlayType.texture = 1844;
+	floUnderlayType.hsl = 2;
+	floUnderlayType.color = 3684392;
+	floUnderlayType.saturation = 42;
+	floUnderlayType.lightness = 48;
+	floUnderlayType.hueWeight = 16;
+	floUnderlayType.colorRGB = 3684392;
+	break;
+
+case 15:
+	floUnderlayType.texture = 2556;
+	floUnderlayType.hsl = 20;
+	floUnderlayType.color = 13158630;
+	floUnderlayType.saturation = 93;
+	floUnderlayType.lightness = 215;
+	floUnderlayType.hueWeight = 30;
+	floUnderlayType.colorRGB = 13158630;
+	break;
+
+case 16:
+	floUnderlayType.texture = 1873;
+	floUnderlayType.hsl = 28;
+	floUnderlayType.color = 14392;
+	floUnderlayType.saturation = 255;
+	floUnderlayType.lightness = 28;
+	floUnderlayType.hueWeight = 56;
+	floUnderlayType.colorRGB = 14392;
+	break;
+
+case 17:
+	floUnderlayType.texture = 1840;
+	floUnderlayType.hsl = 3;
+	floUnderlayType.color = 5127210;
+	floUnderlayType.saturation = 76;
+	floUnderlayType.lightness = 60;
+	floUnderlayType.hueWeight = 36;
+	floUnderlayType.colorRGB = 5127210;
+	break;
+
+case 18:
+	floUnderlayType.texture = 1842;
+	floUnderlayType.hsl = 6;
+	floUnderlayType.color = 10514504;
+	floUnderlayType.saturation = 97;
+	floUnderlayType.lightness = 116;
+	floUnderlayType.hueWeight = 88;
+	floUnderlayType.colorRGB = 10514504;
+	break;
+
+case 19:
+	floUnderlayType.texture = 322;
+	floUnderlayType.hsl = 18;
+	floUnderlayType.color = 5793803;
+	floUnderlayType.saturation = 207;
+	floUnderlayType.lightness = 57;
+	floUnderlayType.hueWeight = 93;
+	floUnderlayType.colorRGB = 5793803;
+	break;
+
+case 20:
+	floUnderlayType.texture = 1846;
+	floUnderlayType.hsl = 5;
+	floUnderlayType.color = 4202496;
+	floUnderlayType.saturation = 255;
+	floUnderlayType.lightness = 32;
+	floUnderlayType.hueWeight = 64;
+	floUnderlayType.colorRGB = 4202496;
+	break;
+
+case 21:
+	floUnderlayType.texture = 1748;
+	floUnderlayType.hsl = 27;
+	floUnderlayType.color = 3502602;
+	floUnderlayType.saturation = 214;
+	floUnderlayType.lightness = 62;
+	floUnderlayType.hueWeight = 104;
+	floUnderlayType.colorRGB = 3502602;
+	break;
+
+case 22:
+	floUnderlayType.texture = 1758;
+	floUnderlayType.hsl = 4;
+	floUnderlayType.color = 3686959;
+	floUnderlayType.saturation = 43;
+	floUnderlayType.lightness = 56;
+	floUnderlayType.hueWeight = 19;
+	floUnderlayType.colorRGB = 3686959;
+	break;
+
+case 23:
+	floUnderlayType.texture = 1748;
+	floUnderlayType.hsl = 4;
+	floUnderlayType.color = 3686959;
+	floUnderlayType.saturation = 43;
+	floUnderlayType.lightness = 56;
+	floUnderlayType.hueWeight = 19;
+	floUnderlayType.colorRGB = 3686959;
+	break;
+
+case 24:
+	floUnderlayType.texture = 1740;
+	floUnderlayType.hsl = 34;
+	floUnderlayType.color = 3507722;
+	floUnderlayType.saturation = 220;
+	floUnderlayType.lightness = 72;
+	floUnderlayType.hueWeight = 124;
+	floUnderlayType.colorRGB = 3507722;
+	break;
+
+case 25:
+	floUnderlayType.texture = 1892;
+	floUnderlayType.hsl = 3;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 15132395;
+	floUnderlayType.saturation = 27;
+	floUnderlayType.lightness = 232;
+	floUnderlayType.hueWeight = 5;
+	floUnderlayType.colorRGB = 15132395;
+	break;
+
+case 26:
+	floUnderlayType.texture = 1894;
+	floUnderlayType.hsl = 3;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 15132395;
+	floUnderlayType.saturation = 27;
+	floUnderlayType.lightness = 232;
+	floUnderlayType.hueWeight = 5;
+	floUnderlayType.colorRGB = 15132395;
+	break;
+
+case 27:
+	floUnderlayType.texture = 1803;
+	floUnderlayType.hsl = 10;
+	floUnderlayType.color = 12626024;
+	floUnderlayType.saturation = 104;
+	floUnderlayType.lightness = 148;
+	floUnderlayType.hueWeight = 88;
+	floUnderlayType.colorRGB = 12626024;
+	break;
+
+case 28:
+	floUnderlayType.texture = 1857;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.color = 3685433;
+	floUnderlayType.saturation = 8;
+	floUnderlayType.lightness = 58;
+	floUnderlayType.hueWeight = 4;
+	floUnderlayType.colorRGB = 3685433;
+	break;
+
+case 29:
+	floUnderlayType.texture = 1881;
+	floUnderlayType.hsl = 4;
+	floUnderlayType.textureC = 800;
+	floUnderlayType.color = 5003600;
+	floUnderlayType.saturation = 20;
+	floUnderlayType.lightness = 82;
+	floUnderlayType.hueWeight = 12;
+	floUnderlayType.colorRGB = 5003600;
+	break;
+
+case 30:
+	floUnderlayType.texture = 1845;
+	floUnderlayType.hsl = 8;
+	floUnderlayType.textureC = 800;
+	floUnderlayType.color = 6189924;
+	floUnderlayType.saturation = 25;
+	floUnderlayType.lightness = 104;
+	floUnderlayType.hueWeight = 21;
+	floUnderlayType.colorRGB = 6189924;
+	break;
+
+case 31:
+	floUnderlayType.texture = 1848;
+	floUnderlayType.hsl = 10;
+	floUnderlayType.color = 6389353;
+	floUnderlayType.saturation = 33;
+	floUnderlayType.lightness = 111;
+	floUnderlayType.hueWeight = 28;
+	floUnderlayType.colorRGB = 6389353;
+	break;
+
+case 32:
+	floUnderlayType.texture = 1842;
+	floUnderlayType.hsl = 10;
+	floUnderlayType.color = 8362630;
+	floUnderlayType.saturation = 29;
+	floUnderlayType.lightness = 140;
+	floUnderlayType.hueWeight = 27;
+	floUnderlayType.colorRGB = 8362630;
+	break;
+
+case 33:
+	floUnderlayType.texture = 1842;
+	floUnderlayType.hsl = 10;
+	floUnderlayType.color = 9152146;
+	floUnderlayType.saturation = 33;
+	floUnderlayType.lightness = 152;
+	floUnderlayType.hueWeight = 27;
+	floUnderlayType.colorRGB = 9152146;
+	break;
+
+case 34:
+	floUnderlayType.texture = 1885;
+	floUnderlayType.hsl = 7;
+	floUnderlayType.color = 4931092;
+	floUnderlayType.saturation = 148;
+	floUnderlayType.lightness = 47;
+	floUnderlayType.hueWeight = 55;
+	floUnderlayType.colorRGB = 4931092;
+	break;
+
+case 35:
+	floUnderlayType.texture = 1830;
+	floUnderlayType.hsl = 5;
+	floUnderlayType.textureC = 368;
+	floUnderlayType.color = 1121818;
+	floUnderlayType.saturation = 70;
+	floUnderlayType.lightness = 23;
+	floUnderlayType.hueWeight = 13;
+	floUnderlayType.colorRGB = 1121818;
+	break;
+
+case 36:
+	floUnderlayType.texture = 1830;
+	floUnderlayType.hsl = 8;
+	floUnderlayType.textureC = 692;
+	floUnderlayType.color = 6573598;
+	floUnderlayType.saturation = 137;
+	floUnderlayType.lightness = 65;
+	floUnderlayType.hueWeight = 70;
+	floUnderlayType.colorRGB = 6573598;
+	break;
+
+case 37:
+	floUnderlayType.texture = 1777;
+	floUnderlayType.hsl = 13;
+	floUnderlayType.aBool7959 = false;
+	floUnderlayType.color = 14474480;
+	floUnderlayType.saturation = 98;
+	floUnderlayType.lightness = 230;
+	floUnderlayType.hueWeight = 20;
+	floUnderlayType.colorRGB = 14474480;
+	break;
+
+case 38:
+	floUnderlayType.texture = 1785;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.color = 2829869;
+	floUnderlayType.saturation = 8;
+	floUnderlayType.lightness = 44;
+	floUnderlayType.hueWeight = 3;
+	floUnderlayType.colorRGB = 2829869;
+	break;
+
+case 39:
+	floUnderlayType.texture = 1773;
+	floUnderlayType.hsl = 3;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 15132395;
+	floUnderlayType.saturation = 27;
+	floUnderlayType.lightness = 232;
+	floUnderlayType.hueWeight = 5;
+	floUnderlayType.colorRGB = 15132395;
+	break;
+
+case 40:
+	floUnderlayType.texture = 1775;
+	floUnderlayType.hsl = 3;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 15132395;
+	floUnderlayType.saturation = 27;
+	floUnderlayType.lightness = 232;
+	floUnderlayType.hueWeight = 5;
+	floUnderlayType.colorRGB = 15132395;
+	break;
+
+case 41:
+	floUnderlayType.texture = 1776;
+	floUnderlayType.hsl = 3;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 15132395;
+	floUnderlayType.saturation = 27;
+	floUnderlayType.lightness = 232;
+	floUnderlayType.hueWeight = 5;
+	floUnderlayType.colorRGB = 15132395;
+	break;
+
+case 42:
+	floUnderlayType.texture = 1774;
+	floUnderlayType.hsl = 3;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 15132395;
+	floUnderlayType.saturation = 27;
+	floUnderlayType.lightness = 232;
+	floUnderlayType.hueWeight = 5;
+	floUnderlayType.colorRGB = 15132395;
+	break;
+
+case 43:
+	floUnderlayType.texture = 1789;
+	floUnderlayType.hsl = 11;
+	floUnderlayType.color = 13351542;
+	floUnderlayType.saturation = 113;
+	floUnderlayType.lightness = 160;
+	floUnderlayType.hueWeight = 85;
+	floUnderlayType.colorRGB = 13351542;
+	break;
+
+case 44:
+	floUnderlayType.texture = 1852;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 4473924;
+	floUnderlayType.lightness = 68;
+	floUnderlayType.hueWeight = 1;
+	floUnderlayType.colorRGB = 4473924;
+	break;
+
+case 45:
+	floUnderlayType.texture = 1749;
+	floUnderlayType.hsl = 13;
+	floUnderlayType.color = 13752039;
+	floUnderlayType.saturation = 78;
+	floUnderlayType.lightness = 220;
+	floUnderlayType.hueWeight = 22;
+	floUnderlayType.colorRGB = 13752039;
+	break;
+
+case 46:
+	floUnderlayType.texture = 1882;
+	floUnderlayType.hsl = 13;
+	floUnderlayType.textureC = 768;
+	floUnderlayType.color = 15324807;
+	floUnderlayType.saturation = 174;
+	floUnderlayType.lightness = 184;
+	floUnderlayType.hueWeight = 98;
+	floUnderlayType.colorRGB = 15324807;
+	break;
+
+case 47:
+	floUnderlayType.texture = 1758;
+	floUnderlayType.hsl = 27;
+	floUnderlayType.color = 3502602;
+	floUnderlayType.saturation = 214;
+	floUnderlayType.lightness = 62;
+	floUnderlayType.hueWeight = 104;
+	floUnderlayType.colorRGB = 3502602;
+	break;
+
+case 48:
+	floUnderlayType.texture = 1749;
+	floUnderlayType.hsl = 18;
+	floUnderlayType.color = 5793803;
+	floUnderlayType.saturation = 207;
+	floUnderlayType.lightness = 57;
+	floUnderlayType.hueWeight = 93;
+	floUnderlayType.colorRGB = 5793803;
+	break;
+
+case 49:
+	floUnderlayType.texture = 1741;
+	floUnderlayType.hsl = 15;
+	floUnderlayType.color = 7890955;
+	floUnderlayType.saturation = 213;
+	floUnderlayType.lightness = 65;
+	floUnderlayType.hueWeight = 109;
+	floUnderlayType.colorRGB = 7890955;
+	break;
+
+case 50:
+	floUnderlayType.texture = 1740;
+	floUnderlayType.hsl = 36;
+	floUnderlayType.color = 7121936;
+	floUnderlayType.saturation = 212;
+	floUnderlayType.lightness = 94;
+	floUnderlayType.hueWeight = 156;
+	floUnderlayType.colorRGB = 7121936;
+	break;
+
+case 51:
+	floUnderlayType.texture = 1748;
+	floUnderlayType.hsl = 20;
+	floUnderlayType.textureC = 768;
+	floUnderlayType.color = 8492337;
+	floUnderlayType.saturation = 129;
+	floUnderlayType.lightness = 99;
+	floUnderlayType.hueWeight = 100;
+	floUnderlayType.colorRGB = 8492337;
+	break;
+
+case 52:
+	floUnderlayType.texture = 1755;
+	floUnderlayType.hsl = 12;
+	floUnderlayType.textureC = 256;
+	floUnderlayType.color = 5591562;
+	floUnderlayType.saturation = 202;
+	floUnderlayType.lightness = 47;
+	floUnderlayType.hueWeight = 75;
+	floUnderlayType.colorRGB = 5591562;
+	break;
+
+case 53:
+	floUnderlayType.texture = 1755;
+	floUnderlayType.hsl = 31;
+	floUnderlayType.color = 1202241;
+	floUnderlayType.saturation = 169;
+	floUnderlayType.lightness = 53;
+	floUnderlayType.hueWeight = 70;
+	floUnderlayType.colorRGB = 1202241;
+	break;
+
+case 54:
+	floUnderlayType.texture = 1858;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 7763574;
+	floUnderlayType.lightness = 118;
+	floUnderlayType.hueWeight = 1;
+	floUnderlayType.colorRGB = 7763574;
+	break;
+
+case 55:
+	floUnderlayType.texture = 1841;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 5066061;
+	floUnderlayType.lightness = 77;
+	floUnderlayType.hueWeight = 1;
+	floUnderlayType.colorRGB = 5066061;
+	break;
+
+case 56:
+	floUnderlayType.texture = 1859;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 3026478;
+	floUnderlayType.lightness = 46;
+	floUnderlayType.hueWeight = 1;
+	floUnderlayType.colorRGB = 3026478;
+	break;
+
+case 57:
+	floUnderlayType.texture = 1890;
+	floUnderlayType.hsl = 3;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 15132395;
+	floUnderlayType.saturation = 27;
+	floUnderlayType.lightness = 232;
+	floUnderlayType.hueWeight = 5;
+	floUnderlayType.colorRGB = 15132395;
+	break;
+
+case 58:
+	floUnderlayType.texture = 2556;
+	floUnderlayType.hsl = 13;
+	floUnderlayType.aBool7959 = false;
+	floUnderlayType.color = 14474480;
+	floUnderlayType.saturation = 98;
+	floUnderlayType.lightness = 230;
+	floUnderlayType.hueWeight = 20;
+	floUnderlayType.colorRGB = 14474480;
+	break;
+
+case 59:
+	floUnderlayType.texture = 2556;
+	floUnderlayType.hsl = 8;
+	floUnderlayType.color = 13756374;
+	floUnderlayType.saturation = 78;
+	floUnderlayType.lightness = 220;
+	floUnderlayType.hueWeight = 22;
+	floUnderlayType.colorRGB = 13756374;
+	break;
+
+case 60:
+	floUnderlayType.texture = 1819;
+	floUnderlayType.hsl = 15;
+	floUnderlayType.color = 11639357;
+	floUnderlayType.saturation = 124;
+	floUnderlayType.lightness = 119;
+	floUnderlayType.hueWeight = 116;
+	floUnderlayType.colorRGB = 11639357;
+	break;
+
+case 61:
+	floUnderlayType.texture = 1819;
+	floUnderlayType.hsl = 12;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 13680756;
+	floUnderlayType.saturation = 125;
+	floUnderlayType.lightness = 162;
+	floUnderlayType.hueWeight = 92;
+	floUnderlayType.colorRGB = 13680756;
+	break;
+
+case 62:
+	floUnderlayType.texture = 1843;
+	floUnderlayType.hsl = 5;
+	floUnderlayType.textureC = 768;
+	floUnderlayType.color = 4008715;
+	floUnderlayType.saturation = 177;
+	floUnderlayType.lightness = 36;
+	floUnderlayType.hueWeight = 50;
+	floUnderlayType.colorRGB = 4008715;
+	break;
+
+case 63:
+	floUnderlayType.texture = 1830;
+	floUnderlayType.hsl = 8;
+	floUnderlayType.textureC = 368;
+	floUnderlayType.color = 6573598;
+	floUnderlayType.saturation = 137;
+	floUnderlayType.lightness = 65;
+	floUnderlayType.hueWeight = 70;
+	floUnderlayType.colorRGB = 6573598;
+	break;
+
+case 64:
+	floUnderlayType.texture = 1863;
+	floUnderlayType.hsl = 11;
+	floUnderlayType.color = 6638859;
+	floUnderlayType.saturation = 205;
+	floUnderlayType.lightness = 56;
+	floUnderlayType.hueWeight = 90;
+	floUnderlayType.colorRGB = 6638859;
+	break;
+
+case 65:
+	floUnderlayType.texture = 1883;
+	floUnderlayType.hsl = 8;
+	floUnderlayType.textureC = 768;
+	floUnderlayType.color = 6697728;
+	floUnderlayType.saturation = 255;
+	floUnderlayType.lightness = 51;
+	floUnderlayType.hueWeight = 102;
+	floUnderlayType.colorRGB = 6697728;
+	break;
+
+case 66:
+	floUnderlayType.texture = 1841;
+	floUnderlayType.hsl = 8;
+	floUnderlayType.textureC = 800;
+	floUnderlayType.color = 6702097;
+	floUnderlayType.saturation = 182;
+	floUnderlayType.lightness = 59;
+	floUnderlayType.hueWeight = 85;
+	floUnderlayType.colorRGB = 6702097;
+	break;
+
+case 67:
+	floUnderlayType.texture = 1807;
+	floUnderlayType.hsl = 11;
+	floUnderlayType.color = 13351542;
+	floUnderlayType.saturation = 113;
+	floUnderlayType.lightness = 160;
+	floUnderlayType.hueWeight = 85;
+	floUnderlayType.colorRGB = 13351542;
+	break;
+
+case 68:
+	floUnderlayType.texture = 1830;
+	floUnderlayType.hsl = 8;
+	floUnderlayType.color = 6573598;
+	floUnderlayType.saturation = 137;
+	floUnderlayType.lightness = 65;
+	floUnderlayType.hueWeight = 70;
+	floUnderlayType.colorRGB = 6573598;
+	break;
+
+case 69:
+	floUnderlayType.texture = 1830;
+	floUnderlayType.hsl = 11;
+	floUnderlayType.color = 6638859;
+	floUnderlayType.saturation = 205;
+	floUnderlayType.lightness = 56;
+	floUnderlayType.hueWeight = 90;
+	floUnderlayType.colorRGB = 6638859;
+	break;
+
+case 70:
+	floUnderlayType.texture = 1830;
+	floUnderlayType.hsl = 8;
+	floUnderlayType.color = 6697728;
+	floUnderlayType.saturation = 255;
+	floUnderlayType.lightness = 51;
+	floUnderlayType.hueWeight = 102;
+	floUnderlayType.colorRGB = 6697728;
+	break;
+
+case 71:
+	floUnderlayType.texture = 1826;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 197379;
+	floUnderlayType.lightness = 3;
+	floUnderlayType.hueWeight = 1;
+	floUnderlayType.colorRGB = 197379;
+	break;
+
+case 72:
+	floUnderlayType.texture = 1858;
+	floUnderlayType.hsl = 39;
+	floUnderlayType.color = 5601177;
+	floUnderlayType.saturation = 73;
+	floUnderlayType.lightness = 119;
+	floUnderlayType.hueWeight = 68;
+	floUnderlayType.colorRGB = 5601177;
+	break;
+
+case 73:
+	floUnderlayType.texture = 1771;
+	floUnderlayType.hsl = -2;
+	floUnderlayType.color = 10048870;
+	floUnderlayType.saturation = 73;
+	floUnderlayType.lightness = 119;
+	floUnderlayType.hueWeight = 68;
+	floUnderlayType.colorRGB = 10048870;
+	break;
+
+case 74:
+	floUnderlayType.texture = 1758;
+	floUnderlayType.hsl = 39;
+	floUnderlayType.color = 5601177;
+	floUnderlayType.saturation = 73;
+	floUnderlayType.lightness = 119;
+	floUnderlayType.hueWeight = 68;
+	floUnderlayType.colorRGB = 5601177;
+	break;
+
+case 75:
+	floUnderlayType.texture = 1882;
+	floUnderlayType.hsl = -9;
+	floUnderlayType.textureC = 768;
+	floUnderlayType.color = 14526173;
+	floUnderlayType.saturation = 112;
+	floUnderlayType.lightness = 193;
+	floUnderlayType.hueWeight = 55;
+	floUnderlayType.colorRGB = 14526173;
+	break;
+
+case 76:
+	floUnderlayType.texture = 1822;
+	floUnderlayType.hsl = 4;
+	floUnderlayType.color = 4537633;
+	floUnderlayType.saturation = 90;
+	floUnderlayType.lightness = 51;
+	floUnderlayType.hueWeight = 36;
+	floUnderlayType.colorRGB = 4537633;
+	break;
+
+case 77:
+	floUnderlayType.texture = 322;
+	floUnderlayType.hsl = 6;
+	floUnderlayType.color = 14269331;
+	floUnderlayType.saturation = 121;
+	floUnderlayType.lightness = 182;
+	floUnderlayType.hueWeight = 70;
+	floUnderlayType.colorRGB = 14269331;
+	break;
+
+case 78:
+	floUnderlayType.texture = 1780;
+	floUnderlayType.hsl = 8;
+	floUnderlayType.color = 6702097;
+	floUnderlayType.saturation = 182;
+	floUnderlayType.lightness = 59;
+	floUnderlayType.hueWeight = 85;
+	floUnderlayType.colorRGB = 6702097;
+	break;
+
+case 79:
+	floUnderlayType.texture = 1846;
+	floUnderlayType.hsl = 5;
+	floUnderlayType.textureC = 800;
+	floUnderlayType.color = 4008715;
+	floUnderlayType.saturation = 177;
+	floUnderlayType.lightness = 36;
+	floUnderlayType.hueWeight = 50;
+	floUnderlayType.colorRGB = 4008715;
+	break;
+
+case 80:
+	floUnderlayType.texture = 1830;
+	floUnderlayType.hsl = 5;
+	floUnderlayType.textureC = 800;
+	floUnderlayType.color = 4008715;
+	floUnderlayType.saturation = 177;
+	floUnderlayType.lightness = 36;
+	floUnderlayType.hueWeight = 50;
+	floUnderlayType.colorRGB = 4008715;
+	break;
+
+case 81:
+	floUnderlayType.texture = 1817;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 4013373;
+	floUnderlayType.lightness = 61;
+	floUnderlayType.hueWeight = 1;
+	floUnderlayType.colorRGB = 4013373;
+	break;
+
+case 82:
+	floUnderlayType.texture = 1780;
+	floUnderlayType.color = 4473924;
+	floUnderlayType.lightness = 68;
+	floUnderlayType.hueWeight = 1;
+	floUnderlayType.colorRGB = 4473924;
+	break;
+
+case 83:
+	floUnderlayType.texture = 1846;
+	floUnderlayType.hsl = 8;
+	floUnderlayType.color = 8550724;
+	floUnderlayType.saturation = 80;
+	floUnderlayType.lightness = 99;
+	floUnderlayType.hueWeight = 62;
+	floUnderlayType.colorRGB = 8550724;
+	break;
+
+case 84:
+	floUnderlayType.texture = 1524;
+	floUnderlayType.hsl = 27;
+	floUnderlayType.color = 3502602;
+	floUnderlayType.saturation = 214;
+	floUnderlayType.lightness = 62;
+	floUnderlayType.hueWeight = 104;
+	floUnderlayType.colorRGB = 3502602;
+	break;
+
+case 85:
+	floUnderlayType.texture = 1524;
+	floUnderlayType.hsl = 18;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 5793803;
+	floUnderlayType.saturation = 207;
+	floUnderlayType.lightness = 57;
+	floUnderlayType.hueWeight = 93;
+	floUnderlayType.colorRGB = 5793803;
+	break;
+
+case 86:
+	floUnderlayType.texture = 1524;
+	floUnderlayType.hsl = 11;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 3692079;
+	floUnderlayType.saturation = 75;
+	floUnderlayType.lightness = 66;
+	floUnderlayType.hueWeight = 39;
+	floUnderlayType.colorRGB = 3692079;
+	break;
+
+case 87:
+	floUnderlayType.texture = 1833;
+	floUnderlayType.hsl = 4;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 5200214;
+	floUnderlayType.saturation = 15;
+	floUnderlayType.lightness = 84;
+	floUnderlayType.hueWeight = 10;
+	floUnderlayType.colorRGB = 5200214;
+	break;
+
+case 88:
+	floUnderlayType.texture = 1858;
+	floUnderlayType.hsl = 5;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 6714223;
+	floUnderlayType.saturation = 15;
+	floUnderlayType.lightness = 108;
+	floUnderlayType.hueWeight = 13;
+	floUnderlayType.colorRGB = 6714223;
+	break;
+
+case 89:
+	floUnderlayType.texture = 1833;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.color = 4605502;
+	floUnderlayType.saturation = 15;
+	floUnderlayType.lightness = 66;
+	floUnderlayType.hueWeight = 8;
+	floUnderlayType.colorRGB = 4605502;
+	break;
+
+case 90:
+	floUnderlayType.texture = 1858;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.color = 4605502;
+	floUnderlayType.saturation = 15;
+	floUnderlayType.lightness = 66;
+	floUnderlayType.hueWeight = 8;
+	floUnderlayType.colorRGB = 4605502;
+	break;
+
+case 91:
+	floUnderlayType.texture = 1881;
+	floUnderlayType.hsl = 2;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 6050884;
+	floUnderlayType.saturation = 38;
+	floUnderlayType.lightness = 80;
+	floUnderlayType.hueWeight = 24;
+	floUnderlayType.colorRGB = 6050884;
+	break;
+
+case 92:
+	floUnderlayType.texture = 1740;
+	floUnderlayType.hsl = 11;
+	floUnderlayType.color = 3692079;
+	floUnderlayType.saturation = 75;
+	floUnderlayType.lightness = 66;
+	floUnderlayType.hueWeight = 39;
+	floUnderlayType.colorRGB = 3692079;
+	break;
+
+case 93:
+	floUnderlayType.texture = 1848;
+	floUnderlayType.hsl = 2;
+	floUnderlayType.textureC = 760;
+	floUnderlayType.color = 4603956;
+	floUnderlayType.saturation = 37;
+	floUnderlayType.lightness = 61;
+	floUnderlayType.hueWeight = 18;
+	floUnderlayType.colorRGB = 4603956;
+	break;
+
+case 94:
+	floUnderlayType.texture = 1858;
+	floUnderlayType.hsl = 50;
+	floUnderlayType.color = 4090261;
+	floUnderlayType.saturation = 105;
+	floUnderlayType.lightness = 105;
+	floUnderlayType.hueWeight = 87;
+	floUnderlayType.colorRGB = 4090261;
+	break;
+
+case 95:
+	floUnderlayType.texture = 1846;
+	floUnderlayType.hsl = 7;
+	floUnderlayType.textureC = 800;
+	floUnderlayType.color = 4931092;
+	floUnderlayType.saturation = 148;
+	floUnderlayType.lightness = 47;
+	floUnderlayType.hueWeight = 55;
+	floUnderlayType.colorRGB = 4931092;
+	break;
+
+case 96:
+	floUnderlayType.texture = 1839;
+	floUnderlayType.hsl = 4;
+	floUnderlayType.textureC = 384;
+	floUnderlayType.color = 6050876;
+	floUnderlayType.saturation = 53;
+	floUnderlayType.lightness = 76;
+	floUnderlayType.hueWeight = 32;
+	floUnderlayType.colorRGB = 6050876;
+	break;
+
+case 97:
+	floUnderlayType.texture = 1879;
+	floUnderlayType.hsl = 2;
+	floUnderlayType.textureC = 416;
+	floUnderlayType.color = 3091231;
+	floUnderlayType.saturation = 52;
+	floUnderlayType.lightness = 39;
+	floUnderlayType.hueWeight = 16;
+	floUnderlayType.colorRGB = 3091231;
+	break;
+
+case 98:
+	floUnderlayType.texture = 1758;
+	floUnderlayType.hsl = 23;
+	floUnderlayType.textureC = 768;
+	floUnderlayType.color = 2583847;
+	floUnderlayType.saturation = 121;
+	floUnderlayType.lightness = 74;
+	floUnderlayType.hueWeight = 70;
+	floUnderlayType.colorRGB = 2583847;
+	break;
+
+case 99:
+	floUnderlayType.texture = 1748;
+	floUnderlayType.hsl = 19;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 3760661;
+	floUnderlayType.saturation = 165;
+	floUnderlayType.lightness = 59;
+	floUnderlayType.hueWeight = 77;
+	floUnderlayType.colorRGB = 3760661;
+	break;
+
+case 100:
+	floUnderlayType.texture = 1858;
+	floUnderlayType.color = 2763301;
+	floUnderlayType.saturation = 16;
+	floUnderlayType.lightness = 39;
+	floUnderlayType.hueWeight = 5;
+	floUnderlayType.colorRGB = 2763301;
+	break;
+
+case 101:
+	floUnderlayType.texture = 1789;
+	floUnderlayType.hsl = 8;
+	floUnderlayType.color = 12098407;
+	floUnderlayType.saturation = 92;
+	floUnderlayType.lightness = 143;
+	floUnderlayType.hueWeight = 81;
+	floUnderlayType.colorRGB = 12098407;
+	break;
+
+case 102:
+	floUnderlayType.texture = 1749;
+	floUnderlayType.hsl = 5;
+	floUnderlayType.color = 1121818;
+	floUnderlayType.saturation = 70;
+	floUnderlayType.lightness = 23;
+	floUnderlayType.hueWeight = 13;
+	floUnderlayType.colorRGB = 1121818;
+	break;
+
+case 103:
+	floUnderlayType.texture = 1781;
+	floUnderlayType.textureC = 256;
+	floUnderlayType.color = 4210752;
+	floUnderlayType.lightness = 64;
+	floUnderlayType.hueWeight = 1;
+	floUnderlayType.colorRGB = 4210752;
+	break;
+
+case 104:
+	floUnderlayType.texture = 1781;
+	floUnderlayType.textureC = 256;
+	floUnderlayType.color = 8089197;
+	floUnderlayType.saturation = 15;
+	floUnderlayType.lightness = 116;
+	floUnderlayType.hueWeight = 14;
+	floUnderlayType.colorRGB = 8089197;
+	break;
+
+case 105:
+	floUnderlayType.texture = 1800;
+	floUnderlayType.hsl = 6;
+	floUnderlayType.color = 8612420;
+	floUnderlayType.saturation = 81;
+	floUnderlayType.lightness = 99;
+	floUnderlayType.hueWeight = 63;
+	floUnderlayType.colorRGB = 8612420;
+	break;
+
+case 106:
+	floUnderlayType.texture = 1822;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.color = 4599077;
+	floUnderlayType.saturation = 78;
+	floUnderlayType.lightness = 53;
+	floUnderlayType.hueWeight = 33;
+	floUnderlayType.colorRGB = 4599077;
+	break;
+
+case 107:
+	floUnderlayType.texture = 1826;
+	floUnderlayType.color = 197379;
+	floUnderlayType.lightness = 3;
+	floUnderlayType.hueWeight = 1;
+	floUnderlayType.colorRGB = 197379;
+	break;
+
+case 108:
+	floUnderlayType.texture = 1882;
+	floUnderlayType.textureC = 192;
+	floUnderlayType.color = 1579032;
+	floUnderlayType.lightness = 24;
+	floUnderlayType.hueWeight = 1;
+	floUnderlayType.colorRGB = 1579032;
+	break;
+
+case 109:
+	floUnderlayType.texture = 1857;
+	floUnderlayType.textureC = 384;
+	floUnderlayType.color = 2105376;
+	floUnderlayType.lightness = 32;
+	floUnderlayType.hueWeight = 1;
+	floUnderlayType.colorRGB = 2105376;
+	break;
+
+case 110:
+	floUnderlayType.texture = 1874;
+	floUnderlayType.textureC = 768;
+	floUnderlayType.color = 6710886;
+	floUnderlayType.lightness = 102;
+	floUnderlayType.hueWeight = 1;
+	floUnderlayType.colorRGB = 6710886;
+	break;
+
+case 111:
+	floUnderlayType.texture = 1840;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 3355443;
+	floUnderlayType.lightness = 51;
+	floUnderlayType.hueWeight = 1;
+	floUnderlayType.colorRGB = 3355443;
+	break;
+
+case 112:
+	floUnderlayType.texture = 1858;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.textureC = 768;
+	floUnderlayType.color = 2829869;
+	floUnderlayType.saturation = 8;
+	floUnderlayType.lightness = 44;
+	floUnderlayType.hueWeight = 3;
+	floUnderlayType.colorRGB = 2829869;
+	break;
+
+case 113:
+	floUnderlayType.texture = 1881;
+	floUnderlayType.color = 2631720;
+	floUnderlayType.lightness = 40;
+	floUnderlayType.hueWeight = 1;
+	floUnderlayType.colorRGB = 2631720;
+	break;
+
+case 114:
+	floUnderlayType.texture = 1749;
+	floUnderlayType.hsl = 13;
+	floUnderlayType.color = 3362846;
+	floUnderlayType.saturation = 116;
+	floUnderlayType.lightness = 55;
+	floUnderlayType.hueWeight = 50;
+	floUnderlayType.colorRGB = 3362846;
+	break;
+
+case 115:
+	floUnderlayType.texture = 1889;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 16777215;
+	floUnderlayType.lightness = 255;
+	floUnderlayType.hueWeight = 1;
+	floUnderlayType.colorRGB = 16777215;
+	break;
+
+case 116:
+	floUnderlayType.texture = 1740;
+	floUnderlayType.hsl = 34;
+	floUnderlayType.textureC = 384;
+	floUnderlayType.color = 3507722;
+	floUnderlayType.saturation = 220;
+	floUnderlayType.lightness = 72;
+	floUnderlayType.hueWeight = 124;
+	floUnderlayType.colorRGB = 3507722;
+	break;
+
+case 117:
+	floUnderlayType.texture = 1843;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 7676450;
+	floUnderlayType.saturation = 140;
+	floUnderlayType.lightness = 75;
+	floUnderlayType.hueWeight = 83;
+	floUnderlayType.colorRGB = 7676450;
+	break;
+
+case 118:
+	floUnderlayType.texture = 1758;
+	floUnderlayType.hsl = 4;
+	floUnderlayType.textureC = 384;
+	floUnderlayType.color = 3686959;
+	floUnderlayType.saturation = 43;
+	floUnderlayType.lightness = 56;
+	floUnderlayType.hueWeight = 19;
+	floUnderlayType.colorRGB = 3686959;
+	break;
+
+case 119:
+	floUnderlayType.texture = 1740;
+	floUnderlayType.hsl = 11;
+	floUnderlayType.textureC = 384;
+	floUnderlayType.color = 3692079;
+	floUnderlayType.saturation = 75;
+	floUnderlayType.lightness = 66;
+	floUnderlayType.hueWeight = 39;
+	floUnderlayType.colorRGB = 3692079;
+	break;
+
+case 120:
+	floUnderlayType.texture = 1524;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.color = 6303784;
+	floUnderlayType.saturation = 105;
+	floUnderlayType.lightness = 68;
+	floUnderlayType.hueWeight = 56;
+	floUnderlayType.colorRGB = 6303784;
+	break;
+
+case 121:
+	floUnderlayType.texture = 1524;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 3145728;
+	floUnderlayType.saturation = 255;
+	floUnderlayType.lightness = 24;
+	floUnderlayType.hueWeight = 48;
+	floUnderlayType.colorRGB = 3145728;
+	break;
+
+case 122:
+	floUnderlayType.texture = 1872;
+	floUnderlayType.hsl = 2;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 2037256;
+	floUnderlayType.saturation = 150;
+	floUnderlayType.lightness = 19;
+	floUnderlayType.hueWeight = 23;
+	floUnderlayType.colorRGB = 2037256;
+	break;
+
+case 123:
+	floUnderlayType.texture = 1800;
+	floUnderlayType.hsl = 4;
+	floUnderlayType.color = 12103832;
+	floUnderlayType.saturation = 46;
+	floUnderlayType.lightness = 168;
+	floUnderlayType.hueWeight = 32;
+	floUnderlayType.colorRGB = 12103832;
+	break;
+
+case 124:
+	floUnderlayType.texture = 1780;
+	floUnderlayType.hsl = 3;
+	floUnderlayType.color = 10854025;
+	floUnderlayType.saturation = 34;
+	floUnderlayType.lightness = 151;
+	floUnderlayType.hueWeight = 28;
+	floUnderlayType.colorRGB = 10854025;
+	break;
+
+case 125:
+	floUnderlayType.texture = 1816;
+	floUnderlayType.hsl = 12;
+	floUnderlayType.color = 10720843;
+	floUnderlayType.saturation = 94;
+	floUnderlayType.lightness = 119;
+	floUnderlayType.hueWeight = 88;
+	floUnderlayType.colorRGB = 10720843;
+	break;
+
+case 126:
+	floUnderlayType.texture = 1872;
+	floUnderlayType.hsl = 3;
+	floUnderlayType.color = 3352340;
+	floUnderlayType.saturation = 111;
+	floUnderlayType.lightness = 35;
+	floUnderlayType.hueWeight = 30;
+	floUnderlayType.colorRGB = 3352340;
+	break;
+
+case 127:
+	floUnderlayType.texture = 1872;
+	floUnderlayType.hsl = 4;
+	floUnderlayType.textureC = 384;
+	floUnderlayType.color = 4141080;
+	floUnderlayType.saturation = 114;
+	floUnderlayType.lightness = 43;
+	floUnderlayType.hueWeight = 39;
+	floUnderlayType.colorRGB = 4141080;
+	break;
+
+case 128:
+	floUnderlayType.texture = 1817;
+	floUnderlayType.hsl = 8;
+	floUnderlayType.color = 8550724;
+	floUnderlayType.saturation = 80;
+	floUnderlayType.lightness = 99;
+	floUnderlayType.hueWeight = 62;
+	floUnderlayType.colorRGB = 8550724;
+	break;
+
+case 129:
+	floUnderlayType.texture = 1844;
+	floUnderlayType.hsl = 4;
+	floUnderlayType.color = 6840647;
+	floUnderlayType.saturation = 48;
+	floUnderlayType.lightness = 87;
+	floUnderlayType.hueWeight = 33;
+	floUnderlayType.colorRGB = 6840647;
+	break;
+
+case 130:
+	floUnderlayType.texture = 1801;
+	floUnderlayType.hsl = 4;
+	floUnderlayType.color = 11775120;
+	floUnderlayType.saturation = 47;
+	floUnderlayType.lightness = 161;
+	floUnderlayType.hueWeight = 35;
+	floUnderlayType.colorRGB = 11775120;
+	break;
+
+case 131:
+	floUnderlayType.texture = 1866;
+	floUnderlayType.hsl = 101;
+	floUnderlayType.color = 3338489;
+	floUnderlayType.saturation = 239;
+	floUnderlayType.lightness = 149;
+	floUnderlayType.hueWeight = 199;
+	floUnderlayType.colorRGB = 3338489;
+	break;
+
+case 132:
+	floUnderlayType.texture = 1866;
+	floUnderlayType.hsl = 34;
+	floUnderlayType.color = 12253949;
+	floUnderlayType.saturation = 234;
+	floUnderlayType.lightness = 219;
+	floUnderlayType.hueWeight = 67;
+	floUnderlayType.colorRGB = 12253949;
+	break;
+
+case 133:
+	floUnderlayType.texture = 1749;
+	floUnderlayType.hsl = 15;
+	floUnderlayType.color = 5338723;
+	floUnderlayType.saturation = 47;
+	floUnderlayType.lightness = 99;
+	floUnderlayType.hueWeight = 37;
+	floUnderlayType.colorRGB = 5338723;
+	break;
+
+case 134:
+	floUnderlayType.texture = 1828;
+	floUnderlayType.hsl = 4;
+	floUnderlayType.color = 7760721;
+	floUnderlayType.saturation = 47;
+	floUnderlayType.lightness = 99;
+	floUnderlayType.hueWeight = 37;
+	floUnderlayType.colorRGB = 7760721;
+	break;
+
+case 135:
+	floUnderlayType.texture = 2556;
+	floUnderlayType.hsl = 13;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.aBool7959 = false;
+	floUnderlayType.color = 14474480;
+	floUnderlayType.saturation = 98;
+	floUnderlayType.lightness = 230;
+	floUnderlayType.hueWeight = 20;
+	floUnderlayType.colorRGB = 14474480;
+	break;
+
+case 136:
+	floUnderlayType.texture = 1881;
+	floUnderlayType.hsl = 4;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 4141591;
+	floUnderlayType.saturation = 119;
+	floUnderlayType.lightness = 43;
+	floUnderlayType.hueWeight = 40;
+	floUnderlayType.colorRGB = 4141591;
+	break;
+
+case 137:
+	floUnderlayType.texture = 1817;
+	floUnderlayType.hsl = 9;
+	floUnderlayType.color = 12615752;
+	floUnderlayType.saturation = 123;
+	floUnderlayType.lightness = 132;
+	floUnderlayType.hueWeight = 120;
+	floUnderlayType.colorRGB = 12615752;
+	break;
+
+case 138:
+	floUnderlayType.texture = 1861;
+	floUnderlayType.color = 65793;
+	floUnderlayType.lightness = 1;
+	floUnderlayType.hueWeight = 1;
+	floUnderlayType.colorRGB = 65793;
+	break;
+
+case 139:
+	floUnderlayType.texture = 1817;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.color = 11051160;
+	floUnderlayType.saturation = 21;
+	floUnderlayType.lightness = 160;
+	floUnderlayType.hueWeight = 16;
+	floUnderlayType.colorRGB = 11051160;
+	break;
+
+case 140:
+	floUnderlayType.texture = 1837;
+	floUnderlayType.color = 3942435;
+	floUnderlayType.saturation = 67;
+	floUnderlayType.lightness = 47;
+	floUnderlayType.hueWeight = 25;
+	floUnderlayType.colorRGB = 3942435;
+	break;
+
+case 141:
+	floUnderlayType.texture = 322;
+	floUnderlayType.hsl = -9;
+	floUnderlayType.color = 14526173;
+	floUnderlayType.saturation = 112;
+	floUnderlayType.lightness = 193;
+	floUnderlayType.hueWeight = 55;
+	floUnderlayType.colorRGB = 14526173;
+	break;
+
+case 142:
+	floUnderlayType.texture = 1740;
+	floUnderlayType.hsl = 20;
+	floUnderlayType.color = 3697484;
+	floUnderlayType.saturation = 80;
+	floUnderlayType.lightness = 81;
+	floUnderlayType.hueWeight = 51;
+	floUnderlayType.colorRGB = 3697484;
+	break;
+
+case 143:
+	floUnderlayType.texture = 1758;
+	floUnderlayType.hsl = 16;
+	floUnderlayType.color = 2971197;
+	floUnderlayType.saturation = 80;
+	floUnderlayType.lightness = 65;
+	floUnderlayType.hueWeight = 41;
+	floUnderlayType.colorRGB = 2971197;
+	break;
+
+case 144:
+	floUnderlayType.texture = 1845;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 4210752;
+	floUnderlayType.lightness = 64;
+	floUnderlayType.hueWeight = 1;
+	floUnderlayType.colorRGB = 4210752;
+	break;
+
+case 145:
+	floUnderlayType.texture = 1848;
+	floUnderlayType.color = 3684408;
+	floUnderlayType.lightness = 56;
+	floUnderlayType.hueWeight = 1;
+	floUnderlayType.colorRGB = 3684408;
+	break;
+
+case 146:
+	floUnderlayType.texture = 1873;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 3158064;
+	floUnderlayType.lightness = 48;
+	floUnderlayType.hueWeight = 1;
+	floUnderlayType.colorRGB = 3158064;
+	break;
+
+case 147:
+	floUnderlayType.texture = 1881;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 2631720;
+	floUnderlayType.lightness = 40;
+	floUnderlayType.hueWeight = 1;
+	floUnderlayType.colorRGB = 2631720;
+	break;
+
+case 148:
+	floUnderlayType.texture = 1825;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 2105376;
+	floUnderlayType.lightness = 32;
+	floUnderlayType.hueWeight = 1;
+	floUnderlayType.colorRGB = 2105376;
+	break;
+
+case 149:
+	floUnderlayType.texture = 1855;
+	floUnderlayType.textureC = 768;
+	floUnderlayType.color = 1579032;
+	floUnderlayType.lightness = 24;
+	floUnderlayType.hueWeight = 1;
+	floUnderlayType.colorRGB = 1579032;
+	break;
+
+case 150:
+	floUnderlayType.texture = 1911;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.color = 5852997;
+	floUnderlayType.saturation = 32;
+	floUnderlayType.lightness = 79;
+	floUnderlayType.hueWeight = 20;
+	floUnderlayType.colorRGB = 5852997;
+	break;
+
+case 151:
+	floUnderlayType.texture = 1899;
+	floUnderlayType.hsl = 16;
+	floUnderlayType.color = 2971197;
+	floUnderlayType.saturation = 80;
+	floUnderlayType.lightness = 65;
+	floUnderlayType.hueWeight = 41;
+	floUnderlayType.colorRGB = 2971197;
+	break;
+
+case 152:
+	floUnderlayType.texture = 1906;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.color = 5852997;
+	floUnderlayType.saturation = 32;
+	floUnderlayType.lightness = 79;
+	floUnderlayType.hueWeight = 20;
+	floUnderlayType.colorRGB = 5852997;
+	break;
+
+case 153:
+	floUnderlayType.texture = 1902;
+	floUnderlayType.hsl = 16;
+	floUnderlayType.color = 2971197;
+	floUnderlayType.saturation = 80;
+	floUnderlayType.lightness = 65;
+	floUnderlayType.hueWeight = 41;
+	floUnderlayType.colorRGB = 2971197;
+	break;
+
+case 154:
+	floUnderlayType.texture = 2748;
+	floUnderlayType.hsl = 6;
+	floUnderlayType.color = 4345422;
+	floUnderlayType.saturation = 21;
+	floUnderlayType.lightness = 72;
+	floUnderlayType.hueWeight = 12;
+	floUnderlayType.colorRGB = 4345422;
+	break;
+
+case 155:
+	floUnderlayType.texture = 2759;
+	floUnderlayType.hsl = 2;
+	floUnderlayType.color = 2435626;
+	floUnderlayType.saturation = 16;
+	floUnderlayType.lightness = 39;
+	floUnderlayType.hueWeight = 5;
+	floUnderlayType.colorRGB = 2435626;
+	break;
+
+case 156:
+	floUnderlayType.texture = 2743;
+	floUnderlayType.hsl = 2;
+	floUnderlayType.color = 1974562;
+	floUnderlayType.saturation = 16;
+	floUnderlayType.lightness = 32;
+	floUnderlayType.hueWeight = 4;
+	floUnderlayType.colorRGB = 1974562;
+	break;
+
+case 157:
+	floUnderlayType.texture = 2556;
+	floUnderlayType.hsl = 13;
+	floUnderlayType.color = 14474480;
+	floUnderlayType.saturation = 98;
+	floUnderlayType.lightness = 230;
+	floUnderlayType.hueWeight = 20;
+	floUnderlayType.colorRGB = 14474480;
+	break;
+
+case 158:
+	floUnderlayType.texture = 1873;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 3158064;
+	floUnderlayType.lightness = 48;
+	floUnderlayType.hueWeight = 1;
+	floUnderlayType.colorRGB = 3158064;
+	break;
+
+case 159:
+	floUnderlayType.texture = 1743;
+	floUnderlayType.hsl = 9;
+	floUnderlayType.color = 2701327;
+	floUnderlayType.saturation = 147;
+	floUnderlayType.lightness = 35;
+	floUnderlayType.hueWeight = 41;
+	floUnderlayType.colorRGB = 2701327;
+	break;
+
+case 160:
+	floUnderlayType.texture = 1742;
+	floUnderlayType.hsl = 9;
+	floUnderlayType.color = 2701327;
+	floUnderlayType.saturation = 147;
+	floUnderlayType.lightness = 35;
+	floUnderlayType.hueWeight = 41;
+	floUnderlayType.colorRGB = 2701327;
+	break;
+
+case 161:
+	floUnderlayType.texture = 1767;
+	floUnderlayType.hsl = 8;
+	floUnderlayType.color = 3227416;
+	floUnderlayType.saturation = 114;
+	floUnderlayType.lightness = 43;
+	floUnderlayType.hueWeight = 39;
+	floUnderlayType.colorRGB = 3227416;
+	break;
+
+case 162:
+	floUnderlayType.texture = 1766;
+	floUnderlayType.hsl = 5;
+	floUnderlayType.color = 2106634;
+	floUnderlayType.saturation = 147;
+	floUnderlayType.lightness = 23;
+	floUnderlayType.hueWeight = 27;
+	floUnderlayType.colorRGB = 2106634;
+	break;
+
+case 163:
+	floUnderlayType.texture = 1853;
+	floUnderlayType.color = 1841171;
+	floUnderlayType.saturation = 49;
+	floUnderlayType.lightness = 23;
+	floUnderlayType.hueWeight = 9;
+	floUnderlayType.colorRGB = 1841171;
+	break;
+
+case 164:
+	floUnderlayType.texture = 2301;
+	floUnderlayType.hsl = 18;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 16740098;
+	floUnderlayType.saturation = 253;
+	floUnderlayType.lightness = 128;
+	floUnderlayType.hueWeight = 253;
+	floUnderlayType.colorRGB = 16740098;
+	break;
+
+case 165:
+	floUnderlayType.texture = 2307;
+	floUnderlayType.hsl = 12;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 12407558;
+	floUnderlayType.saturation = 240;
+	floUnderlayType.lightness = 97;
+	floUnderlayType.hueWeight = 183;
+	floUnderlayType.colorRGB = 12407558;
+	break;
+
+case 166:
+	floUnderlayType.texture = 1816;
+	floUnderlayType.hsl = 6;
+	floUnderlayType.color = 7890751;
+	floUnderlayType.saturation = 79;
+	floUnderlayType.lightness = 91;
+	floUnderlayType.hueWeight = 57;
+	floUnderlayType.colorRGB = 7890751;
+	break;
+
+case 167:
+	floUnderlayType.texture = 2980;
+	floUnderlayType.hsl = 7;
+	floUnderlayType.color = 9467211;
+	floUnderlayType.saturation = 80;
+	floUnderlayType.lightness = 109;
+	floUnderlayType.hueWeight = 69;
+	floUnderlayType.colorRGB = 9467211;
+	break;
+
+case 168:
+	floUnderlayType.texture = 1803;
+	floUnderlayType.hsl = 4;
+	floUnderlayType.color = 7756349;
+	floUnderlayType.saturation = 81;
+	floUnderlayType.lightness = 89;
+	floUnderlayType.hueWeight = 57;
+	floUnderlayType.colorRGB = 7756349;
+	break;
+
+case 169:
+	floUnderlayType.texture = 1896;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 16777215;
+	floUnderlayType.lightness = 255;
+	floUnderlayType.hueWeight = 1;
+	floUnderlayType.colorRGB = 16777215;
+	break;
+
+case 170:
+	floUnderlayType.texture = 1693;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 7676450;
+	floUnderlayType.saturation = 140;
+	floUnderlayType.lightness = 75;
+	floUnderlayType.hueWeight = 83;
+	floUnderlayType.colorRGB = 7676450;
+	break;
+
+case 171:
+	floUnderlayType.texture = 3166;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 6906969;
+	floUnderlayType.saturation = 21;
+	floUnderlayType.lightness = 97;
+	floUnderlayType.hueWeight = 16;
+	floUnderlayType.colorRGB = 6906969;
+	break;
+
+case 172:
+	floUnderlayType.texture = 4048;
+	floUnderlayType.color = 16777215;
+	floUnderlayType.lightness = 255;
+	floUnderlayType.hueWeight = 1;
+	floUnderlayType.colorRGB = 16777215;
+	break;
+
+case 173:
+	floUnderlayType.texture = 4090;
+	floUnderlayType.hsl = 34;
+	floUnderlayType.textureC = 320;
+	floUnderlayType.color = 3507722;
+	floUnderlayType.saturation = 220;
+	floUnderlayType.lightness = 72;
+	floUnderlayType.hueWeight = 124;
+	floUnderlayType.colorRGB = 3507722;
+	break;
+
+case 174:
+	floUnderlayType.texture = 4095;
+	floUnderlayType.hsl = 27;
+	floUnderlayType.textureC = 440;
+	floUnderlayType.color = 3502602;
+	floUnderlayType.saturation = 214;
+	floUnderlayType.lightness = 62;
+	floUnderlayType.hueWeight = 104;
+	floUnderlayType.colorRGB = 3502602;
+	break;
+
+case 175:
+	floUnderlayType.texture = 4092;
+	floUnderlayType.hsl = 9;
+	floUnderlayType.color = 2701327;
+	floUnderlayType.saturation = 147;
+	floUnderlayType.lightness = 35;
+	floUnderlayType.hueWeight = 41;
+	floUnderlayType.colorRGB = 2701327;
+	break;
+
+case 176:
+	floUnderlayType.texture = 4093;
+	floUnderlayType.hsl = 18;
+	floUnderlayType.color = 5793803;
+	floUnderlayType.saturation = 207;
+	floUnderlayType.lightness = 57;
+	floUnderlayType.hueWeight = 93;
+	floUnderlayType.colorRGB = 5793803;
+	break;
+
+case 177:
+	floUnderlayType.texture = 4085;
+	floUnderlayType.hsl = 36;
+	floUnderlayType.color = 7121936;
+	floUnderlayType.saturation = 212;
+	floUnderlayType.lightness = 94;
+	floUnderlayType.hueWeight = 156;
+	floUnderlayType.colorRGB = 7121936;
+	break;
+
+case 178:
+	floUnderlayType.texture = 4060;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.textureC = 600;
+	floUnderlayType.color = 6906969;
+	floUnderlayType.saturation = 21;
+	floUnderlayType.lightness = 97;
+	floUnderlayType.hueWeight = 16;
+	floUnderlayType.colorRGB = 6906969;
+	break;
+
+case 179:
+	floUnderlayType.texture = 4074;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.textureC = 600;
+	floUnderlayType.color = 6906969;
+	floUnderlayType.saturation = 21;
+	floUnderlayType.lightness = 97;
+	floUnderlayType.hueWeight = 16;
+	floUnderlayType.colorRGB = 6906969;
+	break;
+
+case 180:
+	floUnderlayType.texture = 4065;
+	floUnderlayType.hsl = 14;
+	floUnderlayType.textureC = 600;
+	floUnderlayType.color = 4090179;
+	floUnderlayType.saturation = 65;
+	floUnderlayType.lightness = 83;
+	floUnderlayType.hueWeight = 42;
+	floUnderlayType.colorRGB = 4090179;
+	break;
+
+case 181:
+	floUnderlayType.texture = 4069;
+	floUnderlayType.hsl = 5;
+	floUnderlayType.textureC = 600;
+	floUnderlayType.color = 6970430;
+	floUnderlayType.saturation = 67;
+	floUnderlayType.lightness = 84;
+	floUnderlayType.hueWeight = 44;
+	floUnderlayType.colorRGB = 6970430;
+	break;
+
+case 182:
+	floUnderlayType.texture = 4075;
+	floUnderlayType.hsl = 5;
+	floUnderlayType.textureC = 600;
+	floUnderlayType.color = 6970430;
+	floUnderlayType.saturation = 67;
+	floUnderlayType.lightness = 84;
+	floUnderlayType.hueWeight = 44;
+	floUnderlayType.colorRGB = 6970430;
+	break;
+
+case 183:
+	floUnderlayType.texture = 4079;
+	floUnderlayType.hsl = 14;
+	floUnderlayType.textureC = 600;
+	floUnderlayType.color = 4090179;
+	floUnderlayType.saturation = 65;
+	floUnderlayType.lightness = 83;
+	floUnderlayType.hueWeight = 42;
+	floUnderlayType.colorRGB = 4090179;
+	break;
+
+case 184:
+	floUnderlayType.texture = 4062;
+	floUnderlayType.hsl = 5;
+	floUnderlayType.textureC = 600;
+	floUnderlayType.color = 6970430;
+	floUnderlayType.saturation = 67;
+	floUnderlayType.lightness = 84;
+	floUnderlayType.hueWeight = 44;
+	floUnderlayType.colorRGB = 6970430;
+	break;
+
+case 185:
+	floUnderlayType.texture = 4063;
+	floUnderlayType.hsl = 5;
+	floUnderlayType.textureC = 600;
+	floUnderlayType.color = 6970430;
+	floUnderlayType.saturation = 67;
+	floUnderlayType.lightness = 84;
+	floUnderlayType.hueWeight = 44;
+	floUnderlayType.colorRGB = 6970430;
+	break;
+
+case 186:
+	floUnderlayType.texture = 4077;
+	floUnderlayType.hsl = 14;
+	floUnderlayType.textureC = 600;
+	floUnderlayType.color = 4090179;
+	floUnderlayType.saturation = 65;
+	floUnderlayType.lightness = 83;
+	floUnderlayType.hueWeight = 42;
+	floUnderlayType.colorRGB = 4090179;
+	break;
+
+case 187:
+	floUnderlayType.texture = 4067;
+	floUnderlayType.hsl = 5;
+	floUnderlayType.textureC = 600;
+	floUnderlayType.color = 6970430;
+	floUnderlayType.saturation = 67;
+	floUnderlayType.lightness = 84;
+	floUnderlayType.hueWeight = 44;
+	floUnderlayType.colorRGB = 6970430;
+	break;
+
+case 188:
+	floUnderlayType.texture = 4068;
+	floUnderlayType.hsl = 5;
+	floUnderlayType.textureC = 600;
+	floUnderlayType.color = 6970430;
+	floUnderlayType.saturation = 67;
+	floUnderlayType.lightness = 84;
+	floUnderlayType.hueWeight = 44;
+	floUnderlayType.colorRGB = 6970430;
+	break;
+
+case 189:
+	floUnderlayType.texture = 4076;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.textureC = 600;
+	floUnderlayType.color = 6906969;
+	floUnderlayType.saturation = 21;
+	floUnderlayType.lightness = 97;
+	floUnderlayType.hueWeight = 16;
+	floUnderlayType.colorRGB = 6906969;
+	break;
+
+case 190:
+	floUnderlayType.texture = 4080;
+	floUnderlayType.hsl = 5;
+	floUnderlayType.color = 4008715;
+	floUnderlayType.saturation = 177;
+	floUnderlayType.lightness = 36;
+	floUnderlayType.hueWeight = 50;
+	floUnderlayType.colorRGB = 4008715;
+	break;
+
+case 191:
+	floUnderlayType.texture = 4080;
+	floUnderlayType.hsl = 18;
+	floUnderlayType.textureC = 600;
+	floUnderlayType.color = 5793803;
+	floUnderlayType.saturation = 207;
+	floUnderlayType.lightness = 57;
+	floUnderlayType.hueWeight = 93;
+	floUnderlayType.colorRGB = 5793803;
+	break;
+
+case 192:
+	floUnderlayType.texture = 4073;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 12039345;
+	floUnderlayType.saturation = 10;
+	floUnderlayType.lightness = 180;
+	floUnderlayType.hueWeight = 6;
+	floUnderlayType.colorRGB = 12039345;
+	break;
+
+case 193:
+	floUnderlayType.texture = 4272;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.textureC = 600;
+	floUnderlayType.color = 6906969;
+	floUnderlayType.saturation = 21;
+	floUnderlayType.lightness = 97;
+	floUnderlayType.hueWeight = 16;
+	floUnderlayType.colorRGB = 6906969;
+	break;
+
+case 194:
+	floUnderlayType.texture = 4271;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.textureC = 600;
+	floUnderlayType.color = 6906969;
+	floUnderlayType.saturation = 21;
+	floUnderlayType.lightness = 97;
+	floUnderlayType.hueWeight = 16;
+	floUnderlayType.colorRGB = 6906969;
+	break;
+
+case 195:
+	floUnderlayType.texture = 4273;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.textureC = 600;
+	floUnderlayType.occludeOverlay = false;
+	floUnderlayType.color = 6906969;
+	floUnderlayType.saturation = 21;
+	floUnderlayType.lightness = 97;
+	floUnderlayType.hueWeight = 16;
+	floUnderlayType.colorRGB = 6906969;
+	break;
+
+case 196:
+	floUnderlayType.texture = 4469;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 6906969;
+	floUnderlayType.saturation = 21;
+	floUnderlayType.lightness = 97;
+	floUnderlayType.hueWeight = 16;
+	floUnderlayType.colorRGB = 6906969;
+	break;
+
+case 197:
+	floUnderlayType.texture = 4461;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 6906969;
+	floUnderlayType.saturation = 21;
+	floUnderlayType.lightness = 97;
+	floUnderlayType.hueWeight = 16;
+	floUnderlayType.colorRGB = 6906969;
+	break;
+
+case 198:
+	floUnderlayType.texture = 4462;
+	floUnderlayType.hsl = 17;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 5003881;
+	floUnderlayType.saturation = 41;
+	floUnderlayType.lightness = 90;
+	floUnderlayType.hueWeight = 29;
+	floUnderlayType.colorRGB = 5003881;
+	break;
+
+case 199:
+	floUnderlayType.texture = 4466;
+	floUnderlayType.hsl = 28;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 4800616;
+	floUnderlayType.saturation = 60;
+	floUnderlayType.lightness = 84;
+	floUnderlayType.hueWeight = 40;
+	floUnderlayType.colorRGB = 4800616;
+	break;
+
+case 200:
+	floUnderlayType.texture = 4557;
+	floUnderlayType.hsl = 5;
+	floUnderlayType.textureC = 600;
+	floUnderlayType.occludeOverlay = false;
+	floUnderlayType.color = 6970430;
+	floUnderlayType.saturation = 67;
+	floUnderlayType.lightness = 84;
+	floUnderlayType.hueWeight = 44;
+	floUnderlayType.colorRGB = 6970430;
+	break;
+
+case 201:
+	floUnderlayType.texture = 4570;
+	floUnderlayType.hsl = 7;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 14662286;
+	floUnderlayType.saturation = 141;
+	floUnderlayType.lightness = 182;
+	floUnderlayType.hueWeight = 80;
+	floUnderlayType.colorRGB = 14662286;
+	break;
+
+case 202:
+	floUnderlayType.texture = 4571;
+	floUnderlayType.hsl = 7;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 13872770;
+	floUnderlayType.saturation = 121;
+	floUnderlayType.lightness = 170;
+	floUnderlayType.hueWeight = 81;
+	floUnderlayType.colorRGB = 13872770;
+	break;
+
+case 203:
+	floUnderlayType.texture = 4061;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.textureC = 2048;
+	floUnderlayType.color = 8685442;
+	floUnderlayType.saturation = 5;
+	floUnderlayType.lightness = 132;
+	floUnderlayType.hueWeight = 5;
+	floUnderlayType.colorRGB = 8685442;
+	break;
+
+case 204:
+	floUnderlayType.texture = 4646;
+	floUnderlayType.hsl = 2;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.aBool7959 = false;
+	floUnderlayType.color = 4934458;
+	floUnderlayType.saturation = 32;
+	floUnderlayType.lightness = 66;
+	floUnderlayType.hueWeight = 17;
+	floUnderlayType.colorRGB = 4934458;
+	break;
+
+case 205:
+	floUnderlayType.texture = 4634;
+	floUnderlayType.hsl = 7;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.aBool7959 = false;
+	floUnderlayType.color = 6974012;
+	floUnderlayType.saturation = 70;
+	floUnderlayType.lightness = 83;
+	floUnderlayType.hueWeight = 46;
+	floUnderlayType.colorRGB = 6974012;
+	break;
+
+case 206:
+	floUnderlayType.texture = 2111;
+	floUnderlayType.hsl = 26;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 9017094;
+	floUnderlayType.saturation = 236;
+	floUnderlayType.lightness = 78;
+	floUnderlayType.hueWeight = 145;
+	floUnderlayType.colorRGB = 9017094;
+	break;
+
+case 207:
+	floUnderlayType.texture = 4648;
+	floUnderlayType.hsl = 16;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 4675074;
+	floUnderlayType.saturation = 244;
+	floUnderlayType.lightness = 44;
+	floUnderlayType.hueWeight = 84;
+	floUnderlayType.colorRGB = 4675074;
+	break;
+
+case 208:
+	floUnderlayType.texture = 4755;
+	floUnderlayType.hsl = 26;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 9017094;
+	floUnderlayType.saturation = 236;
+	floUnderlayType.lightness = 78;
+	floUnderlayType.hueWeight = 145;
+	floUnderlayType.colorRGB = 9017094;
+	break;
+
+case 209:
+	floUnderlayType.texture = 4743;
+	floUnderlayType.hsl = 8;
+	floUnderlayType.textureC = 3072;
+	floUnderlayType.color = 3227416;
+	floUnderlayType.saturation = 114;
+	floUnderlayType.lightness = 43;
+	floUnderlayType.hueWeight = 39;
+	floUnderlayType.colorRGB = 3227416;
+	break;
+
+case 210:
+	floUnderlayType.texture = 4773;
+	floUnderlayType.hsl = 9;
+	floUnderlayType.color = 2701327;
+	floUnderlayType.saturation = 147;
+	floUnderlayType.lightness = 35;
+	floUnderlayType.hueWeight = 41;
+	floUnderlayType.colorRGB = 2701327;
+	break;
+
+case 211:
+	floUnderlayType.texture = 4774;
+	floUnderlayType.hsl = 5;
+	floUnderlayType.color = 2106634;
+	floUnderlayType.saturation = 147;
+	floUnderlayType.lightness = 23;
+	floUnderlayType.hueWeight = 27;
+	floUnderlayType.colorRGB = 2106634;
+	break;
+
+case 212:
+	floUnderlayType.texture = 4772;
+	floUnderlayType.hsl = 18;
+	floUnderlayType.color = 5793803;
+	floUnderlayType.saturation = 207;
+	floUnderlayType.lightness = 57;
+	floUnderlayType.hueWeight = 93;
+	floUnderlayType.colorRGB = 5793803;
+	break;
+
+case 213:
+	floUnderlayType.texture = 4776;
+	floUnderlayType.color = 1841171;
+	floUnderlayType.saturation = 49;
+	floUnderlayType.lightness = 23;
+	floUnderlayType.hueWeight = 9;
+	floUnderlayType.colorRGB = 1841171;
+	break;
+
+case 214:
+	floUnderlayType.texture = 4775;
+	floUnderlayType.hsl = 7;
+	floUnderlayType.color = 4931092;
+	floUnderlayType.saturation = 148;
+	floUnderlayType.lightness = 47;
+	floUnderlayType.hueWeight = 55;
+	floUnderlayType.colorRGB = 4931092;
+	break;
+
+case 215:
+	floUnderlayType.texture = 4781;
+	floUnderlayType.hsl = 5;
+	floUnderlayType.color = 4008715;
+	floUnderlayType.saturation = 177;
+	floUnderlayType.lightness = 36;
+	floUnderlayType.hueWeight = 50;
+	floUnderlayType.colorRGB = 4008715;
+	break;
+
+case 216:
+	floUnderlayType.texture = 4782;
+	floUnderlayType.hsl = 8;
+	floUnderlayType.color = 6573598;
+	floUnderlayType.saturation = 137;
+	floUnderlayType.lightness = 65;
+	floUnderlayType.hueWeight = 70;
+	floUnderlayType.colorRGB = 6573598;
+	break;
+
+case 217:
+	floUnderlayType.texture = 4780;
+	floUnderlayType.color = 1841171;
+	floUnderlayType.saturation = 49;
+	floUnderlayType.lightness = 23;
+	floUnderlayType.hueWeight = 9;
+	floUnderlayType.colorRGB = 1841171;
+	break;
+
+case 218:
+	floUnderlayType.texture = 4804;
+	floUnderlayType.hsl = 50;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 8703201;
+	floUnderlayType.saturation = 153;
+	floUnderlayType.lightness = 178;
+	floUnderlayType.hueWeight = 93;
+	floUnderlayType.colorRGB = 8703201;
+	break;
+
+case 219:
+	floUnderlayType.texture = 4804;
+	floUnderlayType.hsl = 51;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 8700385;
+	floUnderlayType.saturation = 153;
+	floUnderlayType.lightness = 178;
+	floUnderlayType.hueWeight = 93;
+	floUnderlayType.colorRGB = 8700385;
+	break;
+
+case 220:
+	floUnderlayType.texture = 4804;
+	floUnderlayType.hsl = 55;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 8694241;
+	floUnderlayType.saturation = 153;
+	floUnderlayType.lightness = 178;
+	floUnderlayType.hueWeight = 93;
+	floUnderlayType.colorRGB = 8694241;
+	break;
+
+case 221:
+	floUnderlayType.texture = 5007;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.textureC = 2048;
+	floUnderlayType.color = 5588282;
+	floUnderlayType.saturation = 48;
+	floUnderlayType.lightness = 71;
+	floUnderlayType.hueWeight = 27;
+	floUnderlayType.colorRGB = 5588282;
+	break;
+
+case 222:
+	floUnderlayType.texture = 5008;
+	floUnderlayType.hsl = 2;
+	floUnderlayType.textureC = 2048;
+	floUnderlayType.color = 7955282;
+	floUnderlayType.saturation = 49;
+	floUnderlayType.lightness = 101;
+	floUnderlayType.hueWeight = 39;
+	floUnderlayType.colorRGB = 7955282;
+	break;
+
+case 223:
+	floUnderlayType.texture = 5009;
+	floUnderlayType.hsl = 3;
+	floUnderlayType.textureC = 2048;
+	floUnderlayType.color = 9335905;
+	floUnderlayType.saturation = 48;
+	floUnderlayType.lightness = 119;
+	floUnderlayType.hueWeight = 45;
+	floUnderlayType.colorRGB = 9335905;
+	break;
+
+case 224:
+	floUnderlayType.texture = 5156;
+	floUnderlayType.hsl = 7;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 14662286;
+	floUnderlayType.saturation = 141;
+	floUnderlayType.lightness = 182;
+	floUnderlayType.hueWeight = 80;
+	floUnderlayType.colorRGB = 14662286;
+	break;
+
+case 225:
+	floUnderlayType.texture = 5157;
+	floUnderlayType.hsl = 7;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 13872770;
+	floUnderlayType.saturation = 121;
+	floUnderlayType.lightness = 170;
+	floUnderlayType.hueWeight = 81;
+	floUnderlayType.colorRGB = 13872770;
+	break;
+
+case 226:
+	floUnderlayType.texture = 3943;
+	floUnderlayType.hsl = 1;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 3676431;
+	floUnderlayType.saturation = 147;
+	floUnderlayType.lightness = 35;
+	floUnderlayType.hueWeight = 41;
+	floUnderlayType.colorRGB = 3676431;
+	break;
+
+case 227:
+	floUnderlayType.texture = 3752;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 4012598;
+	floUnderlayType.saturation = 15;
+	floUnderlayType.lightness = 57;
+	floUnderlayType.hueWeight = 7;
+	floUnderlayType.colorRGB = 4012598;
+	break;
+
+case 228:
+	floUnderlayType.texture = 5191;
+	floUnderlayType.hsl = 2;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 8156259;
+	floUnderlayType.saturation = 28;
+	floUnderlayType.lightness = 111;
+	floUnderlayType.hueWeight = 25;
+	floUnderlayType.colorRGB = 8156259;
+	break;
+
+case 229:
+	floUnderlayType.texture = 4962;
+	floUnderlayType.hsl = 2;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 8156259;
+	floUnderlayType.saturation = 28;
+	floUnderlayType.lightness = 111;
+	floUnderlayType.hueWeight = 25;
+	floUnderlayType.colorRGB = 8156259;
+	break;
+
+case 230:
+	floUnderlayType.texture = 5310;
+	floUnderlayType.hsl = 2;
+	floUnderlayType.textureC = 2048;
+	floUnderlayType.color = 2435626;
+	floUnderlayType.saturation = 16;
+	floUnderlayType.lightness = 39;
+	floUnderlayType.hueWeight = 5;
+	floUnderlayType.colorRGB = 2435626;
+	break;
+
+case 231:
+	floUnderlayType.texture = 5311;
+	floUnderlayType.hsl = 2;
+	floUnderlayType.textureC = 2048;
+	floUnderlayType.color = 2435626;
+	floUnderlayType.saturation = 16;
+	floUnderlayType.lightness = 39;
+	floUnderlayType.hueWeight = 5;
+	floUnderlayType.colorRGB = 2435626;
+	break;
+
+case 232:
+	floUnderlayType.texture = 5312;
+	floUnderlayType.hsl = 4;
+	floUnderlayType.textureC = 2048;
+	floUnderlayType.color = 2107432;
+	floUnderlayType.saturation = 28;
+	floUnderlayType.lightness = 36;
+	floUnderlayType.hueWeight = 8;
+	floUnderlayType.colorRGB = 2107432;
+	break;
+
+case 233:
+	floUnderlayType.texture = 5313;
+	floUnderlayType.hsl = 2;
+	floUnderlayType.textureC = 2048;
+	floUnderlayType.color = 2435626;
+	floUnderlayType.saturation = 16;
+	floUnderlayType.lightness = 39;
+	floUnderlayType.hueWeight = 5;
+	floUnderlayType.colorRGB = 2435626;
+	break;
+
+case 234:
+	floUnderlayType.texture = 5319;
+	floUnderlayType.hsl = 13;
+	floUnderlayType.textureC = 2048;
+	floUnderlayType.color = 14474480;
+	floUnderlayType.saturation = 98;
+	floUnderlayType.lightness = 230;
+	floUnderlayType.hueWeight = 20;
+	floUnderlayType.colorRGB = 14474480;
+	break;
+
+case 235:
+	floUnderlayType.texture = 5320;
+	floUnderlayType.hsl = 50;
+	floUnderlayType.textureC = 2048;
+	floUnderlayType.color = 4090261;
+	floUnderlayType.saturation = 105;
+	floUnderlayType.lightness = 105;
+	floUnderlayType.hueWeight = 87;
+	floUnderlayType.colorRGB = 4090261;
+	break;
+
+case 236:
+	floUnderlayType.texture = 5304;
+	floUnderlayType.hsl = 50;
+	floUnderlayType.textureC = 2048;
+	floUnderlayType.color = 4090261;
+	floUnderlayType.saturation = 105;
+	floUnderlayType.lightness = 105;
+	floUnderlayType.hueWeight = 87;
+	floUnderlayType.colorRGB = 4090261;
+	break;
+
+case 237:
+	floUnderlayType.texture = 5305;
+	floUnderlayType.hsl = 39;
+	floUnderlayType.textureC = 2048;
+	floUnderlayType.color = 5601177;
+	floUnderlayType.saturation = 73;
+	floUnderlayType.lightness = 119;
+	floUnderlayType.hueWeight = 68;
+	floUnderlayType.colorRGB = 5601177;
+	break;
+
+case 238:
+	floUnderlayType.texture = 5294;
+	floUnderlayType.hsl = 5;
+	floUnderlayType.textureC = 2048;
+	floUnderlayType.color = 4008715;
+	floUnderlayType.saturation = 177;
+	floUnderlayType.lightness = 36;
+	floUnderlayType.hueWeight = 50;
+	floUnderlayType.colorRGB = 4008715;
+	break;
+
+case 239:
+	floUnderlayType.texture = 5295;
+	floUnderlayType.textureC = 1540;
+	floUnderlayType.color = 3942435;
+	floUnderlayType.saturation = 67;
+	floUnderlayType.lightness = 47;
+	floUnderlayType.hueWeight = 25;
+	floUnderlayType.colorRGB = 3942435;
+	break;
+
+case 240:
+	floUnderlayType.texture = 5299;
+	floUnderlayType.hsl = 2;
+	floUnderlayType.textureC = 2048;
+	floUnderlayType.color = 2435626;
+	floUnderlayType.saturation = 16;
+	floUnderlayType.lightness = 39;
+	floUnderlayType.hueWeight = 5;
+	floUnderlayType.colorRGB = 2435626;
+	break;
+
+case 241:
+	floUnderlayType.texture = 5300;
+	floUnderlayType.hsl = 4;
+	floUnderlayType.textureC = 2048;
+	floUnderlayType.color = 2107432;
+	floUnderlayType.saturation = 28;
+	floUnderlayType.lightness = 36;
+	floUnderlayType.hueWeight = 8;
+	floUnderlayType.colorRGB = 2107432;
+	break;
+
+case 242:
+	floUnderlayType.texture = 5423;
+	floUnderlayType.hsl = 8;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 11837295;
+	floUnderlayType.saturation = 79;
+	floUnderlayType.lightness = 145;
+	floUnderlayType.hueWeight = 69;
+	floUnderlayType.colorRGB = 11837295;
+	break;
+
+case 243:
+	floUnderlayType.texture = 5424;
+	floUnderlayType.hsl = 8;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 11837295;
+	floUnderlayType.saturation = 79;
+	floUnderlayType.lightness = 145;
+	floUnderlayType.hueWeight = 69;
+	floUnderlayType.colorRGB = 11837295;
+	break;
+
+case 244:
+	floUnderlayType.texture = 5740;
+	floUnderlayType.hsl = 8;
+	floUnderlayType.textureC = 2048;
+	floUnderlayType.color = 11837295;
+	floUnderlayType.saturation = 79;
+	floUnderlayType.lightness = 145;
+	floUnderlayType.hueWeight = 69;
+	floUnderlayType.colorRGB = 11837295;
+	break;
+
+case 245:
+	floUnderlayType.texture = 5784;
+	floUnderlayType.hsl = 2;
+	floUnderlayType.textureC = 2048;
+	floUnderlayType.color = 8156259;
+	floUnderlayType.saturation = 28;
+	floUnderlayType.lightness = 111;
+	floUnderlayType.hueWeight = 25;
+	floUnderlayType.colorRGB = 8156259;
+	break;
+
+case 246:
+	floUnderlayType.texture = 5785;
+	floUnderlayType.hsl = 8;
+	floUnderlayType.textureC = 2048;
+	floUnderlayType.color = 8550724;
+	floUnderlayType.saturation = 80;
+	floUnderlayType.lightness = 99;
+	floUnderlayType.hueWeight = 62;
+	floUnderlayType.colorRGB = 8550724;
+	break;
+
+case 247:
+	floUnderlayType.texture = 5783;
+	floUnderlayType.hsl = 4;
+	floUnderlayType.textureC = 2048;
+	floUnderlayType.color = 3686959;
+	floUnderlayType.saturation = 43;
+	floUnderlayType.lightness = 56;
+	floUnderlayType.hueWeight = 19;
+	floUnderlayType.colorRGB = 3686959;
+	break;
+
+case 248:
+	floUnderlayType.texture = 5423;
+	floUnderlayType.hsl = 7;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 9534285;
+	floUnderlayType.saturation = 78;
+	floUnderlayType.lightness = 111;
+	floUnderlayType.hueWeight = 68;
+	floUnderlayType.colorRGB = 9534285;
+	break;
+
+case 249:
+	floUnderlayType.texture = 5424;
+	floUnderlayType.hsl = 8;
+	floUnderlayType.textureC = 1024;
+	floUnderlayType.color = 10984040;
+	floUnderlayType.saturation = 66;
+	floUnderlayType.lightness = 135;
+	floUnderlayType.hueWeight = 63;
+	floUnderlayType.colorRGB = 10984040;
+	break;
+
+case 250:
+	floUnderlayType.texture = 5910;
+	floUnderlayType.hsl = 20;
+	floUnderlayType.textureC = 2048;
+	floUnderlayType.color = 3697484;
+	floUnderlayType.saturation = 80;
+	floUnderlayType.lightness = 81;
+	floUnderlayType.hueWeight = 51;
+	floUnderlayType.colorRGB = 3697484;
+	break;
+
+case 251:
+	floUnderlayType.texture = 5909;
+	floUnderlayType.hsl = 2;
+	floUnderlayType.textureC = 2048;
+	floUnderlayType.color = 2435626;
+	floUnderlayType.saturation = 16;
+	floUnderlayType.lightness = 39;
+	floUnderlayType.hueWeight = 5;
+	floUnderlayType.colorRGB = 2435626;
+	break;
+
+case 252:
+	floUnderlayType.texture = 6004;
+	floUnderlayType.hsl = 27;
+	floUnderlayType.color = 3502602;
+	floUnderlayType.saturation = 214;
+	floUnderlayType.lightness = 62;
+	floUnderlayType.hueWeight = 104;
+	floUnderlayType.colorRGB = 3502602;
+	break;

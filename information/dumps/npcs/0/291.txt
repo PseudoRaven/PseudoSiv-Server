@@ -1,0 +1,10 @@
+id=291
+name=Farmer Brumty
+description=A farmer who's seen happier times.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

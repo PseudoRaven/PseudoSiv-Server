@@ -1,0 +1,10 @@
+id=11009
+name=Guardian sphere
+description=A sphere of dangerous portal energy.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dungeoneering"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=7202
+name=Rat
+description=It has chocolate all round its mouth.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Easter 2009"]
+aggressive=false
+members=false

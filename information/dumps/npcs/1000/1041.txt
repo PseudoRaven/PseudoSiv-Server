@@ -1,0 +1,10 @@
+id=1041
+name=Sbott
+description=Has a faint smell of chemicals about him.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

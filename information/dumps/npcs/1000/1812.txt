@@ -1,0 +1,17 @@
+id=1812
+name=The Kendal
+description=Is that a bear... or a man?
+size=2
+xp=73.3
+lifepoints=3000
+level=32
+attack=23
+defence=23
+ranged=23
+magic=23
+animations={death:1759,attack:1760}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

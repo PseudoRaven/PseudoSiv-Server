@@ -1,0 +1,17 @@
+id=15300
+name=Forgotten warrior
+description=He want his face punched off.
+size=1
+xp=0
+lifepoints=2000
+level=42
+attack=30
+defence=30
+ranged=30
+magic=30
+animations={death:836,attack:12310}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

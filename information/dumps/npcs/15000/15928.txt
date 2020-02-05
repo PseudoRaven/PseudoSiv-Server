@@ -1,0 +1,10 @@
+id=15928
+name=Skulls mercenary
+description=This one's top rolling.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["The Skullery"]
+aggressive=false
+members=false

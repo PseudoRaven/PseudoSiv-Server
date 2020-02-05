@@ -1,0 +1,17 @@
+id=8561
+name=Lesser reborn ranger
+description=A ranger that died and was reborn through the phoenix's power.
+size=2
+xp=151.8
+lifepoints=2450
+level=68
+attack=36
+defence=49
+ranged=49
+magic=0
+animations={range:11121,death:11122}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=[]
+aggressive=true

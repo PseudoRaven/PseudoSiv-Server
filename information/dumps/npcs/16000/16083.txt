@@ -1,0 +1,17 @@
+id=16083
+name=Skeletal peon
+description=Looks like he's had better days.
+size=1
+xp=0
+lifepoints=10
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:17932,attack:17937}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

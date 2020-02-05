@@ -1,0 +1,17 @@
+id=7837
+name=Customs Officer
+description=Inspects people's packages.
+size=1
+xp=56.1
+lifepoints=1350
+level=37
+attack=27
+defence=27
+ranged=0
+magic=0
+animations={death:836,attack:390}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface"]
+aggressive=true

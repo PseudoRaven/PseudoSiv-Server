@@ -1,0 +1,10 @@
+id=9406
+name=Louis the Camel
+description=A camel who likes to complain.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Xmas 2009"]
+aggressive=false
+members=false

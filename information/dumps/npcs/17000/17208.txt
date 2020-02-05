@@ -1,0 +1,17 @@
+id=17208
+name=Snowverload
+description=He has snow business being here!
+size=5
+xp=49812.4
+lifepoints=200000
+level=0
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:7560,attack:25381}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

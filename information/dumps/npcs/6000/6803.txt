@@ -1,0 +1,17 @@
+id=6803
+name=Spirit cobra
+description=Serpentine.
+size=2
+xp=288
+lifepoints=7300
+level=75
+attack=57
+defence=51
+ranged=57
+magic=57
+animations={death:8153,attack:8152}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

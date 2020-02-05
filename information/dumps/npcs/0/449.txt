@@ -1,0 +1,17 @@
+id=449
+name=Jail guard
+description=This jail's open for business again.
+size=1
+xp=46.5
+lifepoints=1100
+level=30
+attack=22
+defence=22
+ranged=0
+magic=0
+animations={death:836,attack:401}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

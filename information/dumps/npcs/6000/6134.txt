@@ -1,0 +1,10 @@
+id=6134
+name=Dunce
+description=This imp is clearly the class clown.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Classroom"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=6074
+name=Imp defender
+description=An angry little imp. Grrr.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Wheat maze"]
+aggressive=true
+members=true

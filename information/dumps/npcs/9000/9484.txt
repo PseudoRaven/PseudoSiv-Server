@@ -1,0 +1,10 @@
+id=9484
+name=Ravenous locust
+description=It's like a little stomach on wings.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Spirit Plane"]
+aggressive=true
+members=true

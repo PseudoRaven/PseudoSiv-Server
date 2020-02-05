@@ -1,0 +1,11 @@
+id=8302
+name=Turael
+description=He looks dangerous!
+xp=536.7
+animations={}
+attackable=true
+poisonous=false
+weakness="None"
+areas=["Wilderness"]
+aggressive=false
+members=false

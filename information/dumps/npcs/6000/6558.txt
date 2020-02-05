@@ -1,0 +1,10 @@
+id=6558
+name=Guard no. 103
+description=Tapping his feet and looking very bored.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Arposandran underground"]
+aggressive=false
+members=false

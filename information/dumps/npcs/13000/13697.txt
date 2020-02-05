@@ -1,0 +1,10 @@
+id=13697
+name=Captain Jute
+description=Captain of the Imperial Guard.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface","Burthorpe"]
+aggressive=false
+members=false

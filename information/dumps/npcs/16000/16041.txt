@@ -1,0 +1,17 @@
+id=16041
+name=Magic training dummy
+description=Weak against arrows.
+size=1
+xp=2502.4
+lifepoints=10000
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={attack:15801}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=[]
+aggressive=false

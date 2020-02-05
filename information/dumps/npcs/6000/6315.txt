@@ -1,0 +1,10 @@
+id=6315
+name=Guard no. 72
+description=He looks even more bored.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Sewer"]
+aggressive=false
+members=false

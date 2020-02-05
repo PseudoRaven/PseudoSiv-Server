@@ -1,0 +1,17 @@
+id=8245
+name=Clay familiar (class 3)
+description=A sacred familiar made of medium quality clay.
+size=2
+xp=99.3
+lifepoints=2000
+level=56
+attack=40
+defence=40
+ranged=40
+magic=40
+animations={death:10597,attack:10591}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

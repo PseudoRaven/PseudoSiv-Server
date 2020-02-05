@@ -1,0 +1,17 @@
+id=5603
+name=Unicow
+description=Half unicorn, half cow.
+size=2
+xp=103.8
+lifepoints=2050
+level=57
+attack=30
+defence=41
+ranged=0
+magic=41
+animations={death:5851,attack:5849}
+attackable=true
+poisonous=false
+weakness="Bolt"
+areas=[]
+aggressive=true

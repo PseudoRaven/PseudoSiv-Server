@@ -1,0 +1,17 @@
+id=17604
+name=Zamorakian siege beast
+description=Bred for destruction.
+size=5
+xp=410.8
+lifepoints=212500
+level=0
+attack=132
+defence=132
+ranged=132
+magic=132
+animations={death:20685,attack:20785}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

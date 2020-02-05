@@ -1,0 +1,17 @@
+id=3585
+name=Huge spider
+description=No spider could grow that big! It's unrealistic!
+size=2
+xp=0
+lifepoints=4300
+level=100
+attack=1
+defence=72
+ranged=72
+magic=1
+animations={death:5321,attack:5319}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=true

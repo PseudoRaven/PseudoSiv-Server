@@ -1,0 +1,10 @@
+id=7909
+name=Roddeck
+description=A helpful soul who loves dispensing advice.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

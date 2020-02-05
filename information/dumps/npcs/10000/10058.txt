@@ -1,0 +1,10 @@
+id=10058
+name=Divine skinweaver
+description=An immensely powerful healer of the gorajo.
+xp=261.4
+animations={}
+attackable=true
+poisonous=false
+areas=["Dungeoneering","Dungeon"]
+aggressive=true
+members=false

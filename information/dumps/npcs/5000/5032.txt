@@ -1,0 +1,10 @@
+id=5032
+name=Private Pendron
+description=A barbarian private.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface","Barbarian Assault lobby"]
+aggressive=false
+members=true

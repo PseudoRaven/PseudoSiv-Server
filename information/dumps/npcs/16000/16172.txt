@@ -1,0 +1,10 @@
+id=16172
+name=Wizard Jalarast
+description=The tower's armourer.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface","Wizards' Tower"]
+aggressive=false
+members=false

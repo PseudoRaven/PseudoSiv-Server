@@ -1,0 +1,10 @@
+id=19284
+name=Quartermaster
+description=He used to be a full master until he got too old.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

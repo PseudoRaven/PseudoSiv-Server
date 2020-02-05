@@ -1,0 +1,10 @@
+id=2951
+name=Felkrash
+description=What is she looking at?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Rat pits"]
+aggressive=false
+members=true

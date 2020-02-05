@@ -1,0 +1,10 @@
+id=6788
+name=High Priest of Scabaras
+description=He exudes something like holiness.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Scabaras Dungeon"]
+aggressive=false
+members=false

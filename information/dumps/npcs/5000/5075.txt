@@ -1,0 +1,11 @@
+id=5075
+name=Golden warbler
+description=Actually, golden screecher might be a more appropriate name.
+xp=0.5
+animations={}
+attackable=true
+poisonous=false
+slayercat=Birds
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

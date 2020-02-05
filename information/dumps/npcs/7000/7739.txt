@@ -1,0 +1,10 @@
+id=7739
+name=Phil
+description=He works at the Lumber Yard.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

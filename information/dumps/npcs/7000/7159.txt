@@ -1,0 +1,17 @@
+id=7159
+name=Cockroach worker
+description=Eurgh! A big bug.
+size=2
+xp=46.5
+lifepoints=1100
+level=30
+attack=22
+defence=22
+ranged=1
+magic=1
+animations={death:8790,attack:8787}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=["Stronghold of Safety"]
+aggressive=false

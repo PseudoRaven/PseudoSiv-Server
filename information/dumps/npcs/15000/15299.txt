@@ -1,0 +1,17 @@
+id=15299
+name=Derek
+description=His name is Derek. Thok not need to know this.
+size=1
+xp=0
+lifepoints=10000
+level=98
+attack=70
+defence=70
+ranged=70
+magic=70
+animations={death:12987,attack:12989}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

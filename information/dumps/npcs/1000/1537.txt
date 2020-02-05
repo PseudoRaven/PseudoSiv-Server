@@ -1,0 +1,11 @@
+id=1537
+name=Haze
+description=A strange disturbance in the air.
+xp=64.5
+animations={}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["Haunted mine"]
+aggressive=true
+members=false

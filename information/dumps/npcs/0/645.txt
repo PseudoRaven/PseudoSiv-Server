@@ -1,0 +1,17 @@
+id=645
+name=Jonny the beard
+description=Looks kind of shifty...
+size=1
+xp=37.3
+lifepoints=100
+level=1
+attack=1
+defence=1
+ranged=0
+magic=0
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["Varrock","RuneScape Surface"]
+aggressive=false

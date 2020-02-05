@@ -1,0 +1,17 @@
+id=9437
+name=Decaying avatar
+description=Nomad's discarded prototype of the Avatar of Creation.
+size=5
+xp=1466.8
+lifepoints=21000
+level=98
+attack=70
+defence=70
+ranged=70
+magic=70
+animations={death:11204,attack:11202}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

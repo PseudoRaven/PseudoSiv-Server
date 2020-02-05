@@ -1,0 +1,10 @@
+id=7047
+name=Balnea
+description=She looks like she means business.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface","Oo'glog"]
+aggressive=false
+members=false

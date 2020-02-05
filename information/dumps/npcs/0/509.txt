@@ -1,0 +1,17 @@
+id=509
+name=Nazastarool
+description=A giant ghost of huge strength and devastating power.
+size=2
+xp=272.7
+lifepoints=10000
+level=53
+attack=38
+defence=38
+ranged=0
+magic=0
+animations={death:5537,attack:5535}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

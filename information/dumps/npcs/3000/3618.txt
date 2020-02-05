@@ -1,0 +1,17 @@
+id=3618
+name=Tentacle
+description=I'm glad I can't see the rest of it!
+size=1
+xp=419.1
+lifepoints=6000
+level=97
+attack=80
+defence=60
+ranged=80
+magic=80
+animations={range:3618,death:3620,attack:3618}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

@@ -1,0 +1,10 @@
+id=8170
+name=Ramarno
+description=A blind, bearded dwarf.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Ramarno's forge"]
+aggressive=false
+members=false

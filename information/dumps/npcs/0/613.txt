@@ -1,0 +1,10 @@
+id=613
+name=Digsite workman
+description=This person is working on the site.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

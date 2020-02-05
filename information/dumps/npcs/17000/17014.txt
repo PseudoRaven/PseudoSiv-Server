@@ -1,0 +1,17 @@
+id=17014
+name=Dark portal
+description=You shouldn't look into it too closely.
+size=1
+xp=213
+lifepoints=10000
+level=0
+attack=1
+defence=40
+ranged=1
+magic=1
+animations={}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

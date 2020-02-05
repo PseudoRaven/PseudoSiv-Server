@@ -1,0 +1,10 @@
+id=13816
+name=Jadinko baby
+description=How cute!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Jadinko lair"]
+aggressive=false
+members=true

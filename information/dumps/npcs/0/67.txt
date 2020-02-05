@@ -1,0 +1,17 @@
+id=67
+name=Gnome
+description=Like a mini man!
+size=1
+xp=64.5
+lifepoints=1500
+level=42
+attack=1
+defence=30
+ranged=30
+magic=1
+animations={death:196,attack:190}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=["RuneScape Surface"]
+aggressive=false

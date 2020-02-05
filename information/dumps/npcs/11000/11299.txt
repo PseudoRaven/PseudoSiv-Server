@@ -1,0 +1,10 @@
+id=11299
+name=Mr Pinsworth
+description=Our man on the inside.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Thieves' Guild"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=4653
+name=Trader Crewmember
+description=First storm he is in that hat will blow away.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

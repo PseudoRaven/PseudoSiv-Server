@@ -1,0 +1,10 @@
+id=17566
+name=Saradomin follower
+description=Wanted to be a White Knight, but failed the entry exam.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

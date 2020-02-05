@@ -1,0 +1,17 @@
+id=1329
+name=Black unicorn Foal
+description=Cute but evil.
+size=2
+xp=33.9
+lifepoints=600
+level=16
+attack=12
+defence=12
+ranged=0
+magic=0
+animations={death:6377,attack:6376}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["RuneScape Surface"]
+aggressive=false

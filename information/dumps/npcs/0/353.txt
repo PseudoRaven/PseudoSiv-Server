@@ -1,0 +1,17 @@
+id=353
+name=Woman
+description=One of RuneScape's many citizens.
+size=1
+xp=24.9
+lifepoints=100
+level=2
+attack=2
+defence=2
+ranged=0
+magic=0
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface"]
+aggressive=false

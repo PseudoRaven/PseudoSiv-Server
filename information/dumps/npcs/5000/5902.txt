@@ -1,0 +1,17 @@
+id=5902
+name=The Inadequacy
+description=Are you good enough to fight?
+size=5
+xp=419.1
+lifepoints=3500
+level=98
+attack=70
+defence=70
+ranged=70
+magic=70
+animations={death:6322,attack:6318}
+attackable=true
+poisonous=false
+weakness="None"
+areas=["Dream world"]
+aggressive=true

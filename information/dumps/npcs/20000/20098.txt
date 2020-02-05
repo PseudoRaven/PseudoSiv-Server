@@ -1,0 +1,17 @@
+id=20098
+name=Trahaearn automaton mk III
+description=An elven automaton.
+size=1
+xp=151.8
+lifepoints=2450
+level=68
+attack=49
+defence=49
+ranged=1
+magic=1
+animations={death:17984,attack:18222}
+attackable=true
+poisonous=false
+weakness="Thrown"
+areas=[]
+aggressive=true

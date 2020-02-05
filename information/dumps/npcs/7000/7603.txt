@@ -1,0 +1,10 @@
+id=7603
+name=Pontimer
+description=A druid of Guthix.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Wilderness Dungeons"]
+aggressive=false
+members=false

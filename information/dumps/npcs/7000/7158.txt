@@ -1,0 +1,17 @@
+id=7158
+name=Cockroach drone
+description=A household pest.
+size=1
+xp=24.9
+lifepoints=150
+level=4
+attack=3
+defence=3
+ranged=1
+magic=1
+animations={death:8788,attack:8785}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=["Stronghold of Safety","RuneScape Surface"]
+aggressive=false

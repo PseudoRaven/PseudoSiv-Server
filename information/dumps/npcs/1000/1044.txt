@@ -1,0 +1,17 @@
+id=1044
+name=Monk of Zamorak
+description=A Zamorakian human cleric.
+size=1
+xp=38.1
+lifepoints=850
+level=23
+attack=12
+defence=17
+ranged=0
+magic=17
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=["RuneScape Surface"]
+aggressive=false

@@ -1,0 +1,17 @@
+id=7366
+name=Spirit kyatt
+description=Those teeth are pretty big!
+size=2
+xp=227.7
+lifepoints=6700
+level=68
+attack=52
+defence=46
+ranged=52
+magic=52
+animations={death:5230,attack:5228}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

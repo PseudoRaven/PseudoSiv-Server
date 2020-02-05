@@ -1,0 +1,17 @@
+id=11171
+name=Na�ve skinweaver
+description=Trained from birth to bind wounds and heal. (Tier 3)
+size=1
+xp=188.5
+lifepoints=5625
+level=63
+attack=45
+defence=45
+ranged=45
+magic=45
+animations={range:13620,death:13675,attack:13620}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

@@ -1,0 +1,10 @@
+id=3634
+name=Tithe master
+description=A high-ranking Vyrewatch, in charge of blood collection and quality.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

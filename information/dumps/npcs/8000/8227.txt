@@ -1,0 +1,10 @@
+id=8227
+name=Head mystic
+description=He has blindfolded himself in order to better see into the spirit world.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Asgarnian Ice Dungeon"]
+aggressive=false
+members=false

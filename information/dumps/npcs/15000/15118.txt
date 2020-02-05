@@ -1,0 +1,10 @@
+id=15118
+name=Druidess
+description=A female druid and resident of Taverley.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

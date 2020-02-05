@@ -1,0 +1,17 @@
+id=2007
+name=Het
+description=Guardian of the liver. Guess he doesn't drink.
+size=1
+xp=99.3
+lifepoints=2000
+level=56
+attack=40
+defence=40
+ranged=0
+magic=0
+animations={death:836,attack:429}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=false

@@ -1,0 +1,17 @@
+id=19322
+name=Crassian warrior
+description=A powerful crab-like creature.
+size=1
+xp=77.4
+lifepoints=1250
+level=7
+attack=5
+defence=5
+ranged=1
+magic=1
+animations={death:23336,attack:23331}
+attackable=true
+poisonous=false
+weakness="None"
+areas=["Ashdale Caves"]
+aggressive=false

@@ -1,0 +1,10 @@
+id=1843
+name=Dwarven Ferryman
+description=It's probably you who will be paying the ferryman.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

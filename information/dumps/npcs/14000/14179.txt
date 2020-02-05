@@ -1,0 +1,17 @@
+id=14179
+name=Vanstrom Klause
+description=He's defending himself in vapour form. Perhaps Vertida's holy water could help.
+size=1
+xp=2514.6
+lifepoints=40000
+level=98
+attack=70
+defence=70
+ranged=70
+magic=70
+animations={}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

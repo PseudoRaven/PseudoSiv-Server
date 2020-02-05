@@ -1,0 +1,10 @@
+id=6739
+name=Snow imp
+description=It looks right at home here.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Xmas 2007"]
+aggressive=false
+members=false

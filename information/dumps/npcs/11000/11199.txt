@@ -1,0 +1,17 @@
+id=11199
+name=Naabe worldbearer
+description=Trained from birth to relieve you of your burdens. (Tier 7)
+size=1
+xp=491.8
+lifepoints=8125
+level=91
+attack=65
+defence=65
+ranged=65
+magic=65
+animations={range:13617,death:13683,attack:13617}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

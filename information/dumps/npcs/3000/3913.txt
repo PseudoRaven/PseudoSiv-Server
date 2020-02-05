@@ -1,0 +1,10 @@
+id=3913
+name=Tilt
+description=He looks ready to flip out.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Pinball"]
+aggressive=false
+members=false

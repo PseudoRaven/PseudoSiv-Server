@@ -1,0 +1,10 @@
+id=20806
+name=Lowe
+description=Sells arrows.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["New Varrock"]
+aggressive=false
+members=false

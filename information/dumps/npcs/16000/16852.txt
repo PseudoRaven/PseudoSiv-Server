@@ -1,0 +1,10 @@
+id=16852
+name=Servant
+description=Servant of Evil Bob.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Island"]
+aggressive=false
+members=false

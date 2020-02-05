@@ -1,0 +1,10 @@
+id=3806
+name=Millie Miller
+description=Miss Millicent Miller, the Miller of Mill Lane Mill.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

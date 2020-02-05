@@ -1,0 +1,17 @@
+id=18602
+name=Rat
+description=A nasty little rodent.
+size=1
+xp=24.9
+lifepoints=50
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:243,attack:240}
+attackable=true
+poisonous=false
+weakness="Slashing"
+areas=[]
+aggressive=false

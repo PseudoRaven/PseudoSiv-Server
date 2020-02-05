@@ -1,0 +1,10 @@
+id=16195
+name=Wizard
+description=Slightly magical.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface","Wizards' Tower"]
+aggressive=false
+members=false

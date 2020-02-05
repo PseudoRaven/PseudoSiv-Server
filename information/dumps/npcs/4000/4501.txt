@@ -1,0 +1,10 @@
+id=4501
+name=Ethereal Man
+description=Is he real or is it just my imagination?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dream world"]
+aggressive=false
+members=true

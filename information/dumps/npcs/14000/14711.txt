@@ -1,0 +1,10 @@
+id=14711
+name=Timmy
+description=Timmy, the pet lesser demon.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Xmas 2011"]
+aggressive=false
+members=false

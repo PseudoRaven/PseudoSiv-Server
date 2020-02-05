@@ -1,0 +1,10 @@
+id=4575
+name=Spang
+description=A lazy gnome.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

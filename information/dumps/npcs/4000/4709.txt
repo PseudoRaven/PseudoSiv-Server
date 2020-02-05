@@ -1,0 +1,10 @@
+id=4709
+name=Vertida Sefalatis
+description=A quiet, war-weary man with the keen eye of a ranger.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Meiyerditch Myreque base"]
+aggressive=false
+members=true

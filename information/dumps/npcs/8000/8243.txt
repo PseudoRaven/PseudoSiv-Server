@@ -1,0 +1,17 @@
+id=8243
+name=Clay familiar (class 2)
+description=A sacred familiar made of low quality clay.
+size=2
+xp=42.6
+lifepoints=1000
+level=28
+attack=20
+defence=20
+ranged=20
+magic=20
+animations={death:10597,attack:10591}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

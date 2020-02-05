@@ -1,0 +1,10 @@
+id=339
+name=Chancy
+description=He's ready for a bet.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

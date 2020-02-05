@@ -1,0 +1,17 @@
+id=6850
+name=Granite lobster
+description=Puts the 'crust' in 'crustacean'.
+size=1
+xp=445.9
+lifepoints=8400
+level=88
+attack=67
+defence=60
+ranged=67
+magic=67
+animations={death:8113,attack:8112}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

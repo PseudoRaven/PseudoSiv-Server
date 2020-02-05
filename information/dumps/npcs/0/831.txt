@@ -1,0 +1,10 @@
+id=831
+name=Captain Siad
+description=He's in control of the whole mining camp.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

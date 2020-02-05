@@ -1,0 +1,17 @@
+id=6840
+name=Arctic bear
+description=Crikey! Look at the size of those teeth!
+size=2
+xp=385.2
+lifepoints=8100
+level=84
+attack=64
+defence=57
+ranged=64
+magic=64
+animations={death:4929,attack:4925}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

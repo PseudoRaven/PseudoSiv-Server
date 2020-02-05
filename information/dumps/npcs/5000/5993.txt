@@ -1,0 +1,17 @@
+id=5993
+name=Experiment No.2
+description=A very odd looking creature.
+size=2
+xp=198
+lifepoints=4600
+level=64
+attack=46
+defence=46
+ranged=46
+magic=46
+animations={death:6512,attack:6513}
+attackable=true
+poisonous=false
+weakness="None"
+areas=["Cellar"]
+aggressive=false

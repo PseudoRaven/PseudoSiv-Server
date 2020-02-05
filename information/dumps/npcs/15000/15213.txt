@@ -1,0 +1,17 @@
+id=15213
+name=TokHaar-Ket-Dill
+description=An armadillo made of solid obsidian.
+size=3
+xp=536.7
+lifepoints=3750
+level=120
+attack=75
+defence=75
+ranged=0
+magic=0
+animations={death:16197,attack:16159}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=true

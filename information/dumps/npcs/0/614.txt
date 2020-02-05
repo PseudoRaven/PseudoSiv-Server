@@ -1,0 +1,10 @@
+id=614
+name=Doug Deeping
+description=This person is working on the site.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Digsite caves","The Senntisten Temple","The Senntisten digsite"]
+aggressive=false
+members=false

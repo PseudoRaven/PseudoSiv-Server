@@ -1,0 +1,17 @@
+id=2493
+name=Large mosquito
+description=A flying bloodsucker.
+size=1
+xp=297.3
+lifepoints=3150
+level=88
+attack=1
+defence=63
+ranged=63
+magic=1
+animations={death:2398,attack:2397}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=false

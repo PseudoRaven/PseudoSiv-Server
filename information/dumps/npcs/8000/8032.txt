@@ -1,0 +1,10 @@
+id=8032
+name=Wizard Elriss
+description=She is in charge of the Runecrafting Guild.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Runecrafting Guild"]
+aggressive=false
+members=false

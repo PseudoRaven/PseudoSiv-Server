@@ -1,0 +1,17 @@
+id=19328
+name=Tentacle
+description=A long, ropy appendage.
+size=1
+xp=10
+lifepoints=10000000
+level=0
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:23365}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

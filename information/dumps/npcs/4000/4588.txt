@@ -1,0 +1,10 @@
+id=4588
+name=Dalila
+description=Gnome customer.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

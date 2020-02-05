@@ -1,0 +1,10 @@
+id=547
+name=Baraek
+description=Animal skins are a speciality.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Varrock","RuneScape Surface"]
+aggressive=false
+members=false

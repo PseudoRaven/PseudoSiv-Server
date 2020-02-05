@@ -1,0 +1,16 @@
+id=14992
+name=Troll General
+description=A huge and powerful troll leading the attack.
+size=3
+xp=90
+lifepoints=120
+level=12
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={range:15857,death:15856,attack:1932}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

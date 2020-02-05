@@ -1,0 +1,17 @@
+id=18497
+name=Wight ranger
+description=One of Sliske's wights.
+size=1
+xp=25.8
+lifepoints=250
+level=7
+attack=1
+defence=5
+ranged=5
+magic=1
+animations={death:17991,attack:18237}
+attackable=true
+poisonous=false
+weakness="Slashing"
+areas=[]
+aggressive=true

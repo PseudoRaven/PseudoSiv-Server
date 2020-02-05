@@ -1,0 +1,10 @@
+id=7010
+name=Grenwall
+description=A spiny creature.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface","Gorajo Hoardstalker Dungeon"]
+aggressive=true
+members=false

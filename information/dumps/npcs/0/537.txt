@@ -1,0 +1,10 @@
+id=537
+name=Scavvo
+description=He's got the best armour around.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

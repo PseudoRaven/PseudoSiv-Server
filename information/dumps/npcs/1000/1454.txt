@@ -1,0 +1,10 @@
+id=1454
+name=The Monkey's Aunt
+description=She looks like the Monkey's Aunt.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

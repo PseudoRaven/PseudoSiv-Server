@@ -1,0 +1,10 @@
+id=851
+name=Gnome Waiter
+description=He can serve you gnome food.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

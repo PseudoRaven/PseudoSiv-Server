@@ -1,0 +1,10 @@
+id=5196
+name=Wizard
+description=A wizard.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Yanille","RuneScape Surface"]
+aggressive=false
+members=false

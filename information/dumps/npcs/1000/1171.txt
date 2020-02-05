@@ -1,0 +1,10 @@
+id=1171
+name=Lubufu
+description=A crotchety old fisherman who doesn't like young whippersnappers.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

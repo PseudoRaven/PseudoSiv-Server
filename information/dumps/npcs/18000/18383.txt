@@ -1,0 +1,17 @@
+id=18383
+name=Colonel Grimsson
+description=That's one mean-looking dwarf the Red Axe has employed.
+size=1
+xp=3853.2
+lifepoints=50000
+level=107
+attack=85
+defence=70
+ranged=85
+magic=1
+animations={range:21446,death:102,attack:21341}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

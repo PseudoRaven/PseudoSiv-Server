@@ -1,0 +1,10 @@
+id=13770
+name=Witchaven villager
+description=A down-on-his-luck fisherman.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Slug Citadel"]
+aggressive=false
+members=true

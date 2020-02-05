@@ -1,0 +1,17 @@
+id=3496
+name=Dessourt
+description=Bad for your teeth...and the rest of your body too.
+size=1
+xp=344.4
+lifepoints=4950
+level=92
+attack=49
+defence=66
+ranged=0
+magic=66
+animations={death:3509,attack:3508}
+attackable=true
+poisonous=false
+weakness="Thrown"
+areas=[]
+aggressive=true

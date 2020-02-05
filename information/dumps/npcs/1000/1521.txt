@@ -1,0 +1,16 @@
+id=1521
+name=Nail beast
+description=A huge nail beast. Its nails appear very sharp.
+size=2
+xp=8.8
+lifepoints=550
+level=112
+attack=150
+defence=20
+ranged=1
+magic=1
+animations={death:5990,attack:5989}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

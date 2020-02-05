@@ -1,0 +1,10 @@
+id=895
+name=Boy
+description=Children are just like real people...just smaller.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

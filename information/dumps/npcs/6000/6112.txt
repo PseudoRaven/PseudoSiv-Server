@@ -1,0 +1,11 @@
+id=6112
+name=Ducklings
+description=Aww, cute.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+slayercat=Birds
+areas=["RuneScape Surface","Fisher Realm"]
+aggressive=true
+members=false

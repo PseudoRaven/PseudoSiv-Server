@@ -1,0 +1,17 @@
+id=15205
+name=TokHaar-Tok-Xil
+description=Avoid the spines it fires from its deadly fist.
+size=3
+xp=564.3
+lifepoints=5700
+level=200
+attack=57
+defence=76
+ranged=76
+magic=0
+animations={death:16110,attack:16131}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=true

@@ -1,0 +1,17 @@
+id=15510
+name=Tortured soul
+description=A dream thrall of the Queen Black Dragon.
+size=1
+xp=3.6
+lifepoints=2000
+level=93
+attack=67
+defence=67
+ranged=1
+magic=1
+animations={death:16859,attack:16882}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=true

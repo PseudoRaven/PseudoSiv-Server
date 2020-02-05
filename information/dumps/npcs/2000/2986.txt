@@ -1,0 +1,10 @@
+id=2986
+name=Captain Tom
+description=A not-so friendly, not-so little cat.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Rat pit"]
+aggressive=true
+members=true

@@ -1,0 +1,17 @@
+id=15208
+name=TokHaar-Jad
+description=A glistening obsidian Jad.
+size=5
+xp=982.3
+lifepoints=7900
+level=780
+attack=79
+defence=79
+ranged=79
+magic=79
+animations={death:16188,attack:16204}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

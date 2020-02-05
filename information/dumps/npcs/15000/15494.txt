@@ -1,0 +1,17 @@
+id=15494
+name=Flying leech
+description=A hideous airborne creature.
+size=1
+xp=24.9
+lifepoints=50
+level=1
+attack=1
+defence=1
+ranged=0
+magic=0
+animations={death:16817,attack:16820}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["Queen Black Dragon's stomach"]
+aggressive=true

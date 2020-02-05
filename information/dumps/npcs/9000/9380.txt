@@ -1,0 +1,17 @@
+id=9380
+name=Kay Thanxby
+description=A powerful heroine.
+size=1
+xp=0
+lifepoints=2000
+level=112
+attack=80
+defence=80
+ranged=80
+magic=80
+animations={death:836,attack:13053}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

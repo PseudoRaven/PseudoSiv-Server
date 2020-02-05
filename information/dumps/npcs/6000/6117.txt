@@ -1,0 +1,10 @@
+id=6117
+name=Mr. Mordaut
+description=Do not upset this teacher. You have been warned!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Classroom"]
+aggressive=false
+members=false

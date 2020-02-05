@@ -1,0 +1,10 @@
+id=1393
+name=Fishmonger
+description=Hmm, he smells.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=8127
+name=Dark energy core
+description=A small being of dark energy.
+size=1
+xp=5.3
+lifepoints=3500
+level=105
+attack=1
+defence=75
+ranged=1
+magic=75
+animations={}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

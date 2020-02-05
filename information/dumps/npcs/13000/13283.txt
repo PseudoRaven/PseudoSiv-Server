@@ -1,0 +1,10 @@
+id=13283
+name=Manni the Reveller
+description=Every innkeeper's best friend - if they serve eggnog!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Xmas 2010"]
+aggressive=false
+members=false

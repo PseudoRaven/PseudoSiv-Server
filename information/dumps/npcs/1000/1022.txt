@@ -1,0 +1,17 @@
+id=1022
+name=Water elemental
+description=A water elemental.
+size=1
+xp=69.6
+lifepoints=1600
+level=44
+attack=24
+defence=32
+ranged=32
+magic=0
+animations={death:1048,attack:1044}
+attackable=true
+poisonous=false
+weakness="Slashing"
+areas=["Elemental Workshop"]
+aggressive=false

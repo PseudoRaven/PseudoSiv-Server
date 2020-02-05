@@ -1,0 +1,10 @@
+id=1468
+name=Bonzara
+description=A small monkey dressed in purple clothes. He looks like a priest.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Escape route"]
+aggressive=false
+members=false

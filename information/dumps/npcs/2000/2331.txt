@@ -1,0 +1,10 @@
+id=2331
+name=Ellena
+description=Perhaps this gardener might look after your crops for you.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

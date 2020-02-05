@@ -1,0 +1,10 @@
+id=15736
+name=Penguin
+description=An inhabitant of icy regions.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Iceburg"]
+aggressive=false
+members=true

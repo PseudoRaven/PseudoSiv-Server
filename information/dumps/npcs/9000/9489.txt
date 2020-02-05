@@ -1,0 +1,10 @@
+id=9489
+name=Lava titan
+description=Made of lava.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Spirit Plane"]
+aggressive=true
+members=true

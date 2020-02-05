@@ -1,0 +1,10 @@
+id=5971
+name=Leech display
+description=Bloodsuckers!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Varrock Museum"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=17792
+name=Faintly glowing pool
+description=The pool glows softly, but there is not enough divine energy to catch.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

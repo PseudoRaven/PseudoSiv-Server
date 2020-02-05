@@ -1,0 +1,17 @@
+id=2892
+name=Spinolyp
+description=A sneaky, spiny, subterranean sea-dwelling scamp.
+size=1
+xp=1.9
+lifepoints=1000
+level=75
+attack=1
+defence=54
+ranged=1
+magic=54
+animations={death:2866,attack:2868}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=["Waterbirth Island Dungeon"]
+aggressive=true

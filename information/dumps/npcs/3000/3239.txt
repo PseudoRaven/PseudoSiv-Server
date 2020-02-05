@@ -1,0 +1,17 @@
+id=3239
+name=Rusty
+description=Seems to be loitering.
+size=1
+xp=29.7
+lifepoints=450
+level=12
+attack=9
+defence=9
+ranged=1
+magic=1
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=["RuneScape Surface"]
+aggressive=false

@@ -1,0 +1,10 @@
+id=9711
+name=Rewards trader
+description=He is trembling and is covered in cuts and scrapes.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

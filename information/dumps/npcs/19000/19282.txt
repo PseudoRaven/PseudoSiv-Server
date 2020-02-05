@@ -1,0 +1,17 @@
+id=19282
+name=Monkey minion
+description=A small, weak monkey, who will try and stop you if he can!
+size=1
+xp=0
+lifepoints=3200
+level=12
+attack=9
+defence=9
+ranged=9
+magic=9
+animations={death:23264,attack:23265}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=[]
+aggressive=false

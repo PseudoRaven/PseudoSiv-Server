@@ -1,0 +1,17 @@
+id=9753
+name=Sagittare
+description=A skilled mage and ranger.
+size=1
+xp=141.9
+lifepoints=2500
+level=7
+attack=5
+defence=5
+ranged=5
+magic=5
+animations={range:13276,death:13353,attack:13276}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

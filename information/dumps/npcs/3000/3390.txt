@@ -1,0 +1,11 @@
+id=3390
+name=Mountain Dwarf
+description=He looks short and grumpy.
+xp=46.5
+animations={}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=["Lumbridge"]
+aggressive=false
+members=false

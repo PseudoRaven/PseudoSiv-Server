@@ -1,0 +1,17 @@
+id=193
+name=Chaos druid warrior
+description=A crazy evil druid.
+size=1
+xp=138.3
+lifepoints=2350
+level=65
+attack=47
+defence=47
+ranged=1
+magic=1
+animations={death:836,attack:401}
+attackable=true
+poisonous=false
+weakness="Earth"
+areas=["Yanille Dungeon"]
+aggressive=false

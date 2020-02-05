@@ -1,0 +1,10 @@
+id=561
+name=Shopkeeper
+description=Could stand to lose a few pounds.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=244
+name=Sir Pelleas
+description=One of the Knights of the Round Table.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

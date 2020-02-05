@@ -1,0 +1,10 @@
+id=5105
+name=Horned graahk
+description=Get in a graahk's way and you're going to know about it...however briefly.
+xp=1
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

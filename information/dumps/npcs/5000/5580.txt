@@ -1,0 +1,10 @@
+id=5580
+name=Bonafido
+description=He knows everything has a reason.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

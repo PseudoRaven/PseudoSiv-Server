@@ -1,0 +1,11 @@
+id=1461
+name=Elder Guard
+description=A huge brutish gorilla stands here, blocking the way.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+slayercat=Monkeys
+areas=["RuneScape Surface"]
+aggressive=true
+members=false

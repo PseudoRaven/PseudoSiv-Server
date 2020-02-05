@@ -1,0 +1,10 @@
+id=16678
+name=Copernicus Glyph
+description=His raspy voice and sputtering cough suggest a lifetime of carelessly breathing in stone dust.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface","Prifddinas"]
+aggressive=false
+members=false

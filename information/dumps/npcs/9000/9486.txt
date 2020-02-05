@@ -1,0 +1,10 @@
+id=9486
+name=Forge regent
+description=This one will burn right through the net!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Spirit Plane"]
+aggressive=true
+members=true

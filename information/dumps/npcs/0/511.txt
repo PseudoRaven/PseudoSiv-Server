@@ -1,0 +1,10 @@
+id=511
+name=Vigroy
+description=A cart driver; it looks like he's quite experienced.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

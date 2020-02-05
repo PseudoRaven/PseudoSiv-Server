@@ -1,0 +1,10 @@
+id=17177
+name=Woodcutter
+description=He's looking around at the trees with a worried expression.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

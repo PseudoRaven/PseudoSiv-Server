@@ -1,0 +1,17 @@
+id=13458
+name=Blood reaver
+description=A strange and twisted creature.
+size=2
+xp=592.8
+lifepoints=7400
+level=108
+attack=1
+defence=80
+ranged=1
+magic=74
+animations={death:7000,attack:7004}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=["God Wars Dungeon"]
+aggressive=true

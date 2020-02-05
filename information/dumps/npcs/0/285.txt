@@ -1,0 +1,10 @@
+id=285
+name=Veronica
+description=She doesn't look too happy.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

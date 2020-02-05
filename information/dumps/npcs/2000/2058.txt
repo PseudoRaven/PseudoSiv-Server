@@ -1,0 +1,13 @@
+id=2058
+name=Hole in the wall
+description=What could be hiding in that crack in the wall?
+size=1
+xp=75.9
+animations={}
+attackable=true
+poisonous=false
+weakness="Water"
+slayerlevel=35
+slayercat=Wall beasts
+areas=["Misthalin Underground"]
+aggressive=true

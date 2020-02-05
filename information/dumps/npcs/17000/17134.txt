@@ -1,0 +1,10 @@
+id=17134
+name=Relomia, Emissary of Sliske
+description=The emissary of Sliske.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

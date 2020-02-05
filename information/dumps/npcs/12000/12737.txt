@@ -1,0 +1,17 @@
+id=12737
+name=Warped Gulega
+description=A monster from the Gorajo plane, warped by Daemonheim's taint.
+size=3
+xp=628.6
+lifepoints=10000
+level=98
+attack=70
+defence=70
+ranged=70
+magic=70
+animations={death:15003,attack:15004}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

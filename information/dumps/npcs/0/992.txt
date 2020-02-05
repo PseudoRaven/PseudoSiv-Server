@@ -1,0 +1,10 @@
+id=992
+name=Kardia
+description=A dark and evil crone.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Iban's Lair"]
+aggressive=false
+members=false

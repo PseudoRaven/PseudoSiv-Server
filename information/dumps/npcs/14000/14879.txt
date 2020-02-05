@@ -1,0 +1,10 @@
+id=14879
+name=Nicholas Angle
+description=The fish just fling themselves at him.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=17012
+name=Skeleton bone thrower
+description=Could do with gaining a few pounds.
+size=1
+xp=0
+lifepoints=660
+level=46
+attack=1
+defence=33
+ranged=33
+magic=1
+animations={range:17929,death:17932}
+attackable=true
+poisonous=false
+weakness="Crushing"
+areas=[]
+aggressive=true

@@ -1,0 +1,10 @@
+id=4248
+name=Stonemason
+description=Someone has to get rid of all the stone they dug Keldagrim out of.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

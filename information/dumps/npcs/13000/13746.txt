@@ -1,0 +1,17 @@
+id=13746
+name=Risen knight
+description=A long-dead White Knight, risen to fight again as a slug slave.
+size=1
+xp=114.6
+lifepoints=2150
+level=60
+attack=32
+defence=43
+ranged=43
+magic=0
+animations={range:12839,death:12869,attack:12839}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=["Slug Citadel"]
+aggressive=false

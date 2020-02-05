@@ -1,0 +1,10 @@
+id=6652
+name=Isak
+description=A slightly lazy dwarf.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dwarven mines"]
+aggressive=false
+members=false

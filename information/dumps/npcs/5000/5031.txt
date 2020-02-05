@@ -1,0 +1,10 @@
+id=5031
+name=Private Paldo
+description=A stressed out barbarian private.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Barbarian Assault lobby"]
+aggressive=false
+members=true

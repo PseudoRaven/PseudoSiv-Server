@@ -1,0 +1,17 @@
+id=221
+name=Black Knight Titan
+description=He looks mean and powerful.
+size=1
+xp=63.9
+lifepoints=2500
+level=28
+attack=20
+defence=20
+ranged=20
+magic=20
+animations={death:131,attack:25431}
+attackable=true
+poisonous=false
+weakness="None"
+areas=["Fisher Realm"]
+aggressive=false

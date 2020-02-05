@@ -1,0 +1,10 @@
+id=2238
+name=Donie
+description=A local farmer. She may be able to provide some useful information.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=1378
+name=Flower Girl
+description=No-one would mistake her for a duchess.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=19289
+name=Farmer of Brassica
+description=Completely ignoring the hosepipe ban.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=2206
+name=Dwarven Boatman
+description=His ship miraculously survived the crash into the statue earlier.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Keldagrim"]
+aggressive=false
+members=true

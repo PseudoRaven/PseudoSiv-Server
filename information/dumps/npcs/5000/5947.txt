@@ -1,0 +1,10 @@
+id=5947
+name=Teacher and pupil
+description=A teacher and one of her pupils.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface","Varrock Museum"]
+aggressive=false
+members=false

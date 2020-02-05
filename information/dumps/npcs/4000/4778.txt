@@ -1,0 +1,17 @@
+id=4778
+name=Held vampyre juvenile
+description=A juvenile vampyre.
+size=1
+xp=99.3
+lifepoints=2000
+level=56
+attack=40
+defence=40
+ranged=1
+magic=1
+animations={death:6781}
+attackable=true
+poisonous=false
+weakness="Water"
+areas=[]
+aggressive=false

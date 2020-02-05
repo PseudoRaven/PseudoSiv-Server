@@ -1,0 +1,10 @@
+id=864
+name=Mad skavid
+description=Looks mad.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Skavid cave"]
+aggressive=false
+members=false

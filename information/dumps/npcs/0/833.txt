@@ -1,0 +1,10 @@
+id=833
+name=Bedabin nomad
+description=A Bedabin nomad, they live in the harshest extremes in the desert.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

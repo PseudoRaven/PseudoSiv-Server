@@ -1,0 +1,10 @@
+id=5885
+name=Dwarf
+description=A dwarf from Keldagrim.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Dorgesh-Kaan Station"]
+aggressive=false
+members=true

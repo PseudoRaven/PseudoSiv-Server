@@ -1,0 +1,10 @@
+id=5104
+name=Spined larupia
+description=If you tried to ride that, you'd just impale yourself!
+xp=0.7
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

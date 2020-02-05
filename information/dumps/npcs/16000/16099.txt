@@ -1,0 +1,10 @@
+id=16099
+name=Polly Paw
+description=Has ventured deep into the fungal caverns of the Polypore dungeon.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=11219
+name=Naabe deathslinger
+description=Trained from birth to lead the hunt. (Tier 7)
+size=1
+xp=491.8
+lifepoints=8125
+level=91
+attack=65
+defence=65
+ranged=65
+magic=65
+animations={range:13615,death:13669,attack:13615}
+attackable=true
+poisonous=false
+weakness="Slashing"
+areas=[]
+aggressive=false

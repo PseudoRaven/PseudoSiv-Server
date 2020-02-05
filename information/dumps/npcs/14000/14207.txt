@@ -1,0 +1,16 @@
+id=14207
+name=Snow ranger
+description=A snowman armed with a holly bow.
+size=1
+xp=0.4
+lifepoints=300
+level=27
+attack=30
+defence=10
+ranged=30
+magic=1
+animations={death:7560,attack:7564}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

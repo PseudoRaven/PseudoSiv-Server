@@ -1,0 +1,17 @@
+id=7379
+name=Yeti
+description=Aww, aren't the little ones cute?
+size=1
+xp=125.7
+lifepoints=2250
+level=63
+attack=45
+defence=45
+ranged=0
+magic=0
+animations={death:8967,attack:8965}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["Ice Cave"]
+aggressive=true

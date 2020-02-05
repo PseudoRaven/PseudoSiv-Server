@@ -1,0 +1,17 @@
+id=6049
+name=Coward with bow
+description=A big coward. Thok mocks scaredy man.
+size=1
+xp=0
+lifepoints=3500
+level=105
+attack=75
+defence=75
+ranged=75
+magic=75
+animations={range:13276,death:13353,attack:13276}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

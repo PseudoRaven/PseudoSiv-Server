@@ -1,0 +1,10 @@
+id=16839
+name=Markus
+description=A rich businessman who thinks he's a warrior.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

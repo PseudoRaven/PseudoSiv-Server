@@ -1,0 +1,17 @@
+id=4811
+name=Vyrelady
+description=A very high-ranking vampyre.
+size=1
+xp=419.1
+lifepoints=3500
+level=98
+attack=1
+defence=70
+ranged=1
+magic=70
+animations={death:7524,attack:7435}
+attackable=true
+poisonous=false
+weakness="Thrown"
+areas=[]
+aggressive=false

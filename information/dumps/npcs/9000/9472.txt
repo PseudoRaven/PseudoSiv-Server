@@ -1,0 +1,10 @@
+id=9472
+name=Albino rat
+description=The big cheese.
+xp=3.6
+animations={}
+attackable=true
+poisonous=false
+areas=["Spirit Plane"]
+aggressive=true
+members=true

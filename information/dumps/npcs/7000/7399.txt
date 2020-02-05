@@ -1,0 +1,17 @@
+id=7399
+name=Bandit
+description=One of Carn's followers.
+size=1
+xp=0
+lifepoints=150
+level=35
+attack=25
+defence=25
+ranged=25
+magic=25
+animations={range:23943,death:836,attack:23943}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=true

@@ -1,0 +1,10 @@
+id=2320
+name=Tanner
+description=He has a certain bovine aroma.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

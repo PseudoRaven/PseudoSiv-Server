@@ -1,0 +1,10 @@
+id=17560
+name=Zamorak follower
+description=Likes to claim he is pure evil, but really he's a lovely chap.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false
+members=false

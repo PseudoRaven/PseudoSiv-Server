@@ -1,0 +1,10 @@
+id=671
+name=Glough
+description=A rough looking gnome.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=5958
+name=Digsite workman
+description=Wheelbarrow loader.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=20469
+name=Meredith
+description=An elf wise in the ways of limestone.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=8567
+name=Greater reborn mage
+description=A powerful mage that died and was reborn through the phoenix's power.
+size=2
+xp=244.8
+lifepoints=2950
+level=82
+attack=44
+defence=59
+ranged=0
+magic=59
+animations={range:11111,death:11112}
+attackable=true
+poisonous=false
+weakness="Thrown"
+areas=[]
+aggressive=true

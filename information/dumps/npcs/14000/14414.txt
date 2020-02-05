@@ -1,0 +1,10 @@
+id=14414
+name=Tam McGrubor
+description=He's looking wicked in the hood.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Varrock","RuneScape Surface"]
+aggressive=false
+members=false

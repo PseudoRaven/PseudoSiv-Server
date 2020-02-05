@@ -1,0 +1,17 @@
+id=17551
+name=Head Mourner
+description=A Mourner showing his true identity.
+size=1
+xp=1156.5
+lifepoints=17500
+level=100
+attack=72
+defence=72
+ranged=1
+magic=1
+animations={death:17984,attack:18222}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=true

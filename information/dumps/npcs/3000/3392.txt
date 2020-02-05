@@ -1,0 +1,10 @@
+id=3392
+name=General Bentnoze
+description=An ugly green creature.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Lumbridge"]
+aggressive=false
+members=false

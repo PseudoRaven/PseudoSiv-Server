@@ -1,0 +1,17 @@
+id=2264
+name=Abyssal guardian
+description=It seems to have eyes in the back of its head...
+size=1
+xp=221.7
+lifepoints=2850
+level=79
+attack=1
+defence=57
+ranged=1
+magic=57
+animations={death:2189,attack:2187}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=["The Abyss"]
+aggressive=false

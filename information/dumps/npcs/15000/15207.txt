@@ -1,0 +1,17 @@
+id=15207
+name=TokHaar-Ket-Zek
+description=This huge beast slobbers molten obsidian.
+size=5
+xp=622.8
+lifepoints=5850
+level=400
+attack=58
+defence=78
+ranged=0
+magic=78
+animations={death:16111,attack:16134}
+attackable=true
+poisonous=false
+weakness="Bolt"
+areas=[]
+aggressive=true

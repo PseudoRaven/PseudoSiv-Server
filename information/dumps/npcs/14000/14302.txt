@@ -1,0 +1,17 @@
+id=14302
+name=Unstable glacyte
+description=An ice creature. It looks highly unstable!
+size=1
+xp=333.3
+lifepoints=5000
+level=114
+attack=90
+defence=75
+ranged=1
+magic=0
+animations={death:9961,attack:9955}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

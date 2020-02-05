@@ -1,0 +1,10 @@
+id=7077
+name=Glum
+description=Does his mother know where he is?
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

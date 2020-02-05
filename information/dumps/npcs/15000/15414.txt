@@ -1,0 +1,10 @@
+id=15414
+name=Death esswraith
+description=An esswraith imbued with death energy.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["The Runespan"]
+aggressive=false
+members=false

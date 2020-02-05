@@ -1,0 +1,10 @@
+id=286
+name=Professor Oddenstein
+description=A mad scientist if ever I saw one!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

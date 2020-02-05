@@ -1,0 +1,17 @@
+id=16721
+name=Skeleton
+description=A magically animated skeleton!
+size=1
+xp=24.9
+lifepoints=50
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={range:17937,death:17932}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

@@ -1,0 +1,17 @@
+id=3484
+name=Big Snake
+description=A big snake.
+size=2
+xp=132
+lifepoints=2300
+level=64
+attack=46
+defence=46
+ranged=0
+magic=0
+animations={death:3540,attack:3538}
+attackable=true
+poisonous=true
+weakness="Earth"
+areas=["Snake pit"]
+aggressive=true

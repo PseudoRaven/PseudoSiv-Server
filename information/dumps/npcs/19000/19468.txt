@@ -1,0 +1,17 @@
+id=19468
+name=Mirrorback spider
+description=Evolved to deflect damage from others.
+size=1
+xp=4.1
+lifepoints=3000
+level=96
+attack=90
+defence=50
+ranged=90
+magic=90
+animations={death:24070,attack:24071}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

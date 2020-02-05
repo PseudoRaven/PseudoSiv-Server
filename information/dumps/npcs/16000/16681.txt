@@ -1,0 +1,17 @@
+id=16681
+name=Guthixian votary
+description=Could do with a shave...
+size=1
+xp=0
+lifepoints=150
+level=4
+attack=3
+defence=3
+ranged=1
+magic=1
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=[]
+aggressive=true

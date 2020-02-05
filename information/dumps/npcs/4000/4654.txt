@@ -1,0 +1,10 @@
+id=4654
+name=Trader Crewmember
+description=She'll never be able to climb rigging in that.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,10 @@
+id=1080
+name=Eohric
+description=Head servant for Prince Anlaf.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface","Burthorpe"]
+aggressive=false
+members=false

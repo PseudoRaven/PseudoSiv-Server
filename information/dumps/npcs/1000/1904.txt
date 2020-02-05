@@ -1,0 +1,17 @@
+id=1904
+name=Menaphite Thug
+description=Menaphite thug.
+size=1
+xp=61.5
+lifepoints=1450
+level=40
+attack=29
+defence=29
+ranged=0
+magic=0
+animations={}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

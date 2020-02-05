@@ -1,0 +1,17 @@
+id=9929
+name=Plane-freezer Lakhrahnaz
+description=It's got a cold stare.
+size=2
+xp=136.9
+lifepoints=500
+level=1
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:13772}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

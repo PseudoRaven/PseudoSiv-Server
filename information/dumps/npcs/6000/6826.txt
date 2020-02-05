@@ -1,0 +1,17 @@
+id=6826
+name=Dreadfowl
+description=Southern fried please!
+size=1
+xp=102
+lifepoints=1400
+level=0
+attack=4
+defence=4
+ranged=4
+magic=4
+animations={death:7813,attack:5387}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

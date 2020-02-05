@@ -1,0 +1,17 @@
+id=7398
+name=Mysterious shade
+description=The vengeful spirit of one who died within Daemonheim.
+size=1
+xp=0
+lifepoints=250
+level=35
+attack=25
+defence=25
+ranged=25
+magic=25
+animations={death:13407}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=[]
+aggressive=true

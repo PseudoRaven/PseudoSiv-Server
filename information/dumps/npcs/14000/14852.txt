@@ -1,0 +1,10 @@
+id=14852
+name=Drill Sergeant Hartman
+description=Keeps soldiers fit and agile.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

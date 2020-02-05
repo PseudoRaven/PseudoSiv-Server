@@ -1,0 +1,16 @@
+id=951
+name=Chicken
+description=Yep. Definitely a chicken.
+size=1
+xp=0.2
+lifepoints=30
+level=3
+attack=1
+defence=1
+ranged=1
+magic=1
+animations={death:3806,attack:3701}
+attackable=true
+poisonous=false
+areas=[]
+aggressive=false

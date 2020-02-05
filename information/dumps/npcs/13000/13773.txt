@@ -1,0 +1,10 @@
+id=13773
+name=Brother Maledict
+description=Not so fresh-faced and innocent any more.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Slug Citadel"]
+aggressive=false
+members=true

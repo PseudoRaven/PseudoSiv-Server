@@ -1,0 +1,10 @@
+id=2725
+name=Otto Godblessed
+description=A wise barbarian, apparently. He still looks like a thug.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

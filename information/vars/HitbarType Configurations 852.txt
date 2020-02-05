@@ -1,0 +1,130 @@
+
+case 0:
+	hitbarType.tickDurationOffset = 280;
+	hitbarType.priority = 250;
+	hitbarType.hidePriority = 250;
+	hitbarType.partyFull = 20740;
+	hitbarType.tickDuration = 300;
+	hitbarType.alternateFull = 20759;
+	hitbarType.hpBarEmpty = 11518;
+	hitbarType.partyEmpty = 20739;
+	hitbarType.hpBarFull = 11519;
+	hitbarType.alternateEmpty = 20758;
+	break;
+
+case 1:
+	hitbarType.tickDurationOffset = 290;
+	hitbarType.priority = 1;
+	hitbarType.hidePriority = 1;
+	hitbarType.partyFull = 10799;
+	hitbarType.tickDuration = 300;
+	hitbarType.alternateFull = 10799;
+	hitbarType.hpBarEmpty = 10799;
+	hitbarType.partyEmpty = 10800;
+	hitbarType.hpBarFull = 10800;
+	hitbarType.alternateEmpty = 10800;
+	break;
+
+case 2:
+	hitbarType.tickDurationOffset = 290;
+	hitbarType.priority = 250;
+	hitbarType.hidePriority = 250;
+	hitbarType.partyFull = 11521;
+	hitbarType.tickDuration = 300;
+	hitbarType.alternateFull = 11521;
+	hitbarType.hpBarEmpty = 11520;
+	hitbarType.partyEmpty = 11520;
+	hitbarType.hpBarFull = 11521;
+	hitbarType.alternateEmpty = 11520;
+	break;
+
+case 3:
+	hitbarType.tickDurationOffset = 290;
+	hitbarType.priority = 250;
+	hitbarType.hidePriority = 250;
+	hitbarType.partyFull = 20728;
+	hitbarType.tickDuration = 300;
+	hitbarType.alternateFull = 20730;
+	hitbarType.hpBarEmpty = 11522;
+	hitbarType.partyEmpty = 20727;
+	hitbarType.hpBarFull = 11523;
+	hitbarType.alternateEmpty = 20729;
+	break;
+
+case 4:
+	hitbarType.tickDurationOffset = 290;
+	hitbarType.priority = 250;
+	hitbarType.hidePriority = 250;
+	hitbarType.partyFull = 20815;
+	hitbarType.tickDuration = 300;
+	hitbarType.alternateFull = 20817;
+	hitbarType.hpBarEmpty = 11524;
+	hitbarType.partyEmpty = 20760;
+	hitbarType.hpBarFull = 11525;
+	hitbarType.alternateEmpty = 20816;
+	break;
+
+case 5:
+	hitbarType.tickDurationOffset = 0;
+	hitbarType.priority = 50;
+	hitbarType.hidePriority = 50;
+	hitbarType.partyFull = 11515;
+	hitbarType.tickDuration = 300;
+	hitbarType.alternateFull = 11515;
+	hitbarType.hpBarEmpty = 11514;
+	hitbarType.partyEmpty = 11514;
+	hitbarType.hpBarFull = 11515;
+	hitbarType.alternateEmpty = 11514;
+	break;
+
+case 6:
+	hitbarType.tickDurationOffset = 290;
+	hitbarType.priority = 1;
+	hitbarType.hidePriority = 1;
+	hitbarType.partyFull = 12239;
+	hitbarType.tickDuration = 300;
+	hitbarType.alternateFull = 12239;
+	hitbarType.hpBarEmpty = 12238;
+	hitbarType.partyEmpty = 12238;
+	hitbarType.hpBarFull = 12239;
+	hitbarType.alternateEmpty = 12238;
+	break;
+
+case 7:
+	hitbarType.tickDurationOffset = 280;
+	hitbarType.priority = 200;
+	hitbarType.hidePriority = 200;
+	hitbarType.partyFull = 15254;
+	hitbarType.tickDuration = 300;
+	hitbarType.alternateFull = 15254;
+	hitbarType.hpBarEmpty = 15253;
+	hitbarType.partyEmpty = 15253;
+	hitbarType.hpBarFull = 15254;
+	hitbarType.alternateEmpty = 15253;
+	break;
+
+case 8:
+	hitbarType.tickDurationOffset = 290;
+	hitbarType.priority = 250;
+	hitbarType.hidePriority = 250;
+	hitbarType.partyFull = 21684;
+	hitbarType.tickDuration = 300;
+	hitbarType.alternateFull = 21684;
+	hitbarType.hpBarEmpty = 21683;
+	hitbarType.partyEmpty = 21683;
+	hitbarType.hpBarFull = 21684;
+	hitbarType.alternateEmpty = 21683;
+	break;
+
+case 9:
+	hitbarType.tickDurationOffset = 280;
+	hitbarType.priority = 200;
+	hitbarType.hidePriority = 200;
+	hitbarType.partyFull = 21686;
+	hitbarType.tickDuration = 300;
+	hitbarType.alternateFull = 21686;
+	hitbarType.hpBarEmpty = 21685;
+	hitbarType.partyEmpty = 21685;
+	hitbarType.hpBarFull = 21686;
+	hitbarType.alternateEmpty = 21685;
+	break;

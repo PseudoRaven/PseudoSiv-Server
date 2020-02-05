@@ -1,0 +1,17 @@
+id=3222
+name=Drunken man
+description=One of RuneScape's many citizens, currently incapacitated by alcohol.
+size=1
+xp=25.5
+lifepoints=200
+level=5
+attack=4
+defence=4
+ranged=1
+magic=1
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["RuneScape Surface"]
+aggressive=false

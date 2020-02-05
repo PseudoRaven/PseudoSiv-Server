@@ -1,0 +1,17 @@
+id=12848
+name=Dreadnaut
+description=It's hard to determine if the rammernaut controls the eye, or vice versa.
+size=2
+xp=569.7
+lifepoints=10000
+level=95
+attack=68
+defence=68
+ranged=68
+magic=68
+animations={death:14974,attack:14973}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

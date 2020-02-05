@@ -1,0 +1,17 @@
+id=476
+name=Famished mage-eye
+description=An open eye of World-gorger.
+size=1
+xp=25.8
+lifepoints=400
+level=7
+attack=1
+defence=5
+ranged=1
+magic=5
+animations={range:14916,death:14917,attack:14916}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=[]
+aggressive=false

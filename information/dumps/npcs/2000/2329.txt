@@ -1,0 +1,10 @@
+id=2329
+name=Muncher
+description=Only the Grim Reaper would have a pet like this.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Halloween 2007"]
+aggressive=false
+members=false

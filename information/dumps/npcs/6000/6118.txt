@@ -1,0 +1,10 @@
+id=6118
+name=Observatory assistant
+description=He helps the professor.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

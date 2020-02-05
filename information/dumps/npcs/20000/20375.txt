@@ -1,0 +1,17 @@
+id=20375
+name=Prehistoric abyssal
+description=An ancient creature from the Abyss. Heavily armoured.
+size=3
+xp=347.5
+lifepoints=12500
+level=56
+attack=40
+defence=40
+ranged=1
+magic=1
+animations={range:25261,attack:25260}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=[]
+aggressive=false

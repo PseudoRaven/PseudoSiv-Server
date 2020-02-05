@@ -1,0 +1,17 @@
+id=5414
+name=Animated spade
+description=How does it move of its own accord?
+size=1
+xp=174.9
+lifepoints=2600
+level=72
+attack=52
+defence=52
+ranged=1
+magic=1
+animations={death:5596,attack:5597}
+attackable=true
+poisonous=false
+weakness="Air"
+areas=["Chaos tunnels","Haunted mine"]
+aggressive=false

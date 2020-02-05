@@ -1,0 +1,10 @@
+id=3105
+name=Charmed Warrior
+description=Equipment that moves by itself!
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Mage Training Arena","RuneScape Surface"]
+aggressive=false
+members=false

@@ -1,0 +1,17 @@
+id=3243
+name=Dark wizard
+description=A practicer of dark arts.
+size=1
+xp=56.1
+lifepoints=1350
+level=37
+attack=1
+defence=27
+ranged=1
+magic=27
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Bolt"
+areas=["RuneScape Surface"]
+aggressive=false

@@ -1,0 +1,17 @@
+id=15174
+name=Firecapezorz
+description=He looks pretty tough.
+size=1
+xp=491.8
+lifepoints=6500
+level=91
+attack=65
+defence=65
+ranged=65
+magic=65
+animations={death:836,attack:11968}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

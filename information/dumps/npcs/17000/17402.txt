@@ -1,0 +1,17 @@
+id=17402
+name=Spirit pack pig
+description=With great bacon comes great power.
+size=1
+xp=67.8
+lifepoints=2400
+level=17
+attack=13
+defence=12
+ranged=13
+magic=13
+animations={death:20407,attack:20406}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

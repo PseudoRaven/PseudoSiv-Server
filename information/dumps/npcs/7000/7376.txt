@@ -1,0 +1,17 @@
+id=7376
+name=Iron titan
+description=He is an iron man!
+size=2
+xp=1085.4
+lifepoints=10500
+level=112
+attack=86
+defence=76
+ranged=86
+magic=86
+animations={death:7947,attack:7946}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

@@ -1,0 +1,10 @@
+id=2815
+name=Neferti the Camel
+description=A camel who wants to see the world.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

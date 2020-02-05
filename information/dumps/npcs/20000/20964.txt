@@ -1,0 +1,17 @@
+id=20964
+name=Brutish jadinko
+description=A jadinko created by the Easter Bunny to carry eggs.
+size=2
+xp=491.8
+lifepoints=7000
+level=91
+attack=0
+defence=65
+ranged=65
+magic=0
+animations={range:3215,death:3232,attack:3214}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

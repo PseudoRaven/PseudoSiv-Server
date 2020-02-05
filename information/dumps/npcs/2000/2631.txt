@@ -1,0 +1,17 @@
+id=2631
+name=Tok-Xil
+description=The Tok-Xil fires deadly spines out of its arm, projected by its own heat.
+size=3
+xp=688.5
+lifepoints=4000
+level=112
+attack=1
+defence=80
+ranged=80
+magic=1
+animations={death:16110,attack:16131}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=true

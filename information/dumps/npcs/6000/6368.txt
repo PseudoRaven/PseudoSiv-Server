@@ -1,0 +1,17 @@
+id=6368
+name=Zamorak mage
+description=A mage of Zamorak.
+size=1
+xp=151.8
+lifepoints=2450
+level=68
+attack=1
+defence=49
+ranged=1
+magic=49
+animations={death:836}
+attackable=true
+poisonous=false
+weakness="Thrown"
+areas=["Ourania Altar","Chaos tunnels"]
+aggressive=true

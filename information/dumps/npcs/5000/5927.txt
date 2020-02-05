@@ -1,0 +1,17 @@
+id=5927
+name=Thief
+description=Known for his light-fingered qualities.
+size=1
+xp=44.5
+lifepoints=900
+level=12
+attack=9
+defence=9
+ranged=0
+magic=0
+animations={death:836,attack:422}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=["Misthalin Underground"]
+aggressive=false

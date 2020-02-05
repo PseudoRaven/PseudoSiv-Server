@@ -1,0 +1,10 @@
+id=5930
+name=Art Critic Jacques
+description=Jacques Netis - a slightly pompous art expert.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

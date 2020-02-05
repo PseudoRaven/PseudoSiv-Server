@@ -1,0 +1,10 @@
+id=541
+name=Zeke
+description=Sells superior scimitars.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=false

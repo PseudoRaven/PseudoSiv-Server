@@ -1,0 +1,17 @@
+id=7346
+name=Obsidian golem
+description=Four fists can make quite an impression IN someone...
+size=2
+xp=424.8
+lifepoints=8300
+level=87
+attack=66
+defence=59
+ranged=66
+magic=66
+animations={death:8052,attack:8050}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

@@ -1,0 +1,10 @@
+id=2287
+name=Sir Ren Itchood
+description=An observer for the Temple Knights.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Temple Knight testing room"]
+aggressive=false
+members=false

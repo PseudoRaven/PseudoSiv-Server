@@ -1,0 +1,10 @@
+id=20856
+name=Ernie
+description=He really likes urns.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["New Varrock"]
+aggressive=false
+members=false

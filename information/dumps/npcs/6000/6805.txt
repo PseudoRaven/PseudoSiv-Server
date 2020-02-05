@@ -1,0 +1,17 @@
+id=6805
+name=Spirit dagannoth
+description=Face the thing that should not be!
+size=2
+xp=661
+lifepoints=9300
+level=99
+attack=75
+defence=67
+ranged=75
+magic=75
+animations={death:7780,attack:7786}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false

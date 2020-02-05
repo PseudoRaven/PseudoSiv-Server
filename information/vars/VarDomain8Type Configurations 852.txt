@@ -1,0 +1,8592 @@
+
+case 0:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 3:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 4:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 5:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 6:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 7:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 8:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 9:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 10:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 11:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 12:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 13:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 14:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 15:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 16:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 17:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 18:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 19:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 20:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 21:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 22:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 23:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 24:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 25:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 26:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 27:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 28:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 29:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 30:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 31:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 32:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 33:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 34:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 35:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 36:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 37:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 38:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 39:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 40:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 41:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 42:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 43:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 44:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 45:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 46:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 47:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 48:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 49:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 50:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 51:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 52:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 53:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 54:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 55:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 56:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 57:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 58:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 59:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 60:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 61:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 62:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 63:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 64:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 65:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 66:
+	varDomain8Type.dataType = OBJ;
+	break;
+
+case 67:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 68:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 69:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 70:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 71:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 72:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 73:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 74:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 75:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 76:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 77:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 78:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 79:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 80:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 81:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 82:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 83:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 84:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 85:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 86:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 87:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 88:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 89:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 90:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 91:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 92:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 93:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 94:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 95:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 96:
+	varDomain8Type.dataType = TYPE_65;
+	break;
+
+case 97:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 98:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 99:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 100:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 101:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 102:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 103:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 104:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 105:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 106:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 107:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 108:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 109:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 110:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 111:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 112:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 113:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 114:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 115:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 116:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 117:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 118:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 119:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 120:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 121:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 122:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 123:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 124:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 125:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 126:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 127:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 128:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 129:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 130:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 131:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 132:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 133:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 134:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 135:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 136:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 137:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 138:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 139:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 140:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 141:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 142:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 143:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 144:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 145:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 146:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 147:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 148:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 149:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 150:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 151:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 152:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 153:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 154:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 155:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 156:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 157:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 158:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 159:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 160:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 161:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 162:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 163:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 164:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 165:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 166:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 167:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 168:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 169:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 170:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 171:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 172:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 173:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 174:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 175:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 176:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 177:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 178:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 179:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 180:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 181:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 182:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 183:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 184:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 185:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 186:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 187:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 188:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 189:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 190:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 191:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 192:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 193:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 194:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 195:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 196:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 197:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 198:
+	varDomain8Type.dataType = TYPE_65;
+	break;
+
+case 199:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 200:
+	varDomain8Type.dataType = TYPE_2;
+	break;
+
+case 201:
+	varDomain8Type.dataType = TYPE_2;
+	break;
+
+case 202:
+	varDomain8Type.dataType = TYPE_2;
+	break;
+
+case 203:
+	varDomain8Type.dataType = TYPE_2;
+	break;
+
+case 204:
+	varDomain8Type.dataType = TYPE_2;
+	break;
+
+case 205:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 206:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 207:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 208:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 209:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 210:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 211:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 212:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 213:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 214:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 215:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 216:
+	varDomain8Type.dataType = NPC;
+	break;
+
+case 217:
+	varDomain8Type.dataType = NPC;
+	break;
+
+case 218:
+	varDomain8Type.dataType = NPC;
+	break;
+
+case 219:
+	varDomain8Type.dataType = NPC;
+	break;
+
+case 220:
+	varDomain8Type.dataType = NPC;
+	break;
+
+case 221:
+	varDomain8Type.dataType = NPC;
+	break;
+
+case 222:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 223:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 224:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 225:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 226:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 227:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 228:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 229:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 230:
+	varDomain8Type.dataType = NPC;
+	break;
+
+case 231:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 232:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 233:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 234:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 235:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 236:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 237:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 238:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 239:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 240:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 241:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 242:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 243:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 244:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 245:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 246:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 247:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 248:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 249:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 250:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 251:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 252:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 253:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 254:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 255:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 256:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 257:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 258:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 259:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 260:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 261:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 262:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 263:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 264:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 265:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 266:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 267:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 268:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 269:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 270:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 271:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 272:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 273:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 274:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 275:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 276:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 277:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 278:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 279:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 280:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 281:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 282:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 283:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 284:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 285:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 286:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 287:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 288:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 289:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 290:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 291:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 292:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 293:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 294:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 295:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 296:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 297:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 298:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 299:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 300:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 301:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 302:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 303:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 304:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 305:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 306:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 307:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 308:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 309:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 310:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 311:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 312:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 313:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 314:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 315:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 316:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 317:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 318:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 319:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 320:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 321:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 322:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 323:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 324:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 325:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 326:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 327:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 328:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 329:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 330:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 331:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 332:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 333:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 334:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 335:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 336:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 337:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 338:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 339:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 340:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 341:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 342:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 343:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 344:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 345:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 346:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 347:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 348:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 349:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 350:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 351:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 352:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 353:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 354:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 355:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 356:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 357:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 358:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 359:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 360:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 361:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 362:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 363:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 364:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 365:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 366:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 367:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 368:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 369:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 370:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 371:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 372:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 373:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 374:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 375:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 376:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 377:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 378:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 379:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 380:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 381:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 382:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 383:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 384:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 385:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 386:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 387:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 388:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 389:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 390:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 391:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 392:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 393:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 394:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 395:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 396:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 397:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 398:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 399:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 400:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 401:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 402:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 403:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 404:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 405:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 406:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 407:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 408:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 409:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 410:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 411:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 412:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 413:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 414:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 415:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 416:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 417:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 418:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 419:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 420:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 421:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 422:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 423:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 424:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 425:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 426:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 427:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 428:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 429:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 430:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 431:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 432:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 433:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 434:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 435:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 436:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 437:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 438:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 439:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 440:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 441:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 442:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 443:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 444:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 445:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 446:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 447:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 448:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 449:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 450:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 451:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 452:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 453:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 454:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 455:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 456:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 457:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 458:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 459:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 460:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 461:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 462:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 463:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 464:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 465:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 466:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 467:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 468:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 469:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 470:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 471:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 472:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 473:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 474:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 475:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 476:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 477:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 478:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 479:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 480:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 481:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 482:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 483:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 484:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 485:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 486:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 487:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 488:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 489:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 490:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 491:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 492:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 493:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 494:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 495:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 496:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 497:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 498:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 499:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 500:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 501:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 502:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 503:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 504:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 505:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 506:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 507:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 508:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 509:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 510:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 511:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 512:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 513:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 514:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 515:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 516:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 517:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 518:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 519:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 520:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 521:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 522:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 523:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 524:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 525:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 526:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 527:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 528:
+	varDomain8Type.dataType = TYPE_49;
+	break;
+
+case 529:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 530:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 531:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 532:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 533:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 534:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 535:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 536:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 537:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 538:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 539:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 540:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 541:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 542:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 543:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 544:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 545:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 546:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 547:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 548:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 549:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 550:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 551:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 552:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 553:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 554:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 555:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 556:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 557:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 558:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 559:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 560:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 561:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 562:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 563:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 564:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 565:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 566:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 567:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 568:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 569:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 570:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 571:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 572:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 573:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 574:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 575:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 576:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 577:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 578:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 579:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 580:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 581:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 582:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 583:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 584:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 585:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 586:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 587:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 588:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 589:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 590:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 591:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 592:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 593:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 594:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 595:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 596:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 597:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 598:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 599:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 600:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 601:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 602:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 603:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 604:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 605:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 606:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 607:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 608:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 609:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 610:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 611:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 612:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 613:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 614:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 615:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 616:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 617:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 618:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 619:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 620:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 621:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 622:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 623:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 624:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 625:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 626:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 627:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 628:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 629:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 630:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 631:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 632:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 633:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 634:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 635:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 636:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 637:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 638:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 639:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 640:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 641:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 642:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 643:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 644:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 645:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 646:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 647:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 648:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 649:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 650:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 651:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 652:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 653:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 654:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 655:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 656:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 657:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 658:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 659:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 660:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 661:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 662:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 663:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 664:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 665:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 666:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 667:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 668:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 669:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 670:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 671:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 672:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 673:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 674:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 675:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 676:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 677:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 678:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 679:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 680:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 681:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 682:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 683:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 684:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 685:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 686:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 687:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 688:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 689:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 690:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 691:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 692:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 693:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 694:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 695:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 696:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 697:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 698:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 699:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 700:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 701:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 702:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 703:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 704:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 705:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 706:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 707:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 708:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 709:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 710:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 711:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 712:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 713:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 714:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 715:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 716:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 717:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 718:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 719:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 720:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 721:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 722:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 723:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 724:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 725:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 726:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 727:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 728:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 729:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 730:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 731:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 732:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 733:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 734:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 735:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 736:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 737:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 738:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 739:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 740:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 741:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 742:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 743:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 744:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 745:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 746:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 747:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 748:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 749:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 750:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 751:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 752:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 753:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 754:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 755:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 756:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 757:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 758:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 759:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 760:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 761:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 762:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 763:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 764:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 765:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 766:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 767:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 768:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 769:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 770:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 771:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 772:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 773:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 774:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 775:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 776:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 777:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 778:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 779:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 780:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 781:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 782:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 783:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 784:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 785:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 786:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 787:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 788:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 789:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 790:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 791:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 792:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 793:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 794:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 795:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 796:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 797:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 798:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 799:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 800:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 801:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 802:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 803:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 804:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 805:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 806:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 807:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 808:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 809:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 810:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 811:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 812:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 813:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 814:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 815:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 816:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 817:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 818:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 819:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 820:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 821:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 822:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 823:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 824:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 825:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 826:
+	varDomain8Type.dataType = TYPE_2;
+	break;
+
+case 827:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 828:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 829:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 830:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 831:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 832:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 833:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 834:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 835:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 836:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 837:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 838:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 839:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 840:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 841:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 842:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 843:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 844:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 845:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 846:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 847:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 848:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 849:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 850:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 851:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 852:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 853:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 854:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 855:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 856:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 857:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 858:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 859:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 860:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 861:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 862:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 863:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 864:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 865:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 866:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 867:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 868:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 869:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 870:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 871:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 872:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 873:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 874:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 875:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 876:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 877:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 878:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 879:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 880:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 881:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 882:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 883:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 884:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 885:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 886:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 887:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 888:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 889:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 890:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 891:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 892:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 893:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 894:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 895:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 896:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 897:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 898:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 899:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 900:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 901:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 902:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 903:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 904:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 905:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 906:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 907:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 908:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 909:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 910:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 911:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 912:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 913:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 914:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 915:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 916:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 917:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 918:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 919:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 920:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 921:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 922:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 923:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 924:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 925:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 926:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 927:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 928:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 929:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 930:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 931:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 932:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 933:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 934:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 935:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 936:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 937:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 938:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 939:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 940:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 941:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 942:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 943:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 944:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 945:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 946:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 947:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 948:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 949:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 950:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 951:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 952:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 953:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 954:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 955:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 956:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 957:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 958:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 959:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 960:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 961:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 962:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 963:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 964:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 965:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 966:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 967:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 968:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 969:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 970:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 971:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 972:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 973:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 974:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 975:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 976:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 977:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 978:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 979:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 980:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 981:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 982:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 983:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 984:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 985:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 986:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 987:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 988:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 989:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 990:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 991:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 992:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 993:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 994:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 995:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 996:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 997:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 998:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 999:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1000:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1001:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1002:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1003:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1004:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1005:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1006:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1007:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1008:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1009:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1010:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1011:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1012:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1013:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1014:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1015:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1016:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1017:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1018:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1019:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1020:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1021:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1022:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1023:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1024:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1025:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1026:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1027:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1028:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1029:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1030:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1031:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1032:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1033:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1034:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1035:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1036:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1037:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1038:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1039:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1040:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1041:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1042:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1043:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1044:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1045:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1046:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1047:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1048:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1049:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1050:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1051:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1052:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1053:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1054:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1055:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1056:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1057:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1058:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1059:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1060:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1061:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1062:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1063:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1064:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1065:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1066:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1067:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1068:
+	varDomain8Type.dataType = SKILL;
+	break;
+
+case 1069:
+	varDomain8Type.dataType = SKILL;
+	break;
+
+case 1070:
+	varDomain8Type.dataType = SKILL;
+	break;
+
+case 1071:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1072:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1073:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1074:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1075:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1076:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1077:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1078:
+	varDomain8Type.dataType = STRUCT;
+	break;
+
+case 1079:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1080:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1081:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1082:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1083:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1084:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1085:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1086:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1087:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1088:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1089:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1090:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1091:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1092:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1093:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1094:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1095:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1096:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1097:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1098:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1099:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1100:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1101:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1102:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1103:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1104:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1105:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 1106:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1107:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1108:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1109:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1110:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1111:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1112:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1113:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1114:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1115:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1116:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1117:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1118:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1119:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1120:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1121:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1122:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1123:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1124:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1125:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1126:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1127:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1128:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1129:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1130:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1131:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1132:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 1133:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1134:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1135:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1136:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1137:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1138:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1139:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1140:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1141:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1142:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1143:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1144:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1145:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1146:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1147:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1148:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1149:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1150:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1151:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1152:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1153:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1154:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1155:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1156:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1157:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1158:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1159:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1160:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1161:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1162:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1163:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1164:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1165:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1166:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1167:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1168:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1169:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1170:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1171:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1172:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1173:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1174:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1175:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1176:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1177:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1178:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1179:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1180:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1181:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1182:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1183:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1184:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1185:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1186:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1187:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1188:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1189:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1190:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1191:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1192:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1193:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1194:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1195:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1196:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1197:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1198:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1199:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1200:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1201:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1202:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1203:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1204:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1205:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1206:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1207:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1208:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1209:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1210:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1211:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1212:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1213:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1214:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1215:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1216:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1217:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1218:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1219:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1220:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1221:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1222:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1223:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1224:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1225:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1226:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1227:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1228:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1229:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1230:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1231:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1232:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1233:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1234:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1235:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1236:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1237:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1238:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1239:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1240:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1241:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1242:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1243:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1244:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1245:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1246:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1247:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1248:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1249:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1250:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1251:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1252:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1253:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1254:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1255:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1256:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1257:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1258:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1259:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1260:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1261:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1262:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1263:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1264:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1265:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1266:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1267:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1268:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1269:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1270:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1271:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1272:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1273:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1274:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1275:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1276:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1277:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1278:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1279:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1280:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1281:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1282:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1283:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1284:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1285:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1286:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1287:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1288:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1289:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1290:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1291:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1292:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1293:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1294:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1295:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1296:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1297:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1298:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1299:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1300:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1301:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1302:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1303:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1304:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1305:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1306:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1307:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1308:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1309:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1310:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1311:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1312:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1313:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1314:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1315:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1316:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1317:
+	varDomain8Type.dataType = LOCATION;
+	break;
+
+case 1318:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1319:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1320:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1321:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1322:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1323:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1324:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1325:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1326:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1327:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1328:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1329:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1330:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1331:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1332:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1333:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1334:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1335:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1336:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1337:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1338:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1339:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1340:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1341:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1342:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1343:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1344:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1345:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1346:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1347:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1348:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1349:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1350:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1351:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1352:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1353:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1354:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1355:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1356:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1357:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1358:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1359:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1360:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1361:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1362:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1363:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1364:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1365:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1366:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1367:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1368:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1369:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1370:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1371:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1372:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1373:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1374:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1375:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1376:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1377:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1378:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1379:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1380:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1381:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1382:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1383:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1384:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1385:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1386:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1387:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1388:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1389:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1390:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1391:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1392:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1393:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1394:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1395:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1396:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1397:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1398:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1399:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1400:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1401:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1402:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1403:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1404:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1405:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1406:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1407:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1408:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1409:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1410:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1411:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1412:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1413:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1414:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1415:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1416:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1417:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1418:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1419:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1420:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1421:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1422:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1423:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1424:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1425:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1426:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1427:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1428:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1429:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1430:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1431:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1432:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1433:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1434:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1435:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1436:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1437:
+	varDomain8Type.dataType = LOCATION;
+	break;
+
+case 1438:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1439:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1440:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1441:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1442:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1443:
+	varDomain8Type.dataType = TYPE_65;
+	break;
+
+case 1444:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1445:
+	varDomain8Type.dataType = STRUCT;
+	break;
+
+case 1446:
+	varDomain8Type.dataType = STRUCT;
+	break;
+
+case 1447:
+	varDomain8Type.dataType = STRUCT;
+	break;
+
+case 1448:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1449:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1450:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1451:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1452:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1453:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1454:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1455:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1456:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1457:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1458:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1459:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1460:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1461:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1462:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1463:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1464:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1465:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1466:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1467:
+	varDomain8Type.dataType = TYPE_65;
+	break;
+
+case 1468:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1469:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1470:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1471:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1472:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1473:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1474:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1475:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1476:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1477:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1478:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1479:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1480:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1481:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1482:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1483:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1484:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1485:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1486:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1487:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1488:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1489:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1490:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1491:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1492:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1493:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1494:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1495:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1496:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1497:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1498:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1499:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1500:
+	varDomain8Type.dataType = NPC;
+	break;
+
+case 1501:
+	varDomain8Type.dataType = NPC;
+	break;
+
+case 1502:
+	varDomain8Type.dataType = NPC;
+	break;
+
+case 1503:
+	varDomain8Type.dataType = NPC;
+	break;
+
+case 1504:
+	varDomain8Type.dataType = NPC;
+	break;
+
+case 1505:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1506:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1507:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1508:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1509:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1510:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1511:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1512:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1513:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1514:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1515:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1516:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1517:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1518:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1519:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1520:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1521:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1522:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1523:
+	varDomain8Type.dataType = STRUCT;
+	break;
+
+case 1524:
+	varDomain8Type.dataType = STRUCT;
+	break;
+
+case 1525:
+	varDomain8Type.dataType = STRUCT;
+	break;
+
+case 1526:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1527:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1528:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1529:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1530:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1531:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1532:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1533:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1534:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1535:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1536:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1537:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1538:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1539:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1540:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1541:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1542:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1543:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1544:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1545:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1546:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1547:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1548:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1549:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1550:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1551:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1552:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1553:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1554:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1555:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1556:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1557:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1558:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1559:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1560:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1561:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1562:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1563:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1564:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1565:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1566:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1567:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1568:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1569:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1570:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1571:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1572:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1573:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1574:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1575:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1576:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1577:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1578:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1579:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1580:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1581:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1582:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1583:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1584:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1585:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1586:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1587:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1588:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1589:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1590:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1591:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1592:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1593:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1594:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1595:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1596:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1597:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1598:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1599:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1600:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1601:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1602:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1603:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1604:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1605:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1606:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1607:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1608:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1609:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1610:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1611:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1612:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1613:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1614:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1615:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1616:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1617:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1618:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1619:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1620:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1621:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1622:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1623:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1624:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1625:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1626:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1627:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1628:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1629:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1630:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1631:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1632:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1633:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1634:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1635:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1636:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1637:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1638:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1639:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1640:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1641:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1642:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1643:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1644:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1645:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1646:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1647:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1648:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1649:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1650:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1651:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1652:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1653:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1654:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1655:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1656:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1657:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1658:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1659:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1660:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1661:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1662:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1663:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1664:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1665:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1666:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1667:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1668:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1669:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1670:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1671:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1672:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1673:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1674:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1675:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1676:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1677:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1678:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1679:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1680:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1681:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1682:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1683:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1684:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1685:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1686:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1687:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1688:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1689:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1690:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1691:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1692:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1693:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1694:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1695:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1696:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1697:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1698:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1699:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1700:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1701:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1702:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1703:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1704:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1705:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1706:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1707:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1708:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1709:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1710:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1711:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1712:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1713:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1714:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1715:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1716:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1717:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1718:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1719:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1720:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1721:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1722:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1723:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1724:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1725:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1726:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1727:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 1728:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1729:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1730:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1731:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 1732:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 1733:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 1734:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 1735:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 1736:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 1737:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 1738:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 1739:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 1740:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 1741:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 1742:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 1743:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 1744:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 1745:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 1746:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1747:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1748:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1749:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1750:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1751:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1752:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1753:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1754:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1755:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1756:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1757:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1758:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 1759:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1760:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1761:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1762:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1763:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1764:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1765:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1766:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1767:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1768:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1769:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1770:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1771:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1772:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1773:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1774:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1775:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1776:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1777:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1778:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1779:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1780:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1781:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1782:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1783:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1784:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1785:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1786:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1787:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1788:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1789:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1790:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1791:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1792:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1793:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1794:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1795:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1796:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1797:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1798:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1799:
+	varDomain8Type.dataType = STRUCT;
+	break;
+
+case 1800:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1801:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1802:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1803:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1804:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1805:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1806:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1807:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1808:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1809:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1810:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1811:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1812:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1813:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1814:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1815:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 1816:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1817:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1818:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1819:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1820:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1821:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1822:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1823:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1824:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1825:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1826:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1827:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 1828:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 1829:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1830:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1831:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1832:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 1833:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1834:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1835:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1836:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1837:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1838:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1839:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1840:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1841:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1842:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1843:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1844:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1845:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1846:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1847:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1848:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1849:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1850:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1851:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1852:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1853:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1854:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1855:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1856:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1857:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1858:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1859:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1860:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1861:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1862:
+	varDomain8Type.dataType = STRING;
+	break;
+
+case 1863:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1864:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1865:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1866:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1867:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1868:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1869:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1870:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1871:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1872:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1873:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1874:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1875:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1876:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1877:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1878:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1879:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1880:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1881:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1882:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1883:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1884:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1885:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1886:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1887:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1888:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1889:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1890:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1891:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1892:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1893:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1894:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1895:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1896:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1897:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1898:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1899:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1900:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1901:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1902:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1903:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1904:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1905:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1906:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1907:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1908:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1909:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1910:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1911:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1912:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1913:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1914:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1915:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1916:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1917:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1918:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1919:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1920:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1921:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1922:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1923:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1924:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1925:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1926:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1927:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1928:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1929:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1930:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1931:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1932:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1933:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1934:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1935:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1936:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1937:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1938:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1939:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1940:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1941:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1942:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1943:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1944:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1945:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1946:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1947:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1948:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1949:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1950:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1951:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1952:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1953:
+	varDomain8Type.dataType = STRUCT;
+	break;
+
+case 1954:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1955:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1956:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1957:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1958:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1959:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1960:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1961:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1962:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1963:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1964:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1965:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 1966:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 1967:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1968:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1969:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1970:
+	varDomain8Type.dataType = NPC;
+	break;
+
+case 1971:
+	varDomain8Type.dataType = NPC;
+	break;
+
+case 1972:
+	varDomain8Type.dataType = NPC;
+	break;
+
+case 1973:
+	varDomain8Type.dataType = NPC;
+	break;
+
+case 1974:
+	varDomain8Type.dataType = NPC;
+	break;
+
+case 1975:
+	varDomain8Type.dataType = NPC;
+	break;
+
+case 1976:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1977:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1978:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1979:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1980:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1981:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1982:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1983:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 1984:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1985:
+	varDomain8Type.dataType = TYPE_65;
+	break;
+
+case 1986:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 1987:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1988:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1989:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1990:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1991:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1992:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1993:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1994:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1995:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1996:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1997:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 1998:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 1999:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2000:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2001:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2002:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2003:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2004:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2005:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 2006:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2007:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 2008:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 2009:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 2010:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 2011:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 2012:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 2013:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 2014:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 2015:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 2016:
+	varDomain8Type.dataType = USERHASH;
+	break;
+
+case 2017:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2018:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2019:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2020:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 2021:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 2022:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 2023:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 2024:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 2025:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 2026:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 2027:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 2028:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 2029:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 2030:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 2031:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 2032:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 2033:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 2034:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 2035:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 2036:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 2037:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 2038:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 2039:
+	varDomain8Type.dataType = DESCRIPTION;
+	break;
+
+case 2040:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2041:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2042:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2043:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2044:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2045:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2046:
+	varDomain8Type.dataType = TYPE_118;
+	break;
+
+case 2047:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2048:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2049:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2050:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2051:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2052:
+	varDomain8Type.dataType = LOCATION;
+	break;
+
+case 2053:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2054:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2055:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2056:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2057:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2058:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2059:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2060:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2061:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2062:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2063:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2064:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2065:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2066:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2067:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2068:
+	varDomain8Type.dataType = PLAYER;
+	break;
+
+case 2069:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 2070:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 2071:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2072:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2073:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 2074:
+	varDomain8Type.dataType = TILE;
+	break;
+
+case 2075:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2076:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2077:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2078:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2079:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2080:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2081:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2082:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2083:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2084:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2085:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2086:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2087:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2088:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2089:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2090:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2091:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2092:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2093:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2094:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2095:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2096:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2097:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2098:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2099:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2100:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2101:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2102:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2103:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2104:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2105:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2106:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2107:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2108:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2109:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2110:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2111:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2112:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2113:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2114:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2115:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2116:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2117:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2118:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2119:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2120:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2121:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2122:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2123:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2124:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2125:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2126:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2127:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2128:
+	varDomain8Type.dataType = TYPE_38;
+	break;
+
+case 2129:
+	varDomain8Type.dataType = STRUCT;
+	break;
+
+case 2130:
+	varDomain8Type.dataType = STRUCT;
+	break;
+
+case 2131:
+	varDomain8Type.dataType = STRUCT;
+	break;
+
+case 2132:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 2133:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 2134:
+	varDomain8Type.dataType = BOOLEAN;
+	break;
+
+case 2135:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2136:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2137:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2138:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2139:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2140:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2141:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2142:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2143:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2144:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2145:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2146:
+	varDomain8Type.dataType = INT;
+	break;
+
+case 2147:
+	varDomain8Type.dataType = INT;
+	break;

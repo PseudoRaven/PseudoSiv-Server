@@ -1,0 +1,17 @@
+id=4776
+name=Vampyre juvinate
+description=An initiate juvenile vampyre; seems to be a servant.
+size=1
+xp=119.7
+lifepoints=2200
+level=61
+attack=1
+defence=44
+ranged=44
+magic=1
+animations={death:5798,attack:5783}
+attackable=true
+poisonous=false
+weakness="Stabbing"
+areas=["RuneScape Surface"]
+aggressive=false

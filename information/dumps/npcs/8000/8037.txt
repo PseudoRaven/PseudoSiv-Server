@@ -1,0 +1,10 @@
+id=8037
+name=Wizard
+description=She's doing arcane research.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Runecrafting Guild"]
+aggressive=false
+members=false

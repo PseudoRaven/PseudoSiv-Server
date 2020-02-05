@@ -1,0 +1,10 @@
+id=9490
+name=Geyser titan
+description=It'll kill your enemies, and makes a great cup of tea.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Spirit Plane"]
+aggressive=true
+members=true

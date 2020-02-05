@@ -1,0 +1,17 @@
+id=11137
+name=Brah stormbringer
+description=Trained from birth to light the skies with magic. (Tier 6)
+size=1
+xp=385.2
+lifepoints=7500
+level=84
+attack=60
+defence=60
+ranged=60
+magic=60
+animations={range:13620,death:13675,attack:13620}
+attackable=true
+poisonous=false
+weakness="Arrow"
+areas=[]
+aggressive=false

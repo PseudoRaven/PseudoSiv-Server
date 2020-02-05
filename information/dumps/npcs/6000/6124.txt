@@ -1,0 +1,10 @@
+id=6124
+name=Wagchin
+description=A young goblin 'beauty'.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Observatory"]
+aggressive=false
+members=false

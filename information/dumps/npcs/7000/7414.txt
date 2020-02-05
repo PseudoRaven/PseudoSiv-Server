@@ -1,0 +1,10 @@
+id=7414
+name=Beny
+description=A cute, cuddly, little squirrel - with teeth.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["Easter 2010","Easter 2009"]
+aggressive=false
+members=false

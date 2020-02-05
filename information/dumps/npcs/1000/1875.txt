@@ -1,0 +1,10 @@
+id=1875
+name=Snake
+description=A toothless old Snake.
+xp=0.2
+animations={}
+attackable=true
+poisonous=false
+areas=["RuneScape Surface"]
+aggressive=false
+members=true

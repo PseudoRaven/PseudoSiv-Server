@@ -1,0 +1,17 @@
+id=8435
+name=Shady stranger
+description=He's subtle, but he still looks a bit suspicious.
+size=1
+xp=99.3
+lifepoints=2000
+level=56
+attack=40
+defence=40
+ranged=1
+magic=1
+animations={death:7185,attack:7183}
+attackable=true
+poisonous=false
+weakness="Fire"
+areas=[]
+aggressive=false

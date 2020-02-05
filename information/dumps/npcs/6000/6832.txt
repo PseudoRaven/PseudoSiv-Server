@@ -1,0 +1,17 @@
+id=6832
+name=Desert wyrm
+description=Surprisingly slime-free.
+size=2
+xp=74.4
+lifepoints=2800
+level=22
+attack=17
+defence=15
+ranged=17
+magic=17
+animations={death:7797,attack:7795}
+attackable=true
+poisonous=false
+weakness="None"
+areas=[]
+aggressive=false
