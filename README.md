@@ -42,7 +42,8 @@ The main class of the server package is `src.net.nocturne.Engine`
 ## Change items sold by a shop
 1. Open `\data\items\unpackedShops.txt` in a text editor or IDE.
 2. Ctrl+F to find the name of the shop you wish to change.
-3. Add ItemID + space + Quantity to the end of the shop string. 
+3. Add ItemID + space + Quantity to the end of the shop string.
+4. Start the server, Login as an administrator user, type the command `;;reloadshops`
 
 Example: `35 995 false true - Gem Trader - 1623 1 1621 1 1619 1` This Gem Trader sells uncut sapphires, emeralds and rubies. `35 995 false true - Gem Trader - 1623 1 1621 1 1619 1 1617 1` This Gem Trader now also sells uncut diamonds.
 
