@@ -34,6 +34,10 @@ The main class of the server package is `src.net.nocturne.Engine`
 4. Click `Run As > 1 Java Application`
 5. Watch the Console pane for init status and errors. When `[Login server] Login Engine connected.` appears in the console, the server has finished its start up sequence.
 
+## Adjust shop interface that is opened by an npc
+1. Find the id number of the npc that opens the shop. I have done this by searching the project for name string of the npc in the project. If the game has more than one npc with the same name you can narrow it down by searching for the examine text of the npc.
+2. Search src.net.nocturne.network.decoders.handlers.NPCHandler.java for the id number. NPCHandler utilizes the Java Switch statemtent to handle most of the npc interactions. NPCHandler has 4 options for handling npc options so find all of the instances of the npc id and makes the changes to all of them.
+3. Change the number at the end of the line `player.getDialogueManager().startDialogue` line or if the option directly uses the shopHandler then the code will look like this `ShopsHandler.openShop` Ex. `player.getDialogueManager().startDialogue("GeneralStore", npc.getId(), 1);` or `ShopsHandler.openShop(player, 1);` will open the General Store dialogue options and will open the store interface with the store data with the id of 1.
 
 ## Commands:
 All commands are made in the chat box and must be preceeded by ;; for example, ";;item 123456 1" would give the player 1 item of id 123456
