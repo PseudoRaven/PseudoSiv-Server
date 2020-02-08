@@ -49,6 +49,8 @@ If the npc is not found in the npc handler then the shop call may be directly in
 
 Example: `35 995 false true - Gem Trader - 1623 1 1621 1 1619 1` This Gem Trader sells uncut sapphires, emeralds and rubies. `35 995 false true - Gem Trader - 1623 1 1621 1 1619 1 1617 1` This Gem Trader now also sells uncut diamonds.
 
+The shops seem to have a limit of 30 different items per shop unless the shop is marked as a general store in the unpacked shops text file. The general store boolean only seems to be referenced when differentiating between special shops and regular shops. Not sure.
+
 ## Commands:
 All commands are made in the chat box and must be preceeded by ;; for example, ";;item 123456 1" would give the player 1 item of id 123456
 
