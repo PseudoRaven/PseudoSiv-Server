@@ -39,6 +39,8 @@ The main class of the server package is `src.net.nocturne.Engine`
 2. Search src.net.nocturne.network.decoders.handlers.NPCHandler.java for the id number. NPCHandler utilizes the Java Switch statemtent to handle most of the npc interactions. NPCHandler has 4 options for handling npc options so find all of the instances of the npc id and makes the changes to all of them.
 3. Change the number at the end of the line `player.getDialogueManager().startDialogue` line or if the option directly uses the shopHandler then the code will look like this `ShopsHandler.openShop` Ex. `player.getDialogueManager().startDialogue("GeneralStore", npc.getId(), 1);` or `ShopsHandler.openShop(player, 1);` will open the General Store dialogue options and will open the store interface with the store data with the id of 1.
 
+If the npc is not found in the npc handler then the shop call may be directly in their dialogue script. Search in `src.net.nocturne.game.player.dialogues.impl` for the name of the npc and adjust the shop call from there.
+
 ## Change items sold by a shop
 1. Open `\data\items\unpackedShops.txt` in a text editor or IDE.
 2. Ctrl+F to find the name of the shop you wish to change.
